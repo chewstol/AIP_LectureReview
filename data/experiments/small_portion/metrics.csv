@@ -1,0 +1,6 @@
+﻿model,test_mse,test_rmse,test_mae
+Baseline: train mean rating,0.01273292,0.11284025,0.09234167
+Baseline: ridge regression,0.00550202,0.07417562,0.05714681
+Baseline: content KNN,0.00738258,0.08592196,0.06305195
+Proposed: graph-augmented MLP best epoch,0.05347417,0.23124483,0.1657416
+Proposed: graph-augmented MLP final epoch,0.06273821,0.25047597,0.17400972
