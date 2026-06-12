@@ -12,6 +12,8 @@ import pandas as pd
 from topk_engine import (
     TARGET_COLUMN,
     build_preference_vector,
+    face_validity,
+    intra_list_similarity,
     make_recommendations,
     select_topk,
 )
@@ -147,6 +149,8 @@ def write_summary(
     similarity_weight: float,
     quality_weight: float,
     alpha: float,
+    face: float,
+    intra_list: float,
 ) -> None:
     top = recommendations.head(10)
     lines = [
@@ -155,6 +159,8 @@ def write_summary(
         f"- scenario: `{scenario_name}`",
         f"- score: `{similarity_weight:.2f} * preference_similarity + {quality_weight:.2f} * predicted_quality`",
         f"- quality model: Ridge regression, alpha={alpha}",
+        f"- face-validity (mean z-score on specified features, higher is better): {face:+.4f}",
+        f"- intra-list similarity (lower is more diverse): {intra_list:.4f}",
         "- limitation: current raw data has lecture_id only, so course/professor names must be merged later.",
         "",
         "## Preference Weights",
@@ -192,6 +198,30 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--similarity-weight", type=float, default=0.7)
     parser.add_argument("--quality-weight", type=float, default=0.3)
     parser.add_argument("--alpha", type=float, default=10.0)
+    parser.add_argument(
+        "--diversity",
+        type=float,
+        default=1.0,
+        help="MMR lambda for the top-k list. 1.0 = pure score (default), lower = more diverse.",
+    )
+    parser.add_argument(
+        "--min-similarity",
+        type=float,
+        default=0.0,
+        help="Drop candidates whose preference_similarity is below this before taking top-k.",
+    )
+    parser.add_argument(
+        "--shrinkage-m",
+        type=float,
+        default=0.0,
+        help="Empirical-Bayes shrinkage strength on predicted quality (0 = off). "
+        "Higher pulls low-review lectures toward the global mean.",
+    )
+    parser.add_argument(
+        "--normalize-components",
+        action="store_true",
+        help="Rank-normalize similarity and quality before blending so the weights are comparable.",
+    )
     return parser.parse_args()
 
 
@@ -209,6 +239,8 @@ def main() -> None:
         similarity_weight=args.similarity_weight,
         quality_weight=args.quality_weight,
         alpha=args.alpha,
+        shrinkage_m=args.shrinkage_m,
+        normalize_components=args.normalize_components,
     )
 
     keywords = load_keywords(args.keywords)
@@ -222,7 +254,20 @@ def main() -> None:
     top_path = args.out_dir / f"topk_{stem}_{args.top_k}.csv"
     summary_path = args.out_dir / f"topk_{stem}_summary.md"
 
-    top_recommendations = select_topk(recommendations, args.top_k)
+    top_recommendations = select_topk(
+        recommendations,
+        args.top_k,
+        feature_columns=feature_columns,
+        diversity=args.diversity,
+        min_similarity=args.min_similarity,
+    )
+
+    specified_columns = [
+        column for column, weight in preference_weights.items()
+        if column in feature_columns and weight != 0.0
+    ]
+    face = face_validity(recommendations, top_recommendations, specified_columns)
+    ils = intra_list_similarity(recommendations, top_recommendations, feature_columns)
 
     recommendations.to_csv(all_path, index=False, encoding="utf-8-sig")
     top_recommendations.to_csv(top_path, index=False, encoding="utf-8-sig")
@@ -234,11 +279,16 @@ def main() -> None:
         args.similarity_weight,
         args.quality_weight,
         args.alpha,
+        face,
+        ils,
     )
 
     print(f"[OK] Wrote full ranking: {all_path}")
     print(f"[OK] Wrote top-{args.top_k}: {top_path}")
     print(f"[OK] Wrote summary: {summary_path}")
+    print("")
+    print(f"[eval] face-validity (mean z-score on specified features): {face:+.4f}")
+    print(f"[eval] intra-list similarity (lower = more diverse): {ils:.4f}")
     print("")
     print(top_recommendations[["rank", "lecture_id", "recommendation_score", "preference_similarity", "predicted_quality_5pt", "rating_average"]].to_string(index=False))
 
