@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "계산문제 같은 경우 교수님이 수업시간에 풀어주신 예제만 풀 줄 알면 됨\n",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.95,
+        "count": 56,
+        "items": [
+          {
+            "value": 5,
+            "count": 54
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 53
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 55
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 56,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 50
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 56,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 7
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 46
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 56
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "교수님이 매우 친절하신게 느껴집니다. 시험날짜도 학생 편의에 맞춰주시고 수업도 잘 하시는 것 같습니다. 인성 GOAT",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "갠적으로 양이 너무너무 많아서 힘들었습니다. 교수님 친절하신데 잘가르치시는지는 모르겠고, 시험은 원하는 풀이법이 아니면 부분점수가 짠편이어서 나름 정말 잘 푼거 같은데 점수는 낮게 나왔어요",
+          "rate": 3,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

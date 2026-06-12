@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "피피티 발표하면 됩니다.\n마스크 끼지 말구요!\n음..어.. 이런 거 쓰지",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.08,
+        "count": 80,
+        "items": [
+          {
+            "value": 5,
+            "count": 40
+          },
+          {
+            "value": 4,
+            "count": 17
+          },
+          {
+            "value": 3,
+            "count": 16
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 80,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 60
+            },
+            {
+              "text": "많음",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 80,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 56
+            },
+            {
+              "text": "많음",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 80,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 49
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 80,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 10
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 62
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 80,
+          "items": [
+            {
+              "text": "없음",
+              "count": 61
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 17
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "저는 개인적으로 교수님 되게 좋아요. 강의력 괜찮으시고 성격도 좋으세요. 그리고 다른 분이 강평에 발표 3번이라고 하셨는데, 정확히 말하자면 발표는 한번이고(팀플), 토론이 두번이에요. 토론은 부담 없이 하시면 될거",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "教授纯纯反中，课件选择十分具有偏向性，刻意的抹黑，还给文化挪用洗地。带着良心评价正确观点会被记住然后找借口给你恶意低分。\n每周都有讨论，讨论七分里面四分全靠其他人投票。本身写的内容就可能被扣分的情况下，又不能确保组员一定会投自己，最后就变成",
+          "rate": 1,
+          "posvote": 9
+        }
+      ]
+    }
+  }
+}

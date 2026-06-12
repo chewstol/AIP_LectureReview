@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788962184105",
+        "bookTitle": "Calculus :early transcendentls (stewart성균관대)",
+        "bookAuthor": "stewart",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 49000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/35c33e510545d2da21b8e4218e3a2fef183056d1a33a30a148613c39fa5c9339/1691558917159_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험은 공통시험으로 진행되고 한 7~8 문제 정도 나옵니다\n시험에 가까워",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.76,
+        "count": 45,
+        "items": [
+          {
+            "value": 5,
+            "count": 35
+          },
+          {
+            "value": 4,
+            "count": 9
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 44
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 45,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 15
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 45,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 3
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 27
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 45
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "공부할 생각이 있다면 깔끔하고 좋은 수업\n출튀 잡기도함",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "중간고사 전쯤부터 그냥 매시간 매번 출석 부르셨어요 출튀 많이 한다고 교양인데 어떨땐 중간에 어떨땐 끝나기 직전에 그냥 매일 부르셨네요",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

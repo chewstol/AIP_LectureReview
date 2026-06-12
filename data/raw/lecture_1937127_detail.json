@@ -1,0 +1,267 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "Mid Term Exam Topic 이었습니다.",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 8
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 5
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.88,
+        "count": 120,
+        "items": [
+          {
+            "value": 5,
+            "count": 15
+          },
+          {
+            "value": 4,
+            "count": 25
+          },
+          {
+            "value": 3,
+            "count": 34
+          },
+          {
+            "value": 2,
+            "count": 23
+          },
+          {
+            "value": 1,
+            "count": 23
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 120,
+          "items": [
+            {
+              "text": "없음",
+              "count": 10
+            },
+            {
+              "text": "보통",
+              "count": 56
+            },
+            {
+              "text": "많음",
+              "count": 54
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 120,
+          "items": [
+            {
+              "text": "없음",
+              "count": 74
+            },
+            {
+              "text": "보통",
+              "count": 25
+            },
+            {
+              "text": "많음",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 120,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 79
+            },
+            {
+              "text": "깐깐함",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 120,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 85
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 20
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 120,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 117
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "최고의 교수님 입니다 . 학생 어떤 곳을 궁금해 하는지 알고 정확히 가려운 곳을 긁어주시고, 강의력도 정말 좋으세요. 생산운영관리의 정수를 알고 싶으신 분은 꼭들어보시길",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "일단 gaesaetkki인건 확실함. 진짜 사람 좋다는 후기 많은데, 이정도 불성실함이면 사람 좋을 수 없음. 사람 안좋은거임. 관상이나 나긋한 목소리에 속지 마시길\n\n1. 이의 신청 안읽음. 그냥 불통 그 자체\n2",
+          "rate": 1,
+          "posvote": 9
+        }
+      ]
+    }
+  }
+}

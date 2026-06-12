@@ -1,0 +1,286 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788979866865",
+        "bookTitle": "스피치와 토론(글쓰기와 커뮤니케이션 03)",
+        "bookAuthor": "이상철, 백미숙, 정현숙",
+        "bookPublisher": "성균관대학교대동문화연구원",
+        "bookPrice": 15000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/31edb6e6bf1386a4927f10e1bd30aee5210da6cca80e26d38fe8f9b71a73010e/1568817780389_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500590",
+        "bookTitle": "소통의 기초 스피치와 토론",
+        "bookAuthor": "스피치와 토론 교과교재 출간위원회",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/768cbf4fcee0ab72369ea25a2bb8b44481ab8bc93073dc65c02a073207ef3baf/1778505356918_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사 보기 전에 수업에서 질문과 정답을 다 알려주시고 강의 영상까지 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.67,
+        "count": 256,
+        "items": [
+          {
+            "value": 5,
+            "count": 201
+          },
+          {
+            "value": 4,
+            "count": 33
+          },
+          {
+            "value": 3,
+            "count": 16
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 257,
+          "items": [
+            {
+              "text": "없음",
+              "count": 49
+            },
+            {
+              "text": "보통",
+              "count": 198
+            },
+            {
+              "text": "많음",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 257,
+          "items": [
+            {
+              "text": "없음",
+              "count": 30
+            },
+            {
+              "text": "보통",
+              "count": 223
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 257,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 183
+            },
+            {
+              "text": "보통",
+              "count": 69
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 257,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 23
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 201
+            },
+            {
+              "text": "복합적",
+              "count": 30
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 257,
+          "items": [
+            {
+              "text": "없음",
+              "count": 129
+            },
+            {
+              "text": "한 번",
+              "count": 91
+            },
+            {
+              "text": "두 번",
+              "count": 32
+            },
+            {
+              "text": "세 번",
+              "count": 5
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "1. 수업 진행\n이론 수업 후 실습의 형태를 반복하고 학기초 이론 수업이 다른 발표에 비해 긴편이에요!\n출석(10)/중간고사(10)/과제(10)/수업활동(20)/자기소개스피치(10)/정보제공 스피치(15)/토론(25",
+          "rate": 5,
+          "posvote": 6
+        },
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "시험없고 오로지 발표와 출석 그리고 참여도로 평가가 이루어짐\n개인적으로 발표도 열심히 준비하고 과제랑 피드백도 열심히 했는데 교수님이 내 발표가 맘에 안들었는지 씨플나옴...",
+          "rate": 1,
+          "posvote": 6
+        }
+      ]
+    }
+  }
+}

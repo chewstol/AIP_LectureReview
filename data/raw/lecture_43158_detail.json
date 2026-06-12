@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "저희땐 다 ox로 나왔습니다 난이도는 낮았고 그냥 퀴즈보듯이 봤어요",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.39,
+        "count": 41,
+        "items": [
+          {
+            "value": 5,
+            "count": 23
+          },
+          {
+            "value": 4,
+            "count": 11
+          },
+          {
+            "value": 3,
+            "count": 7
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 41,
+          "items": [
+            {
+              "text": "없음",
+              "count": 31
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 41,
+          "items": [
+            {
+              "text": "없음",
+              "count": 34
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 41,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 35
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 41,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 4
+            },
+            {
+              "text": "전자출결",
+              "count": 6
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 28
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 41,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "한 번",
+              "count": 33
+            },
+            {
+              "text": "두 번",
+              "count": 2
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "이 시대 진정한 꿀강. 시사실에서 불 끄고 영화만 보여주셔서 잠이 오긴하는데 그래도 한 번 집중하면 시간 후딱 감. 단지 교수님 말투가 지루하도 출튀가 워낙 쉽기 때문에 마음을 다잡기 어렵다는게 문제 ㅋㅋ 그리고 기",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "솔직히 꿀강은 맞는데요.\n하... 팀원 잘못 걸리면 팀플 혼자 다 해야 합니다...\n그거 말고는 추천합니다.",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788962184204",
+        "bookTitle": "맨큐의 경제학 연습문제풀이",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "센게이지러닝코리아",
+        "bookPrice": 13000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/da54f9fa7043363ae5d8171b791255215cffee1669540c1d44c2540089828ab9/1613745973106_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184181",
+        "bookTitle": "맨큐의 경제학",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 42000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/9e9957f2d9e11e49f500d95c6abbb2c6f92ac118c7305f2d977892733cce370a/1612005724414_0.jpg"
+      },
+      {
+        "bookIsbn": "9789814617420",
+        "bookTitle": "Principles of Economics",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 43000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/86b8c0344292ab0c6218e2c5979508c71dc1aec1ae122de0e56754d2577afb64/1552482701915_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962183672",
+        "bookTitle": "맨큐의 경제학",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 39000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/779d4780e4e7a5d21eb20082e6a571272210ff15ace32719f9797669016aa9af/1603339363784_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "족보랑 비슷하게 나옵니다 대체로\n중간보다 기말이 조금 더 어려워요\n중간 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.27,
+        "count": 79,
+        "items": [
+          {
+            "value": 5,
+            "count": 42
+          },
+          {
+            "value": 4,
+            "count": 21
+          },
+          {
+            "value": 3,
+            "count": 12
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 79,
+          "items": [
+            {
+              "text": "없음",
+              "count": 61
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 79,
+          "items": [
+            {
+              "text": "없음",
+              "count": 71
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 79,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 46
+            },
+            {
+              "text": "깐깐함",
+              "count": 25
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 79,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 17
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 37
+            },
+            {
+              "text": "복합적",
+              "count": 23
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 79,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 66
+            },
+            {
+              "text": "세 번",
+              "count": 4
+            },
+            {
+              "text": "네 번 이상",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "수업도 재미있고 정말 대학교 강의 듣는다는 느낌이 빵빵함 경제학을 좋아한다면 천국을 맛볼수  있음 교수님께서 가끔씩 본인 썰을 푸시면서 경제학을 설명 해주시는데 이게 또 정말 재미 있음  강의력 또한 출중하셔서 경제",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "온라인 강의, 오프라인 강의, 시험 모두 좋지 못했다..",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

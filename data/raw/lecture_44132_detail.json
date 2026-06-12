@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791159710575",
+        "bookTitle": "대학물리학",
+        "bookAuthor": "Raymond A. Serway, John W. Jewett Jr.",
+        "bookPublisher": "북스힐",
+        "bookPrice": 45000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/9bd245185b4940c608cae95af509f27ec65ccff792e15e99b5573e7a1e341690/1639584982321_0.jpg"
+      },
+      {
+        "bookIsbn": "9781133110002",
+        "bookTitle": "Principles of Physics",
+        "bookAuthor": "Raymond A. Serway",
+        "bookPublisher": "Brooks Cole Pub Co",
+        "bookPrice": 50000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/5de8e039c6346e1e9f84de5fd30eda5e5d39bafab85a5b3714dbdc2ff586f15d/1752400145865_0.jpg"
+      },
+      {
+        "bookIsbn": "9781133953999",
+        "bookTitle": "Physics for Scientists and Engineers with Modern Physics",
+        "bookAuthor": "Raymond A. Serway",
+        "bookPublisher": "BROOKS/COLE",
+        "bookPrice": 52000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/8c8e7ed6cb778322f638b978aae8c50a4a5d2271b6be69188fbfcbacd037a99f/1639307975564_0.jpg"
+      },
+      {
+        "bookIsbn": "9788971292679",
+        "bookTitle": "일반물리학 제1권",
+        "bookAuthor": "Jearl Walker, 데이비드 할리데이, Robert Resnick",
+        "bookPublisher": "범한서적",
+        "bookPrice": 28000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/5191e6f9922f788d99b93bf0af7c1271177a8c1f773a00ef755bd03616ffa621/1584337780528_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955268805",
+        "bookTitle": "대학물리학",
+        "bookAuthor": "Ramond A Serway",
+        "bookPublisher": "북스힐",
+        "bookPrice": 39000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/de2f4ae16634ff2eaa351ac8634816f3110de72fe2d20d84bae2c132dad9c758/1652675801373_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "진짜 문제는 쉬운데, 평균은 낮은 시험입니다. 온라인에 올라오는 prob",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 22,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 15
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 9
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.63,
+        "count": 328,
+        "items": [
+          {
+            "value": 5,
+            "count": 243
+          },
+          {
+            "value": 4,
+            "count": 55
+          },
+          {
+            "value": 3,
+            "count": 23
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 327,
+          "items": [
+            {
+              "text": "없음",
+              "count": 42
+            },
+            {
+              "text": "보통",
+              "count": 248
+            },
+            {
+              "text": "많음",
+              "count": 37
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 327,
+          "items": [
+            {
+              "text": "없음",
+              "count": 293
+            },
+            {
+              "text": "보통",
+              "count": 32
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 327,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 223
+            },
+            {
+              "text": "보통",
+              "count": 99
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 327,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 76
+            },
+            {
+              "text": "전자출결",
+              "count": 44
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 105
+            },
+            {
+              "text": "복합적",
+              "count": 100
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 327,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "한 번",
+              "count": 7
+            },
+            {
+              "text": "두 번",
+              "count": 315
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "아유 빨로잉?\n애니 퀘스쳔?\n두 마디 후 정적이 흐르면 그의 옅은 미소....\n어찌 반할 수 없겠 는가...",
+          "rate": 5,
+          "posvote": 32
+        },
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "출첵안하는건 진짜 개꿀이다 거의 안갔다 \n근데 수업은 들을수가 없다 어려운게 아니라 발음이 안들린다\n그리고 들어도 모른다 \n근데 교수님은 엄청 열정적이시다",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791156004677",
+        "bookTitle": "이공계용 확률과통계",
+        "bookAuthor": "Sheldon M. Ross",
+        "bookPublisher": "도서출판 홍릉(홍릉과학출판사)",
+        "bookPrice": 33000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/41edd3bee33db189d3d85052f64c617f120d4bb8818d0b86b9a1673e08cf00dc/1710409042938_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "1. 진도에 나온 용어를 주고 영어단어 쓰라는 문제 나왔습니다 한문제당 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 4
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.87,
+        "count": 54,
+        "items": [
+          {
+            "value": 5,
+            "count": 49
+          },
+          {
+            "value": 4,
+            "count": 3
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 54,
+          "items": [
+            {
+              "text": "없음",
+              "count": 39
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 54,
+          "items": [
+            {
+              "text": "없음",
+              "count": 52
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 54,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 43
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 54,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 30
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 7
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 54,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 54
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "역시 명불허전 오마이걸 캔디리더 최효정 센세\n수업도 금방금방 끝내주심\n과제도 없었고, 메일 보냈는데 1분만에 답장 온 적도 있음\n시험 어렵지 않음 생각 못한 부분에서 나올 수는 있지만..\n다음 학기부터는 과제도 낼거",
+          "rate": 5,
+          "posvote": 10
+        },
+        {
+          "year": 2024,
+          "semester": "여름",
+          "text": "본인은 A+이고 학점은 나름 잘 주는 것 같은데 잘 가르치거나 좋은 강의를 한다고는 생각 되지 않음. 내용 생략도 너무 많고 너무 두리뭉실하게 설명해주고 문제 풀이에서는 본인조차 종종 헤매심. 그렇지만 엑셀 함수 써",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

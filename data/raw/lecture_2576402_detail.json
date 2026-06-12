@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "기출에서 많이 나옵니다!\n\n꼭 구해서 보세요~!",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.85,
+        "count": 47,
+        "items": [
+          {
+            "value": 5,
+            "count": 40
+          },
+          {
+            "value": 4,
+            "count": 7
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 47,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 12
+            },
+            {
+              "text": "많음",
+              "count": 34
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 47,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 18
+            },
+            {
+              "text": "많음",
+              "count": 27
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 47,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 41
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 47,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 21
+            },
+            {
+              "text": "지정좌석",
+              "count": 11
+            },
+            {
+              "text": "직접호명",
+              "count": 9
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 47,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 44
+            },
+            {
+              "text": "두 번",
+              "count": 2
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "A+ 25% A 50% B+ 75% B 90% C+ 100%\n출석 10 보고서 60 (예비 20 / 결과 40) 발표 10 기말 20\n기말보단 보고서 점수로 학점 갈립니다. 보고서 열심히 쓰세요!\nPPT 내용도 표절",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "이게 왜 2학점인지 정말 이해가 안되는 과목\n시험은 한번 보고 발표는 영어로 진행함",
+          "rate": 4,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

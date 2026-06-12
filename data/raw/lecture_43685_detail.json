@@ -1,0 +1,295 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504017",
+        "bookTitle": "The Write Way",
+        "bookAuthor": "성균관대학교 학부대학",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 17000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/d109208b686704e5dd9ee34d02975e2968b55aaa5e644ca4769e53b6289db53f/1772633359504_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155502396",
+        "bookTitle": "Poised to Present",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/19c8e3bb35f1dc053733cdcb35c5dfcd4484dfd751c0d3693ad0d08293941d76/1613366636970_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155502129",
+        "bookTitle": "Write On",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 1,
+        "coverImage": "https://cf-cii.everytime.kr/af1fc89b4d64e7ff898d9c346d1aee9bea1b7f5a14a6df8cf10b4fbded608cd2/1583933773067_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "제 점수 깝니다\n17 / 20     자기소개 에세이 \n44 / 50  ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 27,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 18
+            },
+            {
+              "text": "주관식",
+              "count": 15
+            },
+            {
+              "text": "T/F형",
+              "count": 14
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.17,
+        "count": 328,
+        "items": [
+          {
+            "value": 5,
+            "count": 45
+          },
+          {
+            "value": 4,
+            "count": 99
+          },
+          {
+            "value": 3,
+            "count": 94
+          },
+          {
+            "value": 2,
+            "count": 47
+          },
+          {
+            "value": 1,
+            "count": 43
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 328,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 36
+            },
+            {
+              "text": "많음",
+              "count": 292
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 328,
+          "items": [
+            {
+              "text": "없음",
+              "count": 150
+            },
+            {
+              "text": "보통",
+              "count": 142
+            },
+            {
+              "text": "많음",
+              "count": 36
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 328,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 22
+            },
+            {
+              "text": "보통",
+              "count": 155
+            },
+            {
+              "text": "깐깐함",
+              "count": 151
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 328,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 118
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 164
+            },
+            {
+              "text": "복합적",
+              "count": 44
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 328,
+          "items": [
+            {
+              "text": "없음",
+              "count": 16
+            },
+            {
+              "text": "한 번",
+              "count": 9
+            },
+            {
+              "text": "두 번",
+              "count": 277
+            },
+            {
+              "text": "세 번",
+              "count": 13
+            },
+            {
+              "text": "네 번 이상",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "개인적으로 수업을 들으며 느낀 것은  교수님께서 이 학생이 성장하고 있는가를 많이 보는 것 같아요. 또한 교수님이 원하시는 레포트 구조가 있습니다. 저는 파이널 전까지 그 구조를 이해하지 못했고 열심히 썼지만 항상",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "직배 걸렸으면 그냥 제발 드랍하세요. 최악입니다. 시키는 것과 바라는 것이 너무 많고 과하고 째째합니다. 매 시간 과제를 출력해서 가져가야 하는데 진짜 성가시고 화납니다. 월요일에 과제를 내 주시면 수요일까지 다 해",
+          "rate": 1,
+          "posvote": 28
+        }
+      ]
+    }
+  }
+}

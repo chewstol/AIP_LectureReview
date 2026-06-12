@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791159710575",
+        "bookTitle": "대학물리학",
+        "bookAuthor": "Raymond A. Serway, John W. Jewett Jr.",
+        "bookPublisher": "북스힐",
+        "bookPrice": 45000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/9bd245185b4940c608cae95af509f27ec65ccff792e15e99b5573e7a1e341690/1639584982321_0.jpg"
+      },
+      {
+        "bookIsbn": "9781133110002",
+        "bookTitle": "Principles of Physics",
+        "bookAuthor": "Raymond A. Serway",
+        "bookPublisher": "Brooks Cole Pub Co",
+        "bookPrice": 50000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/5de8e039c6346e1e9f84de5fd30eda5e5d39bafab85a5b3714dbdc2ff586f15d/1752400145865_0.jpg"
+      },
+      {
+        "bookIsbn": "9781133953999",
+        "bookTitle": "Physics for Scientists and Engineers with Modern Physics",
+        "bookAuthor": "Raymond A. Serway",
+        "bookPublisher": "BROOKS/COLE",
+        "bookPrice": 52000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/8c8e7ed6cb778322f638b978aae8c50a4a5d2271b6be69188fbfcbacd037a99f/1639307975564_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "총 4문제가 나왔고 꾸준히 공부 하셨으면 큰 문제 없을 것이라고 생각합니",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 12,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.87,
+        "count": 122,
+        "items": [
+          {
+            "value": 5,
+            "count": 111
+          },
+          {
+            "value": 4,
+            "count": 8
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 122,
+          "items": [
+            {
+              "text": "없음",
+              "count": 40
+            },
+            {
+              "text": "보통",
+              "count": 77
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 122,
+          "items": [
+            {
+              "text": "없음",
+              "count": 119
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 122,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 85
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 122,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 16
+            },
+            {
+              "text": "전자출결",
+              "count": 10
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 42
+            },
+            {
+              "text": "복합적",
+              "count": 54
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 122,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "한 번",
+              "count": 83
+            },
+            {
+              "text": "두 번",
+              "count": 32
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2016,
+          "semester": "1",
+          "text": "It's Good, It's Good...!",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "개별로... 수업 안올리고 나중에 글쓰기로 점수매기므.... 어ㅐ 이따구로 하는지 이해 안감",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

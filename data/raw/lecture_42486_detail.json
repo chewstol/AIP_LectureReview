@@ -1,0 +1,267 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "기말시험은 조별로 영화를 촬영하는 형태이고, 교수님께서 직접 지도해 주십",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 5
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.79,
+        "count": 84,
+        "items": [
+          {
+            "value": 5,
+            "count": 74
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 39
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "많음",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 38
+            },
+            {
+              "text": "많음",
+              "count": 42
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 84,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 80
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 84,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 18
+            },
+            {
+              "text": "전자출결",
+              "count": 27
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 26
+            },
+            {
+              "text": "복합적",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 75
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 7
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "학기 후반에 몰아치는 팀플만 잘 해낸다면 A+이 딸려오는 꿀강입니다.\n대략 10주차까지는 아무것도 안해도 됐습니다만, 그 뒤로부터 조별로 시놉시스, 시나리오, 스토리보드를 작성해야 해서 기말고사 준비와 병행하기에는",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "강의평 좋아서 신청했는데... 도대체 어느 포인트에서 개꿀이라는 건지........ \n아직 학점은 안나왔지만, 만약 학점이 잘 나오더라도 힘들었던 기억은 미화가 안될 것 같네요ㅋㅋ 조원 잘만나는게 정말 중요합니다.",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

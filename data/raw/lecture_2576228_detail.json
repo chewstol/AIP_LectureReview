@@ -1,0 +1,277 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155500590",
+        "bookTitle": "소통의 기초 스피치와 토론",
+        "bookAuthor": "스피치와 토론 교과교재 출간위원회",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/273b083ca73b6b438245587b2a69a43c3d56deb09e1674dde8540b1ac364b040/1709540091004_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "난이도 쉽게 내십니다. 키워드 중심으로 암기 하시고 시험범위에서 딱봐도 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 8
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.75,
+        "count": 77,
+        "items": [
+          {
+            "value": 5,
+            "count": 64
+          },
+          {
+            "value": 4,
+            "count": 10
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 77,
+          "items": [
+            {
+              "text": "없음",
+              "count": 31
+            },
+            {
+              "text": "보통",
+              "count": 40
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 77,
+          "items": [
+            {
+              "text": "없음",
+              "count": 23
+            },
+            {
+              "text": "보통",
+              "count": 53
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 77,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 49
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 77,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 4
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 72
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 77,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 49
+            },
+            {
+              "text": "두 번",
+              "count": 28
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "세상에 80억명의 유희승 팬이 있다면 그중 한명은 나다.\n세상에 10억명의 유희승 팬이 있다면\n그중 한명은 아직까진 나일것이다.\n세상에  1억명의 유희승 팬이 있다면\n그중 한명은 아직까진 나일것이다.\n세상에 천만명의",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "피드백 몇몇학생들에게만 몰아주는경우 다수\n일부 학생들같은경우 피드백 진짜 짧게 하고 넘어갈 때 있음 \n성적 미화 안 됨\n한 번도 결석 안 하고 열심히 들었고 최고는 아니지만 분반에서 눈에 띌 만큼 열심히했는데 B+",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "독서 자료를 빨리 읽는 것이 가장 좋습니다. 교수님이 한 가지 질문을 미",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 12,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 16,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 11
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4,
+        "count": 204,
+        "items": [
+          {
+            "value": 5,
+            "count": 82
+          },
+          {
+            "value": 4,
+            "count": 63
+          },
+          {
+            "value": 3,
+            "count": 44
+          },
+          {
+            "value": 2,
+            "count": 8
+          },
+          {
+            "value": 1,
+            "count": 7
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 204,
+          "items": [
+            {
+              "text": "없음",
+              "count": 56
+            },
+            {
+              "text": "보통",
+              "count": 146
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 204,
+          "items": [
+            {
+              "text": "없음",
+              "count": 185
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 204,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 78
+            },
+            {
+              "text": "보통",
+              "count": 106
+            },
+            {
+              "text": "깐깐함",
+              "count": 20
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 204,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 12
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 191
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 204,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "한 번",
+              "count": 66
+            },
+            {
+              "text": "두 번",
+              "count": 110
+            },
+            {
+              "text": "세 번",
+              "count": 6
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "성적 평가에는 출결/중간고사/과제/기말고사가 있고, 들어가는 비율은 각각 10/20/30/40 비율입니다. 출석은 6번까지 결석해도 만점처리되기 때문에 중간에 수업에 아예 안 오는 사람들도 많습니다. 중간고사는 한반",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "장점은 수업 안들어도 됨 하나.\n\n기말이 성적을 좌우하는데 이 답이 맞는 답인지는 신경 안씀. 그냥 족보 외워서 베끼면 만점, 아니면 0점인듯.\n\n중간, 과제 거의 만점 가까이 받았는데도 학점이 이런거 보면 기말 족",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

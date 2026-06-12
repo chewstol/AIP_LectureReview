@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "파이썬을 할 줄 모르면 거의 풀 수 없는 시험이었다고 생각합니다. 기본적",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 13
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 6
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.6,
+        "count": 156,
+        "items": [
+          {
+            "value": 5,
+            "count": 13
+          },
+          {
+            "value": 4,
+            "count": 25
+          },
+          {
+            "value": 3,
+            "count": 45
+          },
+          {
+            "value": 2,
+            "count": 32
+          },
+          {
+            "value": 1,
+            "count": 41
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 156,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 144
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 156,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 70
+            },
+            {
+              "text": "많음",
+              "count": 81
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 156,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 31
+            },
+            {
+              "text": "보통",
+              "count": 104
+            },
+            {
+              "text": "깐깐함",
+              "count": 21
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 156,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 20
+            },
+            {
+              "text": "전자출결",
+              "count": 98
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 0
+            },
+            {
+              "text": "복합적",
+              "count": 38
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 156,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 23
+            },
+            {
+              "text": "두 번",
+              "count": 129
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "좋아요 !! 아캠강의이고 중간고사 레포트 대체에요 !",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "최악의 과목\n창융디보다 더한 쓰레기임 이게\n별말고 똥을 주고 싶은 과목",
+          "rate": 1,
+          "posvote": 8
+        }
+      ]
+    }
+  }
+}

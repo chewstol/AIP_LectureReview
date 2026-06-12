@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "저는 조교님들은 몇 주차 discussion만 나온다고 알려주셔서 dis",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4,
+        "count": 18,
+        "items": [
+          {
+            "value": 5,
+            "count": 8
+          },
+          {
+            "value": 4,
+            "count": 6
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 18,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 18,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 18,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 10
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 18,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 0
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 18
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 18,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 17
+            },
+            {
+              "text": "두 번",
+              "count": 1
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "조교님들 친절하시고 잘 알려줍니다. 솔직히 시험 조졌는데 학점받은거 보면 잘채워주시는것 같네요.",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "레포트 이번부터 바뀌어서 너무 빡세요. \n쓸 말도 없는데 단어 수 충족해야돼서 머리 쥐어짜냈습니다. 1학점짜리 실험과목인데 시험도 어렵고 모두 고르기가 많아서 다 틀렸을듯\n조교님은 좋아용",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

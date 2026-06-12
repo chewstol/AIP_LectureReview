@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "각 이론에 따른 anova 테이블을 완성시키는 문제가 나옵니다. 시간이 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 9
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.47,
+        "count": 45,
+        "items": [
+          {
+            "value": 5,
+            "count": 28
+          },
+          {
+            "value": 4,
+            "count": 13
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 42
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 44
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 45,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 17
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 45,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 22
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 45
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "크립싯써서 암기부담없으나 문제 풀 때 계간이 복잡해서 시간이 좀 부족할 수 있습니다. 기말고사 점수를 알랴주지않아서 학점을 잘 주시는 편인지는 모르겠습니다.",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "오프라인 강의라 신청했는데 대부분이 몇년전에 한양대에서 찍으셨던 온라인 강의였습니다.\n이게 맞나 싶어요",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

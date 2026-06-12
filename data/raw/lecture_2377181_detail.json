@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791158905019",
+        "bookTitle": "시민생활과 법",
+        "bookAuthor": "송덕수, 정태윤, 오종근, 서을오, 김병선, 권태상",
+        "bookPublisher": "이화여자대학교출판문화원",
+        "bookPrice": 22000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/77c1de516b53c049fa492c971aa8c46dc8dd9c898e89414b9e10a385727a6f84/1756993026452_0.jpg"
+      },
+      {
+        "bookIsbn": "9791158904333",
+        "bookTitle": "시민생활과 법",
+        "bookAuthor": "송덕수, 정태윤, 오종근, 서을오, 김병선, 권태상",
+        "bookPublisher": "이화여자대학교출판문화원",
+        "bookPrice": 20000,
+        "price": 8500,
+        "coverImage": "https://cf-cii.everytime.kr/7e9a4f74243533b21f4e3a92fa041a79edd4017016c6f7d564e9243a279e2617/1708665601016_0.jpg"
+      },
+      {
+        "bookIsbn": "9791158903336",
+        "bookTitle": "시민생활과 법",
+        "bookAuthor": "송덕수, 정태윤, 오종근, 서을오, 김병선, 권태상",
+        "bookPublisher": "이화여자대학교출판문화원",
+        "bookPrice": 18000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/b3e0cfba4331f2699bb6b68205fca7046dfa35298fae3c5f7cc0b5d8c4c234b7/1749470296690_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님이 강조하는 부분에서 많이 나오고 법적 용어들 많이 기억해가세요.",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 38,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 17
+            },
+            {
+              "text": "주관식",
+              "count": 35
+            },
+            {
+              "text": "T/F형",
+              "count": 23
+            },
+            {
+              "text": "약술형",
+              "count": 20
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 28,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 21
+            },
+            {
+              "text": "주관식",
+              "count": 24
+            },
+            {
+              "text": "T/F형",
+              "count": 19
+            },
+            {
+              "text": "약술형",
+              "count": 18
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.52,
+        "count": 319,
+        "items": [
+          {
+            "value": 5,
+            "count": 218
+          },
+          {
+            "value": 4,
+            "count": 61
+          },
+          {
+            "value": 3,
+            "count": 31
+          },
+          {
+            "value": 2,
+            "count": 5
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 318,
+          "items": [
+            {
+              "text": "없음",
+              "count": 105
+            },
+            {
+              "text": "보통",
+              "count": 212
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 318,
+          "items": [
+            {
+              "text": "없음",
+              "count": 310
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 318,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 195
+            },
+            {
+              "text": "보통",
+              "count": 116
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 318,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 46
+            },
+            {
+              "text": "전자출결",
+              "count": 236
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 5
+            },
+            {
+              "text": "복합적",
+              "count": 31
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 318,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 7
+            },
+            {
+              "text": "두 번",
+              "count": 310
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "다른 강의처럼 \"시민생활과 법\" 이라는 책으로 강의를 하신다. 과제는 혼인신고서, 임대차 계약서 작성 이렇게 2개 주셨는데, 그냥 서류 1~2 페이지 짜리 작성하는 게 끝이라 제출에 이의를 두는 과제. (10분 정도",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "오우.. 저는 안될것 같아요.. 양이 정말정말 많아요.. 교수님은 정말 좋으신것 같은데, 양이 정말 너무 많아요..",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

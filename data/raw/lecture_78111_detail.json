@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "교수님이 주신 ppt만 보면 문제를 풀 수 없다. 교재를 반드시 사서 같",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.46,
+        "count": 37,
+        "items": [
+          {
+            "value": 5,
+            "count": 25
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 37,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 37,
+          "items": [
+            {
+              "text": "없음",
+              "count": 13
+            },
+            {
+              "text": "보통",
+              "count": 12
+            },
+            {
+              "text": "많음",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 37,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 16
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 37,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 33
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 4
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 37,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 20
+            },
+            {
+              "text": "두 번",
+              "count": 17
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "교수님 강의력도 좋으시고 정말 최고에요 교육학과 학우분들이 부러워질 정도에요ㅠㅠ꼭 들으세요 진짜 착하시고 좋아요 굿굿",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "강의는 깔끔하고 좋으심\n그렇치만 팀플 발표, 레포트, 중간, 기말로 꿀강은 ㄹㅇ 아님\n성적도 짜게 줌 쁠 거의 안 붙혀주심\n난이도는 괜찮은데 공부 해야할 양도 많고 성적도 잘 안주는 교직수업... \n다른 교수님거 추",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

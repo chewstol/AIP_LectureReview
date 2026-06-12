@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155505847",
+        "bookTitle": "성균 논어",
+        "bookAuthor": "이천승, 고재석",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/e114a8424bad4ab22bccd60ffdaa3b6c205fd335a12b5446feb8148b34bc4353/1773360300084_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155504611",
+        "bookTitle": "우리들의 세상, 논어로 보다",
+        "bookAuthor": "이천승, 강보승, 고재석, 권경자, 김동민, 정병섭",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 13500,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/e7a03c2878ade717eba8f1d95acbdb2e4d08fb6e4b1b438834660c82d18d2058/1677164593235_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155502389",
+        "bookTitle": "우리들의 세상, 논어로 보다",
+        "bookAuthor": "고재석, 권경자, 김동민, 이천승, 정병섭",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 12000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/d9a6da2d1bfe64b24bb0e2cde283cce0adbb2bf2e193c18ef973269d7fb2b68b/1677416857073_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979866148",
+        "bookTitle": "논어",
+        "bookAuthor": "유교문화연구소",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 30000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/9983d38f59f701980692cf97f6537543cf34c7a073fc675cf56f1a978e6cd194/1520349264320_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500408",
+        "bookTitle": "우리들의 세상 논어로 보다",
+        "bookAuthor": "인성교육교재편찬위원회",
+        "bookPublisher": "사람의무늬",
+        "bookPrice": 18000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/374cb7349939e633dd90b04480605a7a4972445d59b2bf26a14177cd63aca6521503663011470/0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "여름계절 수강했습니다. 분반별로 정말 중요한 문제는 공통으로 나오고 기출",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 26,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 19
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.22,
+        "count": 436,
+        "items": [
+          {
+            "value": 5,
+            "count": 105
+          },
+          {
+            "value": 4,
+            "count": 102
+          },
+          {
+            "value": 3,
+            "count": 92
+          },
+          {
+            "value": 2,
+            "count": 56
+          },
+          {
+            "value": 1,
+            "count": 81
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 436,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 169
+            },
+            {
+              "text": "많음",
+              "count": 256
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 436,
+          "items": [
+            {
+              "text": "없음",
+              "count": 177
+            },
+            {
+              "text": "보통",
+              "count": 173
+            },
+            {
+              "text": "많음",
+              "count": 86
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 436,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 109
+            },
+            {
+              "text": "보통",
+              "count": 236
+            },
+            {
+              "text": "깐깐함",
+              "count": 91
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 436,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 48
+            },
+            {
+              "text": "지정좌석",
+              "count": 4
+            },
+            {
+              "text": "직접호명",
+              "count": 351
+            },
+            {
+              "text": "복합적",
+              "count": 28
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 436,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 290
+            },
+            {
+              "text": "두 번",
+              "count": 142
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "수업: 토론식. 고재석 교수님께서 다른 성균논어 수업을 중국어로 진행하셔서 그런지 3분의 2정도가 중국인이었습니다. 조를 짜는 문제로 불만이 있던 분들이 있어서 중간고사 전까지는 주위 사람들끼리 임시조를 짜서 토론",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "대뜸 사랑을 해봤냐고 물어보고 \n그럼 결혼 상대가 지방대 나왔으면 결혼 할 수 있냐고 물어보고\n학우가 할 수 있다고 말하니 현실은 그렇지 못할 것이라고 말하는 지방대 결폄하와 결혼 상대의 할아버지가 돈이 없으면 결혼",
+          "rate": 1,
+          "posvote": 17
+        }
+      ]
+    }
+  }
+}

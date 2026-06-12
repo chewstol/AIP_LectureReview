@@ -1,0 +1,267 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "수업자료랑 올려주신 논문 읽어보면 어렵지 않게 풀 수 있고 교수님도 성적",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 12,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 11
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 8
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.66,
+        "count": 38,
+        "items": [
+          {
+            "value": 5,
+            "count": 27
+          },
+          {
+            "value": 4,
+            "count": 9
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 38,
+          "items": [
+            {
+              "text": "없음",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 25
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 38,
+          "items": [
+            {
+              "text": "없음",
+              "count": 17
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 38,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 19
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 38,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 22
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 38,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 37
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "1. 학점 후하게 주시는 편입니다. 교수님 과 조교분들 모두 성격 깔끔하고 친절하십니다.\n\n2. 과제를 많음이라 표기했지만 기말 발표 과제의 비중이 클 뿐, 매주 내주는 자잘한 과제는 없으십니다. \n\n3. 기습 퀴즈",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "발표가 중요한 수업입니다\n발표 좋아하시는 분들만 수강 추천합니다",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

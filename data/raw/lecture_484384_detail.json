@@ -1,0 +1,417 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9789813350274",
+        "bookTitle": "국제경제학: 이론과 정책",
+        "bookAuthor": "폴 크루그먼, Maurice Obstfeld, Marc J. Melitz",
+        "bookPublisher": "한빛아카데미",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/b8769773789c2c0e8ce48b72bd481388cb38674dd5d317ce5be0cf15d50f09d4/1770271668035_0.jpg"
+      },
+      {
+        "bookIsbn": "9788966134953",
+        "bookTitle": "무역영어 1급 기본이론+문제(2019)(와우패스)(개정판)",
+        "bookAuthor": "백소라",
+        "bookPublisher": "와우패스",
+        "bookPrice": 30000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/47987513e89bd785c257704ecec53a5e52531ca2633cc1e23dc6356688e7facf/1566114117438_0.jpg"
+      },
+      {
+        "bookIsbn": "9781259252846",
+        "bookTitle": "International Economics",
+        "bookAuthor": "Thomas A Pugel",
+        "bookPublisher": "McGraw Hill",
+        "bookPrice": 40000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/eeb87125c3a650e71d017b4823e13e384fda2073be9ad6f4051f15077bd57a3e/1548519448012_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292214870",
+        "bookTitle": "International Economics",
+        "bookAuthor": "Krugman",
+        "bookPublisher": "Pearson / Prentice Hall",
+        "bookPrice": 46000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/df1c92d2eba6dd9bc02dd1a607c3c7353155572a37b92f45adcc32050977ebae/1630383991041_0.jpg"
+      },
+      {
+        "bookIsbn": "9780273754091",
+        "bookTitle": "International Economics : Theory and Policy",
+        "bookAuthor": "폴 크루그먼",
+        "bookPublisher": "Pearson Education Asia",
+        "bookPrice": 35000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/9f7f7094da07efaa165a10e6fc9fdf41f0057c7dcec5bf8a8a6f58d23fbfbbb9/1611991605090_0.jpg"
+      },
+      {
+        "bookIsbn": "9788971104088",
+        "bookTitle": "국제경제론(7판)(양장본 HardCover)",
+        "bookAuthor": "김인준, 이영섭",
+        "bookPublisher": "다산출판사",
+        "bookPrice": 36000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/f0ac4bd980628b8ce6d1a2f2b4ffa9cc785f25d2afb78e6ffbd1eee1175c27b0/1605016347052_0.jpg"
+      },
+      {
+        "bookIsbn": "9780273765738",
+        "bookTitle": "The Economics of Money Banking and Financial Markets (Paperback)",
+        "bookAuthor": "Mishkin",
+        "bookPublisher": "Pearson Educacion",
+        "bookPrice": 30000,
+        "price": 11000,
+        "coverImage": "https://cf-cii.everytime.kr/da4797b9e6a1d1f12529df1926ed5d3ff45d42b426f7b10c4a0c9d0e0b13077b/1620889005911_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968665561",
+        "bookTitle": "국제경제학",
+        "bookAuthor": "폴 크루그먼, Maurice Obstfeld, Marc J. Melitz",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 39000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/be50344825c8726cd349dedf79cc89853419989ff6c6fe45e4d994255edff714/1686495404147_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292019550",
+        "bookTitle": "International Economics theory and policy(GE)",
+        "bookAuthor": "krugman",
+        "bookPublisher": "Pearson Higher Education",
+        "bookPrice": 35000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/e0f3b98ed598a8e7d4e0bf61f27177e75241c7e69039f8ca9c3af0c5ea8f7556/1725198003876_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "수업과 교안을 살피면 됩니다. 교안보다는 수업 필기가 더 중요.",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 7
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 15,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 6
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.03,
+        "count": 340,
+        "items": [
+          {
+            "value": 5,
+            "count": 136
+          },
+          {
+            "value": 4,
+            "count": 116
+          },
+          {
+            "value": 3,
+            "count": 62
+          },
+          {
+            "value": 2,
+            "count": 14
+          },
+          {
+            "value": 1,
+            "count": 12
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 340,
+          "items": [
+            {
+              "text": "없음",
+              "count": 308
+            },
+            {
+              "text": "보통",
+              "count": 29
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 340,
+          "items": [
+            {
+              "text": "없음",
+              "count": 308
+            },
+            {
+              "text": "보통",
+              "count": 30
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 340,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 100
+            },
+            {
+              "text": "보통",
+              "count": 225
+            },
+            {
+              "text": "깐깐함",
+              "count": 15
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 340,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 31
+            },
+            {
+              "text": "전자출결",
+              "count": 232
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 61
+            },
+            {
+              "text": "복합적",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 340,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 49
+            },
+            {
+              "text": "두 번",
+              "count": 289
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "Amazing gentleman Donald Trump who is uneducated and not taking regular course of economics",
+          "rate": 5,
+          "posvote": 10
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "하...이거 수강신청 왜 했지 후회 중\n교수님이 시도때도 없이 아......어......하시는데 이게 그냥 아 어 이게 아니라 공포영화 보면 귀신들이 아....아...하는 소리랑 비슷해요 진짜 듣기 싫고 한번 신경쓰",
+          "rate": 1,
+          "posvote": 13
+        }
+      ]
+    }
+  }
+}

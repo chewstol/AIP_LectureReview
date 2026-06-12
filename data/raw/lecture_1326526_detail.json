@@ -1,0 +1,304 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791192981628",
+        "bookTitle": "증권투자의이해",
+        "bookAuthor": "박영규, 권용재, 최영목",
+        "bookPublisher": "탑북스",
+        "bookPrice": 28000,
+        "price": 19000,
+        "coverImage": "https://cf-cii.everytime.kr/12e1c22d0b3c35758908567cfa00dd802ed8012181a6e24e3f639dd17faf5dd3/1767447246138_0.jpg"
+      },
+      {
+        "bookIsbn": "9791190247337",
+        "bookTitle": "증권투자의 이해",
+        "bookAuthor": "박영규, 권용재, 최영목",
+        "bookPublisher": "탑북스",
+        "bookPrice": 25000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/2674936127eede0a33f557475b1af138d2d6c1a4b27c4f82879e574e0f09e16b/1648443943801_0.jpg"
+      },
+      {
+        "bookIsbn": "9788982071768",
+        "bookTitle": "증권투자의 이해",
+        "bookAuthor": "박영규",
+        "bookPublisher": "문영사",
+        "bookPrice": 25000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/50e5b70f4aae4f2a34a3c902cc7b48f26989cf7d59cfa56ac71f100dcba265fd/1677473701307_0.jpg"
+      },
+      {
+        "bookIsbn": "9788982071683",
+        "bookTitle": "증권투자의 이해(양장본 HardCover)",
+        "bookAuthor": "박영규, 권용재, 최영목",
+        "bookPublisher": "문영사",
+        "bookPrice": 25000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/9b80317a65064cb57a973d44b8f9f41df162fc7ae12054dc334930a1184b3a72/1599115268131_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "기말고사 정보가 많이 없길래 적어봅니다. 이게 답이 확실한지는 모르겠는데",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 36,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 35
+            },
+            {
+              "text": "주관식",
+              "count": 33
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 7
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 12,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 10
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.98,
+        "count": 270,
+        "items": [
+          {
+            "value": 5,
+            "count": 103
+          },
+          {
+            "value": 4,
+            "count": 100
+          },
+          {
+            "value": 3,
+            "count": 42
+          },
+          {
+            "value": 2,
+            "count": 8
+          },
+          {
+            "value": 1,
+            "count": 17
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 270,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 133
+            },
+            {
+              "text": "많음",
+              "count": 131
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 270,
+          "items": [
+            {
+              "text": "없음",
+              "count": 242
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 270,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 47
+            },
+            {
+              "text": "보통",
+              "count": 200
+            },
+            {
+              "text": "깐깐함",
+              "count": 23
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 270,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 40
+            },
+            {
+              "text": "전자출결",
+              "count": 167
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 44
+            },
+            {
+              "text": "복합적",
+              "count": 19
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 270,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 30
+            },
+            {
+              "text": "두 번",
+              "count": 239
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "박영규 교수님... 몰라봬서 죄송합니다. 시험이 한 두 문제 지엽적으로 나온다고 해서 수강생이 더 많은 것을 알았으면 좋겠다는 뜻을 몰랐습니다. 하지만 학점이 나온 지금 이제야 알 수 있습니다. 교수님이 '갓' 이라",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "과제가 너무 속보이는 거라서 강평 미리 남깁니다... 아니 무슨 자기 책 평가를 인터넷 서점에서 남기고 아이디를 명시하라는 말을 하네요 아무리 선택과제라지만 너무 몰염치한거 아닙니까? 수업도 책도 이상한데",
+          "rate": 1,
+          "posvote": 13
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788993543711",
+        "bookTitle": "열역학",
+        "bookAuthor": "Richard E. Sonntag, Borgnakke",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 38000,
+        "price": 17000,
+        "coverImage": "https://cf-cii.everytime.kr/9a4fa7a0c12e66f9e2e17c4d2d3432b6c7eba4c2b91e55e6606b0c33b6f8afed/1741330590791_0.jpg"
+      },
+      {
+        "bookIsbn": "9781119382843",
+        "bookTitle": "fundmentals of thermodynamics",
+        "bookAuthor": "sonntag/Borgnakke",
+        "bookPublisher": ".",
+        "bookPrice": 43000,
+        "price": 28000,
+        "coverImage": "https://cf-cii.everytime.kr/e5ff02035eaf57fbe7441759c7139dd17911b547540927462a84f1bd2643eb16/1764562902694_0.jpg"
+      },
+      {
+        "bookIsbn": "9788993543520",
+        "bookTitle": "열역학",
+        "bookAuthor": "Borgnakke, Richard E. Sonntag",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 38000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/381efadd36157f2622c1aa6b70c9a2568db467608e8ae08a2cd328195070ed17/1677498021059_0.jpg"
+      },
+      {
+        "bookIsbn": "9781118321775",
+        "bookTitle": "Fundamentals of thermodynamics",
+        "bookAuthor": "Borgnakke",
+        "bookPublisher": "Wiley",
+        "bookPrice": 42000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/0e0741efbe904298febc89670d8f3644ea0f077bcdc568b9b4f515d22e15cede/1670909798587_0.jpg"
+      },
+      {
+        "bookIsbn": "9788993543087",
+        "bookTitle": "열역학(개정7판)(7판)",
+        "bookAuthor": "CLAUS BORGNAKKE, RICHARD E SONNTAG",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 35000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/f2169763f9370a2fcfede450d4fe880faf7f50d958412c8562d8eb3e8ba59a11/1505793167936_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "8문제나옴. 기존의 문제들이랑 다른 유형이라 뒤통수맞은느낌\n기본은 과제문",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.82,
+        "count": 118,
+        "items": [
+          {
+            "value": 5,
+            "count": 104
+          },
+          {
+            "value": 4,
+            "count": 9
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 118,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 102
+            },
+            {
+              "text": "많음",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 118,
+          "items": [
+            {
+              "text": "없음",
+              "count": 106
+            },
+            {
+              "text": "보통",
+              "count": 12
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 118,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 76
+            },
+            {
+              "text": "보통",
+              "count": 40
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 118,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 22
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 64
+            },
+            {
+              "text": "복합적",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 118,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 117
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "강의력 진짜 좋고 학점 잘 채워줌. 출석은 처음에 전자출결 하다가 출튀하는 사람 너무 많아서 종이에 서명하는 방식으로 바뀜.",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "조교가 과제 채점을 좀 많이 깐깐하게 합니다. 시험은 수업 때 여러번 강조하시는 개념 문제가 일부 나오니까 개념 공부도 하시면 좋을 것 같습니다. 과제에서도 유형 비슷한 문제가 꽤 나옵니다.",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788957336762",
+        "bookTitle": "파이돈",
+        "bookAuthor": "플라톤",
+        "bookPublisher": "아카넷",
+        "bookPrice": 13000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/e8f04d7774393f22353085cad8d4a4d1a9860a05c24fe0a8d66b95af7c2d24fe/1693054221934_0.jpg"
+      },
+      {
+        "bookIsbn": "9788932010250",
+        "bookTitle": "쾌락(문지스펙트럼:세계의고전사상 1)",
+        "bookAuthor": "에피쿠로스",
+        "bookPublisher": "문학과지성사",
+        "bookPrice": 8000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/1bf708a63b449e384c816f7849056c97695808cad98c8a117de5dd52f21117d1/1598013991733_0.jpg"
+      },
+      {
+        "bookIsbn": "9788936477820",
+        "bookTitle": "정선 목민심서",
+        "bookAuthor": "정약용",
+        "bookPublisher": "창비",
+        "bookPrice": 18000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/963e0b02bb4ce0fa163c118f66df03f4f843512850f687fcadf175d7813a8c19/1677236136228_0.jpg"
+      },
+      {
+        "bookIsbn": "9788956441160",
+        "bookTitle": "파이돈(정암학당 플라톤 전집 15)",
+        "bookAuthor": "플라톤",
+        "bookPublisher": "이제이북스",
+        "bookPrice": 12000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/967608f1737d1e6a7b5b301796bcd44d4f36a099cfbd9cc9c3454134c3739de5/1601529186162_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964450383",
+        "bookTitle": "니코마코스 윤리학",
+        "bookAuthor": "아리스토텔레스",
+        "bookPublisher": "길",
+        "bookPrice": 28000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/38dc5b1585483fd59be7f291f4a328c1816be60531d61890bdaa694ccccf214b/1646051665105_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험은 없고 중간고사 대체과제 하나 기말고사 대체과제 하나로 이루어집니다",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.88,
+        "count": 69,
+        "items": [
+          {
+            "value": 5,
+            "count": 16
+          },
+          {
+            "value": 4,
+            "count": 8
+          },
+          {
+            "value": 3,
+            "count": 14
+          },
+          {
+            "value": 2,
+            "count": 14
+          },
+          {
+            "value": 1,
+            "count": 17
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 69,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 24
+            },
+            {
+              "text": "많음",
+              "count": 44
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 69,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 12
+            },
+            {
+              "text": "많음",
+              "count": 55
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 69,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 25
+            },
+            {
+              "text": "깐깐함",
+              "count": 24
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 69,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 5
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 57
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 69,
+          "items": [
+            {
+              "text": "없음",
+              "count": 43
+            },
+            {
+              "text": "한 번",
+              "count": 3
+            },
+            {
+              "text": "두 번",
+              "count": 23
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "저는 교수님의 고전명저북클럽을 수강하게 돼서 정말 좋았습니다. 일단 교수님께서 매주 간단한 과제를 내주십니다. 책만 잘 읽고 이해했다면 충분히 풀 수 있는 것들입니다. 그리고 중간과 기말 각각 에세이를 작성하는 과제",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "할 게 많다기 보다는 나의 노력으로 성적을 바꿀 수 없다는 것을 여실히 체험할 수 있는 과목",
+          "rate": 1,
+          "posvote": 6
+        }
+      ]
+    }
+  }
+}

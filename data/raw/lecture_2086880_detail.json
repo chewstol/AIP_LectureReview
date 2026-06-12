@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "시험은 기말고사 한 번 뿐이었습니다. \n원래 구술로 볼 예정이었으나, 학",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 6
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.89,
+        "count": 80,
+        "items": [
+          {
+            "value": 5,
+            "count": 28
+          },
+          {
+            "value": 4,
+            "count": 25
+          },
+          {
+            "value": 3,
+            "count": 21
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 80,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 21
+            },
+            {
+              "text": "많음",
+              "count": 57
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 80,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 18
+            },
+            {
+              "text": "많음",
+              "count": 62
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 80,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 45
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 80,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 38
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 38
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 80,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 70
+            },
+            {
+              "text": "두 번",
+              "count": 8
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "만나서 반갑습니다! 저는 강의를 수강하는 성균관 유생이고 자 우리 첫번째로 고전명저 북클럽 같이 한번 보도록 합시다. 일단 교수님이야. 교수님인데~ 어.. 일단 정말 좋으세요. 정말 좋아. 또 이렇게 말하면 나는 안",
+          "rate": 5,
+          "posvote": 6
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "분명 3학점인데 공부량이 5학점치임\n1.아캠으로 영상을 보고 (1~2시간 분량) 2.질문을 만들어서 댓글달고 3.수업에 가서 수업듣고 4.조별로 주차 토론을 하고(여러번) 5.토론한 내용으로 1500자 과제를 써서",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

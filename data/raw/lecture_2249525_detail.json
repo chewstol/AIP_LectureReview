@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788962183764",
+        "bookTitle": "심리학 연구방법",
+        "bookAuthor": "David G Elmes, Barry H Kantowitz, Henry L Roediger III",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 32000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/c19e836a1b485215c17afbeb4fceb551a9e580a89e010ee21235fec5201d4063/1566748928732_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "2021년의 문제유형과 2022년의 문제 유형이 달라 족보가 의미가 없을",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.05,
+        "count": 22,
+        "items": [
+          {
+            "value": 5,
+            "count": 9
+          },
+          {
+            "value": 4,
+            "count": 8
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 22,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 22,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 22,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 22,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 3
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 18
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 22,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 20
+            },
+            {
+              "text": "두 번",
+              "count": 2
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "팀플이 거의 다인 과목입니다! \n 초반에는 강의로만 이루어져 있는데 사조방이랑 내용은 비슷하지만 좀 더 구체적인 느낌입니다 논문 읽고 쓰는 법 위주로 배우고 거기에 심리학적으로 더 깊게 들어가는데 꽤 많은 도움이 된",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "이상하고 엉성하게 설명하는 경우가 많음. 특히나 교수님 전공이신 성격심리를 벗어난 영역, 특히 사회심리나 인지심리 영역 관련해서 잘못된 설명을 하실 때가 종종 있음. \n\n저렇게 설명하면 안되는데..? 저거 저 개념이",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

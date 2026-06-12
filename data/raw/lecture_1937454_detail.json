@@ -1,0 +1,267 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "중간 대체 과제 한번, 기말 발표 한번 있습니다. \n중간 대체 과제 한번",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.45,
+        "count": 118,
+        "items": [
+          {
+            "value": 5,
+            "count": 31
+          },
+          {
+            "value": 4,
+            "count": 28
+          },
+          {
+            "value": 3,
+            "count": 34
+          },
+          {
+            "value": 2,
+            "count": 13
+          },
+          {
+            "value": 1,
+            "count": 12
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 118,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 16
+            },
+            {
+              "text": "많음",
+              "count": 101
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 118,
+          "items": [
+            {
+              "text": "없음",
+              "count": 17
+            },
+            {
+              "text": "보통",
+              "count": 25
+            },
+            {
+              "text": "많음",
+              "count": 76
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 118,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 23
+            },
+            {
+              "text": "보통",
+              "count": 58
+            },
+            {
+              "text": "깐깐함",
+              "count": 37
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 118,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 63
+            },
+            {
+              "text": "지정좌석",
+              "count": 3
+            },
+            {
+              "text": "직접호명",
+              "count": 44
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 118,
+          "items": [
+            {
+              "text": "없음",
+              "count": 73
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 37
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 6
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "열심히 했고 A0받음 매주 깐깐하게 잘 챙길 수 있는 사람이 하면 괜찮을 것 같음 나는 교수님이랑 잘맞아서 좋았음 해야하는거 구체적으로 알려주는 대신 할게 많은 느낌",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "????평점 왤케 높죠? 학점느님 절대 아니고 A플 10퍼센트만 줄거라고 수업 처음에 못박았어요. 학점느님이라는 소문 듣고 한국인만 잔뜩 몰려오고 중국인 진짜 전혀 없어서 성적 받기 빡셌습니다. 과제는 중간 전까지",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

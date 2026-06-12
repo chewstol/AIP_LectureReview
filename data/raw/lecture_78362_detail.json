@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781605358635",
+        "bookTitle": "The Cell",
+        "bookAuthor": "제프리 M. 쿠퍼",
+        "bookPublisher": "OXFORD",
+        "bookPrice": 68000,
+        "price": 27000,
+        "coverImage": "https://cf-cii.everytime.kr/7e26b393c45569a959427593b1cba31191562413b45721c6a729aad2e5be1334/1771770358235_0.jpg"
+      },
+      {
+        "bookIsbn": "9781605352909",
+        "bookTitle": "The Cell (양장본 HardCover)",
+        "bookAuthor": "제프리 M. 쿠퍼, Robert E Hausman",
+        "bookPublisher": "Sinauer Associates",
+        "bookPrice": 80000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/b8178bafffcc799bd21aaf91cdb45f6b4b276d4ec57938f96ef78aa0a10e4d21/1629481252740_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "객관식 단답형 서술형이고 시간은 좀 빠듯합니다.\n서술형의 경우 큰 흐름을",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 9
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.64,
+        "count": 36,
+        "items": [
+          {
+            "value": 5,
+            "count": 28
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 27
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 34
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 36,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 36,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 12
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 24
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 36
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "후배들을 위해 남깁니다.\n\n결론부터 말하면,\n세포생물학, 분자생물학, 중개생물학, 면역학... 엄청난 과목들이 짬뽕되어 있는 과목.\n그래서 아랫 글 말처럼 위 과목들을 다 배우고 와서 들으면 복습이 되는 반면에\n저런",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "너무 양이 많고 시험도 어려움.\n주관식, 서술형 너무 많고 교수님 말이 너무 빠르심.\n내용과 강의력은 정말 좋고 많이 배웠지만 학점 정말 안주십니다. 망했네요.",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

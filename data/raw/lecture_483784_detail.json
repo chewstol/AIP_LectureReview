@@ -1,0 +1,277 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781119923459",
+        "bookTitle": "Management Information Systems",
+        "bookAuthor": "R. Kelly Rainer, Brad Prince, Hugh J. Watson",
+        "bookPublisher": "Wiley",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/2276f77c57384a78edb5fc2837245b8e2c95d1bcbc89821a78547969d3393d66/1633660294517_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사는 줌으로 온라인 시험 봄\n지난학기에 무슨 일이 있었는지 이번엔 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 49,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 46
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 40,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 37
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.37,
+        "count": 801,
+        "items": [
+          {
+            "value": 5,
+            "count": 510
+          },
+          {
+            "value": 4,
+            "count": 149
+          },
+          {
+            "value": 3,
+            "count": 93
+          },
+          {
+            "value": 2,
+            "count": 23
+          },
+          {
+            "value": 1,
+            "count": 26
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 801,
+          "items": [
+            {
+              "text": "없음",
+              "count": 581
+            },
+            {
+              "text": "보통",
+              "count": 218
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 801,
+          "items": [
+            {
+              "text": "없음",
+              "count": 622
+            },
+            {
+              "text": "보통",
+              "count": 173
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 801,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 664
+            },
+            {
+              "text": "보통",
+              "count": 135
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 801,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 98
+            },
+            {
+              "text": "전자출결",
+              "count": 468
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 181
+            },
+            {
+              "text": "복합적",
+              "count": 54
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 801,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "한 번",
+              "count": 339
+            },
+            {
+              "text": "두 번",
+              "count": 459
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "사전수강신청 몰려서 300명 증원해줬잖아\n과제없잖아 팀플없잖아 퀴즈없잖아\n스밍 기간 넉넉하게 두달씩 줬잖아\n족보 아카이브 있잖아 족보대로 내줬잖아\n족보 믿으라고 2022년 강의 그대로 올려줬잖아\n족보에서 안 낼 부분",
+          "rate": 5,
+          "posvote": 9
+        },
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "평점 0이 없는게 안타깝다. 1점도 주기 아까운 수업 ㅎ\n등록금이 줄줄 새는걸 느낄 수 있다. 이딴 쓰레기 강의도 전공 필수에 수강신청 잡기도 힘든게 현실이라니, 너무 슬프다... 수업에 체계도 없고 내용도 없고 아",
+          "rate": 1,
+          "posvote": 7
+        }
+      ]
+    }
+  }
+}

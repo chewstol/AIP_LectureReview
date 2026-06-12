@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "총 5번실습중에 퀴즈가 5번다있고\n퀴즈는 4번째 opamp실험빼고는 모두",
+      "questionTypes": [
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.8,
+        "count": 46,
+        "items": [
+          {
+            "value": 5,
+            "count": 15
+          },
+          {
+            "value": 4,
+            "count": 13
+          },
+          {
+            "value": 3,
+            "count": 13
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 46,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 20
+            },
+            {
+              "text": "많음",
+              "count": 24
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 46,
+          "items": [
+            {
+              "text": "없음",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "많음",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 46,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 22
+            },
+            {
+              "text": "보통",
+              "count": 23
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 46,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 4
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 35
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 46,
+          "items": [
+            {
+              "text": "없음",
+              "count": 33
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 8
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "과목 자체가 실습 중에서 많이 번거로운 편이라 학기 중에 로드가 조금 있는 편. 중간고사 기간 이전에는 공통 실험이라 이건 전체 분반 공통된 내용이다.\n이 후 프로젝트에서 분반의 영향이 있는데 그래도 교수님이 최대한",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "석지원 교수님도 학점 잘주시는 편이지만 편하게 하고 싶다면\n왠만하면 김훈모 교수님 진동실험실습 추천합니다.",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

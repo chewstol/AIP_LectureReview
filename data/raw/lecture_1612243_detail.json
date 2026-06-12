@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788992272001",
+        "bookTitle": "러시아어 인텐시브 회화 1",
+        "bookAuthor": "Л В Миллер, Л В Политова, И Я Рыбакова",
+        "bookPublisher": "뿌쉬낀하우스",
+        "bookPrice": 20000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/8f9b692e85d327f6187ca2e334786793da9ad14b1d3c9a196e12aa7923f1e77e/1552664194083_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "딘아의 강세를 외워야하고 수업시간에 나눠주신 프린트와 교재에서 짚어주신 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.89,
+        "count": 28,
+        "items": [
+          {
+            "value": 5,
+            "count": 25
+          },
+          {
+            "value": 4,
+            "count": 3
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 28,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 22
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 28,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 15
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 11
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 25
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "러시아어는 어렵지만 수업은 재미있습니다. 단어시험과 중간 기말이 있고 러작이지만 시험 전에 문제 거의 다 알려주셔서 부담도 크지 않습니다. 대신 문장의 문법은 바뀝니다. 중간중간 문화 수업도 해주셔서 좋았습니다. 다",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "교수님이 친절하시긴 한데 내용이 꽤 어려워요 언어적 감각이 있으면 좋을듯? 수업은 그래도 꽤 재미있음",
+          "rate": 4,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

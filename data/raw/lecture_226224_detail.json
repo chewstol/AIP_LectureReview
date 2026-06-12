@@ -1,0 +1,286 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780273765608",
+        "bookTitle": "Organizational Theory Design and Change (Paperback)",
+        "bookAuthor": "Jones",
+        "bookPublisher": "Pearson Educacion",
+        "bookPrice": 48000,
+        "price": 23000,
+        "coverImage": "https://cf-cii.everytime.kr/081e785a66b58f019df5fbaaf30e3353bd7d624bb32a7ea2116462eeccafe0eb/1529006795408_0.jpg"
+      },
+      {
+        "bookIsbn": "9781133586289",
+        "bookTitle": "Organizational Behavior : Managing People and Organizations (Paperback)",
+        "bookAuthor": "Griffin",
+        "bookPublisher": "South Western",
+        "bookPrice": 45000,
+        "price": 27000,
+        "coverImage": "https://cf-cii.everytime.kr/7ca6aec1fc1ffd0f01feceb7d024f1d1bba205e676ceec3b9b69efccac8f3ef51488833635641/0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "객관식 41문제, 단답형 6문제\n\n시험 자체는 난이도가 있는 편은 아니고",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 92,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 88
+            },
+            {
+              "text": "주관식",
+              "count": 75
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 10
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 28,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 23
+            },
+            {
+              "text": "주관식",
+              "count": 23
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "3차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.53,
+        "count": 364,
+        "items": [
+          {
+            "value": 5,
+            "count": 228
+          },
+          {
+            "value": 4,
+            "count": 109
+          },
+          {
+            "value": 3,
+            "count": 22
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 364,
+          "items": [
+            {
+              "text": "없음",
+              "count": 27
+            },
+            {
+              "text": "보통",
+              "count": 222
+            },
+            {
+              "text": "많음",
+              "count": 115
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 364,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 234
+            },
+            {
+              "text": "많음",
+              "count": 119
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 364,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 216
+            },
+            {
+              "text": "보통",
+              "count": 140
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 364,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 36
+            },
+            {
+              "text": "전자출결",
+              "count": 220
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 73
+            },
+            {
+              "text": "복합적",
+              "count": 35
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 364,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 5
+            },
+            {
+              "text": "두 번",
+              "count": 357
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "이 강의는 명확하게 꿀강입니다! 저도 수업 내내 안 듣다가 시험기간에만 벼락치기로 공부했는데, 중간고사 때 하루만 공부했을 때 67/100점 받았고 (평균 70.74, 중간값 76), 기말고사 때 이틀 공부했더니 8",
+          "rate": 5,
+          "posvote": 6
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "최악임 시험도 뭐 족보 중구난방이고.. 조교도 메일답변 느리고.. 시험 진행도 엉망이고 팀플까지\n스트레스 폭탄 과목",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

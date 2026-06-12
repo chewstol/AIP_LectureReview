@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791132112761",
+        "bookTitle": "Ross의 재무관리",
+        "bookAuthor": "스테판 A. 로스",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 42000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/a43b02119cb855fe49ea50d3cc3e1485d5484980ca0293ac8929cf0e15e2777e/1756789269630_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955017458",
+        "bookTitle": "재무관리의 이해",
+        "bookAuthor": "송교직",
+        "bookPublisher": "신영사",
+        "bookPrice": 33000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/ec21ee1d3a9eb46f2ff489313e1a6ea12f112b0584bec13e113580ca1062d1f0/1723627771337_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132101758",
+        "bookTitle": "재무관리",
+        "bookAuthor": "스테판 A. 로스",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 39000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/3813f5953e24ec2d5a8d893a1ae59df145c4eceb0670092f0a72b2d715fbb856/1712037134274_0.jpg"
+      },
+      {
+        "bookIsbn": "9781260091908",
+        "bookTitle": "Fundamentals of Corporate Finance",
+        "bookAuthor": "Ross",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 50000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/fb400912c8bb79e403125d17ca91328b8fceb291e3cc1da269dc49ec0b5a9d62/1630298950644_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960558281",
+        "bookTitle": "Ross의 재무관리(10판)",
+        "bookAuthor": "Stephen A Ross, Randolph W Westerfield, Bradford D Jordan",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 39000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/ef32a2dce1bd38eea281246529ecc52317528d4dcc5cd3b5d2bb2fc0254f0fd7/1645802238854_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "총15문제 중 객관식 12문제 주관식 3문제였고 시험 문제는 전체적으로 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 9
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 5
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.55,
+        "count": 100,
+        "items": [
+          {
+            "value": 5,
+            "count": 27
+          },
+          {
+            "value": 4,
+            "count": 29
+          },
+          {
+            "value": 3,
+            "count": 25
+          },
+          {
+            "value": 2,
+            "count": 10
+          },
+          {
+            "value": 1,
+            "count": 9
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 100,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 87
+            },
+            {
+              "text": "많음",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 100,
+          "items": [
+            {
+              "text": "없음",
+              "count": 99
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 100,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 46
+            },
+            {
+              "text": "보통",
+              "count": 52
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 100,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 27
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 46
+            },
+            {
+              "text": "복합적",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 100,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 98
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "1. 강의력은 매우매우 안 좋으심\n-> 수업 듣기 전에 강평 봤을 땐 에이 뭐 어느 정도겠냐 했는데 ㄹㅇ 상상 이상임\n재무 관리를 배우러 온 게 아니라 언어학자가 됐다는 마음가짐으로 말의 의미와 맥락을 해석해야함",
+          "rate": 5,
+          "posvote": 7
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "강의를 너무 못하세요 진짜 3년동안 들은 강의 중에 최악. 오프라인 수업하시는데 말소리 하나도 안들리고 판서 안보이고 혼자 웅ㅇ얼웅얼 세시간동안 하다가 끝납니다…ㅎ",
+          "rate": 1,
+          "posvote": 13
+        }
+      ]
+    }
+  }
+}

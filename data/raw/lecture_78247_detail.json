@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788968667817",
+        "bookTitle": "거시경제학 해법(9판)",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 10000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/ff75102f21e4e465bab0b51f8e361d3004f3f1f6d90218af8fe61f0a2ceb69d6/1566104732396_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968667640",
+        "bookTitle": "거시경제학(9판)(양장본 HardCover)",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 39000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/43fecda8a0b497eec0175e111a67885436ed5dc786da59153dbf6b4dd0f9299e/1702041040024_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968661112",
+        "bookTitle": "거시경제학(8판)(양장본 HardCover)",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 25000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/e0db7c5685bf7fe8f73ec7007a137f9476226c13b18c7b4c7683705a6c95641a/1548873457926_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "난도가 많이 어렵습니다… 족보를 꼭 공부하시길!",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.61,
+        "count": 121,
+        "items": [
+          {
+            "value": 5,
+            "count": 91
+          },
+          {
+            "value": 4,
+            "count": 17
+          },
+          {
+            "value": 3,
+            "count": 11
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 121,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 81
+            },
+            {
+              "text": "많음",
+              "count": 39
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 121,
+          "items": [
+            {
+              "text": "없음",
+              "count": 107
+            },
+            {
+              "text": "보통",
+              "count": 13
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 121,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 18
+            },
+            {
+              "text": "보통",
+              "count": 88
+            },
+            {
+              "text": "깐깐함",
+              "count": 15
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 121,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 15
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 98
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 121,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 120
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "교수님 매우 따뜻하시다. 강의는 하루는 온라인 사전녹화, 하루는 대면으로 질의응답식으로 진행된다. 과제는 네번, 3문제 정도 풀어서 내면 된다. 어렵지만 쉽게 사고하고 접근할 수 있도록 도와주시고 큰 부담 없이 공부",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "다들 좋은 평만 있긴 한데.. 경제학이나 수학을 싫어하시거나 베이스가 없으시다면 듣는 것을 추천드리진 않습니다. 국제어라 영어로 강의를 하시고, 과제가 총 7번을 나갔던 걸로 기억하는데 과제 자체는 수업때 들은 내용",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

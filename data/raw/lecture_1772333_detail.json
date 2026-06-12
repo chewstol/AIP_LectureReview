@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791156006664",
+        "bookTitle": "데이터베이스 시스템",
+        "bookAuthor": "Elmasri Navathe",
+        "bookPublisher": "도서출판 홍릉(홍릉과학출판사)",
+        "bookPrice": 42000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/c3af3b10c5a334ccfefafb9069a58dc103aad51b3b03cf197993a21533cfffba/1693205969105_0.jpg"
+      },
+      {
+        "bookIsbn": "9780132144988",
+        "bookTitle": "Fundamental Database System (NEW)",
+        "bookAuthor": "Elmasri Ramez",
+        "bookPublisher": "Prentice-Hall",
+        "bookPrice": 38000,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/0eedfa5d361671f029177be2939f6d4f8c2e159322b095ce233414441b650370/1629474891155_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292097619",
+        "bookTitle": "Fundamentals of Database Systems, Global Edition",
+        "bookAuthor": "Ramez Elmasri",
+        "bookPublisher": "Pearson Higher Education",
+        "bookPrice": 60000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/7481129f2c7d1fa19a5a073d375f002ae0052df5b07a6633f3c914aa4e183574/1763426709916_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님이 내주신 ppt 중에 예시 문제 있는데 그거 위주로 많이 풀어보시",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 11
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.98,
+        "count": 219,
+        "items": [
+          {
+            "value": 5,
+            "count": 86
+          },
+          {
+            "value": 4,
+            "count": 74
+          },
+          {
+            "value": 3,
+            "count": 39
+          },
+          {
+            "value": 2,
+            "count": 8
+          },
+          {
+            "value": 1,
+            "count": 12
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 219,
+          "items": [
+            {
+              "text": "없음",
+              "count": 173
+            },
+            {
+              "text": "보통",
+              "count": 43
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 219,
+          "items": [
+            {
+              "text": "없음",
+              "count": 200
+            },
+            {
+              "text": "보통",
+              "count": 18
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 219,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 33
+            },
+            {
+              "text": "보통",
+              "count": 123
+            },
+            {
+              "text": "깐깐함",
+              "count": 63
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 219,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 28
+            },
+            {
+              "text": "전자출결",
+              "count": 123
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 56
+            },
+            {
+              "text": "복합적",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 219,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 218
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "아잇 대답안해?\n강의화면에 필기하다가 계속 페이지 넘어가져서 투덜대시는게 ㄹㅇ 너무 귀여움. 그냥 뭐랄까 엄하게 생기셨는데 하시는 행동이 너무 귀여우심. 꿀귀 응모교수님 사랑해요❤️\n\n강의력 최고, 과제 아예 없음,",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "온라인이라 편하다는 것 빼고, 수업의 질적 측면에서는 들을 가치가 없는 과목.\n\n업로드되는 녹화 영상은 20년도, 강의 내용과 연습문제 답안은 매번 상충되는 내용이 존재하고, 시험은 온라인이면서 감독도 하지 않는 이",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

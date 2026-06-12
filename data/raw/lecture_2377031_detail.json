@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "코드 몇줄을 해석하게해서 코드 조금 보고가시고, 이론도 실습에서 자주 등",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.79,
+        "count": 56,
+        "items": [
+          {
+            "value": 5,
+            "count": 26
+          },
+          {
+            "value": 4,
+            "count": 8
+          },
+          {
+            "value": 3,
+            "count": 11
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 5
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 40
+            },
+            {
+              "text": "많음",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 22
+            },
+            {
+              "text": "많음",
+              "count": 33
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 56,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 25
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 56,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 33
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 19
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 16
+            },
+            {
+              "text": "한 번",
+              "count": 31
+            },
+            {
+              "text": "두 번",
+              "count": 9
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "배우는게 많다. 팀플만 잘하면 성적은 잘 나오는거 같습니다. 교수님이 친절하시고 학생들 프로젝트에 관심을 가지시는 것 같습니다.",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "일단 강의평을 시작하기 전에 본인은 인공지능개론을 들은 상태이고 인공지능 관련 랩을 다니는 중임을 밝힌다.\n\n1. 빡센 파이널 프로젝트\n매주 팀별 발표를 시킨다. 매주 발표하는게 뭐 어때서? 할 수 있는데 발표하기",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

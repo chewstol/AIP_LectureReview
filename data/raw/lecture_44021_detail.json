@@ -1,0 +1,338 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504628",
+        "bookTitle": "학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 김종규, 이기백, 김치헌, 김상현",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 25000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/8e515a7a7bbce838fee84334aa7a46b476fd36a15c7ee49940e75ba71e8fe3d0/1640670223069_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979867176",
+        "bookTitle": "학술적 글쓰기(글쓰기와 커뮤니케이션 02)",
+        "bookAuthor": "손동현, 원만희, 박정하, 배식한, 박상태",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 13000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/c7915e544d46db8d23577ea0eb34017b6d93e61b66f01973e26a2dcd9813a792/1535900449150_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979869453",
+        "bookTitle": "학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 박상태, 한기호, 김상현",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 13000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/c820f703f40ae0ea4fcd3c2a321b0692bae458946a2ca2952c5f5c7c2c18f14f/1566396590499_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500606",
+        "bookTitle": "비판적 사고 학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 박상태, 한기호, 김상현, 이창후",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/90f36604407c7c52b7a6ac7a168b6aa4bf1cb7cb46773bf2c98ff44c8a570aa7/1693236428999_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "최종 에세이는 그냥 주제 무조건 특이하게 잡고 글 잘쓰면 될거같아요…\n교",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.41,
+        "count": 135,
+        "items": [
+          {
+            "value": 5,
+            "count": 40
+          },
+          {
+            "value": 4,
+            "count": 34
+          },
+          {
+            "value": 3,
+            "count": 26
+          },
+          {
+            "value": 2,
+            "count": 11
+          },
+          {
+            "value": 1,
+            "count": 24
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 135,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 71
+            },
+            {
+              "text": "많음",
+              "count": 63
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 135,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 59
+            },
+            {
+              "text": "많음",
+              "count": 75
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 135,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 52
+            },
+            {
+              "text": "보통",
+              "count": 50
+            },
+            {
+              "text": "깐깐함",
+              "count": 33
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 135,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 78
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 40
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 135,
+          "items": [
+            {
+              "text": "없음",
+              "count": 125
+            },
+            {
+              "text": "한 번",
+              "count": 3
+            },
+            {
+              "text": "두 번",
+              "count": 7
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "짜잘한 과제는 많은데 중요한 과제는 팀플 1번, 개인 1번 뿐임 심지어 팀플 과제는 책 요약만 하면 돼서 실질적으로 긴 글 쓰는건 기말 1번밖에 없음 앙 개꿀띠 ㅋㅋ",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "제발 듣지마 성적이 어떻든  그냥 듣지마. 모든 첨삭에 반말로 기분 나쁘게 첨삭을 다시는데 그 첨삭에 정확하게 원하는게 드러나지 않으시고 첨삭하심. 왜그러시는지 모르겠음 예를 들면 ‘ 이건 뭐임?’ 이런식으로. 결정",
+          "rate": 1,
+          "posvote": 6
+        }
+      ]
+    }
+  }
+}

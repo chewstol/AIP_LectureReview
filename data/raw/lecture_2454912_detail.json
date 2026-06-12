@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791132110880",
+        "bookTitle": "Bodie의 기본투자론",
+        "bookAuthor": "ZVI Bodie, ALEX Kane, Alan Marcus",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 40000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/5cc1133dfb40389729e9feb11c0689e251e405d1bae7119630732b53a0401ac9/1758021571609_0.jpg"
+      },
+      {
+        "bookIsbn": "9781265450090",
+        "bookTitle": "Essentials of Investments",
+        "bookAuthor": "ZVI Bodie, ALEX Kane, Marcus",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 54000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/1807470d934bdb46c7ea290df236fc147a71173fccb66cf285194ba2199fb536/1742013518301_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132102274",
+        "bookTitle": "기본투자론",
+        "bookAuthor": "ZVI Bodie, Alex Kane, Alan J Marcus",
+        "bookPublisher": "맥그로힐에듀케이션코리아",
+        "bookPrice": 38000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/eb87851868fac3a3c275bfc1b8a8539af007878add9b89fbc942620c11fa18e3/1691231727305_0.jpg"
+      },
+      {
+        "bookIsbn": "9781260288391",
+        "bookTitle": "Essentials of Investments",
+        "bookAuthor": "ZVI Bodie, ALEX Kane, Alan J. Marcus",
+        "bookPublisher": "McGraw Hill Education",
+        "bookPrice": 49000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/6610c90ba1c53122e3014722094d371e6551e9a2606d482f2cbd7f74e4935b66/1677151741677_0.jpg"
+      },
+      {
+        "bookIsbn": "9781260091908",
+        "bookTitle": "Fundamentals of Corporate Finance",
+        "bookAuthor": "Ross",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 50000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/fb400912c8bb79e403125d17ca91328b8fceb291e3cc1da269dc49ec0b5a9d62/1630298950644_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교안에 나온 예제와 과제 문제에서 약간 변형되어 나오니 교안예제와 과제를",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.07,
+        "count": 102,
+        "items": [
+          {
+            "value": 5,
+            "count": 44
+          },
+          {
+            "value": 4,
+            "count": 33
+          },
+          {
+            "value": 3,
+            "count": 17
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 102,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 53
+            },
+            {
+              "text": "많음",
+              "count": 45
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 102,
+          "items": [
+            {
+              "text": "없음",
+              "count": 97
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 102,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 66
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 102,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 84
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 6
+            },
+            {
+              "text": "복합적",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 102,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 101
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "수업을 처음 들었다\n재미있고 쉬웠다\n이제 벌써 5주차다\n뭔가 조금 어려워진 것 같다\n7주차까지 듣고 중간고사를 봤다\n어렵다 시험 문제가 이해가질 않는다\n어느덧 10주차가 되었다\n너무 어렵다\n12주차 강의를 듣는다\n내",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "듣지 마세요 … 영어로 수업하는데 진짜 하나도 못알아듣겠고 다들 못알아듣는데 맨날 any questions? 하시는데 항상 정적입니다 그와중에 진도는 쭉쭉 빼서 1/3 지나고부터는 반포기상태로 들었네요 매주 퀴즈보는",
+          "rate": 1,
+          "posvote": 8
+        }
+      ]
+    }
+  }
+}

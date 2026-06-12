@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788937833663",
+        "bookTitle": "돈으로 살 수 없는 것들",
+        "bookAuthor": "마이클 샌델",
+        "bookPublisher": "와이즈베리",
+        "bookPrice": 18000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/7e322da00428ba78e31afcd4a11913b8ed8297bf600103ecfe09c18178c8af6b/1677460743428_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "모르겠어요;;;\n걍 수업 듣는거...? 이렇게 주관적인(?) 시험은 처음",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 12
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 7
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.18,
+        "count": 112,
+        "items": [
+          {
+            "value": 5,
+            "count": 48
+          },
+          {
+            "value": 4,
+            "count": 46
+          },
+          {
+            "value": 3,
+            "count": 12
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 112,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 82
+            },
+            {
+              "text": "많음",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 112,
+          "items": [
+            {
+              "text": "없음",
+              "count": 95
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 112,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 50
+            },
+            {
+              "text": "보통",
+              "count": 58
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 112,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 14
+            },
+            {
+              "text": "전자출결",
+              "count": 72
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 15
+            },
+            {
+              "text": "복합적",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 112,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 41
+            },
+            {
+              "text": "두 번",
+              "count": 71
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "공대생들에게는 너무나 귀찮은 수업일테지만 생각의 지평을 넓혀주는 수업이다. 공학도들이 한번씩 들어보며 이런 관점도 있구나 라고 생각했으면 좋겠다.",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "전혀 필요없는 내용이라고 생각하며 툭하면 실시간 강의 지각한다. 과제 점수도 그닥 잘 주지 않으며 학점도 잘 주는 편 같지는 않아보인다. 제발 수업 좀 늦지 않았으면 좋겠다.",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

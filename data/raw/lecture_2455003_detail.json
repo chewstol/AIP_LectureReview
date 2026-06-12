@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 4.55,
+        "count": 11,
+        "items": [
+          {
+            "value": 5,
+            "count": 8
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 11,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 11,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 11,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 11,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 11,
+          "items": [
+            {
+              "text": "없음",
+              "count": 10
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 1
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "도시라는 공간 속에서 사회경제적 지위나 인종 젠더에 따라 건강격차가 어떻게 나타나는지 배웁니다. 현실 생활과 많이 맞닿는 부분이 있어서 재밌게 들을 수 있습니다. \n\n다만 논문을 매주 리딩하면서 진행되는 수업방식이기",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "교수님은 참 좋으신데 한국 대학, 특히 학점에 목매는 한국 기업 취업 준비하는 대학생들에겐 참 너무 하다 싶을 정도로 학부생에게 바라는 수준이 너무 높으신 듯 .. 진ㅋ짜 매번 수업 다 열심히 논문 다 읽어가고 오피",
+          "rate": 3,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

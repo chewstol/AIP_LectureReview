@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788998308100",
+        "bookTitle": "고체전자공학",
+        "bookAuthor": "Ben G Streetman, Sanjay Kumar Banerjee",
+        "bookPublisher": "성진미디어",
+        "bookPrice": 35000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/2a4a5bcb8f9b4acba6b2475a3c56336b62513c751d7cf88bc63d8582359dc216/1592746659690_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교안에 있는 내용들에서 전부 츨제됩니다. 문제 풀이보다는 증명 문제가 꽤",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.75,
+        "count": 20,
+        "items": [
+          {
+            "value": 5,
+            "count": 16
+          },
+          {
+            "value": 4,
+            "count": 3
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 20,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 20,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 20,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 17
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 20,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 9
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 20,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 17
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "물리과에서 교양같은 과목이라고 생각했는데, \n꼭 필요한 수식만으로 유도과정을 깔끔히 정리한 \n교안이 보기 좋습니다. 교수님의 설명도 이해가 잘되고 \n막학기 취준생들에게 많은 도움이 될 것 같습니다",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "받은학점 : B+\n\n3-1에 처음으로 들은 전공 일반 과목입니다.\n다른 전공일반 과목의 난이도를 잘 몰라서 제가 이러는걸 수도 있는데 반도체 노베가 듣기에 꽤 어렵습니다.\n\n대부분 전전 복전으로 물리전자 수강하면서",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9782278093137",
+        "bookTitle": "Bonjour Et Bienvenue ! Livre + CD  안녕하세요 프랑스어 입문",
+        "bookAuthor": "Xxx",
+        "bookPublisher": "Didier",
+        "bookPrice": 27000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/6d563525e2de3541a2a57a8e84ea67823a8f206e1d2f75a7664eb396cacfd57b/1678021645420_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "일단 매 과마다 본문은 모두 외우세요! 한국어 보고 프랑스어로 완벽하게 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 15,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 14
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.38,
+        "count": 63,
+        "items": [
+          {
+            "value": 5,
+            "count": 33
+          },
+          {
+            "value": 4,
+            "count": 21
+          },
+          {
+            "value": 3,
+            "count": 9
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 63,
+          "items": [
+            {
+              "text": "없음",
+              "count": 48
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 63,
+          "items": [
+            {
+              "text": "없음",
+              "count": 61
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 63,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 39
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 63,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 22
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 36
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 63,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 59
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "강의력이 별로 좋지는 않으시지만 시험이 엄청 쉬워서 노베여도 에이쁠 무난하게 맞을 수 있고 과제도 녹음과제 딱 한번 있었어요 개꿀강의를 원한다면 무조건 들으시길 바랍니다",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "일단 기초 프랑스어라서 쉬울 줄 알았는데요. 되게 점수 깜깜하게 주시고 평소를 쓸 때 하나하나 다 맞아야 돼요. 아니면 랩터라도 틀려도 점수 깎입니다. 그리고 중간고사 있고 기말 고사는 또 있고 그리고 발표도 있어요",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

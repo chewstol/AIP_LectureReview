@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "교안만 열심히 봐도 잘 풀 수 있어요\n특히 교안의 워딩을 잘 기억해두세요",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 4
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.29,
+        "count": 28,
+        "items": [
+          {
+            "value": 5,
+            "count": 19
+          },
+          {
+            "value": 4,
+            "count": 3
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 17
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 26
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 28,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 12
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 28,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 8
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 17
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 24
+            },
+            {
+              "text": "두 번",
+              "count": 3
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "과제도 많지 않고 부담스럽지 않은 과제라 수월하게 할수있습니다.교수님께서 풀수업하시고 조별토론이나 그런건 거의 없고 부담스럽지 않게 편하게 들을 수 있는 수업입니다. 시험은 기말 한번으로 책내용만 잘 숙지하시면 풀수",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "중간고사 그냥 레전드임 에타 말 믿지마셈… 공부한거 걍 의미없게 만들어버림 공부한 시간 개아까움 공부안한 사람이 승자인듯",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

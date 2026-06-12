@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "기말고사는 매우 간단한 개념이 출제되고 시험 범위 또한 매우 좁기 때문에",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4,
+        "count": 42,
+        "items": [
+          {
+            "value": 5,
+            "count": 19
+          },
+          {
+            "value": 4,
+            "count": 10
+          },
+          {
+            "value": 3,
+            "count": 8
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 39
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 39
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 42,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 26
+            },
+            {
+              "text": "보통",
+              "count": 16
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 42,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 3
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 39
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 41
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "- 질문은 수업 시간에만 받으셔요\n- 수업은 다 영어로 합니다\n- 예전 족보들대로 안 나오고 특정 파트 중심으로 개념 이해해야 풀 수 있는 문제들로 나와요 (시험 시간 40분 / 거의 단답형 / 중간고사 때는 hom",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "기말고사가 3년연속 문제가 똑같음. 족보없으면 거르는것이 정신건강에 이로움. 중간족보 못구해서 피봤음. 교수가 기출도는거 알면서도 시험문제 안바꾸는게 유머.",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

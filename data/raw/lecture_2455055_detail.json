@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155501658",
+        "bookTitle": "말하기 능력을 키우는 발표의 기술",
+        "bookAuthor": "김경훤, 홍은실, 현원숙, 김희경, 오광근, 유하라",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/c9d85256e70f8770748e64b311743c9ac3f6a5dee6e177e04f347d0799e64cf9/1644261181172_0.jpg"
+      }
+    ],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 3.5,
+        "count": 6,
+        "items": [
+          {
+            "value": 5,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 2
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 6,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 6,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 6,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 6,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 1
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 5
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 6,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 3
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "수업은 간단하고 교수님 진짜 친절하십니다\n중간시험은 조발표 동영상으로 학교를 소개하는 과제\n기말은 개인 정하는 주제으로 발표",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "강의력도별로인데깐깐하긴겁나깐깐함 \n그냥 교수 본인 마음에 안 들면 점수 안 주고 들어갑니다\n교수님 비위에 맞춰드려야해요",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

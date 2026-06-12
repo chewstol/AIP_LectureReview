@@ -1,0 +1,277 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788966188888",
+        "bookTitle": "한국문학강의",
+        "bookAuthor": "조동일, 서대석, 이혜순, 김대행, 박희병, 오세영",
+        "bookPublisher": "길벗",
+        "bookPrice": 19500,
+        "price": 2900,
+        "coverImage": "https://cf-cii.everytime.kr/38483d050b2cb205beb46e826d7c25722a2049071f76c9163026015341edcb0f/1640533093337_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "비교 서술하는 문제가 많이 나옵니다 예시는 기억나는 대로만 적었어요",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 39,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 12
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 28
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 15,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 12
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.46,
+        "count": 151,
+        "items": [
+          {
+            "value": 5,
+            "count": 89
+          },
+          {
+            "value": 4,
+            "count": 44
+          },
+          {
+            "value": 3,
+            "count": 16
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 151,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 126
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 151,
+          "items": [
+            {
+              "text": "없음",
+              "count": 23
+            },
+            {
+              "text": "보통",
+              "count": 127
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 151,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 31
+            },
+            {
+              "text": "보통",
+              "count": 82
+            },
+            {
+              "text": "깐깐함",
+              "count": 38
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 151,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 4
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 146
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 151,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "한 번",
+              "count": 22
+            },
+            {
+              "text": "두 번",
+              "count": 122
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "저도 필기는 노트북으로 했고요 학점은 워낙 열심히 하는 분이 많아서 기대하지 않았는데\n잘 나왔어요. 교수님께서 정말 똑똑하시고 부담 없는 수업이라 좋았어요. 저는 이번 학기에 들은 수업 중 제일 만족스러웠습니다. 페",
+          "rate": 5,
+          "posvote": 17
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "교수님은 좋으나\n중간, 기말 시험이 서술형인데, 채점기준을 모르겠음\n과제, 팀플, 답안 작성 잘 한 것 같은데 비쁠나옴 \n타전공생은 다른거 들어요 핵균으로 듣기 좋은 과목이 아님",
+          "rate": 2,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

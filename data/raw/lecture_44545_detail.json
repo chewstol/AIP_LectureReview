@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788955017366",
+        "bookTitle": "Excel 2019를 활용한 데이터 분석",
+        "bookAuthor": "김종욱",
+        "bookPublisher": "신영사",
+        "bookPrice": 37000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/21c6f38bed37ffc6d602364a00acbf6d238e44f24c034bab6f94fe5f63fabee9/1706887665527_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955014679",
+        "bookTitle": "경영의사결정",
+        "bookAuthor": "김종욱",
+        "bookPublisher": "신영사",
+        "bookPrice": 35000,
+        "price": 4500,
+        "coverImage": "https://cf-cii.everytime.kr/931478f3f04b230de727148208c128a62577c07c9c4b4ced6029e0ba44697fce/1709484166541_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사, 기말고사 (기말이 더 어려움) 둘 다\n평소 수업시간에 딴짓 안",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 5
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.62,
+        "count": 351,
+        "items": [
+          {
+            "value": 5,
+            "count": 248
+          },
+          {
+            "value": 4,
+            "count": 77
+          },
+          {
+            "value": 3,
+            "count": 21
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 351,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 280
+            },
+            {
+              "text": "많음",
+              "count": 65
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 351,
+          "items": [
+            {
+              "text": "없음",
+              "count": 324
+            },
+            {
+              "text": "보통",
+              "count": 24
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 351,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 188
+            },
+            {
+              "text": "보통",
+              "count": 157
+            },
+            {
+              "text": "깐깐함",
+              "count": 6
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 351,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 112
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 217
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 351,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 347
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "엑셀 노베였는데 걱정안해도 될만큼 교수님이 정말 잘 알려주십니다! 노베여서 쫄 필요 없는 것 같아요 시험보기 전에 문제 한번씩 풀어보고 헷갈리는 것만 다시 해보는 식으로 공부하면 충분히 모든 문제 풀 수 있는 것 같",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "노베이스면 듣지 마세요. 잘하시는분들 너무 많아요.\n중간 100점 만점 평균 93점이고 중간값도 높아요.",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

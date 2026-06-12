@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781292229478",
+        "bookTitle": "Campbell Biology: Concepts & Connections, Global Edition",
+        "bookAuthor": "없음",
+        "bookPublisher": "없음",
+        "bookPrice": 164400,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/cd49c4d152aff9cb3cf2d246fa0e3dd7fcebd6269adb2d67cfa6e2d3c491d48d/1599404807628_0.jpg"
+      },
+      {
+        "bookIsbn": "9788961542814",
+        "bookTitle": "생명과학(개념과 현상의 이해)",
+        "bookAuthor": "Taylor, simon, dicky, hogan, reexe",
+        "bookPublisher": "라이프사이언스",
+        "bookPrice": 35000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/8409b768031d951a0e382380990d815b7b0a3417118f49b0c27683e786bc25ec/1714785880292_0.jpg"
+      },
+      {
+        "bookIsbn": "9780321761583",
+        "bookTitle": "Campbell Biology: Concepts and connections",
+        "bookAuthor": "Jane B. Reece",
+        "bookPublisher": "Pearson Education Asia",
+        "bookPrice": 47000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/9060093f81f6f0de7ac1fa2ee398045d80859765110e8e277f4c56c9b00ba4aa/1578558876603_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "단원별로 10문제씩 70문제를 60분동안 풀었습니다. 4개 중 하나 고르",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.24,
+        "count": 59,
+        "items": [
+          {
+            "value": 5,
+            "count": 30
+          },
+          {
+            "value": 4,
+            "count": 21
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 59,
+          "items": [
+            {
+              "text": "없음",
+              "count": 53
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 59,
+          "items": [
+            {
+              "text": "없음",
+              "count": 55
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 59,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 31
+            },
+            {
+              "text": "보통",
+              "count": 24
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 59,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 20
+            },
+            {
+              "text": "전자출결",
+              "count": 11
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 20
+            },
+            {
+              "text": "복합적",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 59,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 9
+            },
+            {
+              "text": "두 번",
+              "count": 49
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "2017 1학기 기준 중간50 기말50으로 학점매기심\n출석안들어간다고 하지만 가끔씩 출석체크 하실때가 있음(플러스달때 출석여부로 다신다는 소리가있긴하나 사실여부는 잘모르겠음)\n생명과학 다른분반 수업 자리가 없어서 들",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2015,
+          "semester": "1",
+          "text": "한양대 출신 교수라 한양대 자랑만 오지게 함.... 성대랑 계속 비교하고 수업도 못하고 과제도 비효율적인거 내주고 도움이 안되는 수업..",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

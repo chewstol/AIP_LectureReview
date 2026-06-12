@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788968240768",
+        "bookTitle": "핵심유전학",
+        "bookAuthor": "William S. Klug, Cummings Michael R., Charlotte A Spencer, Michael A. Palladino",
+        "bookPublisher": "바이오사이언스출판",
+        "bookPrice": 32000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/0515d7f1047ab066c73426ec72d7d6e6513f3da60cb7842442d2460180c50959/1709959561784_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교과서보다는 교수님 피피티만 잘 따라가면 될 듯합니다.\n교수님이 이런데서",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 14
+            },
+            {
+              "text": "주관식",
+              "count": 14
+            },
+            {
+              "text": "T/F형",
+              "count": 8
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 5
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.67,
+        "count": 140,
+        "items": [
+          {
+            "value": 5,
+            "count": 106
+          },
+          {
+            "value": 4,
+            "count": 26
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 140,
+          "items": [
+            {
+              "text": "없음",
+              "count": 130
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 140,
+          "items": [
+            {
+              "text": "없음",
+              "count": 136
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 140,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 69
+            },
+            {
+              "text": "보통",
+              "count": 68
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 140,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 24
+            },
+            {
+              "text": "전자출결",
+              "count": 44
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 50
+            },
+            {
+              "text": "복합적",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 140,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 140
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "융생과목 통틀어서 이정도 강의력인 교수님은 처음인 것 같습니다. 정말 설명 잘해주시고 강의듣고 피피티만 봐도 충분합니다. 중간고사때는 한만큼 나온다 이런느낌이라면 기말고사때에는 정말 어렵다였습니다. 답이 여러개라 정",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "개인적으로 교수님 목소리 알아듣기가 힘듦니다. 국제어라 영어도 섞어서 수업하시는데 말이 너무 빨라서 수업 못 따라가겠어요. 시험도 어렵고 학점도 깐깐한 것 같습니다.",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155501740",
+        "bookTitle": "창의적 사고 소통의 글쓰기",
+        "bookAuthor": "김경훤, 김미란, 김성수",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/28f6c3d044998d041e445edfc001d20423e9efe20bc7c6cad9e660ad7eb897c7/1778505543192_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "하나를 가르치시고 학생에게 열을 알 것을 요구하는 시험은 아니었음. 과장",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.88,
+        "count": 41,
+        "items": [
+          {
+            "value": 5,
+            "count": 37
+          },
+          {
+            "value": 4,
+            "count": 3
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 41,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 32
+            },
+            {
+              "text": "많음",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 41,
+          "items": [
+            {
+              "text": "없음",
+              "count": 38
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 41,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 34
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 41,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 6
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 32
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 41,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 33
+            },
+            {
+              "text": "두 번",
+              "count": 7
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "진짜최고의 교수님 수강신청 경쟁률 6:1 7:1 성공한 보람이 있어요 학점도 잘 주시고 글쓰기 피드백도 세세하게 해주셨음 ㅠ 개인적인 꿀팁으로는 에타 시험정보에서 좋아요 17개? 받은 시험정보 열람하면 도움 되실 것",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "진짜 교수의 문제가 아니고 과목에 구조적인 문제가 있음 오히려 교수님이 나서서 절대평가로의 전환을 외치심",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

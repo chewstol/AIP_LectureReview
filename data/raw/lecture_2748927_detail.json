@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "2090000016222",
+        "bookTitle": "일반물리학실험",
+        "bookAuthor": "성대물리학과",
+        "bookPublisher": "북스힐",
+        "bookPrice": 12000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/f6bb5ac1981b080b5e694892bdb5289c70b1d5ae7108c6cd7d41d014b3257e42/1693390603526_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험이 없었고 실험 발표로 대체했습니다.\n실험 발표는 수업 땨 했던 실험",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.8,
+        "count": 30,
+        "items": [
+          {
+            "value": 5,
+            "count": 24
+          },
+          {
+            "value": 4,
+            "count": 6
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 30,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 19
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 30,
+          "items": [
+            {
+              "text": "없음",
+              "count": 10
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 30,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 30,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 0
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 15
+            },
+            {
+              "text": "복합적",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 30,
+          "items": [
+            {
+              "text": "없음",
+              "count": 28
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "제가 들은 강의중 최고였어요. 이거 안듣는 분들은 인생 절반 손해보는 겁니다.",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "실험 과목 자체가 그렇겠지만 매주 실험하고 보고서쓰고 엄청 귀찮아요. 필수로 들어야하는거 아니면 굳이 안들으시는게..",
+          "rate": 4,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

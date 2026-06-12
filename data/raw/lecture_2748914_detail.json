@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791190398220",
+        "bookTitle": "틸리 서양철학사",
+        "bookAuthor": "Frank Thilly",
+        "bookPublisher": "현대지성",
+        "bookPrice": 25000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/fe0418af868064d4b79d13b9e1e1357cd7da447b0006fe99165d581ca0563116/1724894675209_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님이 시험 일주일 전 제공하신 세 문제 중 1 문제 + 시험 당일 날",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 33,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 12
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 22
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 13
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.42,
+        "count": 132,
+        "items": [
+          {
+            "value": 5,
+            "count": 69
+          },
+          {
+            "value": 4,
+            "count": 52
+          },
+          {
+            "value": 3,
+            "count": 9
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 132,
+          "items": [
+            {
+              "text": "없음",
+              "count": 130
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 132,
+          "items": [
+            {
+              "text": "없음",
+              "count": 132
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 132,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 35
+            },
+            {
+              "text": "보통",
+              "count": 88
+            },
+            {
+              "text": "깐깐함",
+              "count": 9
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 132,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 75
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 48
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 132,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 132
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "강의 내용은 심화된 게 좀 있어 어려울 수 있지만, 수업 내용이 유익했고 생각해볼 점이 많아서 좋았습니다. 그라고 교수님도 친절하시고 좋으십니다!",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "진짜.. 교수님 말투 때문에 집중 1도 안됨.. 나만 그런걸수도 있는데 ~보시면 될 것 같습니다 ~라고 생각하시면 될 것 같습니다 모든 문장이 이렇게 끝나서 ㄹㅇ.. 뭐랄까 집중이 하나도 안됨",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

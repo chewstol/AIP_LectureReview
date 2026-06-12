@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "핸드아웃에서 거의 다 나옵니다. 수업시간에 집중 잘 했으면 다 어렵지 않",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.1,
+        "count": 134,
+        "items": [
+          {
+            "value": 5,
+            "count": 71
+          },
+          {
+            "value": 4,
+            "count": 26
+          },
+          {
+            "value": 3,
+            "count": 24
+          },
+          {
+            "value": 2,
+            "count": 5
+          },
+          {
+            "value": 1,
+            "count": 8
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 134,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 58
+            },
+            {
+              "text": "많음",
+              "count": 72
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 134,
+          "items": [
+            {
+              "text": "없음",
+              "count": 49
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "많음",
+              "count": 51
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 134,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 62
+            },
+            {
+              "text": "깐깐함",
+              "count": 40
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 134,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 101
+            },
+            {
+              "text": "지정좌석",
+              "count": 3
+            },
+            {
+              "text": "직접호명",
+              "count": 19
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 134,
+          "items": [
+            {
+              "text": "없음",
+              "count": 30
+            },
+            {
+              "text": "한 번",
+              "count": 37
+            },
+            {
+              "text": "두 번",
+              "count": 64
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "이 수업은 해외 기업에 지원 과정을 공부하는 과목입니다. 그 인사이트에는 결국 국내 기업 지원과 교집합이 있기때문에 3~4학년이 수강하는 것이 가장 좋을 거 같습니다. 절대평가이고, 평가 결과를 모두 알려주는데, 아",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2023,
+          "semester": "겨울",
+          "text": "계절로들었는데 시험2번 중간이력서, 기말 인터뷰까지 2학점인데 해야할건 많고, 성적컷은 절평인데 더럽게높아서 강평안쓰는데도 쓰레기라 쓰러왔다",
+          "rate": 1,
+          "posvote": 8
+        }
+      ]
+    }
+  }
+}

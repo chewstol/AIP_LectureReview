@@ -1,0 +1,311 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791158902919",
+        "bookTitle": "기사 작성의 기초",
+        "bookAuthor": "이재경, 송상근",
+        "bookPublisher": "이화여자대학교출판문화원",
+        "bookPrice": 19000,
+        "price": 14000,
+        "coverImage": "https://cf-cii.everytime.kr/4ac73364c532e57cf1afe4659cff148f141f409d4fbdc2a1e412ae0a0967f110/1606808480496_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "과제는 정말 준비 안 하셔도 됩니다… 수업시간에 과제 전 예시문제들 내주",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "3차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "4차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.43,
+        "count": 120,
+        "items": [
+          {
+            "value": 5,
+            "count": 74
+          },
+          {
+            "value": 4,
+            "count": 29
+          },
+          {
+            "value": 3,
+            "count": 13
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 120,
+          "items": [
+            {
+              "text": "없음",
+              "count": 13
+            },
+            {
+              "text": "보통",
+              "count": 103
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 120,
+          "items": [
+            {
+              "text": "없음",
+              "count": 113
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 120,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 73
+            },
+            {
+              "text": "보통",
+              "count": 47
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 120,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 4
+            },
+            {
+              "text": "전자출결",
+              "count": 65
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 35
+            },
+            {
+              "text": "복합적",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 120,
+          "items": [
+            {
+              "text": "없음",
+              "count": 90
+            },
+            {
+              "text": "한 번",
+              "count": 10
+            },
+            {
+              "text": "두 번",
+              "count": 12
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 6
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "아침 9시 수업만 빼면 모든게 완벽한 수업\n수업도 알차고 배우는게 많고 무엇보다 교수님이 너무 착하세요 학생들의 요구 다 받아주시는 교수님,, 그래서 성실히 하는 사람이라면 불만이 있을수도 있어요 (출결 늦게와도 앞",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "역대급 수업임 일단 강의력의 큰부분을 차지하는 전달력이 너무 안좋음. 어조가  강의와 아예 맞지 않는 분임",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

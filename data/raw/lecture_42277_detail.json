@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791190017022",
+        "bookTitle": "신호와 시스템",
+        "bookAuthor": "Simon Haykin, Barry Van Veen",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 39000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/ccfee5b66798579d22329a65808e9568e4379263f748841b0d460c578348100e/1709214895017_0.jpg"
+      },
+      {
+        "bookIsbn": "9791185475028",
+        "bookTitle": "신호 및 시스템",
+        "bookAuthor": "Alan V. Oppenheim, Alan S. Willsky, S Hamid Nawab",
+        "bookPublisher": "퍼스트북",
+        "bookPrice": 38000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/34cf16993ea01a0352c8dd59d796363fc58105f07a57a79c5d837130c873f8d8/1599237700495_0.jpg"
+      },
+      {
+        "bookIsbn": "9788971291658",
+        "bookTitle": "신호와 시스템",
+        "bookAuthor": "SIMON HAYKIN",
+        "bookPublisher": "범한서적",
+        "bookPrice": 30000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/7791e729c505d5d317cc66b00c75f6f9970442aebbf2a5a4231bad945e6bdcc7/1519176261309_0.jpg"
+      },
+      {
+        "bookIsbn": "9780471378518",
+        "bookTitle": "Signals and Systems",
+        "bookAuthor": "Simon Haykin, Barry Van Veen",
+        "bookPublisher": "Wiley",
+        "bookPrice": 69000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/5992712bd5efaea1d50b8c108134ee92577786c4519d4ea34410d0d88ea86604/1755389288559_0.jpg"
+      },
+      {
+        "bookIsbn": "9788970508542",
+        "bookTitle": "신호 및 시스템",
+        "bookAuthor": "강철호, 유지상, 박호종",
+        "bookPublisher": "생능출판",
+        "bookPrice": 29000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/0335951d67483ed4963ee2e8ad60844424c171a98099e0c4cde35d2f5f79e7e8/1600079452277_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "21학년도 족보랑 틀은 완전같고 문제도 70%겹치게 나옴\n- 컨벌루션계산",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.45,
+        "count": 114,
+        "items": [
+          {
+            "value": 5,
+            "count": 21
+          },
+          {
+            "value": 4,
+            "count": 35
+          },
+          {
+            "value": 3,
+            "count": 42
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 10
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 114,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 80
+            },
+            {
+              "text": "많음",
+              "count": 29
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 114,
+          "items": [
+            {
+              "text": "없음",
+              "count": 89
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 114,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 73
+            },
+            {
+              "text": "깐깐함",
+              "count": 9
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 114,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 60
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 49
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 114,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 111
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "한국 힙합의 한 획을 그을만한 멈블랩 장인. 23년간 겪던 기면증을 치료해주신 민간 치료의 살아있는 거장. 수업듣기가 매우 힘들긴 한데 교수님이 착하시고 학점은 잘주심. 과제는 정성을 평가하시므로 열심히 풀었다 하는",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "없어져야하는 과목, 수업은 뭐 워낙 개인차 심하니까 넘어간다 쳐도, 시험은 족보 도배ㅋㅋㅋ그냥 족보 사재기 많이 하면 100점ㅋㅋ시험 어려워도 다 족보있어서 평균 높고 족보 없어면 그냥 드랍ㄱㄱ",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

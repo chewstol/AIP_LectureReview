@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "교안을 보고 공부하시면 됩니다. 강의를 듣고 전반적으로 이해하는 것이 중",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 46,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 44
+            },
+            {
+              "text": "주관식",
+              "count": 44
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 16
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 36,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 36
+            },
+            {
+              "text": "주관식",
+              "count": 31
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 23
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.97,
+        "count": 302,
+        "items": [
+          {
+            "value": 5,
+            "count": 98
+          },
+          {
+            "value": 4,
+            "count": 127
+          },
+          {
+            "value": 3,
+            "count": 58
+          },
+          {
+            "value": 2,
+            "count": 8
+          },
+          {
+            "value": 1,
+            "count": 11
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 302,
+          "items": [
+            {
+              "text": "없음",
+              "count": 10
+            },
+            {
+              "text": "보통",
+              "count": 153
+            },
+            {
+              "text": "많음",
+              "count": 139
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 302,
+          "items": [
+            {
+              "text": "없음",
+              "count": 273
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 302,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 55
+            },
+            {
+              "text": "보통",
+              "count": 204
+            },
+            {
+              "text": "깐깐함",
+              "count": 43
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 302,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 31
+            },
+            {
+              "text": "전자출결",
+              "count": 212
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 51
+            },
+            {
+              "text": "복합적",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 302,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 24
+            },
+            {
+              "text": "두 번",
+              "count": 278
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "학점은 모르겠는데 아캠강의 중 처음으로 들음\n아마 강의력은 우리학교에서 손꼽히는거같은데 ㄹㅇ 책보다 아캠들으면서 공부하는게 더 집중잘되는 강의는 처음봤음\n학점과 별개로 지식이 쌓이는게 느껴져서 만족스러웠던 강의",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "노베면 그냥 듣지 마세요. 스트레스 오지게 받음ㅠㅠ",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

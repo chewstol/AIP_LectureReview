@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788981340346",
+        "bookTitle": "회귀분석",
+        "bookAuthor": "박성현",
+        "bookPublisher": "민영사",
+        "bookPrice": 25000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/13df4845f6a7158d88a7fba941978e5cb2acf2184281dde991152b89e3104d67/1733540820003_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험 1주일 전에 교수님께서 작년 중간고사 문제를 올려 주십니다.\n이를 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.67,
+        "count": 9,
+        "items": [
+          {
+            "value": 5,
+            "count": 7
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 9,
+          "items": [
+            {
+              "text": "없음",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 9,
+          "items": [
+            {
+              "text": "없음",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 9,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 9,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 6
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 3
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 9,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 9
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "코로나 학기여서 전면 온라인 + 녹화강의였고, 거의 대부분 새로 찍으신 것 같습니다. 과제는 전혀 없었고, 대신 교수님이 강의에서 추가적으로 혼자 해보라고 제출할 필요 없는 과제를 내주셨습니다. 중간/기말 두번으로",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "수업은 사전 녹화 강의와 현장 강의로 이루어지며, 현장 강의에서는 학생들의 질문을 받고 녹화 강의에서 생략된 증명을 보충합니다. 그러나 녹화 강의의 분량이 많지 않고 일부 내용이 자세한 설명 없이 넘어가는 경우가 많",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

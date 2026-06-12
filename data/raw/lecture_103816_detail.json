@@ -1,0 +1,342 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781265577568",
+        "bookTitle": "Chemistry",
+        "bookAuthor": "제이슨 오버비",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 65000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/8342aeb40507f250d9e794ea5d0696e595e31e7527a9d211188c2c46137954cc/1772507978238_0.jpg"
+      },
+      {
+        "bookIsbn": "9780618528448",
+        "bookTitle": "Chemistry : Text",
+        "bookAuthor": "Zumdahl Steven",
+        "bookPublisher": "Houghton Mifflin",
+        "bookPrice": 103260,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/c7c06cccc7d50b754178caaad40039e5a0e91e3e462626a3d65b974a6d353350/1578221142684_0.jpg"
+      },
+      {
+        "bookIsbn": "9781260085310",
+        "bookTitle": "Chemistry",
+        "bookAuthor": "Raymond Chang, 제이슨 오버비",
+        "bookPublisher": "McGraw Hill Education",
+        "bookPrice": 55000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/5e0f62aa072ef25eac834fb3f399e172d1b643412dce54e90b9524905f104bf1/1755260771650_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184358",
+        "bookTitle": "줌달의 일반화학",
+        "bookAuthor": "스티븐 S. 줌달",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 56000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/ff27e6e45fef8ca3d95b7e48afbcf9c3fbea78fc6bd1ca8a87e8fb6ddb08038c/1770864286342_0.jpg"
+      },
+      {
+        "bookIsbn": "9791188731008",
+        "bookTitle": "일반화학(레이먼드 창의)(12판)",
+        "bookAuthor": "Raymond Chang, Kenneth A Goldsby",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 53000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/5277ee9607d792779481d35150e6becdf7361ba04ec848f47b47a55471296d88/1677492834781_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184303",
+        "bookTitle": "기본일반화학(줌달의)(8판)",
+        "bookAuthor": "화학교재연구회",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 42000,
+        "price": 27000,
+        "coverImage": "https://cf-cii.everytime.kr/f7084ff49a99f75088d2c535d17b1919b78d1bcfad3f250c5f3d9e7b73efc101/1520257800879_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184327",
+        "bookTitle": "줌달의 일반화학(9판)",
+        "bookAuthor": "스티븐 S. 줌달",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 53000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/c624e8a339607ee34487b1c4b1e295bd3e5edf373412992e30eeba9dc49703f3/1654788928463_0.jpg"
+      },
+      {
+        "bookIsbn": "9788995737705",
+        "bookTitle": "일반화학 7판",
+        "bookAuthor": "WHITTEN DAVIS",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 39000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/13ba83f651e8bb718b62a2e9b13bb4d18635e5388a177ce5ac0b4904a24fd58f/1552149174930_0.jpg"
+      },
+      {
+        "bookIsbn": "9780495391715",
+        "bookTitle": "Chemistry",
+        "bookAuthor": "Whitten Kenneth",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 48000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/55e1c1f0ebe38ba79a0f7500844c634417a7d21ae26728550ffe7890e54af711/1676013893338_0.jpg"
+      },
+      {
+        "bookIsbn": "9791158080594",
+        "bookTitle": "일반화학(7판)",
+        "bookAuthor": "McMurry, Fay, Robinson",
+        "bookPublisher": "자유아카데미",
+        "bookPrice": 49000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/b9d5100714c02a99224113564ce94400186692d77047b4c19069a0b3bc4c7440/1645247033371_0.jpg"
+      },
+      {
+        "bookIsbn": "9781133612056",
+        "bookTitle": "Chemistry",
+        "bookAuthor": "스티븐 S. 줌달",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 55000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/8732dc9158963b0c3a9c7134ea1ad593f4064e4ebc50010ad4296dd019811c73/1677770902058_0.jpg"
+      },
+      {
+        "bookIsbn": "9788992603737",
+        "bookTitle": "일반화학",
+        "bookAuthor": "스티븐 S. 줌달",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 53000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/5c0d8f7f4592d7d245b6a6c3c75aca031b653679a5811facdb23306663db8bf2/1545455169680_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간 고사 이번년도부터 공통 시험이라\n에타에 공통 족보 무료로 풀린 거 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 29,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 25
+            },
+            {
+              "text": "주관식",
+              "count": 25
+            },
+            {
+              "text": "T/F형",
+              "count": 25
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 10
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 10
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.57,
+        "count": 438,
+        "items": [
+          {
+            "value": 5,
+            "count": 287
+          },
+          {
+            "value": 4,
+            "count": 117
+          },
+          {
+            "value": 3,
+            "count": 32
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 437,
+          "items": [
+            {
+              "text": "없음",
+              "count": 31
+            },
+            {
+              "text": "보통",
+              "count": 339
+            },
+            {
+              "text": "많음",
+              "count": 67
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 437,
+          "items": [
+            {
+              "text": "없음",
+              "count": 396
+            },
+            {
+              "text": "보통",
+              "count": 40
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 437,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 196
+            },
+            {
+              "text": "보통",
+              "count": 235
+            },
+            {
+              "text": "깐깐함",
+              "count": 6
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 437,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 23
+            },
+            {
+              "text": "전자출결",
+              "count": 263
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 81
+            },
+            {
+              "text": "복합적",
+              "count": 68
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 437,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 45
+            },
+            {
+              "text": "두 번",
+              "count": 383
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "ppt좋고 발음도 듣다보면 적응됨 과제도 그냥 무난한수준 학점챙겨주시는듯",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "발음 .....인도식 영어 알아들을 수 있는 분 들으세요.... ㄹㅇ 뭔 소린지를 모르니까 일단 기력 딸리구요... 저는 화학 노베였는데 엄...허헣...갓타탄이라는데 잘 모르겠구 인증번호 너무 많음..;",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

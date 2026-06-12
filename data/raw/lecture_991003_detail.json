@@ -1,0 +1,347 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788968241147",
+        "bookTitle": "생명과학 강의노트(생명과학 교양서)",
+        "bookAuthor": "이우성",
+        "bookPublisher": "바이오사이언스출판",
+        "bookPrice": 32000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/080fc334a08d12b1b1046f27acd4a1e2aa8afcb3b9debf6a07da77eab22d3c2c/1772968178098_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979868562",
+        "bookTitle": "생명과학 강의노트(개정판)",
+        "bookAuthor": "이우성",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 30000,
+        "price": 16000,
+        "coverImage": "https://cf-cii.everytime.kr/38cd7f5e5f296010f2d2a8fb377edcb3da47475457f5a481320980333804956c/1535973097900_0.jpg"
+      },
+      {
+        "bookIsbn": "9788961542814",
+        "bookTitle": "생명과학(개념과 현상의 이해)",
+        "bookAuthor": "Taylor, simon, dicky, hogan, reexe",
+        "bookPublisher": "라이프사이언스",
+        "bookPrice": 35000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/8409b768031d951a0e382380990d815b7b0a3417118f49b0c27683e786bc25ec/1714785880292_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968240256",
+        "bookTitle": "생명과학 강의노트(3판)",
+        "bookAuthor": "이우성",
+        "bookPublisher": "바이오사이언스",
+        "bookPrice": 32000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/5d1ea9cc8973f8fc38d3612023392dc584eeca6b1bbd209d70b37d94664e05df/1725236100764_0.jpg"
+      },
+      {
+        "bookIsbn": "9788945049124",
+        "bookTitle": "생명과학(7판)(개념과현상의이해)(전2권)",
+        "bookAuthor": "Reece, Taylor, Simon, Dickey",
+        "bookPublisher": "PEARSON EDUCATION KOREA",
+        "bookPrice": 35000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/34fafd6a753e73d50a2cb6089d4dd9969dab71ff65577c4de0b48c61b436cad9/1627377853548_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "무조건 미리 기출문제나 교재 문제는 미리 적어두고 복사하는 식으로 해야 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 54,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 47
+            },
+            {
+              "text": "주관식",
+              "count": 32
+            },
+            {
+              "text": "T/F형",
+              "count": 31
+            },
+            {
+              "text": "약술형",
+              "count": 14
+            },
+            {
+              "text": "논술형",
+              "count": 13
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 60,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 36
+            },
+            {
+              "text": "주관식",
+              "count": 36
+            },
+            {
+              "text": "T/F형",
+              "count": 29
+            },
+            {
+              "text": "약술형",
+              "count": 24
+            },
+            {
+              "text": "논술형",
+              "count": 11
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "3차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.27,
+        "count": 1060,
+        "items": [
+          {
+            "value": 5,
+            "count": 574
+          },
+          {
+            "value": 4,
+            "count": 293
+          },
+          {
+            "value": 3,
+            "count": 127
+          },
+          {
+            "value": 2,
+            "count": 36
+          },
+          {
+            "value": 1,
+            "count": 30
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 1061,
+          "items": [
+            {
+              "text": "없음",
+              "count": 680
+            },
+            {
+              "text": "보통",
+              "count": 317
+            },
+            {
+              "text": "많음",
+              "count": 64
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 1061,
+          "items": [
+            {
+              "text": "없음",
+              "count": 954
+            },
+            {
+              "text": "보통",
+              "count": 102
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 1061,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 542
+            },
+            {
+              "text": "보통",
+              "count": 489
+            },
+            {
+              "text": "깐깐함",
+              "count": 30
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 1061,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 162
+            },
+            {
+              "text": "전자출결",
+              "count": 697
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 116
+            },
+            {
+              "text": "복합적",
+              "count": 84
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 1061,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "한 번",
+              "count": 375
+            },
+            {
+              "text": "두 번",
+              "count": 679
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "한 학기 내내 스밍만 돌인 개꿀강의 중간 대체 보고서도 어렵지 않았고 문제는 기말 공부 언제하지",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "도대체 kmooc을 왜 쓰는지 모르겠음. 안그래도 토론 겁나 귀찮은데 토론 이어갈려고 썼던 댓글 한번 볼려면 새로고침해서 다시 들어가는걸 20번은 해야되는듯.  이딴 사이트만 안쓰면 나을건데",
+          "rate": 1,
+          "posvote": 9
+        }
+      ]
+    }
+  }
+}

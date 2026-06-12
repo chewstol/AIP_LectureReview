@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "코드 알맞게 쓰기 + 주관식\nT/F\n객관식\n문제로 구성되어있으며, 실습때",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 5
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.56,
+        "count": 64,
+        "items": [
+          {
+            "value": 5,
+            "count": 46
+          },
+          {
+            "value": 4,
+            "count": 12
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 64,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 49
+            },
+            {
+              "text": "많음",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 64,
+          "items": [
+            {
+              "text": "없음",
+              "count": 57
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 64,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 33
+            },
+            {
+              "text": "보통",
+              "count": 30
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 64,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 23
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 31
+            },
+            {
+              "text": "복합적",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 64,
+          "items": [
+            {
+              "text": "없음",
+              "count": 13
+            },
+            {
+              "text": "한 번",
+              "count": 42
+            },
+            {
+              "text": "두 번",
+              "count": 9
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "조교님들이 너무 스윗하고 귀여우시다 ㅎㅎㅎ 재밌게 들은 수업!",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "조교 수업 대충하고 빈정거림 별로였음 학점도 짜고",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

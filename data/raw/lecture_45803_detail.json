@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780393673913",
+        "bookTitle": "Psychology in Your Life",
+        "bookAuthor": "Grson Gazzaniga",
+        "bookPublisher": "W. W. Norton & Company",
+        "bookPrice": 43000,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/c4dde6d00d2fe347736112ff1c96f503d4f17dcaf3e27bb858ff25c4a0c063bf/1772810586297_0.jpg"
+      },
+      {
+        "bookIsbn": "9780393265156",
+        "bookTitle": "Psychology in Your Life",
+        "bookAuthor": "Grison, Heatherton, Gazzaniga",
+        "bookPublisher": "Norton",
+        "bookPrice": 25000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/968e4ad6ad966337458406a2cde04e9363180aa74a06f4b5ffc74aa7a67dd6c7/1648281481925_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968666186",
+        "bookTitle": "마이어스의 심리학개론(11판)",
+        "bookAuthor": "David G. Myers, 네이선 드월",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 28000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/0c6ffbc6a7edcb64279e7c9de5a9a9c5314bfccc3ead7a0d353e4fbb2fc5229b/1609726988934_0.jpg"
+      },
+      {
+        "bookIsbn": "9788945049186",
+        "bookTitle": "심리학개론",
+        "bookAuthor": "스티븐 M. 코슬린, Robin S. Rosenberg, 이순묵, 도경수, 서용원, 최훈석",
+        "bookPublisher": "PEARSON EDUCATION KOREA",
+        "bookPrice": 32000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/2631e6c9f3258fcfa019b96330e52bd59c8d09c498f3701c718c8f0412959f3f/1567422367751_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사에 해당되는 범위 내용이 개인적으로 너무 제미가 없어서 좀 대충 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 14
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 14
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.52,
+        "count": 484,
+        "items": [
+          {
+            "value": 5,
+            "count": 320
+          },
+          {
+            "value": 4,
+            "count": 111
+          },
+          {
+            "value": 3,
+            "count": 44
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 5
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 483,
+          "items": [
+            {
+              "text": "없음",
+              "count": 416
+            },
+            {
+              "text": "보통",
+              "count": 64
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 483,
+          "items": [
+            {
+              "text": "없음",
+              "count": 444
+            },
+            {
+              "text": "보통",
+              "count": 38
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 483,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 383
+            },
+            {
+              "text": "보통",
+              "count": 96
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 483,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 62
+            },
+            {
+              "text": "전자출결",
+              "count": 196
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 199
+            },
+            {
+              "text": "복합적",
+              "count": 26
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 483,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 33
+            },
+            {
+              "text": "두 번",
+              "count": 449
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "동일한 내용으로 수년 이상 강의하셔서 \n강의 플로우가 완벽하다.\n의미없는 것처럼 들리는 농담마저도 나중엔 강의의 일환임을 알게되는데 ㄹㅇ소름이다.\n한학기 강의가 큰 그림 그 자체다",
+          "rate": 5,
+          "posvote": 9
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "교수님 자체가 사람은 좋은데, 시험 문제 다 족보 같은거 재탕해서 안 쓴 사람이 바보된다. 성대 교수님도 아니고 서울대 교수여서 소통도 엄청 안된다.\n학점은 무난하게 주는데 배워가는건 전혀 없음.\n학점 잘 주니까 평",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

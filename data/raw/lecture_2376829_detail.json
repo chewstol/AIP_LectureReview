@@ -1,0 +1,236 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791132104759",
+        "bookTitle": "재정학",
+        "bookAuthor": "Harvey S. Rosen, Ted Gayer",
+        "bookPublisher": "교문사",
+        "bookPrice": 36000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/5b1c0244bce140226aaea76394ae517621ed9a8f2118f1daeda6c320225d7bef/1754816057665_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960550209",
+        "bookTitle": "재정학",
+        "bookAuthor": "Rosen, TED GAYER",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 29000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/5414b3b079d3c0f99e7c0affe57d55840ac0af22687d857149fbbde9f9204a58/1709643718790_0.jpg"
+      },
+      {
+        "bookIsbn": "9780077154691",
+        "bookTitle": "Public Finance",
+        "bookAuthor": "Harvey S Rosen, Ted Gayer",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/040a8deff401d71c84412ace868d0e8a2a58a5c32f044a20bb47a4c766d02631/1723969589123_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960552098",
+        "bookTitle": "재정학",
+        "bookAuthor": "Rosen, Ted Gayer",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 33000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/88c9578e96e5cd273b4c69b4a1e12cb10b7d354cdf2f369fa2bb97c46506e022/1676635055214_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "수업 시간에 배운 중요한 개념들 숙지하고, 교수님이 풀이해주신 문제와 N",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.88,
+        "count": 26,
+        "items": [
+          {
+            "value": 5,
+            "count": 24
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 26,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 23
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 26,
+          "items": [
+            {
+              "text": "없음",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 26,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 22
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 26,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 11
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 13
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 26,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 26
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "천사같은 교수님,, 수업 내용도 어렵지 않고 시험도 내주시는 과제 문제들이랑 피피티 교안만 잘 숙지하면 쉽게 푸실 수 있습니다!",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "교수님 좋으시고 재밌으십니다! 배우는 내용도 흥미롭고 들어볼만한 수업입니다!! 수업에서 하는 내용 위주로 공부하면 성적 잘 나올겁니다.",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

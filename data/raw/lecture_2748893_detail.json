@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504017",
+        "bookTitle": "The Write Way",
+        "bookAuthor": "성균관대학교 학부대학",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 17000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/d109208b686704e5dd9ee34d02975e2968b55aaa5e644ca4769e53b6289db53f/1772633359504_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155502129",
+        "bookTitle": "Write On",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 1,
+        "coverImage": "https://cf-cii.everytime.kr/af1fc89b4d64e7ff898d9c346d1aee9bea1b7f5a14a6df8cf10b4fbded608cd2/1583933773067_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교재 위주로 공부했던 부분만 꽤 깔끔하게 내심\n교수님이 평소에 하는 말씀",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.8,
+        "count": 5,
+        "items": [
+          {
+            "value": 5,
+            "count": 4
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 5,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 5,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 5,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 5,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 2
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 5,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 4
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "처음에는 까다롭고 재미없는 분이라고 생각했지만\n마지막에는 학생들 배려 좀 해주신 것 같음\n\n과제 1번밖에 없었고 그마저도 easy\n\n성적 비율은 다 채워주신 것 같아요",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "강의력은 잘 모르겠지만 엄마같이 챙겨주시는 면이 많습니다\n시험 문제도 교안 잘 보시면 돼요",
+          "rate": 4,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788964213162",
+        "bookTitle": "반도체 소자공학",
+        "bookAuthor": "Betty Lise Anderson, Richard L. Anderson",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 35000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/460ca92299175ca35b99203d0c6cef62b3debb388a1ecfb45d561be0d2022f06/1672024874052_0.jpg"
+      },
+      {
+        "bookIsbn": "9781259251351",
+        "bookTitle": "Fundamentals of Semiconductor Devices",
+        "bookAuthor": "Betty-Lise Anderson, Richard Anderson",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 53000,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/995e329b1cd996cf9388905c33a66fb83f48267861bc97b96adc963739f1ef06/1646890998572_0.jpg"
+      },
+      {
+        "bookIsbn": "9788991182097",
+        "bookTitle": "반도체 소자공학",
+        "bookAuthor": "ANDERSONBETTY LISE",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 27000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/66775bd659151a12353f98a6844c63946b931646043452411326b225983aaf61/1584881867903_0.jpg"
+      },
+      {
+        "bookIsbn": "9780071241526",
+        "bookTitle": "Fundamentals of Semiconductor Devices",
+        "bookAuthor": "Anderson",
+        "bookPublisher": "McGraw Hill",
+        "bookPrice": 39000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/22506631179b0a4e9cbd786aac47246eca5375c616900122bb1f0ff3b84209b1/1674980151017_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "어떤 공부법도 통하지 않습니다. 반도체에 대한 모든 것을 통달하지 않는 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.79,
+        "count": 145,
+        "items": [
+          {
+            "value": 5,
+            "count": 21
+          },
+          {
+            "value": 4,
+            "count": 24
+          },
+          {
+            "value": 3,
+            "count": 38
+          },
+          {
+            "value": 2,
+            "count": 27
+          },
+          {
+            "value": 1,
+            "count": 35
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 145,
+          "items": [
+            {
+              "text": "없음",
+              "count": 41
+            },
+            {
+              "text": "보통",
+              "count": 84
+            },
+            {
+              "text": "많음",
+              "count": 20
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 145,
+          "items": [
+            {
+              "text": "없음",
+              "count": 131
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 145,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 59
+            },
+            {
+              "text": "보통",
+              "count": 81
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 145,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 7
+            },
+            {
+              "text": "전자출결",
+              "count": 64
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 59
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 145,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 135
+            },
+            {
+              "text": "세 번",
+              "count": 3
+            },
+            {
+              "text": "네 번 이상",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "성적받고 정신병이 싹 나았습니다. 중간 38? 기말 65? 맞고 달달하게 A받아갑니다~~어차피 공부는 혼자하는 거잖아요?? 족보 구해서 풀어가시구요! 수업 열심히 듣기~",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "족보 예제 수업이 필요없다.. 교수님이 변했다",
+          "rate": 1,
+          "posvote": 10
+        }
+      ]
+    }
+  }
+}

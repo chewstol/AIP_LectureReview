@@ -1,0 +1,320 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788968666186",
+        "bookTitle": "마이어스의 심리학개론(11판)",
+        "bookAuthor": "David G. Myers, 네이선 드월",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 28000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/0c6ffbc6a7edcb64279e7c9de5a9a9c5314bfccc3ead7a0d353e4fbb2fc5229b/1609726988934_0.jpg"
+      },
+      {
+        "bookIsbn": "9788945049186",
+        "bookTitle": "심리학개론",
+        "bookAuthor": "스티븐 M. 코슬린, Robin S. Rosenberg, 이순묵, 도경수, 서용원, 최훈석",
+        "bookPublisher": "PEARSON EDUCATION KOREA",
+        "bookPrice": 32000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/2631e6c9f3258fcfa019b96330e52bd59c8d09c498f3701c718c8f0412959f3f/1567422367751_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "총 문제는 30문제로 30분만에 풀어야 합니다만, 열심히 공부하면 타임어",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 25,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 21
+            },
+            {
+              "text": "주관식",
+              "count": 17
+            },
+            {
+              "text": "T/F형",
+              "count": 15
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 7
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 5
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.41,
+        "count": 195,
+        "items": [
+          {
+            "value": 5,
+            "count": 114
+          },
+          {
+            "value": 4,
+            "count": 60
+          },
+          {
+            "value": 3,
+            "count": 14
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 7
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 195,
+          "items": [
+            {
+              "text": "없음",
+              "count": 38
+            },
+            {
+              "text": "보통",
+              "count": 154
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 195,
+          "items": [
+            {
+              "text": "없음",
+              "count": 119
+            },
+            {
+              "text": "보통",
+              "count": 72
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 195,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 110
+            },
+            {
+              "text": "보통",
+              "count": 78
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 195,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 41
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 142
+            },
+            {
+              "text": "복합적",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 195,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 13
+            },
+            {
+              "text": "두 번",
+              "count": 180
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "感觉这个老师很好，讲课很有意思，也很好理解。",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "왜 강평점수가 높은지 모르겠는 수업. \n다들 새내기라 그런지 점수를 잘 주는 것 같은데 자잘하게 시키는 것도 많고, 생각보다 시험도 타임어택 심합니다. (공지에는 시험 시간 30분이라고 했는데, 당일에 가니 시험 시",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791188731152",
+        "bookTitle": "화학공학 유체역학",
+        "bookAuthor": "James O Wilkes",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 38000,
+        "price": 9500,
+        "coverImage": "https://cf-cii.everytime.kr/ff165dc2957dc367559f4c2de4a9e0863e2921c7aba0fb501e3f0b631e62288d/1694540526211_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "피셋에서 한문제는 무조건 나오는 듯 합니다. 생각ㅂㅎ다 개념도 많이 물으",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.55,
+        "count": 83,
+        "items": [
+          {
+            "value": 5,
+            "count": 62
+          },
+          {
+            "value": 4,
+            "count": 12
+          },
+          {
+            "value": 3,
+            "count": 4
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 46
+            },
+            {
+              "text": "많음",
+              "count": 36
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 76
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 83,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 55
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 83,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 55
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 19
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 83
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "빛새벽\n학기중엔 진짜 힘들었는데 \n제대로 공부시켜주셔서 남는것도 많고 학점도 방석호교수님급으로 잘주심",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "자신이 진짜 똑똑하다 싶으면 들으시면 됩니다. 문제 풀이를 봐도 이해가 안되는 경험을 살면서 처음 느꼈네요. 강의 내용을 완벽하게 이해한다면 유체를 마스터하실 수 있습니다. 다만 저같은 감자는 처음부터 끝까지 기억나",
+          "rate": 1,
+          "posvote": 9
+        }
+      ]
+    }
+  }
+}

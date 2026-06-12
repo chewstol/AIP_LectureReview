@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 4.73,
+        "count": 40,
+        "items": [
+          {
+            "value": 5,
+            "count": 31
+          },
+          {
+            "value": 4,
+            "count": 7
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 40,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "많음",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 40,
+          "items": [
+            {
+              "text": "없음",
+              "count": 23
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 40,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 25
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 40,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 37
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 40,
+          "items": [
+            {
+              "text": "없음",
+              "count": 39
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 1
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "교수님 배려 많이 해주시고 좋으심. 피드백 받고 싶다고 하는 사람도 정말 성심성의껏 피드백 해주시고 수업도 최대한 빨리 끝내주시려고 노력하심. 원래 드라마 좋아해서 그런지 이 수업은 드라마 배우는 수업이어서 나름 재",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "교수님은 좋아요. 학생들 사정을 많이 고려해주시려고 하고 권위적이지 않으십니다. 창작 수업이니만큼 편하게 여쭤볼 수 있는 게 중요한 데 그게 가능해서 좋은 것 같아요. 좋은 점은 다른 분들이 많이 써주신 것 같아서",
+          "rate": 3,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "오픈북이라서 꼼꼼히 필기하시면 문제 풀 수 있어요.",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.69,
+        "count": 97,
+        "items": [
+          {
+            "value": 5,
+            "count": 76
+          },
+          {
+            "value": 4,
+            "count": 16
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 97,
+          "items": [
+            {
+              "text": "없음",
+              "count": 41
+            },
+            {
+              "text": "보통",
+              "count": 51
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 97,
+          "items": [
+            {
+              "text": "없음",
+              "count": 53
+            },
+            {
+              "text": "보통",
+              "count": 24
+            },
+            {
+              "text": "많음",
+              "count": 20
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 97,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 60
+            },
+            {
+              "text": "보통",
+              "count": 36
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 97,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 52
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 25
+            },
+            {
+              "text": "복합적",
+              "count": 18
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 97,
+          "items": [
+            {
+              "text": "없음",
+              "count": 26
+            },
+            {
+              "text": "한 번",
+              "count": 28
+            },
+            {
+              "text": "두 번",
+              "count": 43
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "킹시국에 들은 희대의 꿀강. 교수님 교양 넘치시고 라디오 클래식 채널에서 설명해주시는 분하고 리얼 거의 흡사함. 수업이면 수업, 공지면 공지, 학생보다 한 발 앞서서 해주셔서 학업에 대한 고민 말고 다른 이유로 스트",
+          "rate": 5,
+          "posvote": 6
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "진짜 너무너무 구립니다… 총체적 난국… 토론과 발표를 시켜놓고서는 학우들이 말도 안 되는 헛소리(“사회 불평등은 어차피 없어지지 않으므로 가난한 사람들이 SNS를 통한 비교를 멈추는 등 스스로 마음가짐을 바꿔야 한다",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

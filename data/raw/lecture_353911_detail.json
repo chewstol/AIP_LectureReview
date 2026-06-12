@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781133628484",
+        "bookTitle": "Fundamentals of Logic Design, 7/E(Paperback)",
+        "bookAuthor": "Larry Kinney",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 43000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/580a7a6bf6cf16b6480598c18bb0532c195c504204a11a8c306bc8aea38c89ab/1726066626736_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962183948",
+        "bookTitle": "논리설계기초",
+        "bookAuthor": "Charles H. Roth, Larry L. Kinney",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 38000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/94d10716b47d4dbed37b0c3bc21bb027e9fd2be4720f9a1e8752d29b2339a419/1690544257252_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962181531",
+        "bookTitle": "논리설계기초",
+        "bookAuthor": "CHARLES H ROTH, LARRY L KINNEY",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 29000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/dbc69b1dae3817699d87a3ab722f567f9378545e187d0f0a107d100f639e4d45/1610849360118_0.jpg"
+      },
+      {
+        "bookIsbn": "9780495667766",
+        "bookTitle": "Fundamentals of Logic Design (Paperback)",
+        "bookAuthor": "Charles H. Roth",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 37000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/296147e10b4afbc621928f00e730cc0d8d6b31746094ea1e1ce3d804bec4b14a/1639238891437_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사와 기말고사 모두 난이도는 쉽게 나옵니다. 다만 너무 쉬우면 변별",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 28,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 22
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 11
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.5,
+        "count": 254,
+        "items": [
+          {
+            "value": 5,
+            "count": 158
+          },
+          {
+            "value": 4,
+            "count": 74
+          },
+          {
+            "value": 3,
+            "count": 15
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 254,
+          "items": [
+            {
+              "text": "없음",
+              "count": 86
+            },
+            {
+              "text": "보통",
+              "count": 159
+            },
+            {
+              "text": "많음",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 254,
+          "items": [
+            {
+              "text": "없음",
+              "count": 93
+            },
+            {
+              "text": "보통",
+              "count": 86
+            },
+            {
+              "text": "많음",
+              "count": 75
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 254,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 66
+            },
+            {
+              "text": "보통",
+              "count": 161
+            },
+            {
+              "text": "깐깐함",
+              "count": 27
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 254,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 15
+            },
+            {
+              "text": "전자출결",
+              "count": 90
+            },
+            {
+              "text": "지정좌석",
+              "count": 3
+            },
+            {
+              "text": "직접호명",
+              "count": 100
+            },
+            {
+              "text": "복합적",
+              "count": 46
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 254,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 11
+            },
+            {
+              "text": "두 번",
+              "count": 227
+            },
+            {
+              "text": "세 번",
+              "count": 14
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "성균관대의 킹스맨이 있다면 형원좌를 두고 하는 말일 것이다. 다만 그의 시크함과 젠틀함에 홀려 어느새 그의 연구실에 서있는 자신을 발견하게 될지 모르니 조심하길 바란다",
+          "rate": 5,
+          "posvote": 7
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "4-5주치 강의를 14주차 끝날때쯤 올려주며 학생을 변별함",
+          "rate": 1,
+          "posvote": 11
+        }
+      ]
+    }
+  }
+}
