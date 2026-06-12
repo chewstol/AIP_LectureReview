@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788961544030",
+        "bookTitle": "발생생물학",
+        "bookAuthor": "전상학, 김길중, 김정웅, 선웅, 송지환, 심용희",
+        "bookPublisher": "라이프사이언스",
+        "bookPrice": 58000,
+        "price": 40000,
+        "coverImage": "https://cf-cii.everytime.kr/c3b51a2c468b955b174293098076cd46b2193afd44438c7829febc65909e74d0/1692959881076_0.jpg"
+      },
+      {
+        "bookIsbn": "9781605358741",
+        "bookTitle": "Developmental Biology",
+        "bookAuthor": "Michael JF (Professor of Biological Sciences Professor of Biological Sciences Smith College) Bar, Scott F (Howard A Schneiderman Professor of Biology Emeritus Howard A Schneiderman Professor of",
+        "bookPublisher": "Oxford University",
+        "bookPrice": 80000,
+        "price": 40000,
+        "coverImage": "https://cf-cii.everytime.kr/4839684758d76037aa78b3b18b9415ddcdc373806bc0411f1b4606f3ec94876a/1692959606536_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님 강의 타이핑을 적극 추천드립니다. 물론 교재도 참고해야하지만 대부",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.72,
+        "count": 36,
+        "items": [
+          {
+            "value": 5,
+            "count": 28
+          },
+          {
+            "value": 4,
+            "count": 6
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 25
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 34
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 36,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 16
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 36,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 3
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 32
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 36
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "전 좋았습니다! 수업 시간에 종종 질문할거 있냐고 물어보시는데, 초반에는 싫었지만 나중에 갈수록 책 내용에 대해 더 깊이 생각해보는 계기가 되더라고요. 시험도 30분 정도 오픈북 보는 시간 주셔서 부담이 그렇게 없습",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "교수님이 점점 설명을 대충하세요. 흥미롭고 신기하긴 한데 너무 대충하셔서 별로였습니다.",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

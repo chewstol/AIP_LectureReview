@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504628",
+        "bookTitle": "학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 김종규, 이기백, 김치헌, 김상현",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 25000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/67b8211a19cf76cee0873d3fdd6ffd6922373e7f4928189dedf5aa0fc4029a99/1641133751536_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155502389",
+        "bookTitle": "우리들의 세상, 논어로 보다",
+        "bookAuthor": "고재석, 권경자, 김동민, 이천승, 정병섭",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 12000,
+        "price": 1000,
+        "coverImage": "https://cf-cii.everytime.kr/1db6d6f5023e7f95570200ac4d2ef251e0f8dbbb9b195b4da9302ecb7500b592/1725264174201_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500606",
+        "bookTitle": "비판적 사고 학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 박상태, 한기호, 김상현, 이창후",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 2000,
+        "coverImage": "https://cf-cii.everytime.kr/9808139608c6de7f529264db8a20d1ac3ce31863741cebbeda1c5097a1be2c65/1648534015593_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님이 말씀하신부분 다 기록해 놓고 넣으셔야합니다..!! 관심이 많으시",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.77,
+        "count": 393,
+        "items": [
+          {
+            "value": 5,
+            "count": 130
+          },
+          {
+            "value": 4,
+            "count": 113
+          },
+          {
+            "value": 3,
+            "count": 100
+          },
+          {
+            "value": 2,
+            "count": 28
+          },
+          {
+            "value": 1,
+            "count": 22
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 393,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 178
+            },
+            {
+              "text": "많음",
+              "count": 208
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 393,
+          "items": [
+            {
+              "text": "없음",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 209
+            },
+            {
+              "text": "많음",
+              "count": 176
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 393,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 124
+            },
+            {
+              "text": "보통",
+              "count": 201
+            },
+            {
+              "text": "깐깐함",
+              "count": 68
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 393,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 88
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 250
+            },
+            {
+              "text": "복합적",
+              "count": 52
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 393,
+          "items": [
+            {
+              "text": "없음",
+              "count": 343
+            },
+            {
+              "text": "한 번",
+              "count": 17
+            },
+            {
+              "text": "두 번",
+              "count": 30
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "뭐지 나만 알차고 좋았나...\n이왕 학술적 글쓰기 듣는김에 글쓰는 능력기르고 싶어서 들었는데\n무대뽀 무논리로 글쓰다가\n논리갖추고 글 쓰게 되서 전 좋았어요\n물론 학점에 따라 개 극혐 강의가 될진 모르겠디만..",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "0점이 없어서 1점 드립니다^^ 맨날 자기는 과제 줄였다고 뭐라뭐라 하시는데 본인도 찔리시는 게 분명합니다^^ 그리고 매 수업시간마다 과제 다 하고 출석 다 해도 C+ 얼마든지 받을 수 있다고 이야기하십니다. 융통성",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

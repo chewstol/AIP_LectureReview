@@ -1,0 +1,286 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781119787051",
+        "bookTitle": "Financial Accounting",
+        "bookAuthor": "Jerry J. Weygandt, Paul D. Kimmel",
+        "bookPublisher": "Wiley",
+        "bookPrice": 59000,
+        "price": 16500,
+        "coverImage": "https://cf-cii.everytime.kr/1029b2232071c0e423ed8f7cdfb402462e3a1f815e90e92e5432bdbf11725670/1765719639398_0.jpg"
+      },
+      {
+        "bookIsbn": "9781119504306",
+        "bookTitle": "Financial Accounting",
+        "bookAuthor": "Paul D. Kimmel, Donald E. Kieso, Jerry J. Weygandt",
+        "bookPublisher": "Wiley",
+        "bookPrice": 45000,
+        "price": 500,
+        "coverImage": "https://cf-cii.everytime.kr/72b70238683ea2bcc707bf248c897f689a3e2d4ac975142057b7f82bdcf481de/1633415388220_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "수업 시간에 하시는 회계에 대한 기본지식과 문제 풀이 능력을 보시는 것 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.89,
+        "count": 28,
+        "items": [
+          {
+            "value": 5,
+            "count": 7
+          },
+          {
+            "value": 4,
+            "count": 14
+          },
+          {
+            "value": 3,
+            "count": 4
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 24
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 28,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 14
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 28,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 1
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 21
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 8
+            },
+            {
+              "text": "두 번",
+              "count": 20
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "매주 과제 + 오픈북 시험 + 기말고사\n일케 하는데 할 만 합니다",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "영어로 AP SAT 수업 들어본 적 있는 수준 아니시면 하지마세요 제발 ㅜ 전 나름 영어에 자신 있어서 평 좋길래 글었는데 머리 터지는 줄 알았습니다. 머 못해도 비쁠은 주신다고 하시던데.. 글쎄요.. 에이 이상은",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

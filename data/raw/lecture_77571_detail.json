@@ -1,0 +1,333 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788962185782",
+        "bookTitle": "맨큐의 경제학 연습문제풀이",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 18000,
+        "price": 14000,
+        "coverImage": "https://cf-cii.everytime.kr/e0da1ac7e3bd471607bc96d2e6e2caf7d7ad95e7e8207c0a0a22535d4ac02502/1774330740433_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962185133",
+        "bookTitle": "맨큐의 경제학 연습문제풀이",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 16000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/11582dfde8f9e254d0fd969386195a67f15a66a2acb3e304488759cee44195b3/1771678389040_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962185027",
+        "bookTitle": "맨큐의 경제학",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 45000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/114906d54719566be1b3f560431a4bd19c315143e7911b53f255a43c419fea93/1770271199433_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184204",
+        "bookTitle": "맨큐의 경제학 연습문제풀이",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "센게이지러닝코리아",
+        "bookPrice": 13000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/5b5a82079f2df587f0ef294f7f3c666b63a7e46d3de818c1aff7ef1676aa44b0/1726837135712_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184181",
+        "bookTitle": "맨큐의 경제학",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 42000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/1176cdad286167a24e9a01bb13c3990488e3770f457370f58aa2efb3bdf8f5e6/1739042053023_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968667466",
+        "bookTitle": "경제학원론",
+        "bookAuthor": "대런 애쓰모글루, Laibson David, 존 리스트",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 36000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/17fa2a28458171bbaf1fe98dd9738ba570b56e9a3c0d900668b054ffbe18fa0c/1697997007213_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962183696",
+        "bookTitle": "맨큐의 경제학 연습문제풀이",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 12000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/209aa5cdfd80b5a1475b56e7d3206df09afc9d6feffe3f044d3255b1830c3570/1608780617205_0.jpg"
+      },
+      {
+        "bookIsbn": "9788993995015",
+        "bookTitle": "맨큐의 경제학(5판)",
+        "bookAuthor": "Mankiw",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 35000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/1f68befa6784cd2a9d8e29802f0725a6df88be4afe93415750b24438847a41b5/1536297004270_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962181647",
+        "bookTitle": "맨큐의 경제학 연습문제 풀이집(6판)",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 8700,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/ef6ad2a7cffb20d6f50406a302cd379c33d8c14c993eb5cad4e1897232919034/1563163733699_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962181623",
+        "bookTitle": "맨큐의 경제학",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 34000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/e00b27ffff5b971ba5001aa5d194b8f8a78fbddcba40c33e1cc01fe8b192fbc7/1563163574555_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962183672",
+        "bookTitle": "맨큐의 경제학",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 39000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/14481e2024492add4a3e1f6e4736c35ff34bd2234ec79f07ef68b9eaf019c740/1696596780186_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "수업 열심히 듣고 멘큐 교재기반으로 공부하면 무난하게 점수 받을 수 있을",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 16
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 14
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.08,
+        "count": 228,
+        "items": [
+          {
+            "value": 5,
+            "count": 86
+          },
+          {
+            "value": 4,
+            "count": 89
+          },
+          {
+            "value": 3,
+            "count": 42
+          },
+          {
+            "value": 2,
+            "count": 7
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 228,
+          "items": [
+            {
+              "text": "없음",
+              "count": 105
+            },
+            {
+              "text": "보통",
+              "count": 83
+            },
+            {
+              "text": "많음",
+              "count": 40
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 228,
+          "items": [
+            {
+              "text": "없음",
+              "count": 210
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 228,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 111
+            },
+            {
+              "text": "깐깐함",
+              "count": 89
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 228,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 60
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 158
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 228,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 209
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 17
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "학생들을 생각하는게 느껴지는 교수님이에요.\n깐깐하다 하지만 학생들 배려라는건 전혀 안하시고 본인 편의 위해서 깐깐하신 느낌이 아니라 정말 정확하게 참여도 비례해서 학점 주시려다보니 평가 항목이 세분화되어 있는 느낌이",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "그냥 자기가 시간떼우려고 하는 듯한 의미없는 면담, 시대착오적인 직접호명식 출결체크, 수업자료랍시고 업로드되는 한참 시기 지난 기사들, 루즈하고 지루한 강의력까지 전혀 하나도 도움 안되는 수업이었습니다. 자기가 미시",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

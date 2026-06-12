@@ -1,0 +1,267 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "코로나 학기라서 총 3번의 에세이가 있었습니다. \n중간 30/30, 파이",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.9,
+        "count": 206,
+        "items": [
+          {
+            "value": 5,
+            "count": 193
+          },
+          {
+            "value": 4,
+            "count": 9
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 206,
+          "items": [
+            {
+              "text": "없음",
+              "count": 46
+            },
+            {
+              "text": "보통",
+              "count": 153
+            },
+            {
+              "text": "많음",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 206,
+          "items": [
+            {
+              "text": "없음",
+              "count": 177
+            },
+            {
+              "text": "보통",
+              "count": 18
+            },
+            {
+              "text": "많음",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 206,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 193
+            },
+            {
+              "text": "보통",
+              "count": 13
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 206,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 14
+            },
+            {
+              "text": "전자출결",
+              "count": 98
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 75
+            },
+            {
+              "text": "복합적",
+              "count": 19
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 206,
+          "items": [
+            {
+              "text": "없음",
+              "count": 160
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 40
+            },
+            {
+              "text": "세 번",
+              "count": 6
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "학생들을 잘 배려해주시고 학점도 잘 주십니다ㅎㅎㅎ",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "매우 비추\n시간 엄청 아까움 ㅠ 휴강도 없고 막주차 금요일까지 수업..\n주변인들 중 종강 제일 늦는 나 자신을 볼 수 있음\n수업 내용도 쓸데없음 근데 이건 알고 신청했지만 그럼에도 너무 쓸데없어서 졸리고 시간 아까워",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "result": {
+    "articles": [
+      {
+        "id": 8387012,
+        "year": 2025,
+        "semester": "1",
+        "text": "첨 오신 교수님이신데 시험 ㅈ댄다ㅋㅋ 튀어~~~",
+        "rate": 1,
+        "posvote": 6
+      }
+    ]
+  }
+}

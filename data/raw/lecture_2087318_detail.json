@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "큼지막한 문제 9개\n부분문제 2,3개씩 있음\n꼼꼼하게 공부해야하는듯",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 31,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 12
+            },
+            {
+              "text": "주관식",
+              "count": 24
+            },
+            {
+              "text": "T/F형",
+              "count": 22
+            },
+            {
+              "text": "약술형",
+              "count": 6
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 8
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.36,
+        "count": 151,
+        "items": [
+          {
+            "value": 5,
+            "count": 84
+          },
+          {
+            "value": 4,
+            "count": 49
+          },
+          {
+            "value": 3,
+            "count": 10
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 151,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 124
+            },
+            {
+              "text": "많음",
+              "count": 23
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 151,
+          "items": [
+            {
+              "text": "없음",
+              "count": 145
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 151,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 92
+            },
+            {
+              "text": "보통",
+              "count": 56
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 151,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 93
+            },
+            {
+              "text": "전자출결",
+              "count": 46
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 9
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 151,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 8
+            },
+            {
+              "text": "두 번",
+              "count": 142
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "꿀 빨면서도 많이 배운 수업.\n수업은 오프라인으로 진행되지만, 저장 강의를 올려주시고 출석 체크를 하시 않으시기에 온라인으로 들을 수 있음. 다만, 8번 결석 시 F 처리가 될 수 있으므로 (대부분 구제해주신다곤 하",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "학점은 아직안나와서 모르겠네요\n에타에 강평 써보는거 처음입니다\n3학년까지 학교다니면서 들은과목중 단연 최악입니다\n권위적인 교수,\n소리가안들리는 수준이어도 그대로 재탕하는 수업영상,\n피아자 질문사이트 답변속도 등등\n무",
+          "rate": 1,
+          "posvote": 5
+        }
+      ]
+    }
+  }
+}

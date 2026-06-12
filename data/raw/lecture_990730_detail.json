@@ -1,0 +1,331 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788972829690",
+        "bookTitle": "대학미적분학(3판)(CD1장포함)",
+        "bookAuthor": "JAMES STEWART",
+        "bookPublisher": "경문사",
+        "bookPrice": 35000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/b027d729b5173e304ab5ac2e4776a2ef41ef4c963a31b98bff321fe13895bfcf/1622777680728_0.jpg"
+      },
+      {
+        "bookIsbn": "9791159710438",
+        "bookTitle": "스튜어트 미분적분학(8판)",
+        "bookAuthor": "James Stewart",
+        "bookPublisher": "북스힐",
+        "bookPrice": 42000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/53c79170ec332951646fe1d6b2d87898a207d70c1020f3227c45c2ba92914cf7/1740311667352_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184105",
+        "bookTitle": "Calculus :early transcendentls (stewart성균관대)",
+        "bookAuthor": "stewart",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 49000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/35c33e510545d2da21b8e4218e3a2fef183056d1a33a30a148613c39fa5c9339/1691558917159_0.jpg"
+      },
+      {
+        "bookIsbn": "9788961056175",
+        "bookTitle": "대학미분적분학",
+        "bookAuthor": "제임스 스튜어트",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 39000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/a15ebbebf5b704492b006e88c9b21103683413218c9a3aee7545450c14948395/1614923390420_0.jpg"
+      },
+      {
+        "bookIsbn": "9788961053822",
+        "bookTitle": "대학미적분학(3판)",
+        "bookAuthor": "JAMES STEWART",
+        "bookPublisher": "경문사",
+        "bookPrice": 39000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/1dcc6c57343dd7c2f8563fa27a5dfebb05dfe85e5388dd5503afc50b92f9bbc1/1652675142005_0.jpg"
+      },
+      {
+        "bookIsbn": "9788961057134",
+        "bookTitle": "미분적분학(7판)",
+        "bookAuthor": "James Stewart",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 42000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/c8b98f2e3b18280aaf7c1720f0da0802e6d796385c1ae05dd25b2d9798d2ad68/1613105238153_0.jpg"
+      },
+      {
+        "bookIsbn": "9780495560654",
+        "bookTitle": "Calculus : Concepts and Contexts",
+        "bookAuthor": "James Stewart",
+        "bookPublisher": "Brooks Cole",
+        "bookPrice": 41000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/91daf2bb66651d604a39c5ed0a152b4ffd1aab51fa0a5a8271ad00d477284f9f/1598281574696_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "족보랑 똑~~같이 나왔어요 1문제도 빠짐없이 똑같습니다\n평균 높아서 1문",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.71,
+        "count": 133,
+        "items": [
+          {
+            "value": 5,
+            "count": 100
+          },
+          {
+            "value": 4,
+            "count": 29
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 133,
+          "items": [
+            {
+              "text": "없음",
+              "count": 79
+            },
+            {
+              "text": "보통",
+              "count": 53
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 133,
+          "items": [
+            {
+              "text": "없음",
+              "count": 128
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 133,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 57
+            },
+            {
+              "text": "보통",
+              "count": 68
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 133,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 16
+            },
+            {
+              "text": "전자출결",
+              "count": 42
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 61
+            },
+            {
+              "text": "복합적",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 133,
+          "items": [
+            {
+              "text": "없음",
+              "count": 9
+            },
+            {
+              "text": "한 번",
+              "count": 11
+            },
+            {
+              "text": "두 번",
+              "count": 99
+            },
+            {
+              "text": "세 번",
+              "count": 12
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "교수님 너무 좋습니다\n\n당연하져? 당연한거에요 이건 당연히 이렇게 되져\n당연한거죠~ 항상 이렇게 말하셔도 무적권 설명해주심 최고",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "교수님은 좋으신데… 온라인 시험이라서 평균 80나오고 그래요 ㅋㅋ… 수학 원래 잘 못하는데 부정행위(?)가 넘쳐나서 지옥을 맛봤습니다 혼자 열심히 풀었는데 손해본 느낌… 그리고 학점 짠거같아요",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791188731428",
+        "bookTitle": "머피의 화학공정계산",
+        "bookAuthor": "Regina Murphy",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 43000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/ada606f32ad038759b4f33e4b092db50d865570e0f9542a0ca5e8bf29bc300e2/1741507217118_0.jpg"
+      },
+      {
+        "bookIsbn": "9781265242992",
+        "bookTitle": "ISE Introduction to Chemical Processes: Principles, Analysis, Synthesis",
+        "bookAuthor": "Regina Murphy",
+        "bookPublisher": "McGraw-Hill Education",
+        "bookPrice": 55000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/d142f41faaad6fc244549384d4a1ae4e4e0c680c430553b818df82ee9e4b7ad6/1741163637028_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960552678",
+        "bookTitle": "화학공정계산(개정판)(양장본 HardCover)",
+        "bookAuthor": "Regina MMurphy",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 35000,
+        "price": 16000,
+        "coverImage": "https://cf-cii.everytime.kr/c19246aa4b2af22152aff53ac6db383146a6e7065c32f74098e4a872bae80bae/1630233426323_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132100775",
+        "bookTitle": "화학공정계산",
+        "bookAuthor": "Regina MMurphy",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 38000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/4ece93fb6f0d701c72094b5f8426fe919d12228b7a24795d1eef28a7b171b2cf/1764825449182_0.jpg"
+      },
+      {
+        "bookIsbn": "9781118092392",
+        "bookTitle": "Elementary Principles of Chemical Processes",
+        "bookAuthor": "Richard M. Felder",
+        "bookPublisher": "Wiley",
+        "bookPrice": 57000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/c4eabf3d6fa723739bc4290b790a391b20c37914a5a568b29950b55d2672db45/1725492916174_0.jpg"
+      },
+      {
+        "bookIsbn": "9780071254298",
+        "bookTitle": "Introduction to Chemical Processes",
+        "bookAuthor": "Murphy",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 43000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/bfef7658cc8f9d87c92a956a31da03e6a01b843a27084150223fc332ef860d73/1694838857748_0.jpg"
+      },
+      {
+        "bookIsbn": "9788970882895",
+        "bookTitle": "화학공정계산 (CD-ROM 1장 포함)",
+        "bookAuthor": "RMFelder 외",
+        "bookPublisher": "교문사(청문각)",
+        "bookPrice": 35000,
+        "price": 17000,
+        "coverImage": "https://cf-cii.everytime.kr/29d2884ac22f12c59f1dc7a53a97522126faf2c0302da87e248b2145781c426e/1661102883133_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "평이한 수준으로 출제되었습니다. 반복만이 답입니다.",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4,
+        "count": 148,
+        "items": [
+          {
+            "value": 5,
+            "count": 54
+          },
+          {
+            "value": 4,
+            "count": 54
+          },
+          {
+            "value": 3,
+            "count": 30
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 148,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 123
+            },
+            {
+              "text": "많음",
+              "count": 23
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 148,
+          "items": [
+            {
+              "text": "없음",
+              "count": 128
+            },
+            {
+              "text": "보통",
+              "count": 20
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 148,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 56
+            },
+            {
+              "text": "보통",
+              "count": 79
+            },
+            {
+              "text": "깐깐함",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 148,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 22
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 116
+            },
+            {
+              "text": "복합적",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 148,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 7
+            },
+            {
+              "text": "두 번",
+              "count": 141
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "강의 한번도 안듣고 A+ 받을 수 있는 강의. 팀플같은거 하나도 없고 가서 출석만 하면된다. 출결은 랜덤으로 직접호명하고 보통 수업 끝나고 하나 시작전에 할 때도 있으니 제시간까지 강의실에 가는걸 추천드립니다. 과제",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "걍 듣지마셈 ㅋㅋㅋ 아캠 메시지 하나도 답장 안하고 시험 공지도 안 올리고 점수표도 애들 다 종강하고 집 가는거 알면서도 꾸역꾸역 종이로 프린트해서 게시판에 붙여놓는 교수임 ㅋㅋㅋㅋㅋ 채점 기준도 불명확하고... 강",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

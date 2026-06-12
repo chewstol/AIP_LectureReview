@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "수업 시간에 배운 거 미리미리 정리해 두시면 나중에 기말 시험 볼 때 많",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 7
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.69,
+        "count": 75,
+        "items": [
+          {
+            "value": 5,
+            "count": 57
+          },
+          {
+            "value": 4,
+            "count": 14
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 49
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 73
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 75,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 44
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 75,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 9
+            },
+            {
+              "text": "전자출결",
+              "count": 43
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 9
+            },
+            {
+              "text": "복합적",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 69
+            },
+            {
+              "text": "두 번",
+              "count": 6
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "음슴체로 적으려고 했는데 다른 평가들 보니 격식체라서 저도 격식체로 적겠습니다. 결론부터 말하자면 왜 이런 교수님이 제 인생에 이제서야 나타난건지 따지고 싶네요. 지금은 정말 원하는 진로를 위해 문돌이가 되는 여정을",
+          "rate": 5,
+          "posvote": 6
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "저는 정말이지 하아... 교수님 아캠인 거 좋은데요.. 학점 뭐지 진짜 내 평균 다 갉아먹음. 진짜 이 수업 들은 거 너무 후회돼요 진심.",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

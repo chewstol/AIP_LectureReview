@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791162241882",
+        "bookTitle": "혼자 공부하는 파이썬",
+        "bookAuthor": "윤인성",
+        "bookPublisher": "한빛미디어",
+        "bookPrice": 18000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/71086dc9b934a503a6a57568c14f997b98f8e957c6e5962c7f5f012b660681dd/1614040304216_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960779082",
+        "bookTitle": "파이썬 프로그래밍 개론",
+        "bookAuthor": "데이비드 슈나이더",
+        "bookPublisher": "에이콘출판",
+        "bookPrice": 35000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/4e79402cd46b3963a84e3a9281726b3f59753c3ce51b84d7764a4058d8694381/1773589105072_0.jpg"
+      },
+      {
+        "bookIsbn": "9788957613559",
+        "bookTitle": "MATLAB 기초와응용",
+        "bookAuthor": "Brian H Hahn, Daniel T. Valentine",
+        "bookPublisher": "아진",
+        "bookPrice": 25000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/14d5d97cf91c2d309c32a33fba4a21ec9aeea79f2c9ea8ccb4f847f636f4f1c71499938961926/0.jpg"
+      },
+      {
+        "bookIsbn": "9788997390915",
+        "bookTitle": "Do it! 점프 투 파이썬",
+        "bookAuthor": "박응용",
+        "bookPublisher": "이지스퍼블리싱",
+        "bookPrice": 18800,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/6948d8bcb5933f1fb56f4276d85cc89b4dfb44ee2e8043fda22d6b1ea59ff352/1622038282242_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292103433",
+        "bookTitle": "An Introduction to Programming Using Python",
+        "bookAuthor": "David I. Schneider",
+        "bookPublisher": "Pearson",
+        "bookPrice": 55000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/06657d7e0f891c8f884f6fdbecb41ff9cad1de0712a0946c36202f25f320896b/1693218719629_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "일단 피피티 같은 교수님 수업자료 종이로 뽑으면 그거 보고서 시험칠 수 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 18,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 24,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 16
+            },
+            {
+              "text": "T/F형",
+              "count": 10
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 5
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.6,
+        "count": 514,
+        "items": [
+          {
+            "value": 5,
+            "count": 363
+          },
+          {
+            "value": 4,
+            "count": 108
+          },
+          {
+            "value": 3,
+            "count": 33
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 515,
+          "items": [
+            {
+              "text": "없음",
+              "count": 21
+            },
+            {
+              "text": "보통",
+              "count": 413
+            },
+            {
+              "text": "많음",
+              "count": 81
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 515,
+          "items": [
+            {
+              "text": "없음",
+              "count": 434
+            },
+            {
+              "text": "보통",
+              "count": 78
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 515,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 346
+            },
+            {
+              "text": "보통",
+              "count": 159
+            },
+            {
+              "text": "깐깐함",
+              "count": 10
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 515,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 91
+            },
+            {
+              "text": "전자출결",
+              "count": 241
+            },
+            {
+              "text": "지정좌석",
+              "count": 3
+            },
+            {
+              "text": "직접호명",
+              "count": 113
+            },
+            {
+              "text": "복합적",
+              "count": 67
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 515,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 186
+            },
+            {
+              "text": "두 번",
+              "count": 323
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "교수님 영어 발음을 제외한다면 무난하게 들을 수 있는 수업입니다. \n기말고사는 벼락치기를 해도 무리가 없을 정도의 난이도로 과제 GPT로 하는 애들 걸러내기 좋은 유형이었던 것 같습니다.",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "강의 커리큘럼이 너무 중구난방이고 설명도 별로에요",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788955067224",
+        "bookTitle": "로미오와 줄리엣(한국셰익스피어학회 작품총서 26)",
+        "bookAuthor": "윌리엄 셰익스피어",
+        "bookPublisher": "동인",
+        "bookPrice": 11000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/4c7242b7c5cb8414f158455d21119a48b5fffcb83be28f06ccbd60a82b2550b0/1630522509096_0.jpg"
+      },
+      {
+        "bookIsbn": "9788952771216",
+        "bookTitle": "젊은 베르터의 고뇌(세계문학의 숲 42)",
+        "bookAuthor": "괴테",
+        "bookPublisher": "시공사",
+        "bookPrice": 10000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/453a4f8040674e09a804015f80f80e9721a94ac356215b0a29a229df2e96a86c/1654151179458_0.jpg"
+      },
+      {
+        "bookIsbn": "9788954609104",
+        "bookTitle": "파우스트 1(세계문학전집 9)",
+        "bookAuthor": "괴테",
+        "bookPublisher": "문학동네",
+        "bookPrice": 10500,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/af23863eed3fd8cd06636b8254036cb4f074ccdc0a7ed48418fe83a92c3278b9/1630522959649_0.jpg"
+      },
+      {
+        "bookIsbn": "9788991290723",
+        "bookTitle": "향연(푸른시원)",
+        "bookAuthor": "플라톤",
+        "bookPublisher": "숲",
+        "bookPrice": 10000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/67ccc4d66f670b734065de21d3d4b816205e792a9fc5cf3c8b9bdad0a42424bc/1630468233899_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955064063",
+        "bookTitle": "사랑과 성과 문학",
+        "bookAuthor": "정진농",
+        "bookPublisher": "동인",
+        "bookPrice": 15000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/36e7d80cda07ef4abba489544bc9362ec901f8d31e33edfe636b765f54257790/1612358001201_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "21년이랑 동일하게 나왔습니다. 50분동안 분량 1장 채워야 되고 주제는",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 31,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 15
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 20
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 16,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 12
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.43,
+        "count": 136,
+        "items": [
+          {
+            "value": 5,
+            "count": 73
+          },
+          {
+            "value": 4,
+            "count": 51
+          },
+          {
+            "value": 3,
+            "count": 10
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 136,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 92
+            },
+            {
+              "text": "많음",
+              "count": 24
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 136,
+          "items": [
+            {
+              "text": "없음",
+              "count": 27
+            },
+            {
+              "text": "보통",
+              "count": 67
+            },
+            {
+              "text": "많음",
+              "count": 42
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 136,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 69
+            },
+            {
+              "text": "보통",
+              "count": 64
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 136,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 69
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 51
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 136,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "한 번",
+              "count": 5
+            },
+            {
+              "text": "두 번",
+              "count": 125
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "무난했기에 지루할 수도 있었던 수업. 이런식으로라도 책을 읽을 수 있었다. 교수님도 굉장히 친절하시며, 과제도 크게 어렵진 않다.",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "말을 논리정연하게 하지 못하십니다.\n수업도 어떤 ppt자료도 없이 진행하여 어떤 부분을 강조하여 말씀하고 싶으신건지 이해하기 어렵습니다.\n도서는 향연, 로미오와 줄리엣, 젊은 베르터의 고뇌, 파우스트 읽습니다. 세계",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

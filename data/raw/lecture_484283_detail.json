@@ -1,0 +1,218 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781118011522",
+        "bookTitle": "Investment Valuation",
+        "bookAuthor": "Damodaran Aswath",
+        "bookPublisher": "Wiley",
+        "bookPrice": 58000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/c8550839e8b44ad27e811fb01d2ddc34679e255675c8936e8ba83d1c8434686e/1516426946445_0.jpg"
+      },
+      {
+        "bookIsbn": "9789814595049",
+        "bookTitle": "Fundamentals of Corporate Finance, Aisan Global 2 Edition",
+        "bookAuthor": "스테판 A. 로스, Randolph W. Westerfield, Bradford D. Jordan, Joseph Lim, Ruth Tan",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 44000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/6069b77854b4c4c7335c7316bc0329275c159713221efd473b2f7b304c4f7a9e/1533466149146_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교안, 앤디킴 유튜브, 팀 프로젝트 열심히 공부하고 가면 됩니다!! 수업",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.79,
+        "count": 58,
+        "items": [
+          {
+            "value": 5,
+            "count": 21
+          },
+          {
+            "value": 4,
+            "count": 18
+          },
+          {
+            "value": 3,
+            "count": 10
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 5
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 58,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "많음",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 58,
+          "items": [
+            {
+              "text": "없음",
+              "count": 13
+            },
+            {
+              "text": "보통",
+              "count": 33
+            },
+            {
+              "text": "많음",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 58,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 13
+            },
+            {
+              "text": "보통",
+              "count": 40
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 58,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 22
+            },
+            {
+              "text": "전자출결",
+              "count": 7
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 21
+            },
+            {
+              "text": "복합적",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 58,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 58
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "수업은 중간때에 굉장히 시사적인 얘기 많이 하시면서 흥미를 갖도록 많이 유도하심 하지만 중간범위 막바지 부터기말까지는 진도 개빨리 나감. 작은 오차같은거 신경 많이 안쓰시고 논리, 전체적인 흐름을 더 중요시 하시는",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "레포트 문제 공지하는 당일에 온라인시혐으로 바꾸는건 너무 한거 아니오?",
+          "rate": 1,
+          "posvote": 18
+        }
+      ]
+    }
+  }
+}

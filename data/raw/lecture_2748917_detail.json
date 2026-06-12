@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791159713255",
+        "bookTitle": "스튜어트 미분적분학",
+        "bookAuthor": "제임스 스튜어트, Daniel K. Clegg, Saleem Watson",
+        "bookPublisher": "북스힐",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/32637f7ff3d7878cd218b5c6c9f2a99b288fcd18a6b8d7e7093831cc79faf2fe/1763540760477_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184105",
+        "bookTitle": "Calculus :early transcendentls (stewart성균관대)",
+        "bookAuthor": "stewart",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 49000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/35c33e510545d2da21b8e4218e3a2fef183056d1a33a30a148613c39fa5c9339/1691558917159_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "어차피 공통시험이라 족보만 조금 보고가시면 좋아요!",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.87,
+        "count": 55,
+        "items": [
+          {
+            "value": 5,
+            "count": 48
+          },
+          {
+            "value": 4,
+            "count": 7
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 55,
+          "items": [
+            {
+              "text": "없음",
+              "count": 23
+            },
+            {
+              "text": "보통",
+              "count": 30
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 55,
+          "items": [
+            {
+              "text": "없음",
+              "count": 55
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 55,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 23
+            },
+            {
+              "text": "보통",
+              "count": 31
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 55,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 21
+            },
+            {
+              "text": "전자출결",
+              "count": 33
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 0
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 55,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 54
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "출결:\n교수님께서 출석을 성적에 반영을 안 하신다. 3/4 이상 전자출결 안 하면 알려주시는 것 같고, 전자출결 빼먹은 걸 출석으로 인정해주시는것 같다(최소 1/4 은 출석 해야 한다).\n\n수업:\n빈 칸이 있는 강의",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "족보 해설 강의도 다 올려주시고 출튀도 널널합니다. 1학년에게 적합한 꿀강같아요.",
+          "rate": 4,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

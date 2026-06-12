@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781133628484",
+        "bookTitle": "Fundamentals of Logic Design, 7/E(Paperback)",
+        "bookAuthor": "Larry Kinney",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 43000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/580a7a6bf6cf16b6480598c18bb0532c195c504204a11a8c306bc8aea38c89ab/1726066626736_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962183948",
+        "bookTitle": "논리설계기초",
+        "bookAuthor": "Charles H. Roth, Larry L. Kinney",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 38000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/94d10716b47d4dbed37b0c3bc21bb027e9fd2be4720f9a1e8752d29b2339a419/1690544257252_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "연습문제는 과제할 때 했던거 다시 읽어보는 정도로만 하시고, ppt 전체",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 24,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 16
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 9
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.29,
+        "count": 242,
+        "items": [
+          {
+            "value": 5,
+            "count": 131
+          },
+          {
+            "value": 4,
+            "count": 71
+          },
+          {
+            "value": 3,
+            "count": 28
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 8
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 242,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 129
+            },
+            {
+              "text": "많음",
+              "count": 108
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 242,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 183
+            },
+            {
+              "text": "많음",
+              "count": 39
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 242,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 125
+            },
+            {
+              "text": "보통",
+              "count": 113
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 242,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 104
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 97
+            },
+            {
+              "text": "복합적",
+              "count": 39
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 242,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 240
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "학점 잘따기 위한 가이드\n1. 수업 끝까지 따라가고 매주 과제 착실히, 최대한 스스로 풀어라.\n2. 1번을 착실히 이행했다면, 시험공부는 교안 가볍게 읽어보고 과제 푼거 다시 두번정도 풀고, 기출 구해서 풀어봐라.",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "진도가너무빠르고 수업도 이해가잘안가네요\n허허",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

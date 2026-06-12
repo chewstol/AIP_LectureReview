@@ -1,0 +1,397 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504017",
+        "bookTitle": "The Write Way",
+        "bookAuthor": "성균관대학교 학부대학",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 17000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/d109208b686704e5dd9ee34d02975e2968b55aaa5e644ca4769e53b6289db53f/1772633359504_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155502129",
+        "bookTitle": "Write On",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 1,
+        "coverImage": "https://cf-cii.everytime.kr/af1fc89b4d64e7ff898d9c346d1aee9bea1b7f5a14a6df8cf10b4fbded608cd2/1583933773067_0.jpg"
+      },
+      {
+        "bookIsbn": "9788965420408",
+        "bookTitle": "해커스 토익 실전 1000제 리딩.1(문제집)(구토익)(개정판)",
+        "bookAuthor": "해커스 어학연구소",
+        "bookPublisher": "해커스어학연구소",
+        "bookPrice": 11900,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/0eac22a5a21a7111c7550cab3628f0bfd0e0e331e0b723c7b8c13ea3ff3bf829/1576763932197_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "수업 시간에 배운 것을 토대로 나오지만\n수업 때 배운 것만 나오진 않습니",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 20,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "4차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.03,
+        "count": 376,
+        "items": [
+          {
+            "value": 5,
+            "count": 138
+          },
+          {
+            "value": 4,
+            "count": 155
+          },
+          {
+            "value": 3,
+            "count": 56
+          },
+          {
+            "value": 2,
+            "count": 12
+          },
+          {
+            "value": 1,
+            "count": 15
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 375,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 205
+            },
+            {
+              "text": "많음",
+              "count": 159
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 375,
+          "items": [
+            {
+              "text": "없음",
+              "count": 124
+            },
+            {
+              "text": "보통",
+              "count": 177
+            },
+            {
+              "text": "많음",
+              "count": 74
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 375,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 78
+            },
+            {
+              "text": "보통",
+              "count": 232
+            },
+            {
+              "text": "깐깐함",
+              "count": 65
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 375,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 34
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 287
+            },
+            {
+              "text": "복합적",
+              "count": 51
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 375,
+          "items": [
+            {
+              "text": "없음",
+              "count": 63
+            },
+            {
+              "text": "한 번",
+              "count": 166
+            },
+            {
+              "text": "두 번",
+              "count": 95
+            },
+            {
+              "text": "세 번",
+              "count": 12
+            },
+            {
+              "text": "네 번 이상",
+              "count": 39
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "나는 개인적으로 너무 좋았음. 필자는 에쁠 받긴 했는데 플러스는 받기 힘든 것 같음... 성적으로 좋은 교수님은 아닌 듯 했으나 깎인 이유에 대한 설명이 이해가능하고 명확함. 그리고 소통이 너무 잘 됨. 모르는거 메",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "1점도 아까워요 듣지마   제바류도망쳐 꼽 개주고 과제 개많음 듣지마 다른거들어",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

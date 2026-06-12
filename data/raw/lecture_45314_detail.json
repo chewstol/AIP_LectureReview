@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780071311212",
+        "bookTitle": "Fluid Mechanics",
+        "bookAuthor": "Frank M. White",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 42000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/50c23433af033b6da92201bf812e9b1edbeeb243de4909f6ec9a658baa5fe7f4/1654915403245_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132101017",
+        "bookTitle": "White의 유체역학",
+        "bookAuthor": "Frank M. White",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 37000,
+        "price": 16000,
+        "coverImage": "https://cf-cii.everytime.kr/2874c0c5b24b3fca5f53308a2e4f4a471232173bf75795ea4d18a45b64bbe1e7/1726067148706_0.jpg"
+      },
+      {
+        "bookIsbn": "9789814720175",
+        "bookTitle": "Fluid Mechanics (SI)",
+        "bookAuthor": "Frank White",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 45000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/2a11968c446f937222908600c2f515c8a2a4c1ab06d0ff4ff89392e3539e4941/1694946574070_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960552609",
+        "bookTitle": "유체역학",
+        "bookAuthor": "Frank M. White",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 37000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/d526819c7be23279ad623856ef8b440d379bbd1ec207aa55f5f570040fe5d8b6/1710408508544_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교재의 그림문제들 풀어보기. 수업 때 언급 안된 공식도 나옴.\n과제보다 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.64,
+        "count": 61,
+        "items": [
+          {
+            "value": 5,
+            "count": 44
+          },
+          {
+            "value": 4,
+            "count": 12
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 61,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 50
+            },
+            {
+              "text": "많음",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 61,
+          "items": [
+            {
+              "text": "없음",
+              "count": 53
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 61,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 47
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 61,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 23
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 31
+            },
+            {
+              "text": "복합적",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 61,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 58
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "밑에 쓰신 분은 수업 안들으셨나본데 중요한 부분은 한국말로 다시 설명해주십니다. 교수님이 졸리게 수업하시긴 하지만 들어보면 강의력은 뛰어나십니다. \n시험문제는 연습문제나 과제에서 내시기도 하지만 책에 없는 문제도 절",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "뭔가 잘 가르치시는것 같은데 저는 이해를 못했습니다,,, 이번에는 예제 유제에서 안나온듯,,",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

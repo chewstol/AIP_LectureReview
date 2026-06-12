@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "퀴즈형태로 그동안 배운 이디엄 퀴즈 봤습니다. 모두다 서술형이었기 때문에",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 10
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.87,
+        "count": 75,
+        "items": [
+          {
+            "value": 5,
+            "count": 70
+          },
+          {
+            "value": 4,
+            "count": 3
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 12
+            },
+            {
+              "text": "보통",
+              "count": 57
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 65
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 75,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 45
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 75,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 37
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 25
+            },
+            {
+              "text": "복합적",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 9
+            },
+            {
+              "text": "한 번",
+              "count": 51
+            },
+            {
+              "text": "두 번",
+              "count": 14
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "GOAT\n내가 꽤 괜찮게 했다고 생각하면 A를 확보할 수 있을 것이고\n내가 시험 혹은 발표를 조졌다고 생각해도 B+을 주시는 아주 너그러운 수업",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "먼저 수업 자체는 밑글들에서 언급한 대로고 저도 중간1개틀리고 발표 괜찮게해서 결론적으론 에쁠 받았습니다.\n\n다만 중간고사 퀴즈 후 몇주 지나서 중간고사 성적을 공지하며 two cheaters가 있었고 그들은 매우",
+          "rate": 1,
+          "posvote": 8
+        }
+      ]
+    }
+  }
+}

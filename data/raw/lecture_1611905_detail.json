@@ -1,0 +1,288 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788946069503",
+        "bookTitle": "사회학",
+        "bookAuthor": "없음",
+        "bookPublisher": "한울아카데미",
+        "bookPrice": 33000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/d1fb5e36d7b8e39411a62a92f3a8b79a9c9e260ee4fd4890d20d01d354c1f10d/1677914049030_0.jpg"
+      },
+      {
+        "bookIsbn": "9788946068308",
+        "bookTitle": "사회학",
+        "bookAuthor": "정태석 외",
+        "bookPublisher": "한울아카데미",
+        "bookPrice": 32000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/7437a0a6719b931307fd827cef9e45a5b80524ac38a3a3c52d432df65ef1fc08/1766201768070_0.jpg"
+      },
+      {
+        "bookIsbn": "9788946064300",
+        "bookTitle": "사회학: 비판적 사회읽기(2판)(한울아카데미 1520)",
+        "bookAuthor": "비판사회학회, 정태석 외",
+        "bookPublisher": "한울",
+        "bookPrice": 31000,
+        "price": 16000,
+        "coverImage": "https://cf-cii.everytime.kr/fcb6dd8c55fb6c3cc2878f5c7df0042ec4c916296721df2105801612b0452794/1663124052114_0.jpg"
+      },
+      {
+        "bookIsbn": "9788932471747",
+        "bookTitle": "현대 사회학(6판)",
+        "bookAuthor": "앤소니 기든스",
+        "bookPublisher": "을유문화사",
+        "bookPrice": 26000,
+        "price": 10,
+        "coverImage": "https://cf-cii.everytime.kr/4a7f4c88c1d22f46e64f96a248d72301122629e57432becbfe71a75d1f3e7eba/1639827880396_0.jpg"
+      },
+      {
+        "bookIsbn": "9788932472386",
+        "bookTitle": "현대사회학(7판)",
+        "bookAuthor": "앤소니 기든스, 필립 서튼",
+        "bookPublisher": "을유문화사",
+        "bookPrice": 28000,
+        "price": 300,
+        "coverImage": "https://cf-cii.everytime.kr/edb6d83152c0826e6cbae11297795234b74282153f1cdbcf5106aa12a99be46f1502071332684/0.jpg"
+      },
+      {
+        "bookIsbn": "9788946055209",
+        "bookTitle": "사회학: 비판적 사회읽기(2판)",
+        "bookAuthor": "비판사회학회",
+        "bookPublisher": "한울아카데미",
+        "bookPrice": 29500,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/fc2a5031efab21bfb6202091729f68b9d2107afb2a8293823590e6a39aeb23921504067952523/0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "채점 기준을 몰라서 어떻게 써야 좋은 점수를 받는지는 모름. 다만 각 문",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 31,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 6
+            },
+            {
+              "text": "논술형",
+              "count": 25
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 23,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 16
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.43,
+        "count": 331,
+        "items": [
+          {
+            "value": 5,
+            "count": 195
+          },
+          {
+            "value": 4,
+            "count": 92
+          },
+          {
+            "value": 3,
+            "count": 37
+          },
+          {
+            "value": 2,
+            "count": 5
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 331,
+          "items": [
+            {
+              "text": "없음",
+              "count": 54
+            },
+            {
+              "text": "보통",
+              "count": 257
+            },
+            {
+              "text": "많음",
+              "count": 20
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 331,
+          "items": [
+            {
+              "text": "없음",
+              "count": 302
+            },
+            {
+              "text": "보통",
+              "count": 25
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 331,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 108
+            },
+            {
+              "text": "보통",
+              "count": 210
+            },
+            {
+              "text": "깐깐함",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 331,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 7
+            },
+            {
+              "text": "전자출결",
+              "count": 232
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 78
+            },
+            {
+              "text": "복합적",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 331,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "한 번",
+              "count": 68
+            },
+            {
+              "text": "두 번",
+              "count": 256
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "코로나로 인해 아캠으로만 수업 받은 것 감안해주시고 읽으세요! 저는 에이쁠 받았고 개인적으로 한 학기 동안 가장 마음에 들었고 재밌게 들었던 수업이었습니다. 원래 고딩 때 사문을 진짜 못했지만 익숙한 내용을 것 같아",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "평점맞추려고 1점드립니다. 원래대로면 한 3점정도일듯. 솔직히 다들 좋다고하는데 이해를 못하겠어요. 사문이랑 크게 다른것도 없고 사회학에 제가 흥미가 아주 없는것도 아니었는데 오히려 이 강의 듣고 흥미를 완전히 잃음",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

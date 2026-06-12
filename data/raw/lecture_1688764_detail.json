@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791185475318",
+        "bookTitle": "컴퓨터 네트워킹 : 하향식 접근(7판)",
+        "bookAuthor": "James F Kurose, Keith WRoss",
+        "bookPublisher": "퍼스트북",
+        "bookPrice": 36000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/c864f2d8f01f20acf581da53bfce9a44c785513c740fb397844b7e2a3a4571f1/1551091169463_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292153599",
+        "bookTitle": "Computer Networking: A Top-Down Approach",
+        "bookAuthor": "James Kurose, Keith Ross",
+        "bookPublisher": "Pearson",
+        "bookPrice": 44000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/830fdccbef6d6891fc5e4a1441beedb8307210f69412276becddaa49bf167d00/1632037187441_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사는 계산문제, 기말고사는 서술형 문제 위주로 나옵니다",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.53,
+        "count": 86,
+        "items": [
+          {
+            "value": 5,
+            "count": 56
+          },
+          {
+            "value": 4,
+            "count": 21
+          },
+          {
+            "value": 3,
+            "count": 8
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 86,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 53
+            },
+            {
+              "text": "많음",
+              "count": 32
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 86,
+          "items": [
+            {
+              "text": "없음",
+              "count": 70
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 86,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 45
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 86,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 44
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 36
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 86,
+          "items": [
+            {
+              "text": "없음",
+              "count": 9
+            },
+            {
+              "text": "한 번",
+              "count": 7
+            },
+            {
+              "text": "두 번",
+              "count": 65
+            },
+            {
+              "text": "세 번",
+              "count": 5
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "더 말할것도 없이\n교수님의 아잉 들었으면\n추천해라",
+          "rate": 5,
+          "posvote": 21
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "수업을 안듣고 과제만 했어서 그런가\n100 100 0 0 임... ㅋㅋㅋㅋㅋㅋㅋㅋㅋ 후 3,4번은 어려워보여서 그냥 pass 했음\n마지막 레포트 76인가 나와서 결국 B0 받았음\n\nC+안받은게 어디냐 ㅋㅋ",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

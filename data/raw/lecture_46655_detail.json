@@ -1,0 +1,227 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780195102680",
+        "bookTitle": "Microeconomic Theory",
+        "bookAuthor": "Mas-Colell Andreu, Whinston Michael D, Green Jerry R",
+        "bookPublisher": "Oxford USA",
+        "bookPrice": 110640,
+        "price": 50000,
+        "coverImage": "https://cf-cii.everytime.kr/ca12a4242c99207558a11a7343c68f1b12018a0c3cbb95ce096944eebfef458f/1630322049365_0.jpg"
+      },
+      {
+        "bookIsbn": "9781111525514",
+        "bookTitle": "Microeconomic Theory",
+        "bookAuthor": "Nicholson Walter",
+        "bookPublisher": "South Western",
+        "bookPrice": 38000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/60ef447467944f71b82ec1492ce240764359e9a64f7840ff609b607c2ed37be7/1752998219801_0.jpg"
+      },
+      {
+        "bookIsbn": "9791195103423",
+        "bookTitle": "미시경제학",
+        "bookAuthor": "이준구",
+        "bookPublisher": "문우사",
+        "bookPrice": 35000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/43b1b6d9f5c97661486cd7796c072010c9e7b37903c0004b9a4927a6dd871073/1622717920672_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "저번 시험문제 복붙문제(1,4문) + 과제문제(2문) + 수업시간에서 깊",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.45,
+        "count": 11,
+        "items": [
+          {
+            "value": 5,
+            "count": 6
+          },
+          {
+            "value": 4,
+            "count": 4
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 11,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 11,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 11,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 11,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 7
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 2
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 11,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 11
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "학부미시로 상처받은 마음, 송준 교수님 대학원 미시로 치유하고 갑니다.",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "너무 어려워요..\n근데 학점은 잘주시는듯해요..",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

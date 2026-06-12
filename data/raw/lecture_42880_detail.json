@@ -1,0 +1,304 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788991830622",
+        "bookTitle": "마케팅 관리(세계 일류들의)(양장본 HardCover)",
+        "bookAuthor": "김정구, 오준환, 이우헌",
+        "bookPublisher": "율곡출판사",
+        "bookPrice": 33000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/aff748f9fc58106a9452f95856391e23a44b1009a14a022c240a16c71c1d3dd8/1706256942651_0.jpg"
+      },
+      {
+        "bookIsbn": "9788997304387",
+        "bookTitle": "마케팅(4판)(양장본 HardCover)",
+        "bookAuthor": "이학식, 임지훈",
+        "bookPublisher": "집현재",
+        "bookPrice": 32000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/6736cf125b8217e325ec80732f63998d7d39715343b7beb92ad54856cf4dcd98/1594482880528_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964542385",
+        "bookTitle": "현대마케팅론(전면개정판 8판)(양장본 HardCover)",
+        "bookAuthor": "유필화, 김용준, 한상만",
+        "bookPublisher": "박영사",
+        "bookPrice": 33000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/67d4ccba6262f357c976c48128acdc9da28aa371670ec24dc04fc287737b6b68/1568817161194_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968440410",
+        "bookTitle": "마케팅의 이해(양장본 HardCover)",
+        "bookAuthor": "이승창, 류성민, 정강옥, 조성도",
+        "bookPublisher": "한경사",
+        "bookPrice": 35000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/303174cb66f48ae3d031102fcc1374470468893459c51c95ce9982c154bf72ac/1536215120141_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "무조건 족보 사서 보시는걸 추천합니다. 족보를 폴기 위해 공부해야 합니다",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 29,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 27
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 10
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.76,
+        "count": 430,
+        "items": [
+          {
+            "value": 5,
+            "count": 127
+          },
+          {
+            "value": 4,
+            "count": 150
+          },
+          {
+            "value": 3,
+            "count": 98
+          },
+          {
+            "value": 2,
+            "count": 31
+          },
+          {
+            "value": 1,
+            "count": 24
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 430,
+          "items": [
+            {
+              "text": "없음",
+              "count": 52
+            },
+            {
+              "text": "보통",
+              "count": 365
+            },
+            {
+              "text": "많음",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 430,
+          "items": [
+            {
+              "text": "없음",
+              "count": 333
+            },
+            {
+              "text": "보통",
+              "count": 96
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 430,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 203
+            },
+            {
+              "text": "보통",
+              "count": 189
+            },
+            {
+              "text": "깐깐함",
+              "count": 38
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 430,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 162
+            },
+            {
+              "text": "전자출결",
+              "count": 163
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 79
+            },
+            {
+              "text": "복합적",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 430,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 8
+            },
+            {
+              "text": "두 번",
+              "count": 420
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "1학년이고 혼자 신청한 거라서 수업 한번도 안 빠지고 꼬박꼬박 나갔어요!  교수님이 교안 올려주시는데 평소에는 노트에다 필기하고 교안은 시험 전에 한번 읽어보고 프린트해갔습니다. 중간고사는 진짜 세보지는 않았지만 배",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "아니 진짜 말이 안 되는 강의임. A+ B+ C+ 33%로 다 나눠서 주는데 진심 시험 문제도 족보랑 답 다른 것도 있고 퀴즈나 시험이나 풀어도 오답이랑 정답 뭔지 구분 못하게 해놓아서 공부를 어떻게 할 수가 없음.",
+          "rate": 1,
+          "posvote": 10
+        }
+      ]
+    }
+  }
+}

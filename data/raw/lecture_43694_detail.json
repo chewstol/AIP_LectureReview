@@ -1,0 +1,372 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504017",
+        "bookTitle": "The Write Way",
+        "bookAuthor": "성균관대학교 학부대학",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 17000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/1f682082d34b016cea014f80d12b0d9c5b7868a38701147765dfa5cec048c10c/1660724466488_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155502396",
+        "bookTitle": "Poised to Present",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 1000,
+        "coverImage": "https://cf-cii.everytime.kr/d5f0ab4ec77c85d68a8653a538260a65981bdf930935bf811e60a8a545c24569/1770721244787_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155502129",
+        "bookTitle": "Write On",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 2000,
+        "coverImage": "https://cf-cii.everytime.kr/819e6444c4f089bc8f49710f2fe250b26098f9914f5191f6aad7fc636028c220/1584346876054_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979869033",
+        "bookTitle": "Write On",
+        "bookAuthor": "편집부",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 13000,
+        "price": 2000,
+        "coverImage": "https://cf-cii.everytime.kr/cbc47f6983accb0259258e9cf317b1f719febff4fe99aa87dcca7fd6ff089449/1598259904941_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "Quiz 1차 내용이에요. 기본적으로 책에 있는 내용을 외우시고 몇 개는",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 43,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 30
+            },
+            {
+              "text": "주관식",
+              "count": 40
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 20,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 14
+            },
+            {
+              "text": "주관식",
+              "count": 18
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.52,
+        "count": 368,
+        "items": [
+          {
+            "value": 5,
+            "count": 80
+          },
+          {
+            "value": 4,
+            "count": 135
+          },
+          {
+            "value": 3,
+            "count": 83
+          },
+          {
+            "value": 2,
+            "count": 35
+          },
+          {
+            "value": 1,
+            "count": 35
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 368,
+          "items": [
+            {
+              "text": "없음",
+              "count": 13
+            },
+            {
+              "text": "보통",
+              "count": 254
+            },
+            {
+              "text": "많음",
+              "count": 101
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 368,
+          "items": [
+            {
+              "text": "없음",
+              "count": 263
+            },
+            {
+              "text": "보통",
+              "count": 99
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 368,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 80
+            },
+            {
+              "text": "보통",
+              "count": 186
+            },
+            {
+              "text": "깐깐함",
+              "count": 102
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 368,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 20
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 320
+            },
+            {
+              "text": "복합적",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 368,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "한 번",
+              "count": 13
+            },
+            {
+              "text": "두 번",
+              "count": 295
+            },
+            {
+              "text": "세 번",
+              "count": 18
+            },
+            {
+              "text": "네 번 이상",
+              "count": 36
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "ㄱㅊㄱㅊ 깐깐하시긴 한데 루브릭대로만 잘쓰면 점수 잘 주심 대신 에세이 쓰다가 애매한 거 있으면 무조건 메일로 물어보세요 답변 잘해주심\n처음엔 교수님 너무 무서웠는데 나중에 갈수록 교수님 귀엽고 괜찮았음",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "개인적으로 수업 열심히 듣고 퀴즈 만점도 받았지만 비추. 좋은 주제? 좋은 내용? 그딴거 필요 없음. 그냥 형식 맞추면 됨. 나처럼 내용 좋게 하려다가 다 깎이고, 내가 고른 주제에 대한 교수님의 고정관념이 강하셔서",
+          "rate": 1,
+          "posvote": 12
+        }
+      ]
+    }
+  }
+}

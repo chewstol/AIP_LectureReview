@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781265577568",
+        "bookTitle": "Chemistry",
+        "bookAuthor": "제이슨 오버비",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 65000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/8342aeb40507f250d9e794ea5d0696e595e31e7527a9d211188c2c46137954cc/1772507978238_0.jpg"
+      },
+      {
+        "bookIsbn": "9791188731107",
+        "bookTitle": "기본 일반화학",
+        "bookAuthor": "Raymond Chang, Jason Overby",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/42a93d8148092c4018dfbf81c2bb9281c70276af77e3d08eb39d79728d9de6ad/1677046268264_0.jpg"
+      },
+      {
+        "bookIsbn": "9788992603737",
+        "bookTitle": "일반화학",
+        "bookAuthor": "스티븐 S. 줌달",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 53000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/5c0d8f7f4592d7d245b6a6c3c75aca031b653679a5811facdb23306663db8bf2/1545455169680_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "타임어택&계산문제!\n계산 아닌 문제는 교수님이 강조한 부분에서 나오긴 합",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 5
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.56,
+        "count": 112,
+        "items": [
+          {
+            "value": 5,
+            "count": 71
+          },
+          {
+            "value": 4,
+            "count": 33
+          },
+          {
+            "value": 3,
+            "count": 8
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 112,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 94
+            },
+            {
+              "text": "많음",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 112,
+          "items": [
+            {
+              "text": "없음",
+              "count": 102
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 112,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 46
+            },
+            {
+              "text": "보통",
+              "count": 64
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 112,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 78
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 15
+            },
+            {
+              "text": "복합적",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 112,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 15
+            },
+            {
+              "text": "두 번",
+              "count": 95
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "설명도 잘해주시고 만족만족!! PPT도 난 개인적으로 정말 좋았음. 자세해서 공부하기에 딱 좋아. 물론 내 성적ㅇ은 그렇지 않았지만 이건 내가 공부안해서이니까 괜춘..!",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "Bsm이니까 독학을 어떻게 하느냐에 달린 듯 시험도 나름 ㄱㅊㄱㅊ 학점도 후하게 준 것 같음",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

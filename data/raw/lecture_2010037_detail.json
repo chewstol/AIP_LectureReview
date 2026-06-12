@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9782278093137",
+        "bookTitle": "Bonjour Et Bienvenue ! Livre + CD  안녕하세요 프랑스어 입문",
+        "bookAuthor": "Xxx",
+        "bookPublisher": "Didier",
+        "bookPrice": 27000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/6d563525e2de3541a2a57a8e84ea67823a8f206e1d2f75a7664eb396cacfd57b/1678021645420_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979869774",
+        "bookTitle": "기초 프랑스어",
+        "bookAuthor": "성균관대학교 프랑스어문학과",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/e654f7269c6adfcf21aaae5a42ca7aa2f5924a4f2cf7500aae972f383989af00/1606310888700_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교재에 있는 문법, 단어, 대화만 시험 범위에 들어가고 발음은 안 들어가",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 12
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 17,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 16
+            },
+            {
+              "text": "주관식",
+              "count": 15
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.79,
+        "count": 173,
+        "items": [
+          {
+            "value": 5,
+            "count": 143
+          },
+          {
+            "value": 4,
+            "count": 23
+          },
+          {
+            "value": 3,
+            "count": 7
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 173,
+          "items": [
+            {
+              "text": "없음",
+              "count": 162
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 173,
+          "items": [
+            {
+              "text": "없음",
+              "count": 166
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 173,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 126
+            },
+            {
+              "text": "보통",
+              "count": 47
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 173,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 57
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 105
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 173,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 49
+            },
+            {
+              "text": "두 번",
+              "count": 123
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "코로나 학기.. 교수님 너무 친절하시고 착하시고 열정있으시고..\n학점 잘주시고.. 감사합니다",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "온라인이라면 편할텐데..역시 아침수업이라 피곤하네요",
+          "rate": 3,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

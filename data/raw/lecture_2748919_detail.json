@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788962185300",
+        "bookTitle": "Calculus Early Transcendentals (Korea Edition)",
+        "bookAuthor": "제임스 스튜어트, Daniel K. Clegg, Saleem Watson",
+        "bookPublisher": "Cengage",
+        "bookPrice": 47000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/1deb0debe1cc614fee0af0d64bccab869f93a7bc0501cacc4f5a480b62073fd8/1715219413137_0.jpg"
+      },
+      {
+        "bookIsbn": "9791159710438",
+        "bookTitle": "스튜어트 미분적분학(8판)",
+        "bookAuthor": "James Stewart",
+        "bookPublisher": "북스힐",
+        "bookPrice": 42000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/53c79170ec332951646fe1d6b2d87898a207d70c1020f3227c45c2ba92914cf7/1740311667352_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184105",
+        "bookTitle": "Calculus :early transcendentls (stewart성균관대)",
+        "bookAuthor": "stewart",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 49000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/35c33e510545d2da21b8e4218e3a2fef183056d1a33a30a148613c39fa5c9339/1691558917159_0.jpg"
+      },
+      {
+        "bookIsbn": "9788961059961",
+        "bookTitle": "미분적분학",
+        "bookAuthor": "제임스 스튜어트",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/620d4d4b3719e6c1f96231a5c34443b175db559edac90b0abbfd053f400d55f8/1608556333193_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "미적1 1학기 중간고사는 그냥 고등학교 내용이니까 고등 미적분 적당히 알",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.9,
+        "count": 42,
+        "items": [
+          {
+            "value": 5,
+            "count": 39
+          },
+          {
+            "value": 4,
+            "count": 2
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 38
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 40
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 42,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 32
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 42,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 26
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 10
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 42
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "열정이 대단하신 교수님이십니다. 교수님께서 인품이 훌륭하시고 학생들을 지도하는 일에 열정적이라서 수업 따라가기가 너무 좋습니다. 필기한 거 매주 pdf로 올려주는 거 보고 시험쳤는데 무척 잘 봤습니다\n수학을 좋아하고",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "교수님 정말 열심히 가르치시고 성격도 좋으십니다. 하지만 수업내용에 증명이 많아서 시험과 동떨어진 부분또는 더욱 더 깊게 들어가시는 경우도 많으니 수업은 잘 들으시되 너무 깊게 들어가시는 부분은 적절히 넘길 수 있어",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

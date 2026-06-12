@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788962184105",
+        "bookTitle": "Calculus :early transcendentls (stewart성균관대)",
+        "bookAuthor": "stewart",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 49000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/35c33e510545d2da21b8e4218e3a2fef183056d1a33a30a148613c39fa5c9339/1691558917159_0.jpg"
+      },
+      {
+        "bookIsbn": "9781305266728",
+        "bookTitle": "Calculus International Metric Version",
+        "bookAuthor": "없음",
+        "bookPublisher": "없음",
+        "bookPrice": 169970,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/aa76b5f2179678669cb2be02b3d8ff3e1b9fb55085d843d0d34900037c9e0359/1596543746532_0.jpg"
+      },
+      {
+        "bookIsbn": "9788961053822",
+        "bookTitle": "대학미적분학(3판)",
+        "bookAuthor": "JAMES STEWART",
+        "bookPublisher": "경문사",
+        "bookPrice": 39000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/1dcc6c57343dd7c2f8563fa27a5dfebb05dfe85e5388dd5503afc50b92f9bbc1/1652675142005_0.jpg"
+      },
+      {
+        "bookIsbn": "9780495560654",
+        "bookTitle": "Calculus : Concepts and Contexts",
+        "bookAuthor": "James Stewart",
+        "bookPublisher": "Brooks Cole",
+        "bookPrice": 41000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/91daf2bb66651d604a39c5ed0a152b4ffd1aab51fa0a5a8271ad00d477284f9f/1598281574696_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "웹워크 꾸준히 하시고 교수님이 수업 한단원 끝날때마다 풀어보면 좋을만한 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.43,
+        "count": 196,
+        "items": [
+          {
+            "value": 5,
+            "count": 122
+          },
+          {
+            "value": 4,
+            "count": 50
+          },
+          {
+            "value": 3,
+            "count": 16
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 6
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 196,
+          "items": [
+            {
+              "text": "없음",
+              "count": 41
+            },
+            {
+              "text": "보통",
+              "count": 142
+            },
+            {
+              "text": "많음",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 196,
+          "items": [
+            {
+              "text": "없음",
+              "count": 176
+            },
+            {
+              "text": "보통",
+              "count": 20
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 196,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 66
+            },
+            {
+              "text": "보통",
+              "count": 105
+            },
+            {
+              "text": "깐깐함",
+              "count": 25
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 196,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 15
+            },
+            {
+              "text": "전자출결",
+              "count": 43
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 106
+            },
+            {
+              "text": "복합적",
+              "count": 32
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 196,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 18
+            },
+            {
+              "text": "두 번",
+              "count": 167
+            },
+            {
+              "text": "세 번",
+              "count": 8
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2016,
+          "semester": "1",
+          "text": "역씌 기멘수다. 그  으려운 상황에셔도 자기 수읍을 가져간다는 것은 증말 대단하다, 그렇케 말씀드릴 수 있겠스요. 제가 누누이 말씀드립니다마는 즈 교슈가  멩료한 해설, 중간중간에 나오는 위트, 순간순간의 셴스, 즈",
+          "rate": 5,
+          "posvote": 369
+        },
+        {
+          "year": 2016,
+          "semester": "2",
+          "text": "기멘수 강의펑에 낚이지 말아라\n그냥 별로다\n융통성 있다고 하는사람도 있는데 난 전혀 이해 안된다 사람이 꽉막힌듯",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

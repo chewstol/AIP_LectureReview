@@ -1,0 +1,267 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "44문항에 객관식, 주관식 섞어있어서 시간 촉박해요ㅠ 오픈북이고 교수님 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 29,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 26
+            },
+            {
+              "text": "주관식",
+              "count": 24
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 9
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 14
+            },
+            {
+              "text": "주관식",
+              "count": 11
+            },
+            {
+              "text": "T/F형",
+              "count": 4
+            },
+            {
+              "text": "약술형",
+              "count": 6
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.32,
+        "count": 295,
+        "items": [
+          {
+            "value": 5,
+            "count": 159
+          },
+          {
+            "value": 4,
+            "count": 89
+          },
+          {
+            "value": 3,
+            "count": 35
+          },
+          {
+            "value": 2,
+            "count": 7
+          },
+          {
+            "value": 1,
+            "count": 5
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 295,
+          "items": [
+            {
+              "text": "없음",
+              "count": 47
+            },
+            {
+              "text": "보통",
+              "count": 227
+            },
+            {
+              "text": "많음",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 295,
+          "items": [
+            {
+              "text": "없음",
+              "count": 102
+            },
+            {
+              "text": "보통",
+              "count": 118
+            },
+            {
+              "text": "많음",
+              "count": 75
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 295,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 109
+            },
+            {
+              "text": "보통",
+              "count": 171
+            },
+            {
+              "text": "깐깐함",
+              "count": 15
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 295,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 228
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 24
+            },
+            {
+              "text": "복합적",
+              "count": 36
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 295,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 5
+            },
+            {
+              "text": "두 번",
+              "count": 288
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "이 수업을 듣기전에 제일 먼저 알아야할 것은 이 수업이 절대평가라는 겁니다. 24-2학기 기준으로 85%를 넘겨야 A+, 80%를 넘겨야 A였습니다. 문제는 이 기준을 넘기기 상당히 어려웠다는 점입니다. 왜 그런지는",
+          "rate": 5,
+          "posvote": 9
+        },
+        {
+          "year": 2022,
+          "semester": "겨울",
+          "text": "교수님은 좋으시지만 수업내용 자체가 무쓸모\n겨울계절로 들었는데 인도영어, 호주식 영어, 콩글리쉬 이런거 배우는데 내가 이걸 왜 하고 있는지 현타옴;\n시험도 클로즈드 북인데 외워야할 내용 엄청 많음. \n그렇다고 학점을",
+          "rate": 1,
+          "posvote": 5
+        }
+      ]
+    }
+  }
+}

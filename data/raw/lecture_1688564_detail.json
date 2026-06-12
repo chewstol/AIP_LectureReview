@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788987350509",
+        "bookTitle": "동양철학의 유혹",
+        "bookAuthor": "신정근",
+        "bookPublisher": "이학사",
+        "bookPrice": 19000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/1b93a91ab0602c0fccb31d538de6c399a661f46ffceafc0fbb8a07ccd09ffe22/1599810440279_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "각 사상가에 대한 암기보단 이해가 중요하고 이해하면 오픈북이라 찾기 더 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 17,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 11
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 11
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 9
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 6
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.33,
+        "count": 164,
+        "items": [
+          {
+            "value": 5,
+            "count": 97
+          },
+          {
+            "value": 4,
+            "count": 40
+          },
+          {
+            "value": 3,
+            "count": 13
+          },
+          {
+            "value": 2,
+            "count": 12
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 164,
+          "items": [
+            {
+              "text": "없음",
+              "count": 82
+            },
+            {
+              "text": "보통",
+              "count": 76
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 164,
+          "items": [
+            {
+              "text": "없음",
+              "count": 57
+            },
+            {
+              "text": "보통",
+              "count": 107
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 164,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 116
+            },
+            {
+              "text": "보통",
+              "count": 45
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 164,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 99
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 43
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 164,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 44
+            },
+            {
+              "text": "두 번",
+              "count": 118
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "인생 최고의 명강의 학점과 재미 둘다 얻을 수 있음",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "꿀빨려는 사람들은 피하셈\n교안만 읽고는 절대 시험 잘 못봄 무조건 강의 열심히 듣고 필기해야됨 교수님 진짜 좋으신 분인건 알겠는데 매주 있던 퀴즈가 너무 스트레스였음 이 교양 들은거 개후회중",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

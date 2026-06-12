@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781119454168",
+        "bookTitle": "Introduction to Solid State Physics(Global Edition)",
+        "bookAuthor": "Kittel Charles",
+        "bookPublisher": "Wiley",
+        "bookPrice": 48000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/791534a7ac64d139ae771b8f41f5a0a528f402d86ad1179d790625f4bb81e06b/1639746943022_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "전년도 시험들을 미리 주시니 꼭 풀어보시길 바랍니다\n족보를 보면 알겠지만",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.61,
+        "count": 173,
+        "items": [
+          {
+            "value": 5,
+            "count": 119
+          },
+          {
+            "value": 4,
+            "count": 45
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 173,
+          "items": [
+            {
+              "text": "없음",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 151
+            },
+            {
+              "text": "많음",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 173,
+          "items": [
+            {
+              "text": "없음",
+              "count": 156
+            },
+            {
+              "text": "보통",
+              "count": 16
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 173,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 31
+            },
+            {
+              "text": "보통",
+              "count": 124
+            },
+            {
+              "text": "깐깐함",
+              "count": 18
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 173,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 80
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 83
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 173,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 13
+            },
+            {
+              "text": "두 번",
+              "count": 160
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "다들 아시다시피 강의력은 화공 교수님들중에 손 꼽으심\n다른 강의평가 보면 알겠지만 국제어 강의고, 영어로 수업하시는데 영어 매우 유창하셔서 학생의 영어 실력이 문제가 될 순 있어도 교수님의 실력은 전혀 걱정 없음.",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "진짜 조온나 힘듭니다 공부안하고 듣기 너무힘들어요 한학기 계속 고생함진짜 과제는 없는데 하나 하는게 진짜 몇주씩걸립니다. 영어도 못해가지고 들리지도 않고 그래도 강의저장된거로 들을때는 이해가되더라고여",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780393264524",
+        "bookTitle": "The Norton Anthology of American Literature",
+        "bookAuthor": "W. W. Norton & Company",
+        "bookPublisher": "W. W. Norton & Company",
+        "bookPrice": 95350,
+        "price": 35000,
+        "coverImage": "https://cf-cii.everytime.kr/400f018bcb08f73827c1381d7129a9e7b6a5c1495086d357d6b1655be020cc02/1538353171732_0.jpg"
+      },
+      {
+        "bookIsbn": "9780393918854",
+        "bookTitle": "The Norton Anthology of American Literature (Shorter Eighth Edition)",
+        "bookAuthor": "Nina Baym",
+        "bookPublisher": "W. W. Norton & Company",
+        "bookPrice": 59000,
+        "price": 19000,
+        "coverImage": "https://cf-cii.everytime.kr/5cc37932752fac84e6ff9a06d4e9c908d6d954ea515272a13c95b1b76813a491/1614052190635_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "수업시간에 다룬 텍스트 일부분만 보고 작가가 누구고 글의 제목이 뭔지 파",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.32,
+        "count": 100,
+        "items": [
+          {
+            "value": 5,
+            "count": 53
+          },
+          {
+            "value": 4,
+            "count": 29
+          },
+          {
+            "value": 3,
+            "count": 15
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 100,
+          "items": [
+            {
+              "text": "없음",
+              "count": 22
+            },
+            {
+              "text": "보통",
+              "count": 74
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 100,
+          "items": [
+            {
+              "text": "없음",
+              "count": 37
+            },
+            {
+              "text": "보통",
+              "count": 63
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 100,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 43
+            },
+            {
+              "text": "보통",
+              "count": 51
+            },
+            {
+              "text": "깐깐함",
+              "count": 6
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 100,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 12
+            },
+            {
+              "text": "전자출결",
+              "count": 4
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 81
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 100,
+          "items": [
+            {
+              "text": "없음",
+              "count": 17
+            },
+            {
+              "text": "한 번",
+              "count": 38
+            },
+            {
+              "text": "두 번",
+              "count": 45
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "엔젤 그 자체...영문과의 희망이자 빛. 중기말 대체 과제 한번씩이고 이외 과제 일절 내주시지 않음  중간도 점수 후하게 주시고 기말은 아직 안냈는데 여러분들 힘들 거 같다고 다른 시험 다 끝나고 난 다음주까지로 미",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "좋은 교수님의 편한 수업인 건 알겠는데, 중간페이퍼40에 기말페이퍼60인데 평가가 어떻게 되는 건지 잘 모르겠음. 기준도 모르겠고~ 기말페이퍼는 정확한 점수도 모름.",
+          "rate": 2,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

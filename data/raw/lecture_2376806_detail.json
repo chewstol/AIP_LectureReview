@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781292403069",
+        "bookTitle": "Organizational Behavior",
+        "bookAuthor": "Stephen Robbins, Timothy Judge",
+        "bookPublisher": "Pearson",
+        "bookPrice": 59000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/9034a72356ef9062a386a6421320214aea5057137c8d74bb5ec145c04214fcfc/1661728386795_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험 전 조교님이 40분짜리 영상을 올려주시는데, 꼭 여러 번 보세요. ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 12,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 12
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.26,
+        "count": 134,
+        "items": [
+          {
+            "value": 5,
+            "count": 68
+          },
+          {
+            "value": 4,
+            "count": 41
+          },
+          {
+            "value": 3,
+            "count": 20
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 134,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 63
+            },
+            {
+              "text": "많음",
+              "count": 67
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 134,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 22
+            },
+            {
+              "text": "많음",
+              "count": 110
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 134,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 59
+            },
+            {
+              "text": "보통",
+              "count": 68
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 134,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 26
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 58
+            },
+            {
+              "text": "복합적",
+              "count": 44
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 134,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 8
+            },
+            {
+              "text": "두 번",
+              "count": 126
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "팀 잘 만나면 팀플은 괜찮은듯.\n다만 시험 문제 난이도가 꽤나 높은 편, 강의 내용 잘 기억해야함, 시험 범위 많은편입니다.",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "다른 영어 강의들에 비해서 사용하시는 단어도 어렵고, 말씀하시는 속도도 굉장히 빠릅니다. 다른 강의들은 어찌저찌 듣고 학점도 잘 받았었는데 이 강의는 따라가는 것부터가 버거웠습니다.\n\n수업 템포가 매우 빠른데, 교수",
+          "rate": 1,
+          "posvote": 6
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "status": "success",
+  "result": {
+    "articles": [
+      {
+        "id": 4955713,
+        "year": 2022,
+        "semester": "2",
+        "text": "교수님 착하시고 좋음\n자잘한 과제가 많음\n근데 앞으로 수업 안하실수도",
+        "rate": 4,
+        "posvote": 0
+      }
+    ]
+  }
+}

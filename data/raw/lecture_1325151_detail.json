@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791132110880",
+        "bookTitle": "Bodie의 기본투자론",
+        "bookAuthor": "ZVI Bodie, ALEX Kane, Alan Marcus",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 40000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/5cc1133dfb40389729e9feb11c0689e251e405d1bae7119630732b53a0401ac9/1758021571609_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955016963",
+        "bookTitle": "증권 투자론",
+        "bookAuthor": "장영광",
+        "bookPublisher": "신영사",
+        "bookPrice": 32000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/648ee0bd5f94261953c6c07629339bfd4a7d5ff843af7caf2ec0007e9e7ed8d4/1678155603543_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955015287",
+        "bookTitle": "증권투자론(7판)(CD1장포함)(양장본 HardCover)",
+        "bookAuthor": "장영광",
+        "bookPublisher": "신영사",
+        "bookPrice": 30000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/74451a2911192a5edb06f9be00db31052a33ca8c4fbf9393d1198212df057def/1535953248685_0.jpg"
+      },
+      {
+        "bookIsbn": "9780071267496",
+        "bookTitle": "Essentials of Investments",
+        "bookAuthor": "Zvi Bodie",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 43000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/90c297c4e09945ec847755f7a080d096f19aaeabe1f700ee725101686e528fb5/1520380428951_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "o/x, 객관식, 주관식, 논술형 등 문제 유형이 다양하게 나와요. 모든",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 16,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 14
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 6
+            },
+            {
+              "text": "약술형",
+              "count": 7
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.82,
+        "count": 229,
+        "items": [
+          {
+            "value": 5,
+            "count": 193
+          },
+          {
+            "value": 4,
+            "count": 30
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 229,
+          "items": [
+            {
+              "text": "없음",
+              "count": 75
+            },
+            {
+              "text": "보통",
+              "count": 153
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 229,
+          "items": [
+            {
+              "text": "없음",
+              "count": 217
+            },
+            {
+              "text": "보통",
+              "count": 12
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 229,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 171
+            },
+            {
+              "text": "보통",
+              "count": 55
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 229,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 111
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 82
+            },
+            {
+              "text": "복합적",
+              "count": 30
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 229,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 162
+            },
+            {
+              "text": "두 번",
+              "count": 65
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "왜... 왜 망설이시나요..? 투자론을 들어야 하는 당신. 반드시 갓인욱 교수님의 투자론을 수강신청 하세요.\n전 복전생이라 투자론 수강신청 할 때 정말 걱정이 많았습니다. 어렵다는 이야기를 듣기도 했고, 이전에 공부",
+          "rate": 5,
+          "posvote": 11
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "끝으로 갈수록 교수님의 개인 일정으로 수업에 너무 많은 지장을 주는 기분이다..",
+          "rate": 3,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

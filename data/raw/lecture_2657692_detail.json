@@ -1,0 +1,218 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791189550547",
+        "bookTitle": "감염병이 바꾼 세계사",
+        "bookAuthor": "나이토 히로후미",
+        "bookPublisher": "탐나는책",
+        "bookPrice": 16000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/f379c340e2d3149ba5a609b9a0abb580a3d0eec5db3d2ec72cde84266672c71d/1757046170261_0.jpg"
+      },
+      {
+        "bookIsbn": "9791189198862",
+        "bookTitle": "종의 기원",
+        "bookAuthor": "찰스 다윈, 다윈포럼 기획",
+        "bookPublisher": "사이언스북스",
+        "bookPrice": 22000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/213ce53cb03339bd499045d954252ae7db025f1e3f7d88b5689efb98b67769c3/1757046295378_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "저희는 체액성 면역이니 세포성 면역이니 이 부분에서는 전혀 안나왔고 역사",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.63,
+        "count": 51,
+        "items": [
+          {
+            "value": 5,
+            "count": 15
+          },
+          {
+            "value": 4,
+            "count": 18
+          },
+          {
+            "value": 3,
+            "count": 9
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 7
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 51,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "많음",
+              "count": 31
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 51,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "많음",
+              "count": 17
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 51,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 35
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 51,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 33
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 12
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 51,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 49
+            },
+            {
+              "text": "두 번",
+              "count": 1
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "최고의 교수님! 생명과학 좋아하시면 들을만해요! 학점은 채워주신다고 하시고 수업 재밌게 잘 진행하시며 다른 고명북에 비하면 과제도 양호한 편인 것 같아요!저는 개인적으로 너무 배운게 많았던 것 같습니다!",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "학생들 발표 듣는 태도가 발표하기 싫게 만듬, 본인 전공지식 뽐낼려고 수업하는거 같음, 개노잼 개그 맨날침 다 모르겠고 영 아닌거 같다",
+          "rate": 1,
+          "posvote": 13
+        }
+      ]
+    }
+  }
+}

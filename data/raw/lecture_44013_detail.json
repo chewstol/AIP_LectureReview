@@ -1,0 +1,277 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155500590",
+        "bookTitle": "소통의 기초 스피치와 토론",
+        "bookAuthor": "스피치와 토론 교과교재 출간위원회",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/768cbf4fcee0ab72369ea25a2bb8b44481ab8bc93073dc65c02a073207ef3baf/1778505356918_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험 전에 어디 공부하라고 직접적으로 말씀해주시는데 정말 그대로 나와서 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 29,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 14
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 17
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.99,
+        "count": 233,
+        "items": [
+          {
+            "value": 5,
+            "count": 98
+          },
+          {
+            "value": 4,
+            "count": 75
+          },
+          {
+            "value": 3,
+            "count": 35
+          },
+          {
+            "value": 2,
+            "count": 10
+          },
+          {
+            "value": 1,
+            "count": 15
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 233,
+          "items": [
+            {
+              "text": "없음",
+              "count": 39
+            },
+            {
+              "text": "보통",
+              "count": 179
+            },
+            {
+              "text": "많음",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 233,
+          "items": [
+            {
+              "text": "없음",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 203
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 233,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 61
+            },
+            {
+              "text": "보통",
+              "count": 147
+            },
+            {
+              "text": "깐깐함",
+              "count": 25
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 233,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 17
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 174
+            },
+            {
+              "text": "복합적",
+              "count": 36
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 233,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "한 번",
+              "count": 185
+            },
+            {
+              "text": "두 번",
+              "count": 23
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "👨‍🏫 1. 과목 설명: 스피치할때 어떻게 해야하는지(서론-본론-결론), 간단한 이론(스피치의 역사) 등을 배움.\n        2 . 평가: 과제없음! 중간1번,+스피치 2번(자기소개, 설득)+토론\n        3.",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "이사람은 그냥 애들 갈구는걸 좋아함 매번 꼬투리잡으면서 뭐라하는데 영양가도 없고 말도안되는 지적도 너무많이함 제발 다른수업가셈 제발제발제발제발",
+          "rate": 1,
+          "posvote": 12
+        }
+      ]
+    }
+  }
+}

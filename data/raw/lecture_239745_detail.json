@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780393884852",
+        "bookTitle": "Molecular Biology of the Cell",
+        "bookAuthor": "Alberts Bruce",
+        "bookPublisher": "Norton & Company",
+        "bookPrice": 115000,
+        "price": 60000,
+        "coverImage": "https://cf-cii.everytime.kr/13f42537e4002b213d0387fc495b3f3f70c7f979641d5856f7f4fe5d976d359f/1699114777898_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "노벨강의 잘 정리하기\n\n강의에 딥한 내용이 많은데, 시험 문제에서 다행이",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.64,
+        "count": 14,
+        "items": [
+          {
+            "value": 5,
+            "count": 2
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 7
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 14,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 14,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 14,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 14,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 1
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 13
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 14,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 8
+            },
+            {
+              "text": "두 번",
+              "count": 4
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "와 노벨상 수상자의 강의를  볼 수 있다고? 영어듣기능력, 독해능력을 키울수 있다고? 그럼 이거지;; 중간은 동영상내용들로 셤에 나오고, 기말은 동영상내용들 글고 외부 출제인듯",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "논문 읽고 서술형으로 답하는 과제가 총 12번 나왔습니다. 답을 영어로 써야하는게 힘들었습니다..파파고 없었으면 정말...ㅜ종강 주차에도 과제를 주십니다.\n강의는 거의 그냥 책을 읽으시는 것 같습니다. 줄 긋는게 거",
+          "rate": 3,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

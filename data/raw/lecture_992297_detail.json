@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "기말 범위는 플라톤과 아리스토텔레스 철학. 아래 문제를 한시간 반 안에 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 9
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.39,
+        "count": 88,
+        "items": [
+          {
+            "value": 5,
+            "count": 48
+          },
+          {
+            "value": 4,
+            "count": 31
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 88,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 56
+            },
+            {
+              "text": "많음",
+              "count": 26
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 88,
+          "items": [
+            {
+              "text": "없음",
+              "count": 25
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "많음",
+              "count": 44
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 88,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 48
+            },
+            {
+              "text": "보통",
+              "count": 35
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 88,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 42
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 28
+            },
+            {
+              "text": "복합적",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 88,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 42
+            },
+            {
+              "text": "두 번",
+              "count": 46
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "코로나 학기였습니다. 수업내용이 쉽지는 않지만 확실히 교수님이 많이 아신다는걸 알게 되었고, 어렵지만 열심히 하면 그만큼 얻어가는게 많은 수업인듯해요. 개인적으로 이번학기 중 젤 얻어가는게 많은 수업이였습니다. 학점",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "이번학기가 이상했던건지 모르겠는데 매주 너무 힘들었다.\n온라인 강의 미리 듣고 생각한 점을 써간 다음에 조원끼리 얘기하고 또 다같이 얘기하는 형식이었는데, 조원 아무도 입 안열고, 학생들끼리 이야기 해봤자 깊이 있는",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

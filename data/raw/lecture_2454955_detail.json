@@ -1,0 +1,304 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788955018776",
+        "bookTitle": "IFRS 회계원리 해답",
+        "bookAuthor": "최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 14000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/11370475cc5a04da522a913e043b8e01ad3b42d60c145be37718e0805d4a86ea/1767241244964_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955018752",
+        "bookTitle": "IFRS 회계원리",
+        "bookAuthor": "최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 43000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/e927aefc90a8c1a62fe9659c7da104e1dd23283238f89330acc0d04293ab2857/1767241086975_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955018172",
+        "bookTitle": "IFRS 회계원리",
+        "bookAuthor": "최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 42000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/5edb5ae204c341189f268cae03d4a3f858378251f370ce90c5d8609daa9dc1d1/1772989738309_0.jpg"
+      },
+      {
+        "bookIsbn": "9781119504306",
+        "bookTitle": "Financial Accounting",
+        "bookAuthor": "Paul D. Kimmel, Donald E. Kieso, Jerry J. Weygandt",
+        "bookPublisher": "Wiley",
+        "bookPrice": 45000,
+        "price": 500,
+        "coverImage": "https://cf-cii.everytime.kr/72b70238683ea2bcc707bf248c897f689a3e2d4ac975142057b7f82bdcf481de/1633415388220_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "이건 벼락치기로 시험 준비 하면 안되고 최소 1주일정도 잡아놓고 꾸준히 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 20,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 20
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 14
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.81,
+        "count": 195,
+        "items": [
+          {
+            "value": 5,
+            "count": 163
+          },
+          {
+            "value": 4,
+            "count": 27
+          },
+          {
+            "value": 3,
+            "count": 4
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 195,
+          "items": [
+            {
+              "text": "없음",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 160
+            },
+            {
+              "text": "많음",
+              "count": 27
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 195,
+          "items": [
+            {
+              "text": "없음",
+              "count": 184
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 195,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 122
+            },
+            {
+              "text": "보통",
+              "count": 72
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 195,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 152
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 33
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 195,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 189
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "교수님이 친절하시지만 8주 생각보다 빡세네요 🥹",
+          "rate": 5,
+          "posvote": 7
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "회계 쌩노베다?\n영어도 그냥저냥 한다?\n비추천합니다.... \n한국어로 들으세요\n따라가기 힘들었어요\n교수님은 좋으십니다",
+          "rate": 2,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

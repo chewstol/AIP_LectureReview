@@ -1,0 +1,288 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788935214136",
+        "bookTitle": "혁신에 대한 모든 것",
+        "bookAuthor": "매트 리들리",
+        "bookPublisher": "청림출판",
+        "bookPrice": 20000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/859f2f9bf2547da8e2cbcfb731fe47689ce40f436f6fedefb0f34b12184d0d99/1772622242837_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132112754",
+        "bookTitle": "기술경영과 혁신전략",
+        "bookAuthor": "Melissa A. Schilling",
+        "bookPublisher": "한경사",
+        "bookPrice": 33000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/2ade99d053a5161be34eef90ad31dc451674dd4a722afcaaf588479791fcbba2/1708555831749_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132102281",
+        "bookTitle": "기술경영과 혁신전략",
+        "bookAuthor": "Melissa ASchilling",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 30000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/168f46144c0be5eab9bd31ad2cd44585da0b058b90d645b8b39f8d36f62424cd/1776335478290_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132101086",
+        "bookTitle": "기술경영과 혁신전략(5판)(양장본 HardCover)",
+        "bookAuthor": "Melissa A Schilling",
+        "bookPublisher": "McGraw-Hill Education",
+        "bookPrice": 30000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/d69b3fb92692054903e36702879e83b090459556dd294ca054ed6aa6da0cf71d/1697958537033_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960551701",
+        "bookTitle": "기술경영과 혁신전략(3판)",
+        "bookAuthor": "Schilling",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 27000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/aabc5ce236b56fade286a493fa48cc962a546902cb201325f7f070d97b32c70e/1597972545970_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960558342",
+        "bookTitle": "기술경영과 혁신전략",
+        "bookAuthor": "Schilling",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 29000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/0ea87645a7f97d27f5b26281a04b3bcba75ce936933c07758df0902031b58828/1567875653907_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험 정보나 족보가 없어서 몇자 적어봅니다 \n족보가 있는지는 모르지만 대",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 23,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 15
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 8
+            },
+            {
+              "text": "논술형",
+              "count": 6
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.33,
+        "count": 292,
+        "items": [
+          {
+            "value": 5,
+            "count": 153
+          },
+          {
+            "value": 4,
+            "count": 103
+          },
+          {
+            "value": 3,
+            "count": 22
+          },
+          {
+            "value": 2,
+            "count": 8
+          },
+          {
+            "value": 1,
+            "count": 6
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 292,
+          "items": [
+            {
+              "text": "없음",
+              "count": 10
+            },
+            {
+              "text": "보통",
+              "count": 114
+            },
+            {
+              "text": "많음",
+              "count": 168
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 292,
+          "items": [
+            {
+              "text": "없음",
+              "count": 269
+            },
+            {
+              "text": "보통",
+              "count": 20
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 292,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 77
+            },
+            {
+              "text": "보통",
+              "count": 183
+            },
+            {
+              "text": "깐깐함",
+              "count": 32
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 292,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 31
+            },
+            {
+              "text": "전자출결",
+              "count": 174
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 58
+            },
+            {
+              "text": "복합적",
+              "count": 29
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 292,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 288
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "통로만 피하기 과제 제출 2시 시험은 암기빡세게",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "듣지마셈\n시험 평균 넘어도 비쁠도 아니고 비제로 줌\n이의신청도 안읽음ㅇㅇ",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

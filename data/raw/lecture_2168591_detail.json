@@ -1,0 +1,320 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504628",
+        "bookTitle": "학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 김종규, 이기백, 김치헌, 김상현",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 25000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/8e515a7a7bbce838fee84334aa7a46b476fd36a15c7ee49940e75ba71e8fe3d0/1640670223069_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500606",
+        "bookTitle": "비판적 사고 학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 박상태, 한기호, 김상현, 이창후",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/90f36604407c7c52b7a6ac7a168b6aa4bf1cb7cb46773bf2c98ff44c8a570aa7/1693236428999_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "출석 잘하기\n과제도채점안한다고는 하지만 열심히~\n성의를 보여주는 것도 중",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 5
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.72,
+        "count": 349,
+        "items": [
+          {
+            "value": 5,
+            "count": 95
+          },
+          {
+            "value": 4,
+            "count": 127
+          },
+          {
+            "value": 3,
+            "count": 82
+          },
+          {
+            "value": 2,
+            "count": 26
+          },
+          {
+            "value": 1,
+            "count": 19
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 349,
+          "items": [
+            {
+              "text": "없음",
+              "count": 116
+            },
+            {
+              "text": "보통",
+              "count": 219
+            },
+            {
+              "text": "많음",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 349,
+          "items": [
+            {
+              "text": "없음",
+              "count": 322
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 349,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 95
+            },
+            {
+              "text": "보통",
+              "count": 215
+            },
+            {
+              "text": "깐깐함",
+              "count": 39
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 349,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 10
+            },
+            {
+              "text": "전자출결",
+              "count": 105
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 175
+            },
+            {
+              "text": "복합적",
+              "count": 59
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 349,
+          "items": [
+            {
+              "text": "없음",
+              "count": 305
+            },
+            {
+              "text": "한 번",
+              "count": 19
+            },
+            {
+              "text": "두 번",
+              "count": 22
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "[강의진행방식] : (원래)오프라인 수업, 교안 제공(사실상 교재 내용), 교재 필요\n[과제] : 과제는 ‘형식적 요약’ 1개, ‘논평’ 2개가 있었습니다. 이외에는 주로 기한 내 제출에 의의를 두는 것들이고요. 과",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "여기서 에이쁠 날먹했다는 애들은 그냥 운이 좋은 거고\n얻어갈 게 전혀 없으며, A+ 비율이 10퍼 가량도 채 안되는데 \n그것 마저도 교수 개인 입맛에 맞춰서 돌아가는 랜덤학점임\n(심지어 가산점 다 챙겨도 등수가 밀려",
+          "rate": 1,
+          "posvote": 8
+        }
+      ]
+    }
+  }
+}

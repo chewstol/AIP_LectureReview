@@ -1,0 +1,288 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788932403328",
+        "bookTitle": "마의 산 하",
+        "bookAuthor": "토마스 만",
+        "bookPublisher": "을유문화사",
+        "bookPrice": 15000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/b52e3cc104a3008f94af205637eab2900c43e0a0dfd21b0d24295f41b58404af/1724730582811_0.jpg"
+      },
+      {
+        "bookIsbn": "9788932403311",
+        "bookTitle": "마의 산(상)",
+        "bookAuthor": "토마스 만",
+        "bookPublisher": "을유문화사",
+        "bookPrice": 15000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/2ab65994827629489d954cd857a7e84faf9847c1ff7f22f75b8c1415affeb133/1724730480614_0.jpg"
+      },
+      {
+        "bookIsbn": "9788932916477",
+        "bookTitle": "마의 산(하)(열린책들 세계문학 219)(양장본 HardCover)",
+        "bookAuthor": "토마스 만",
+        "bookPublisher": "열린책들",
+        "bookPrice": 11800,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/819f154f801df24079a9350785b218fdb5cd35e2dce78bece9e7c7f88afd71c6/1612876872316_0.jpg"
+      },
+      {
+        "bookIsbn": "9788932916460",
+        "bookTitle": "마의 산(중)(열린책들 세계문학 218)(양장본 HardCover)",
+        "bookAuthor": "토마스 만",
+        "bookPublisher": "열린책들",
+        "bookPrice": 11800,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/b1f461fa0ed48e79d0c2481b1c0aeec48e88173e492e454050be0e6c38d71550/1612876757065_0.jpg"
+      },
+      {
+        "bookIsbn": "9788932916453",
+        "bookTitle": "마의 산(상)(열린책들 세계문학 217)(양장본 HardCover)",
+        "bookAuthor": "토마스 만",
+        "bookPublisher": "열린책들",
+        "bookPrice": 11800,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/290933b58eaa34790016d93580574fb592318eecab02c52b6df3e4d5de287c0b/1612876588904_0.jpg"
+      },
+      {
+        "bookIsbn": "9788937460081",
+        "bookTitle": "토니오 크뢰거 · 트리스탄 · 베니스에서의 죽음",
+        "bookAuthor": "토마스 만",
+        "bookPublisher": "민음사",
+        "bookPrice": 15000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/ad02234191b3c68957ffa6274d67a896a5f0d427eb3f2cb285f3f13e9121d09c/1756956242787_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "토론 때 교수님이 강조하시는 말씀은 체크해두시고, 사전 강의 시험 전에 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 17,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 11
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.4,
+        "count": 141,
+        "items": [
+          {
+            "value": 5,
+            "count": 92
+          },
+          {
+            "value": 4,
+            "count": 28
+          },
+          {
+            "value": 3,
+            "count": 12
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 6
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 141,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 38
+            },
+            {
+              "text": "많음",
+              "count": 99
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 141,
+          "items": [
+            {
+              "text": "없음",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 75
+            },
+            {
+              "text": "많음",
+              "count": 38
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 141,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 86
+            },
+            {
+              "text": "보통",
+              "count": 53
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 141,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 36
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 86
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 141,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 127
+            },
+            {
+              "text": "두 번",
+              "count": 11
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "천사십니다. 메세지도 잘받아주시고 정말 학생들을 위하는 것이 느껴집니다.",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "솔직하게 쓰겠습니다\n교수님 굉장히 주관적이고, 과제도 폭탄입니다\n모든 고명북 수업 중에 제일 과제가 많은 것 같네요\n매주 과제가 있고 기말고사와 기말과제까지 정말 지나칩니다\n반수를 권하고 싶을 정도입니다... \n토마",
+          "rate": 1,
+          "posvote": 10
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,482 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788955018752",
+        "bookTitle": "IFRS 회계원리",
+        "bookAuthor": "최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 43000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/e927aefc90a8c1a62fe9659c7da104e1dd23283238f89330acc0d04293ab2857/1767241086975_0.jpg"
+      },
+      {
+        "bookIsbn": "9781119787051",
+        "bookTitle": "Financial Accounting",
+        "bookAuthor": "Jerry J. Weygandt, Paul D. Kimmel",
+        "bookPublisher": "Wiley",
+        "bookPrice": 59000,
+        "price": 16500,
+        "coverImage": "https://cf-cii.everytime.kr/1029b2232071c0e423ed8f7cdfb402462e3a1f815e90e92e5432bdbf11725670/1765719639398_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955018196",
+        "bookTitle": "IFRS 회계원리 해답",
+        "bookAuthor": "최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 13000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/9f2730f1c6c178509b8984d094785170d742854e14c4b8cdad1cb3b11708c872/1772989894856_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955018172",
+        "bookTitle": "IFRS 회계원리",
+        "bookAuthor": "최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 42000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/5edb5ae204c341189f268cae03d4a3f858378251f370ce90c5d8609daa9dc1d1/1772989738309_0.jpg"
+      },
+      {
+        "bookIsbn": "9791156645979",
+        "bookTitle": "재무회계 with IFRS",
+        "bookAuthor": "Jerry J. Weygandt, Paul D. Kimmel, Donald E. Kieso",
+        "bookPublisher": "한빛아카데미",
+        "bookPrice": 44000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/e57ed453b3023a01dea6a5ffe1e1a084ab38cb6b7adf424f68c933494072b7d3/1776074051440_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955017854",
+        "bookTitle": "IFRS 회계원리 해답",
+        "bookAuthor": "이효익, 최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 12000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/f0dd358aae0d8d88b8425ffac54a38191f2cd92167512a8aa25863ea99082d94/1693602488015_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955017847",
+        "bookTitle": "IFRS 회계원리",
+        "bookAuthor": "이효익, 최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 39000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/038a0a47e503d960e0be966a5f0197cd49a9c4d548e99ec107bbfa536308a149/1765442576799_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955017601",
+        "bookTitle": "IFRS 회계원리 해답",
+        "bookAuthor": "이효익",
+        "bookPublisher": "신영사",
+        "bookPrice": 12000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/346017248ffc43072ef6a9322da8747d0fb309f74b204c6c3ec04989ce7464c1/1676824645974_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955017595",
+        "bookTitle": "IFRS 회계원리",
+        "bookAuthor": "이효익, 최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 37000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/b3c1bac4e68c03c54b941807b54197f08d0149d7921e98b374059666dda182ed/1734831538661_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955017106",
+        "bookTitle": "IFRS 회계원리 해답(수정판 9판)",
+        "bookAuthor": "이효익, 최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 10000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/985320295b84a81dffeec6115883d8cda1e39c4a165c181526e4934ba51a4d10/1725285471653_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955017083",
+        "bookTitle": "IFRS 회계원리(수정판 9판)(양장본 HardCover)",
+        "bookAuthor": "이효익, 최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 37000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/3603f539ba50835ab8fdbfeff8b0438bb780a4f4a8a4d03c4641413405abd1c4/1671433728588_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955016697",
+        "bookTitle": "IFRS 회계원리 해답(9판)",
+        "bookAuthor": "이효익, 최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 10000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/41b538abe825ad9296e7913c2e9dd1e04f09fe2044674b3c0e2329cbc131d90c/1629386365289_0.jpg"
+      },
+      {
+        "bookIsbn": "9781119504306",
+        "bookTitle": "Financial Accounting",
+        "bookAuthor": "Paul D. Kimmel, Donald E. Kieso, Jerry J. Weygandt",
+        "bookPublisher": "Wiley",
+        "bookPrice": 45000,
+        "price": 500,
+        "coverImage": "https://cf-cii.everytime.kr/72b70238683ea2bcc707bf248c897f689a3e2d4ac975142057b7f82bdcf481de/1633415388220_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955016673",
+        "bookTitle": "IFRS 회계원리(9판)(양장본 HardCover)",
+        "bookAuthor": "이효익, 최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 37000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/9d578df284d3fdaaceaa73be9f8b552e730619a4c59fc95038d049d86476cb84/1647047390017_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955016413",
+        "bookTitle": "IFRS 회계원리 해답(8판)",
+        "bookAuthor": "이효익, 최관, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 8000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/297db0196d554b21d7f7e48a90eaf7640b9d8019b6394346944c74ef976a5f12/1565948213719_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955016390",
+        "bookTitle": "IFRS 회계원리(8판)(양장본 HardCover)",
+        "bookAuthor": "이효익, 최익, 백원선, 최영수",
+        "bookPublisher": "신영사",
+        "bookPrice": 35000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/c322810339c90402033219a9f48cb86064600b0910e0c803359265b60c520b3b/1600066918747_0.jpg"
+      },
+      {
+        "bookIsbn": "9780471663478",
+        "bookTitle": "Financial Accounting 3e",
+        "bookAuthor": "Kimmel",
+        "bookPublisher": "Wiley",
+        "bookPrice": 461110,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/0d34b6ffc45fa842e2d03208a27a13823fcc65ae916651fa748725c4e235232f1503718268802/0.jpg"
+      },
+      {
+        "bookIsbn": "9788955015492",
+        "bookTitle": "IFRS 회계원리(7판)(양장본 HardCover)",
+        "bookAuthor": "이효익, 최관, 백원선",
+        "bookPublisher": "신영사",
+        "bookPrice": 35000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/5e3a60c6a65ecf0c00fb97a8a86da8b7e7aa24b9d93e26e6522e64f1f8c4690b/1588774939646_0.jpg"
+      },
+      {
+        "bookIsbn": "9781118978085",
+        "bookTitle": "Financial Accounting",
+        "bookAuthor": "Jerry J. Weygandt, Paul D. Kimmel, Donald E. Kieso",
+        "bookPublisher": "Wiley",
+        "bookPrice": 57000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/5615273e3690608a4ad840d79c8d3fba944effbd15aaca309d8930fc33b83b4e/1613720320538_0.jpg"
+      },
+      {
+        "bookIsbn": "9781118285909",
+        "bookTitle": "Financial Accounting, IFRS Edition",
+        "bookAuthor": "Jerry J. Weygandt",
+        "bookPublisher": "Wiley",
+        "bookPrice": 49000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/ffa6e0382a9718f58ce759f56094643cfde947ddd7217f4da1ce064179b6e991/1550869477801_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님께서 시험 전에 퀴즈를 보십니다. 성적에 들어가진 않지만 반드시! ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 39,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 35
+            },
+            {
+              "text": "주관식",
+              "count": 33
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 16,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 14
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.29,
+        "count": 500,
+        "items": [
+          {
+            "value": 5,
+            "count": 289
+          },
+          {
+            "value": 4,
+            "count": 115
+          },
+          {
+            "value": 3,
+            "count": 65
+          },
+          {
+            "value": 2,
+            "count": 13
+          },
+          {
+            "value": 1,
+            "count": 18
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 500,
+          "items": [
+            {
+              "text": "없음",
+              "count": 384
+            },
+            {
+              "text": "보통",
+              "count": 95
+            },
+            {
+              "text": "많음",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 500,
+          "items": [
+            {
+              "text": "없음",
+              "count": 458
+            },
+            {
+              "text": "보통",
+              "count": 41
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 500,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 208
+            },
+            {
+              "text": "보통",
+              "count": 255
+            },
+            {
+              "text": "깐깐함",
+              "count": 37
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 500,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 45
+            },
+            {
+              "text": "전자출결",
+              "count": 262
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 128
+            },
+            {
+              "text": "복합적",
+              "count": 64
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 500,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 6
+            },
+            {
+              "text": "두 번",
+              "count": 376
+            },
+            {
+              "text": "세 번",
+              "count": 48
+            },
+            {
+              "text": "네 번 이상",
+              "count": 69
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "경영 노베 에이쁠 받았습니당.\n본 전공은 경제인데, 아캠 들을 게 이거 밖에 없어서 신청했어요. 교수님 강의력 정말 좋으셔서 차근차근 잘 따라가시면 됩니다. 영어가 직관적이라 생각보다 많이 어렵진 않았어요! 개인적으",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "너무 어려움 괜히 들은듯 ㅠㅠ(아캠 국제어)\n피하세요 기왕이면",
+          "rate": 1,
+          "posvote": 6
+        }
+      ]
+    }
+  }
+}

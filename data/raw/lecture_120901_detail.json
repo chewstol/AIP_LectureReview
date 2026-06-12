@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788994606309",
+        "bookTitle": "조선과 명청",
+        "bookAuthor": "기시모토 미오, 미야지마 히로시",
+        "bookPublisher": "너머북스",
+        "bookPrice": 27000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/77f02499506aa1a945775fa4cdb977e4f0c8ba56e6a756fea0ac98f92ad41b00/1677036845673_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "여기 있는 기출들에 대한 답안 작성해보면 좋을 거 같습니다. 완전 똑같이",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 44,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 33
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 31,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 27
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.58,
+        "count": 307,
+        "items": [
+          {
+            "value": 5,
+            "count": 209
+          },
+          {
+            "value": 4,
+            "count": 69
+          },
+          {
+            "value": 3,
+            "count": 27
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 307,
+          "items": [
+            {
+              "text": "없음",
+              "count": 14
+            },
+            {
+              "text": "보통",
+              "count": 234
+            },
+            {
+              "text": "많음",
+              "count": 59
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 307,
+          "items": [
+            {
+              "text": "없음",
+              "count": 264
+            },
+            {
+              "text": "보통",
+              "count": 36
+            },
+            {
+              "text": "많음",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 307,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 140
+            },
+            {
+              "text": "보통",
+              "count": 162
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 307,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 44
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 245
+            },
+            {
+              "text": "복합적",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 307,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 305
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "교수님 강의는 좋다 전공 위주의 수업만 듣다가 이런 교양을 들으면 쉬어가는 기분이다 \n그리고 내셔럴리즘 위주의 역사수업만 학교서 세뇌에 가깝게 듣던 학생들에게 한중일 역사를 다 같이 공부하며 폭넓은 사고 방식을 갖게",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "과제 너무 많고 추석이나 공휴일애도 과제는 매주 나갑니다. 혁신수업이라 오프라인도 나가고 온라인 영상도 시청해야 하는데 시청 길이도 2시간이고 요약해서 자신의 생각을 적고 매주 토론 주제도 생각해야해서 편한 교양을",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

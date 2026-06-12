@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791158081553",
+        "bookTitle": "물리화학: 양자, 물질, 변화",
+        "bookAuthor": "피터 앳킨스, Jullo de Paula, Ronald Frirfman",
+        "bookPublisher": "자유아카데미",
+        "bookPrice": 48000,
+        "price": 35000,
+        "coverImage": "https://cf-cii.everytime.kr/6a788e644ad1e0f25e70fbe85bb0db2e498c13b966f0f19249b46f13c3e18399/1769595298217_0.jpg"
+      },
+      {
+        "bookIsbn": "9780199609819",
+        "bookTitle": "Physical Chemistry",
+        "bookAuthor": "피터 앳킨스",
+        "bookPublisher": "OXFORD",
+        "bookPrice": 155570,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/3e317529af55a8bb67baf7a27c7f06d9f104244fa8a71a66d3a12597c0706dbd/1550914848439_0.jpg"
+      },
+      {
+        "bookIsbn": "9791159090042",
+        "bookTitle": "물리화학",
+        "bookAuthor": "피터 앳킨스, Julio de paula",
+        "bookPublisher": "교보문고",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/2f94a504ecf9ea1cb4889549a5c921b9642a9e980300b91d0e1bad23f2495a00/1660666737802_0.jpg"
+      },
+      {
+        "bookIsbn": "9781429239899",
+        "bookTitle": "Quantitative Chemical Analysis",
+        "bookAuthor": "없음",
+        "bookPublisher": "없음",
+        "bookPrice": 162031,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/685ad6e06cd4fab44f52ae957b85ec6a37c2019c4a92c4f7265c887f391d0ef7/1584664208091_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "전체적으로 문제는 개념 위주로 출제됩니다.  개념을 묻는 문제, ox문제",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 6
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.02,
+        "count": 84,
+        "items": [
+          {
+            "value": 5,
+            "count": 36
+          },
+          {
+            "value": 4,
+            "count": 22
+          },
+          {
+            "value": 3,
+            "count": 19
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 67
+            },
+            {
+              "text": "보통",
+              "count": 16
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 81
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 84,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 56
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 84,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 7
+            },
+            {
+              "text": "전자출결",
+              "count": 63
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 12
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 13
+            },
+            {
+              "text": "두 번",
+              "count": 71
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "물리화학 앞부분, 양자역학 내용이라, 수업 내용은 어려웠다. 선형대수학 등에서 쓰이는 간단한 기호 등이 나오는데, 사실 이부분은 겁먹을 정도로 어렵지 않다.  물론 수학이 어렵지 않다고 해서 내용이 어렵지 않다는 건",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "족보있으면 a이상이고 족보없으면 a받기 힘들어요.\n교수님 강의도 작년꺼 그대로 재탕하셨고 열의도 없으셔요\n오타도 그대로 안고치시고. 추천하고 싶지 않네요. 양자역학 쓸모없으니 건너뛰고 물2,물3 들으세요 그냥",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

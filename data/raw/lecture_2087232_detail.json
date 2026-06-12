@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788999706325",
+        "bookTitle": "집단상담의 이론과 실제",
+        "bookAuthor": "Gerald Corey",
+        "bookPublisher": "학지사",
+        "bookPrice": 32000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/22db57d4a8e6a04b02a7213c41daad20fea952f003a9815418046f3225611294/1577057621707_0.jpg"
+      },
+      {
+        "bookIsbn": "9788963309262",
+        "bookTitle": "현대 심리치료와 상담 이론",
+        "bookAuthor": "권석만",
+        "bookPublisher": "학지사",
+        "bookPrice": 22000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/1e6f535cc39b922f2b8157f07eb309bba3d7f18c45b5e4346522419b582a1c25/1577057731986_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험 쉽게 나와요. 큼직큼직하게만 이해하고 외우면 됩니다",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.04,
+        "count": 25,
+        "items": [
+          {
+            "value": 5,
+            "count": 12
+          },
+          {
+            "value": 4,
+            "count": 7
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 25,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 25,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 25,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 25,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 22
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 25,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "한 번",
+              "count": 13
+            },
+            {
+              "text": "두 번",
+              "count": 9
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "이 수업은 거의 매주 과제가 있고, 조별로 한 챕터씩 발표도 해야하고, 중간 기말 대체과제가 각각 10장씩 써야하는 과제라 할 게 상당히 많은 수업입니다.\n그치만 따로 자료조사할 필요 없이 그냥 자기 경험이나 생각",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "중간고사는 나의 히스토리 쓰기 5-10장 사이\n기말고사는 히스토리 바탕으로 사례구조화 하기 최소 10장\n과제를 거의 매주 내주셨음\n강의는 한 학기 내내 교재를 읽음\n초반에는 강의 듣다가 그냥 읽으시길래 책보고 혼자",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

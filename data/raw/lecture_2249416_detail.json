@@ -1,0 +1,288 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791191679045",
+        "bookTitle": "Kreyszig 공업수학(상)",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 35000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/ee5d87a848772ad11058860cd0de0c7182b0cb66fa682e86563d9faf7b3577fd/1778506065662_0.jpg"
+      },
+      {
+        "bookIsbn": "9791197305467",
+        "bookTitle": "Kreyszig 공업수학 문제풀이 해설",
+        "bookAuthor": "텍스트북스 편집부",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 20000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/13ccb1fd2ff81b4b0fa81e0669b2c93281af95bbd0fa4afeb913c6d9038aac67/1767245690711_0.jpg"
+      },
+      {
+        "bookIsbn": "9788993543872",
+        "bookTitle": "공업수학(상)(Kreyszig)",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 29000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/092cafcd8babef04f17dd58e79b9f432ecdf8063a0810e83df7b7492e36e257a/1702276226927_0.jpg"
+      },
+      {
+        "bookIsbn": "9780470646137",
+        "bookTitle": "Advanced Engineering Mathematics",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "Wiley",
+        "bookPrice": 59000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/19bac105bcbab482605a5f520b4dd25203d5fcb0390d1bb6071d208bced05b98/1773126870771_0.jpg"
+      },
+      {
+        "bookIsbn": "9788971292440",
+        "bookTitle": "공업수학(상): 상미분방정식 선형대수 벡터미적분(개정판 10판)",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "범한서적",
+        "bookPrice": 26000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/fa5962485e798a8f18d89696b98c1cdd3454105532730a069310becb2618ce06/1598836850239_0.jpg"
+      },
+      {
+        "bookIsbn": "9788971292488",
+        "bookTitle": "공업수학(하)(Kreyszig)(개정판 10판)",
+        "bookAuthor": "Erwin Kreyszig",
+        "bookPublisher": "범한서적",
+        "bookPrice": 26000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/7944c6e59a5c4b45611cd73d2ab9a7d7ec8a5d98a65e0dbdc175d30c61562c73/1644108247001_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "족보없음\n출제 비율은 라플라스 반 복소평면 반 정도\n라플라스 그렇게 복잡",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.89,
+        "count": 131,
+        "items": [
+          {
+            "value": 5,
+            "count": 119
+          },
+          {
+            "value": 4,
+            "count": 10
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 131,
+          "items": [
+            {
+              "text": "없음",
+              "count": 126
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 131,
+          "items": [
+            {
+              "text": "없음",
+              "count": 126
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 131,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 52
+            },
+            {
+              "text": "보통",
+              "count": 76
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 131,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 117
+            },
+            {
+              "text": "전자출결",
+              "count": 5
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 6
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 131,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 8
+            },
+            {
+              "text": "두 번",
+              "count": 121
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "미적 안 들었고 수학 정말 어려워하는 사람인데도 교수님 강의는 공부 조금만 하면 이해할 수 있었습니다. 카톡으로 질문 해도 된다고 하시고 학생들 편의 잘 봐주십니다. 강의 녹화는 안 해주시지만 이전 녹화강의 올려주시",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "수학을 못하는 사람으로서 너무너무 듣기 힘들었음 성적 다 안채워주심",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

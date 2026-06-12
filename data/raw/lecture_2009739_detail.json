@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791162241646",
+        "bookTitle": "파이썬 라이브러리를 활용한 머신러닝",
+        "bookAuthor": "안드레아스 뮐러, 세라 가이도",
+        "bookPublisher": "한빛미디어",
+        "bookPrice": 32000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/90f0e8fecda74ae9f3450f2d9cd2cfae205d695e71de2348e77755f3de4cdfa6/1614179085367_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "너무 세세하게 외울필요 없어요\n아주 기본적인 개념 + 코딩 만 할 수 있",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 11
+            },
+            {
+              "text": "T/F형",
+              "count": 13
+            },
+            {
+              "text": "약술형",
+              "count": 6
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 5
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.75,
+        "count": 119,
+        "items": [
+          {
+            "value": 5,
+            "count": 94
+          },
+          {
+            "value": 4,
+            "count": 20
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 119,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 102
+            },
+            {
+              "text": "많음",
+              "count": 17
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 119,
+          "items": [
+            {
+              "text": "없음",
+              "count": 112
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 119,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 87
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 119,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 76
+            },
+            {
+              "text": "전자출결",
+              "count": 24
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 18
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 119,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 118
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "시경 goat 교수님과 강의\n시험이 오히려 너무 쉬워서 아쉬움",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "평균이 너무 높아서 리험 한두개 차이가 큽니다. 실수 한번하면 타격이 큰…",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

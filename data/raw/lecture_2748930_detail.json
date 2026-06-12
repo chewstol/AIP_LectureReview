@@ -1,0 +1,363 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791156640264",
+        "bookTitle": "이공계생을 위한 확률과 통계",
+        "bookAuthor": "안승철, 이광연, 김진수, 박기섭",
+        "bookPublisher": "한빛아카데미",
+        "bookPrice": 26000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/dc78d004e603279a93b85859e8cf89cffec2b3037a146dd3914e3b3e52d535e8/1775524276978_0.jpg"
+      },
+      {
+        "bookIsbn": "9791156645405",
+        "bookTitle": "이공계생을 위한 확률과 통계",
+        "bookAuthor": "안승철, 이광연, 박기섭",
+        "bookPublisher": "한빛아카데미",
+        "bookPrice": 25000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/a8f6760ffdbf01d82d288fc6fb0e21c214ba753c8a33a493b2e3497b20cd0c2e/1741601980237_0.jpg"
+      },
+      {
+        "bookIsbn": "9791156641223",
+        "bookTitle": "이공계생을 위한 확률과 통계(MSE)",
+        "bookAuthor": "안승철",
+        "bookPublisher": "한빛아카데미",
+        "bookPrice": 23000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/c66a3ac176d268187d5723bfbe7c8233c67a6ca1ed46253d28e673f56a0db4cf/1772256104634_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "앞에는 o,x 퀴즈 문제 (약간 개념들? 예를 들어, 세 사건이 모두 독",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 18,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 14
+            },
+            {
+              "text": "T/F형",
+              "count": 13
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 6
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 6
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 12,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 10
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "3차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.61,
+        "count": 76,
+        "items": [
+          {
+            "value": 5,
+            "count": 55
+          },
+          {
+            "value": 4,
+            "count": 16
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 76,
+          "items": [
+            {
+              "text": "없음",
+              "count": 23
+            },
+            {
+              "text": "보통",
+              "count": 53
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 76,
+          "items": [
+            {
+              "text": "없음",
+              "count": 74
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 76,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 17
+            },
+            {
+              "text": "보통",
+              "count": 55
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 76,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 65
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 3
+            },
+            {
+              "text": "복합적",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 76,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 43
+            },
+            {
+              "text": "세 번",
+              "count": 33
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "첫 수업이시라 관련 정보가 없었긴 하지만, 설명하실때 학생들을 이해시키려고 하시는 모습이 보여서 좋습니다. 내용 자체가 그렇게 어렵지 않아 고등학교 다닐 때 확통에 자신이 있었으면 수월하게 들을 수 있습니다.",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "수업은 무난하지만 채점 기준이 이상합니다.\n솔직히 이게 전공수업이면 수업내용이 중요하겠으나 교양은 어차피 전부 비슷하고, 성적 잘주냐가 크다보니\n\n예시로 모든 경우를 나열해 확률을 계산했더니, \"왜 이게 모든 경우지",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

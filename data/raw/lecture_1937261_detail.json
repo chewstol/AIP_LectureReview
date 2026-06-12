@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791130332369",
+        "bookTitle": "민사소송법(강의)(양장본 HardCover)",
+        "bookAuthor": "전병서",
+        "bookPublisher": "박영사",
+        "bookPrice": 39000,
+        "price": 27000,
+        "coverImage": "https://cf-cii.everytime.kr/7ded31706e21a7d11cf7009ead9fcddd6054ad0567876f931772eeda9876ea54/1613996168818_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130336138",
+        "bookTitle": "신민사소송법(14판)(양장본 HardCover)",
+        "bookAuthor": "이시윤",
+        "bookPublisher": "박영사",
+        "bookPrice": 56000,
+        "price": 38000,
+        "coverImage": "https://cf-cii.everytime.kr/e581fb9b726410b070c2e24343d7ae453b0e37527fe7bc978b3861f704aac532/1638706531725_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130329109",
+        "bookTitle": "민사소송법입문: 역사 사례와 함께(개정판 2판)",
+        "bookAuthor": "이시윤",
+        "bookPublisher": "박영사",
+        "bookPrice": 20000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/2c3ecf508b0ec2570dbf183ad5c69219eac7ea3df21039e5bc501dc2941f1c41/1520321038777_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130326719",
+        "bookTitle": "민사소송법입문",
+        "bookAuthor": "이시윤",
+        "bookPublisher": "박영사",
+        "bookPrice": 20000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/e702c9324cc610418679c1f42061714557b0faa0617b9b0b1702a3384efcd14e/1640573682852_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "ox는 교수님이 강조하신 부분에서 많이 나옵니다. 주관식은 이번 시험에서",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.79,
+        "count": 75,
+        "items": [
+          {
+            "value": 5,
+            "count": 62
+          },
+          {
+            "value": 4,
+            "count": 10
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 16
+            },
+            {
+              "text": "보통",
+              "count": 59
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 68
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 75,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 44
+            },
+            {
+              "text": "보통",
+              "count": 30
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 75,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 33
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 39
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 47
+            },
+            {
+              "text": "두 번",
+              "count": 28
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "다들 시험이 어려웠다고 하는데, 제작년이랑 작년 기출 문제 비교해서 보면 훨씬 훨씬 어렵긴 하지만, 그냥 교안이랑 교수님이 설명하시면서 알려주신 사례 달달 외우면 다 교안에서 나옴.. 밑에 보니까 무슨 사례집을 사서",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "수업 나름 꼼꼼하시고 잘가르치셔서 정말 좋았는데,\n시험이 너무 어려워서 유종의 미를 거두기는 힘들었다\n수강생 특성상 학점경쟁도 치열해서 마음 단단히먹고 수강하시기를 바란다\n교수님자체가 좋으신분이라서 그런지 너무 찬양",
+          "rate": 3,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9789813157873",
+        "bookTitle": "THERMODYNAMICS: AN ENGINEERING APPROACH, SI",
+        "bookAuthor": "없음",
+        "bookPublisher": "없음",
+        "bookPrice": 159270,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/e73d4fc0752f645a3e7ef66e5e5b9af698a5fc4d2dda6c77c5058a1d4441ae22/1725492735679_0.jpg"
+      },
+      {
+        "bookIsbn": "9788993543711",
+        "bookTitle": "열역학",
+        "bookAuthor": "Richard E. Sonntag, Borgnakke",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 38000,
+        "price": 17000,
+        "coverImage": "https://cf-cii.everytime.kr/9a4fa7a0c12e66f9e2e17c4d2d3432b6c7eba4c2b91e55e6606b0c33b6f8afed/1741330590791_0.jpg"
+      },
+      {
+        "bookIsbn": "9781119382843",
+        "bookTitle": "fundmentals of thermodynamics",
+        "bookAuthor": "sonntag/Borgnakke",
+        "bookPublisher": ".",
+        "bookPrice": 43000,
+        "price": 28000,
+        "coverImage": "https://cf-cii.everytime.kr/e5ff02035eaf57fbe7441759c7139dd17911b547540927462a84f1bd2643eb16/1764562902694_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132101130",
+        "bookTitle": "기본 열역학",
+        "bookAuthor": "Yunus A. Cengel",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 33000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/bfa4e21478842980caffc619095da3efaa9c278dc0d076fcfef7233831a6c042/1622895812421_0.jpg"
+      },
+      {
+        "bookIsbn": "9780470171578",
+        "bookTitle": "Fundamentals Of Thermodynamics, Si Version",
+        "bookAuthor": "Borgnakke",
+        "bookPublisher": "Wiley",
+        "bookPrice": 42000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/df86566ac21c01ac2c7c75ebcb5fb54708b0a2cc425d1dd4b15d882c879cd4e8/1608880945216_0.jpg"
+      },
+      {
+        "bookIsbn": "9788993543520",
+        "bookTitle": "열역학",
+        "bookAuthor": "Borgnakke, Richard E. Sonntag",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 38000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/381efadd36157f2622c1aa6b70c9a2568db467608e8ae08a2cd328195070ed17/1677498021059_0.jpg"
+      },
+      {
+        "bookIsbn": "9781118321775",
+        "bookTitle": "Fundamentals of thermodynamics",
+        "bookAuthor": "Borgnakke",
+        "bookPublisher": "Wiley",
+        "bookPrice": 42000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/0e0741efbe904298febc89670d8f3644ea0f077bcdc568b9b4f515d22e15cede/1670909798587_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964211373",
+        "bookTitle": "공업열역학",
+        "bookAuthor": "Michael J. Moran, Shapiro, Daisie D. Boettner, Margaret B. Bailey",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 37000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/3db44d07e8ac15c7b378bda427e1592ec7349b76445a6cc6016ff5abfd8867eb/1535087533395_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간도 해당 되지만, 수능과 같습니다: 기출로 시작하고, 기출로 끝나는 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.9,
+        "count": 171,
+        "items": [
+          {
+            "value": 5,
+            "count": 157
+          },
+          {
+            "value": 4,
+            "count": 11
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 171,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 154
+            },
+            {
+              "text": "많음",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 171,
+          "items": [
+            {
+              "text": "없음",
+              "count": 152
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 171,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 140
+            },
+            {
+              "text": "보통",
+              "count": 31
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 171,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 13
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 150
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 171,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 171
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "한줄요약 : 처음부터 권오채교수님의 수업을들었다면 재수강은없었을텐데...",
+          "rate": 5,
+          "posvote": 8
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "수업준비를 엄청 열심히 해오시지만 주로 개념에 대한 수업만 하셔서 사실상 독학입니다. 시험은 족보랑 거의 똑같기에 족보암기 싸움입니다. 작년까지는 성적도 잘 주셨다는데 이번에는 딱히 학점도 잘 주시지는 않은 것 같네",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

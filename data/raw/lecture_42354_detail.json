@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788989559740",
+        "bookTitle": "Kuo의 자동제어(8판)",
+        "bookAuthor": "Kuo, Farid Golnarahi",
+        "bookPublisher": "Wiley",
+        "bookPrice": 33000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/7eecaa0997e285354024dfe0507660f24e309ec975cb3f99384dbf9ec7c39c88/1630309307694_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132101673",
+        "bookTitle": "자동제어",
+        "bookAuthor": "Farid Golnaraghi, Benjamin C. Kuo",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 40000,
+        "price": 19000,
+        "coverImage": "https://cf-cii.everytime.kr/739ab76c2c1d73e61b827c7d2e52b889e59e4b260b01a2cee520aa89091916a5/1694520517500_0.jpg"
+      },
+      {
+        "bookIsbn": "9789813151505",
+        "bookTitle": "Automatic Control Systems",
+        "bookAuthor": "Farid Golnaraghi, Benjamin C. kuo",
+        "bookPublisher": "McGRAW HILL",
+        "bookPrice": 50000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/ad54b9c3f11d6013a0e8a211d34093960e9c4139e47b74f7c47bc26cd49ce961/1630390767507_0.jpg"
+      },
+      {
+        "bookIsbn": "9780470048962",
+        "bookTitle": "Automatic Control Systems, 9/E",
+        "bookAuthor": "Golnaraghi Farid, Kuo Benjamin C",
+        "bookPublisher": "Wiley",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/263593213efc49f55fa6eeefb47db69f5e2b98cb5bd08be7bc9782327298bc23/1672553903877_0.jpg"
+      },
+      {
+        "bookIsbn": "9788996391913",
+        "bookTitle": "자동제어(KUO의)(9판)",
+        "bookAuthor": "FARID GOLNARAGHI, BENJAMIN C KUO",
+        "bookPublisher": "퍼스트북",
+        "bookPrice": 35000,
+        "price": 2000,
+        "coverImage": "https://cf-cii.everytime.kr/1675a27652d57deb05d8472882da3f385ae5568d84d751ba2346882ac6b75162/1663855562881_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험 문제 난이도 자체는 어렵지 않습니다.\n기본적으로 과목 난이도 자체가",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 11
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.02,
+        "count": 128,
+        "items": [
+          {
+            "value": 5,
+            "count": 57
+          },
+          {
+            "value": 4,
+            "count": 37
+          },
+          {
+            "value": 3,
+            "count": 20
+          },
+          {
+            "value": 2,
+            "count": 8
+          },
+          {
+            "value": 1,
+            "count": 6
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 128,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 87
+            },
+            {
+              "text": "많음",
+              "count": 40
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 128,
+          "items": [
+            {
+              "text": "없음",
+              "count": 112
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 128,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 25
+            },
+            {
+              "text": "보통",
+              "count": 80
+            },
+            {
+              "text": "깐깐함",
+              "count": 23
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 128,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 11
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 110
+            },
+            {
+              "text": "복합적",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 128,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 127
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "수업 잘하세요\n과제는 연습문제 내주시는데 개념이해하는데 도움되는 문제들 위주였어요\n족보가 있는지는 몰랐는데 전 족보없이도 시험 잘봤네요\n네 자랑이에요\n뭐요\n수업이 영어로 진행되지만 다시 한국어로 보충설명도 잘해주세요",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "진짜 모르겠음. 시험 변별이 안되는 느낌. 족보 그대로 내는\n문제도 있고,, 그냥 실수 하지 마셈",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

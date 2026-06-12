@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "시 두개를 주시고 하나의 작품을 선택해서 분석, 에세이 작성하는 시험을 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 23,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 14
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 14
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 7
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.45,
+        "count": 129,
+        "items": [
+          {
+            "value": 5,
+            "count": 83
+          },
+          {
+            "value": 4,
+            "count": 30
+          },
+          {
+            "value": 3,
+            "count": 10
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 129,
+          "items": [
+            {
+              "text": "없음",
+              "count": 15
+            },
+            {
+              "text": "보통",
+              "count": 74
+            },
+            {
+              "text": "많음",
+              "count": 40
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 129,
+          "items": [
+            {
+              "text": "없음",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 25
+            },
+            {
+              "text": "많음",
+              "count": 96
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 129,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 53
+            },
+            {
+              "text": "보통",
+              "count": 66
+            },
+            {
+              "text": "깐깐함",
+              "count": 10
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 129,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 56
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 52
+            },
+            {
+              "text": "복합적",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 129,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 36
+            },
+            {
+              "text": "두 번",
+              "count": 91
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "겨울",
+          "text": "&lt;전반적인 수업 과정>\n매일 1-2개 문학작품을 혼자읽고, 교수님이 주심 질문에 답하고 답한 질문을 조원끼리 공유합니다(한국어로) 그리고 교수님 설명 듣고 수업은 끝입미다 \n\n&lt;중간고사> \n수업때 배웠던",
+          "rate": 5,
+          "posvote": 9
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "영어 자신 없으신 분들 듣지 마세요. 이거 때문에 스트레스 엄청 받아요",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788968171062",
+        "bookTitle": "통사론",
+        "bookAuthor": "앤드류 카니",
+        "bookPublisher": "한국문화사",
+        "bookPrice": 27000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/c08b30e66677d22e65e1b339de2467080a24501dc6e0e49fc72c7a019b33b4a9/1757058930080_0.jpg"
+      },
+      {
+        "bookIsbn": "9780470655313",
+        "bookTitle": "Syntax",
+        "bookAuthor": "Andrew Carnie",
+        "bookPublisher": "Wiley-Blackwell",
+        "bookPrice": 52000,
+        "price": 22000,
+        "coverImage": "https://cf-cii.everytime.kr/47fb7921e57ae3694ff8ad6ab45b91620c2c61d067d981dfb49c72034275c7ea/1738567804022_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "총 8문제긴 했지만 새끼 문제가 많이 딸려 있어 시간 압박이 조금 있습니",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.68,
+        "count": 72,
+        "items": [
+          {
+            "value": 5,
+            "count": 55
+          },
+          {
+            "value": 4,
+            "count": 13
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 71,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 67
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 71,
+          "items": [
+            {
+              "text": "없음",
+              "count": 62
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 71,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 53
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 71,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 9
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 56
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 71,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 68
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "영문과에서 영어학 위주로 듣는 사람이라면 무조건 들어야하는 강의입니다.\n\n이 강의는 영어 통사론을 다루는 강의로, 선이수과목으로 영문법의이해가 있지만 듣지 않아도 수업 듣는데 문제 없습니다. Carnie의 Synta",
+          "rate": 5,
+          "posvote": 9
+        },
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "진짜 개 힘들어요...강의 제대로 안 들으면 그냥 망하는 수업...",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

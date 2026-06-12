@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788968241246",
+        "bookTitle": "식품미생물학",
+        "bookAuthor": "Bibek Ray",
+        "bookPublisher": "바이오사이언스출판",
+        "bookPrice": 23000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/3aecae6870a8efa08a2ae696e8ee717587423ad3ebf2662cb1a2dc4fb15f1433/1693398176792_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968240034",
+        "bookTitle": "식품미생물학(4판)",
+        "bookAuthor": "Bibek Ray, Arun Bhunia",
+        "bookPublisher": "바이오사이언스",
+        "bookPrice": 18000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/7a9c7696a56d7ac1adac5779cb4312e9af52c670018389b697fd92e66e0db5ea/1725761562264_0.jpg"
+      },
+      {
+        "bookIsbn": "9780321735515",
+        "bookTitle": "Brock Biology of Microorganisms",
+        "bookAuthor": "Madigan Michael T.",
+        "bookPublisher": "Pearson Education Asia",
+        "bookPrice": 56000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/9b881d36d2281cce95f2285dfd9f06ddcf3489d69432ec8acdf5be61a9550049/1576958071970_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "자잘자잘한거 외우지 말고 크게크게 흐름을 외우세요",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.46,
+        "count": 41,
+        "items": [
+          {
+            "value": 5,
+            "count": 9
+          },
+          {
+            "value": 4,
+            "count": 11
+          },
+          {
+            "value": 3,
+            "count": 14
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 41,
+          "items": [
+            {
+              "text": "없음",
+              "count": 13
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 41,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 33
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 41,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 29
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 41,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 18
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 19
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 41,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 3
+            },
+            {
+              "text": "두 번",
+              "count": 38
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "과목명은 식품미생물학이지만, 수업을 들으면서 식품미생물 이름은 외우지 않아도 됩니다. 본 수업에서 가장 중요한 것은 \"식품산업에 있어 식품미생물을 어떻게 다루느냐\"이기 때문에 식품미생물의 특징은 부가적으로 배웁니다.",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "우라질 그냥 드랍할걸 그랬다 교수님 영어 단어 끝날때마다 '어' '엄' 계속 집어넣으셔서 문장이 난도질당함. 수업듣다가 개빡쳐서 삭제했던 에타 다시깔고 강평남김. 아직 시험보기전이라 학점채워줄진 모르겠지만 진짜 식품",
+          "rate": 1,
+          "posvote": 9
+        }
+      ]
+    }
+  }
+}

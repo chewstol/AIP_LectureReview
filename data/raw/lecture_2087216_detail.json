@@ -1,0 +1,286 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788946081383",
+        "bookTitle": "미디어 경영론 5.0",
+        "bookAuthor": "한국미디어경영학회, 박주연, 장병희, 이상우, 이상원, 홍성철",
+        "bookPublisher": "한울아카데미",
+        "bookPrice": 25000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/fc5f95e9355c8945819cc73e2c58e3cc28af02c1f2705b09b496846dcfbfaf09/1719048729910_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130400181",
+        "bookTitle": "미디어 경제학",
+        "bookAuthor": "콜린 호스킨스, 스튜어트 맥패디언, 아담 핀",
+        "bookPublisher": "커뮤니케이션북스",
+        "bookPrice": 28500,
+        "price": 17000,
+        "coverImage": "https://cf-cii.everytime.kr/1daefa2860f4047fb822774b78e99e686a26fd4a464ef517b0c85be5213924b8/1739455076539_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "1-9장내용,중간시험은 문제은행에서 20문제를 출제할 예정",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.5,
+        "count": 74,
+        "items": [
+          {
+            "value": 5,
+            "count": 16
+          },
+          {
+            "value": 4,
+            "count": 29
+          },
+          {
+            "value": 3,
+            "count": 14
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 9
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 74,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 22
+            },
+            {
+              "text": "많음",
+              "count": 46
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 74,
+          "items": [
+            {
+              "text": "없음",
+              "count": 47
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 74,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 34
+            },
+            {
+              "text": "보통",
+              "count": 33
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 74,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 36
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 28
+            },
+            {
+              "text": "복합적",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 74,
+          "items": [
+            {
+              "text": "없음",
+              "count": 24
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 46
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "作业超级超级多。因为是网课没有发表。实体课据说是有发表的。因为内容有点难，所以不用考试很幸运。完成了超级超级超级多的作业之后a➕。很知足",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "진짜 저절로 가슴이 웅장해지는 명륜 세계관 최강자의 수업이다...\n1. 통아캠이라는 이유로 원래는 팀플로 한학기내내 완성해야 했던 과제를 개인별 과제로 돌림(산업분석 15장 레포트)\n2. 레포트 1/3 완성하는 게",
+          "rate": 1,
+          "posvote": 23
+        }
+      ]
+    }
+  }
+}

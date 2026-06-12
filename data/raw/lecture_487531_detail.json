@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791130348674",
+        "bookTitle": "행정법",
+        "bookAuthor": "김민호",
+        "bookPublisher": "박영사",
+        "bookPrice": 55000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/57a6aeacbbfcd37087b8ec685f2c2e33ac9f1570d2caa4b3f8346a749e335fa9/1772638022015_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130334943",
+        "bookTitle": "행정법",
+        "bookAuthor": "김민호",
+        "bookPublisher": "박영사",
+        "bookPrice": 49000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/b0bf3e460a2cf459bba8d3db9943fad7a0e10a76407de86e4968f3c09cdc9867/1693713187703_0.jpg"
+      },
+      {
+        "bookIsbn": "9791186456767",
+        "bookTitle": "행정법의 이해",
+        "bookAuthor": "강현호",
+        "bookPublisher": "동방문화사",
+        "bookPrice": 45000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/a1c011324fccd89418eb9959348349cdd1f92d9b3aa5e827c774355e64503b05/1710482983656_0.jpg"
+      },
+      {
+        "bookIsbn": "9788997451036",
+        "bookTitle": "국가경영행정법(상)(양장본 HardCover)",
+        "bookAuthor": "강현호",
+        "bookPublisher": "디비북스",
+        "bookPrice": 42000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/ed92931e0960558a0f1c7e56496a6c4e162cd0ef8bb08ec345c6c050840b4b82/1564220123836_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "기말고사는 준사례형으로 출제되었는데, 이론과 더불어서 수업시간마다 판례 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 31,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 22
+            },
+            {
+              "text": "논술형",
+              "count": 9
+            },
+            {
+              "text": "구술",
+              "count": 2
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 24,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 15
+            },
+            {
+              "text": "논술형",
+              "count": 13
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.34,
+        "count": 208,
+        "items": [
+          {
+            "value": 5,
+            "count": 126
+          },
+          {
+            "value": 4,
+            "count": 43
+          },
+          {
+            "value": 3,
+            "count": 28
+          },
+          {
+            "value": 2,
+            "count": 5
+          },
+          {
+            "value": 1,
+            "count": 6
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 208,
+          "items": [
+            {
+              "text": "없음",
+              "count": 136
+            },
+            {
+              "text": "보통",
+              "count": 71
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 208,
+          "items": [
+            {
+              "text": "없음",
+              "count": 157
+            },
+            {
+              "text": "보통",
+              "count": 51
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 208,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 67
+            },
+            {
+              "text": "보통",
+              "count": 121
+            },
+            {
+              "text": "깐깐함",
+              "count": 20
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 208,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 50
+            },
+            {
+              "text": "전자출결",
+              "count": 32
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 106
+            },
+            {
+              "text": "복합적",
+              "count": 19
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 208,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 114
+            },
+            {
+              "text": "두 번",
+              "count": 94
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "모두가 만족하는 수업. \n\n1. 날로 먹으려는 고시생-> 한 학기동안 출석 딱 두 번 부름 (=모든 수업 다 빠져도 f 안 받음) 전자출결 없고 호명 하는 날 미리 공지하면 그 날만 가면 됨. 운 나쁘게 발표 걸려도",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "배우는게 없는 수업. 학생들 발표로 때우고 범위는 엄청난데 모두 독학해야함.",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

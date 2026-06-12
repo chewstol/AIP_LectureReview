@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788955016857",
+        "bookTitle": "엑셀과 R Commander를 활용한 통계",
+        "bookAuthor": "김태웅",
+        "bookPublisher": "신영사",
+        "bookPrice": 27000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/64a36004229ca64711f446bda3fadbb03b02e5a1fdea5b7504e2e976565d3f7c/1600093410490_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130300245",
+        "bookTitle": "통계학 탐구",
+        "bookAuthor": "김성주",
+        "bookPublisher": "박영사",
+        "bookPrice": 26000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/0fa032a8e83748ceed2273b0029d9f64accdcb6eb2cf17488a6658c7b188dd04/1536128553177_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292069029",
+        "bookTitle": "Basic Business Statistics",
+        "bookAuthor": "Berenson",
+        "bookPublisher": "Pearson",
+        "bookPrice": 48000,
+        "price": 19900,
+        "coverImage": "https://cf-cii.everytime.kr/9f97e1f351803a2a7f9b9de9211921b5339c35a8e44068b8ef98acf4a3cab951/1584032320317_0.jpg"
+      },
+      {
+        "bookIsbn": "9789814595049",
+        "bookTitle": "Fundamentals of Corporate Finance, Aisan Global 2 Edition",
+        "bookAuthor": "스테판 A. 로스, Randolph W. Westerfield, Bradford D. Jordan, Joseph Lim, Ruth Tan",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 44000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/6069b77854b4c4c7335c7316bc0329275c159713221efd473b2f7b304c4f7a9e/1533466149146_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "-수업에서 시험에 나올것들을 대놓고 강조하시기 때문에 잘 듣는게 일단 중",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 40,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 33
+            },
+            {
+              "text": "주관식",
+              "count": 33
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 23,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 19
+            },
+            {
+              "text": "주관식",
+              "count": 16
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.67,
+        "count": 526,
+        "items": [
+          {
+            "value": 5,
+            "count": 392
+          },
+          {
+            "value": 4,
+            "count": 100
+          },
+          {
+            "value": 3,
+            "count": 27
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 526,
+          "items": [
+            {
+              "text": "없음",
+              "count": 110
+            },
+            {
+              "text": "보통",
+              "count": 382
+            },
+            {
+              "text": "많음",
+              "count": 34
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 526,
+          "items": [
+            {
+              "text": "없음",
+              "count": 496
+            },
+            {
+              "text": "보통",
+              "count": 29
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 526,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 299
+            },
+            {
+              "text": "보통",
+              "count": 216
+            },
+            {
+              "text": "깐깐함",
+              "count": 11
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 526,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 9
+            },
+            {
+              "text": "전자출결",
+              "count": 390
+            },
+            {
+              "text": "지정좌석",
+              "count": 3
+            },
+            {
+              "text": "직접호명",
+              "count": 104
+            },
+            {
+              "text": "복합적",
+              "count": 20
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 526,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 520
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "무난한데 교수님이 족금 느끼하세요\n......",
+          "rate": 5,
+          "posvote": 7
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "강평 좋은게 좀 이해가 안간다.. 이유가 뭐지?? 목소리가 나긋나긋하긴함",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

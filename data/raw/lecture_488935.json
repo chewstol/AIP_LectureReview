@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791156007937",
+        "bookTitle": "운영체제",
+        "bookAuthor": "Remzi H. Arpaci Dusseau, Andrea C. Arpaci Dusseau",
+        "bookPublisher": "도서출판 홍릉(홍릉과학출판사)",
+        "bookPrice": 39000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/054897394b59fa5bac48bf90e9a915944359f92d324ca78bf03b89a614b9c190/1709215698615_0.jpg"
+      },
+      {
+        "bookIsbn": "9781118093757",
+        "bookTitle": "Operating System Concepts",
+        "bookAuthor": "Abraham Silberschatz, PETER BAER GALVIN, GREG GAGNE",
+        "bookPublisher": "Wiley",
+        "bookPrice": 43000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/9e49aaa4070c8f305429a15343378636d5d65881f19b4e16355936b74bfe5bcc/1598853987636_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "수업시간 진도 계속 follow up해야합니다 중간에 구멍나면 개념연결이",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 30,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 29
+            },
+            {
+              "text": "주관식",
+              "count": 29
+            },
+            {
+              "text": "T/F형",
+              "count": 9
+            },
+            {
+              "text": "약술형",
+              "count": 7
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 9
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.68,
+        "count": 211,
+        "items": [
+          {
+            "value": 5,
+            "count": 157
+          },
+          {
+            "value": 4,
+            "count": 45
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 211,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 63
+            },
+            {
+              "text": "많음",
+              "count": 148
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 211,
+          "items": [
+            {
+              "text": "없음",
+              "count": 202
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 211,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 71
+            },
+            {
+              "text": "보통",
+              "count": 129
+            },
+            {
+              "text": "깐깐함",
+              "count": 11
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 211,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 65
+            },
+            {
+              "text": "전자출결",
+              "count": 130
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 10
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 211,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 11
+            },
+            {
+              "text": "두 번",
+              "count": 199
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "단점 : xv6 어렵습니다. 진짜. 다른 수업 들으면서 과제 감점된 적 한번도 없고 쉽게 쉽게 했는데 xv6는 순 과제시간 30시간 넘어간 것도 있습니다.\n\n장점 \n1. 무친 강의력, 말이 안됩니다. 그냥 머리에 쏙",
+          "rate": 5,
+          "posvote": 6
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "중간고사 때 교안이랑 용어 정의 묘하게 다르게 적어놓는 저급한 변별을 시도한 후, 이의제기 반박 못해서 전원 정답 처리한게 충격이었습니다. 덕분에 평균은 대폭 상승하고, 공부한 학생들만 피해본 것 같네요. 이후 기말",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

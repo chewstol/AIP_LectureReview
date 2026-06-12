@@ -1,0 +1,295 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780813802923",
+        "bookTitle": "Clarifying Communication Theories: A Hands-On Approach",
+        "bookAuthor": "없음",
+        "bookPublisher": "Iowa State Press",
+        "bookPrice": 55660,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/e4ac200bb6b2cd34c37408cc4c969a2f0dd79caa2cd076c74521371bbf5ed154/1507258533113_0.jpg"
+      },
+      {
+        "bookIsbn": "9791158520854",
+        "bookTitle": "미디어 이론. 2",
+        "bookAuthor": "브렛 밀스, 데이비드 M 발로우",
+        "bookPublisher": "글로벌콘텐츠",
+        "bookPrice": 28000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/89398edf99c25cb2486c7e787e37d5ca9ee9aedbf15c33ef25ab9f79602d0ea1/1614590982213_0.jpg"
+      },
+      {
+        "bookIsbn": "9791158520847",
+        "bookTitle": "미디어 이론. 1",
+        "bookAuthor": "브렛 밀스, 데이비드 M 발로우",
+        "bookPublisher": "글로벌콘텐츠",
+        "bookPrice": 24000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/ce145437b5b374ef96ec40670c839725339a169f45250b34d393e3b90f9771ea/1555512174859_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험은 없음 다만 매주 위클리페이퍼를 작성하는데 지피티를 이용해서 여러가",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.79,
+        "count": 101,
+        "items": [
+          {
+            "value": 5,
+            "count": 18
+          },
+          {
+            "value": 4,
+            "count": 13
+          },
+          {
+            "value": 3,
+            "count": 25
+          },
+          {
+            "value": 2,
+            "count": 20
+          },
+          {
+            "value": 1,
+            "count": 25
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 101,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "많음",
+              "count": 86
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 101,
+          "items": [
+            {
+              "text": "없음",
+              "count": 95
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 101,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 55
+            },
+            {
+              "text": "보통",
+              "count": 43
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 101,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 41
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 44
+            },
+            {
+              "text": "복합적",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 101,
+          "items": [
+            {
+              "text": "없음",
+              "count": 26
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 74
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "시험 없고 매주 레포트 있어용 사실 교수님 강의력은 안 좋으시지만 편의도 봐주시고 수업 끝날 때 맨날 치얼업댄스 하는 게 귀여우십니다 AI툴 써서 레포트 쓰면 좋아하시는 거 같아요 평점은 낮지만 숨어있는 꿀강이라고",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "핵심 전공이라 어쩔 수 없이 들었는데\n역대 최악의 강의라고 생각이 듭니다 ㅋㅋㅋㅋ\n일단 교수님께서 설명을 진짜 못하십니다.. 제가 못 알아듣는 걸 수도 있지만 같은 내용을 다룬 몇 분짜리 유튜브 영상을 보니까 이해가",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781292020754",
+        "bookTitle": "Inorganic Chemistry",
+        "bookAuthor": "Gary L. Miessler, Paul J. Fischer, Donald A. Tarr",
+        "bookPublisher": "Pearson",
+        "bookPrice": 85000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/91fdb607f52be530464d3e76480dc9368461b6d0598b28544af4d2d1c8f80fdd/1593875691697_0.jpg"
+      },
+      {
+        "bookIsbn": "9780321891020",
+        "bookTitle": "Inorganic Chemistry",
+        "bookAuthor": "Gary L. Miessler",
+        "bookPublisher": "Pearson Higher Education",
+        "bookPrice": 53000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/212b36c6808678063449912134fcc16f3cb42a8e7244460d0c8c57b28ec0efed/0.jpg"
+      },
+      {
+        "bookIsbn": "9788973388851",
+        "bookTitle": "무기화학",
+        "bookAuthor": "Gary L Miessler, Paul J Fischer, Donald A Tarr",
+        "bookPublisher": "자유아카데미",
+        "bookPrice": 38000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/cd1dfb6dfb2b770c4c8f271313ea90aa72d7d99f14ba20e8f269525bd6b5770a/1693212217393_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험범위는 5장 정도까지이며, 심화된 일반화학 느낌의 문제입니다. 퀴즈에",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 7
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.16,
+        "count": 91,
+        "items": [
+          {
+            "value": 5,
+            "count": 46
+          },
+          {
+            "value": 4,
+            "count": 24
+          },
+          {
+            "value": 3,
+            "count": 13
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 91,
+          "items": [
+            {
+              "text": "없음",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 58
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 91,
+          "items": [
+            {
+              "text": "없음",
+              "count": 88
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 91,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 49
+            },
+            {
+              "text": "보통",
+              "count": 39
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 91,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 4
+            },
+            {
+              "text": "전자출결",
+              "count": 74
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 2
+            },
+            {
+              "text": "복합적",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 91,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 91
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "앞으로 탄산칼슘 나올때마다 조개 껍질 먹고~..가 생각날거 같은 수업. 2학년이라서 겁 좀 먹었는데 깔끔하고 재미있었어요!! 성적도 잘주시는거 같네용",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "강의력 그닥 좋지 않음\n오프라인 수업 때 중간중간 말 거는 것도 별로임\n시험 오픈북이긴 하지만 그래도 공부 좀 해야 함",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

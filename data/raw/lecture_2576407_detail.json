@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791190017268",
+        "bookTitle": "재료과학",
+        "bookAuthor": "William D. Callister, David G. Rethwisch",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 42000,
+        "price": 21000,
+        "coverImage": "https://cf-cii.everytime.kr/790b968c1339b90e320f6c3e6a2a95244508ffdc081a9e26100c7a91ca12df1c/1756003784101_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964213131",
+        "bookTitle": "재료과학",
+        "bookAuthor": "William D. Callister Jr., David G. Rethwisch",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 39000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/7596c6bd4563d4858a967152782d767098590c195072b332789cb92696d81fc7/1693579548539_0.jpg"
+      },
+      {
+        "bookIsbn": "9781119249252",
+        "bookTitle": "Fundamentals of Materials Science and Engineering",
+        "bookAuthor": "William D. Callister, David G. Rethwisch",
+        "bookPublisher": "John Wiley & Sons Inc",
+        "bookPrice": 60000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/276c2586e3b41a1dfe64e8ead01045efa639d2463805ad86a47f6943934e5aaf/1726026661548_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "기본 개념도 중요하지만 \n문제 풀이에도 시간을 투자해야 할것 같습니다.\n",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.71,
+        "count": 80,
+        "items": [
+          {
+            "value": 5,
+            "count": 63
+          },
+          {
+            "value": 4,
+            "count": 12
+          },
+          {
+            "value": 3,
+            "count": 4
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 80,
+          "items": [
+            {
+              "text": "없음",
+              "count": 21
+            },
+            {
+              "text": "보통",
+              "count": 59
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 80,
+          "items": [
+            {
+              "text": "없음",
+              "count": 76
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 80,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 55
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 80,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 44
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 21
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 80,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 80
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "\"저는 계속 말씀드리지만 학부는 재료공학과를 졸업했으며~\" 라는 말씀을 수업때마다 해주십니다. 확실히 화공에서 들을 수 있는 수업중에 가장 새로운 느낌이었던 것 같습니다. 외울게 좀 많긴 하지만 중간 기말 모두 평이",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "시험이 너무 뜬금없이 어렵다 도움이 되는지 잘 모르겠고 외울게 엄청 많다",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}
