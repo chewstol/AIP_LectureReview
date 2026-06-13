@@ -1,0 +1,4 @@
+﻿feature_mode,model,alpha,mse_mean,rmse_mean,mae_mean
+structured_only,Ridge,1.0,0.00738381,0.0853042,0.06275225
+kobert_pca32_only,Ridge,100.0,0.0118342,0.10848574,0.08323437
+structured+kobert_pca32,Ridge,10.0,0.00693281,0.08283711,0.0609894

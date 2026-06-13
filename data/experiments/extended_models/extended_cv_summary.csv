@@ -1,0 +1,17 @@
+﻿feature_set,model,params,folds,mse_mean,mse_std,rmse_mean,rmse_std,mae_mean,mae_std
+all_31,Ridge,ridge__alpha=10.0,5,0.00323442,0.0005935,0.05664663,0.005058,0.04204842,0.00251465
+all_31,Histogram Gradient Boosting,l2_regularization=1.0;learning_rate=0.05;max_iter=100;max_leaf_nodes=15,5,0.00333271,0.00077134,0.05737551,0.00638448,0.0419197,0.00360659
+all_31,Kernel Ridge-RBF,kernelridge__alpha=0.01;kernelridge__gamma=0.001,5,0.00335694,0.00043887,0.05781944,0.0037218,0.0422167,0.00184292
+all_31,Random Forest,max_depth=12;min_samples_leaf=3,5,0.00338562,0.00079545,0.05781367,0.0065729,0.04215911,0.00339832
+all_31,Gradient Boosting,learning_rate=0.05;loss=squared_error;max_depth=2;n_estimators=300,5,0.00348105,0.00076999,0.05867209,0.00621595,0.04271137,0.00270001
+all_31,Extra Trees,max_depth=8;min_samples_leaf=6,5,0.00348396,0.0008886,0.05857446,0.00727979,0.04256366,0.00372183
+all_31,SVR-RBF,svr__C=0.3;svr__epsilon=0.03;svr__gamma=scale,5,0.004034,0.00079672,0.06322457,0.00605439,0.04658305,0.00265541
+all_31,Stacking Ensemble,,5,0.00469976,0.00105913,0.06807967,0.00805712,0.05246962,0.0045926
+leakage_safe,Kernel Ridge-RBF,kernelridge__alpha=0.01;kernelridge__gamma=0.001,5,0.00722578,0.00190496,0.08430563,0.01087851,0.06168934,0.00561432
+leakage_safe,Ridge,ridge__alpha=10.0,5,0.00729152,0.00184298,0.0847415,0.01050705,0.06221016,0.00557498
+leakage_safe,Histogram Gradient Boosting,l2_regularization=0.0;learning_rate=0.05;max_iter=100;max_leaf_nodes=7,5,0.0076559,0.00217248,0.08667362,0.01198283,0.06275712,0.00717503
+leakage_safe,Random Forest,max_depth=6;min_samples_leaf=3,5,0.00766603,0.00226455,0.08667138,0.0124137,0.06357092,0.00691999
+leakage_safe,Extra Trees,max_depth=8;min_samples_leaf=3,5,0.0077351,0.00215272,0.0871576,0.011775,0.06321985,0.00653203
+leakage_safe,Gradient Boosting,learning_rate=0.05;loss=huber;max_depth=2;n_estimators=100,5,0.00781928,0.00242434,0.08739896,0.01344266,0.06275275,0.00771101
+leakage_safe,SVR-RBF,svr__C=0.3;svr__epsilon=0.05;svr__gamma=scale,5,0.0082445,0.00213094,0.0900538,0.01161095,0.0665613,0.00627715
+leakage_safe,Stacking Ensemble,,5,0.00902793,0.00214316,0.0942902,0.01171717,0.07264326,0.0061968

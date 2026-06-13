@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="564" viewBox="0 0 1040 564">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="38" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">16 leakage-safe features</text>
+<text x="32" y="65" font-family="Arial, sans-serif" font-size="14" fill="#4b5563">5-fold cross-validation, lower RMSE is better</text>
+<text x="256" y="112" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Kernel Ridge-RBF</text>
+<rect x="270" y="92" width="660" height="28" rx="4" fill="#eef2f7"/>
+<rect x="270" y="92" width="526.89" height="28" rx="4" fill="#7c3aed"/>
+<text x="806.89" y="112" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08431</text>
+<text x="256" y="170" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Ridge</text>
+<rect x="270" y="150" width="660" height="28" rx="4" fill="#eef2f7"/>
+<rect x="270" y="150" width="529.61" height="28" rx="4" fill="#2563eb"/>
+<text x="809.61" y="170" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08474</text>
+<text x="256" y="228" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Random Forest</text>
+<rect x="270" y="208" width="660" height="28" rx="4" fill="#eef2f7"/>
+<rect x="270" y="208" width="541.67" height="28" rx="4" fill="#ea580c"/>
+<text x="821.67" y="228" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08667</text>
+<text x="256" y="286" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Histogram Gradient Boosting</text>
+<rect x="270" y="266" width="660" height="28" rx="4" fill="#eef2f7"/>
+<rect x="270" y="266" width="541.68" height="28" rx="4" fill="#059669"/>
+<text x="821.68" y="286" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08667</text>
+<text x="256" y="344" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Extra Trees</text>
+<rect x="270" y="324" width="660" height="28" rx="4" fill="#eef2f7"/>
+<rect x="270" y="324" width="544.71" height="28" rx="4" fill="#d97706"/>
+<text x="824.71" y="344" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08716</text>
+<text x="256" y="402" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Gradient Boosting</text>
+<rect x="270" y="382" width="660" height="28" rx="4" fill="#eef2f7"/>
+<rect x="270" y="382" width="546.22" height="28" rx="4" fill="#16a34a"/>
+<text x="826.22" y="402" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08740</text>
+<text x="256" y="460" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">SVR-RBF</text>
+<rect x="270" y="440" width="660" height="28" rx="4" fill="#eef2f7"/>
+<rect x="270" y="440" width="562.81" height="28" rx="4" fill="#db2777"/>
+<text x="842.81" y="460" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.09005</text>
+<text x="256" y="518" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Stacking Ensemble</text>
+<rect x="270" y="498" width="660" height="28" rx="4" fill="#eef2f7"/>
+<rect x="270" y="498" width="589.29" height="28" rx="4" fill="#64748b"/>
+<text x="869.29" y="518" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.09429</text>
+</svg>

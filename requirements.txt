@@ -1,3 +1,16 @@
+# --- core: crawler + recommendation/persona pipeline (numpy/pandas only) ---
 requests
-numpy
-pandas
+numpy>=1.26
+pandas>=2.0
+
+# --- model-comparison experiments (KoBERT / transformer / tabular baselines) ---
+# Only needed to RE-RUN scripts/run_*.py and build_transformer_embeddings.py.
+# The topk recommender and build_personas.py do NOT require these.
+scikit-learn>=1.5
+torch>=2.6
+transformers>=4.45
+sentence-transformers>=3.0
+sentencepiece>=0.2
+protobuf>=5.0
+xgboost>=2.1
+lightgbm>=4.5
