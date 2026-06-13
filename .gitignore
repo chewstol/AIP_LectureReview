@@ -11,3 +11,11 @@ build/
 Thumbs.db
 CLAUDE.md
 plan.md
+about-class/
+
+# raw scraped inputs (kept local, like about-class/)
+subjects.csv
+
+# persona test fixtures + quality-model comparison outputs (regenerable)
+data/personas*/
+data/recommendations/qmodel_*

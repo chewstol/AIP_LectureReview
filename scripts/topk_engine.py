@@ -8,6 +8,100 @@ import pandas as pd
 
 TARGET_COLUMN = "rating_average_norm"
 
+# Objective scoring mode. The persona contributes only per-axis weights (how
+# much it cares about each axis, read from its text salience); the *values*
+# come entirely from the lecture's objective poll features. Each axis maps to
+# its "friendliness" pole — the side an averse student wants (low burden /
+# light load / generous grading). teaching has no poll pair, so it scores on
+# the lecture's normalized rating (a teaching-quality proxy).
+AXIS_TEXT_COLUMN = {
+    "assignment": "text_assignment_tfidf",
+    "exam": "text_exam_tfidf",
+    "teamwork": "text_teamwork_tfidf",
+    "attendance": "text_attendance_tfidf",
+    "grading": "text_grading_tfidf",
+    "teaching": "text_teaching_tfidf",
+}
+AXIS_FRIENDLINESS_COLUMN = {
+    "assignment": "assignment_low_score",
+    "exam": "exam_light_score",
+    "teamwork": "teamwork_low_score",
+    "attendance": "attendance_light_score",
+    "grading": "grading_generous_score",
+    "teaching": TARGET_COLUMN,
+}
+# The opposite pole, used for "seeker" personas who want a substantial class.
+# teaching stays on rating — everyone wants good teaching, seekers included.
+AXIS_BURDEN_COLUMN = {
+    "assignment": "assignment_high_score",
+    "exam": "exam_heavy_score",
+    "teamwork": "teamwork_high_score",
+    "attendance": "attendance_strict_score",
+    "grading": "grading_strict_score",
+    "teaching": TARGET_COLUMN,
+}
+
+
+def axis_weights_from_text(preference_weights: dict[str, float]) -> dict[str, float]:
+    """Turn a persona's text-salience features into per-axis weights that sum to
+    1. Salience = how much the persona talks about an axis = how much that axis
+    should steer its ranking. Falls back to uniform weights if no text signal."""
+    raw = {
+        axis: max(float(preference_weights.get(column, 0.0)), 0.0)
+        for axis, column in AXIS_TEXT_COLUMN.items()
+    }
+    total = sum(raw.values())
+    if total <= 0.0:
+        uniform = 1.0 / len(AXIS_TEXT_COLUMN)
+        return {axis: uniform for axis in AXIS_TEXT_COLUMN}
+    return {axis: value / total for axis, value in raw.items()}
+
+
+def objective_preference_fit(
+    nodes: pd.DataFrame,
+    preference_weights: dict[str, float],
+    relative: bool = False,
+    valence: str = "avoid",
+    ubiquity_penalty: float = 0.0,
+) -> np.ndarray:
+    """Preference fit in [0, 1]: a weighted average of the lecture's objective
+    poll-based scores, weighted by how much the persona cares about each axis.
+    No cosine, no persona structured estimates.
+
+    valence: "avoid" (default) rewards the friendly pole of each axis (low
+    burden / generous grading) — a burden-averse persona. "seek" rewards the
+    opposite pole (substantial workload) — a challenge/quality-seeking persona;
+    teaching still scores on rating. Seekers and avoiders therefore rank
+    lectures in opposite directions, the main source of cross-persona diversity.
+
+    relative=True: z-score each axis column first, so "unusually <wanted> on
+    this axis" wins instead of "globally easy". (Weak on its own — see analysis.)
+
+    ubiquity_penalty (idea C, default 0): subtract this x each lecture's *generic
+    friendliness* (mean friendliness across burden axes). A lecture that is
+    friendly on everything is everyone's answer, so it carries little
+    personalized signal; damping it surfaces each persona's more distinctive
+    picks. Trades a little fit for within-group diversity."""
+    axis_column = AXIS_BURDEN_COLUMN if valence == "seek" else AXIS_FRIENDLINESS_COLUMN
+    weights = axis_weights_from_text(preference_weights)
+    fit = np.zeros(len(nodes), dtype=float)
+    for axis, weight in weights.items():
+        values = nodes[axis_column[axis]].to_numpy(dtype=float)
+        if relative:
+            std = values.std()
+            values = (values - values.mean()) / (std if std > 0.0 else 1.0)
+        fit += weight * values
+
+    if ubiquity_penalty > 0.0:
+        burden_axes = [a for a in AXIS_FRIENDLINESS_COLUMN if a != "teaching"]
+        generic = nodes[[AXIS_FRIENDLINESS_COLUMN[a] for a in burden_axes]].to_numpy(dtype=float).mean(axis=1)
+        fit = fit - ubiquity_penalty * generic
+
+    if relative or ubiquity_penalty > 0.0:
+        low, high = float(fit.min()), float(fit.max())
+        fit = (fit - low) / max(high - low, 1e-12)
+    return fit
+
 
 def standardize(x: np.ndarray) -> tuple[np.ndarray, np.ndarray, np.ndarray]:
     mean = x.mean(axis=0, keepdims=True)
@@ -66,12 +160,22 @@ def make_recommendations(
     alpha: float,
     shrinkage_m: float = 0.0,
     normalize_components: bool = False,
+    score_mode: str = "similarity",
+    valence: str = "avoid",
+    ubiquity_penalty: float = 0.0,
+    quality_override: np.ndarray | None = None,
 ) -> pd.DataFrame:
     x_raw = nodes[feature_columns].to_numpy(dtype=float)
     x, _, _ = standardize(x_raw)
     y = nodes[TARGET_COLUMN].to_numpy(dtype=float).reshape(-1, 1)
-    ridge_weights = fit_ridge(x, y, alpha=alpha)
-    predicted_quality = predict_ridge(x, ridge_weights)
+    if quality_override is not None:
+        # A pluggable quality model (see scripts/quality_models.py) supplies the
+        # per-lecture predicted quality, so the recommender can be compared
+        # across quality models without changing the rest of the scoring.
+        predicted_quality = np.clip(np.asarray(quality_override, dtype=float).reshape(-1), 0.0, 1.0)
+    else:
+        ridge_weights = fit_ridge(x, y, alpha=alpha)
+        predicted_quality = predict_ridge(x, ridge_weights)
 
     if shrinkage_m > 0.0:
         # Empirical-Bayes shrinkage toward the global mean rating. Lectures with
@@ -81,12 +185,28 @@ def make_recommendations(
         rating_count = np.nan_to_num(nodes["rating_count"].to_numpy(dtype=float), nan=0.0)
         predicted_quality = (rating_count * predicted_quality + shrinkage_m * prior) / (rating_count + shrinkage_m)
 
-    # Preference weights are a user-specified direction, not a sample, so they are
-    # used as-is against the z-scored lecture matrix. The weight ratios between
-    # features are preserved (no per-column std rescaling, no mean subtraction).
-    preference_vector = build_preference_vector(preference_weights, feature_columns)
-    similarity = cosine_to_vector(x, preference_vector)
-    similarity_01 = (similarity + 1.0) / 2.0
+    if score_mode in ("objective", "objective_rel"):
+        # Objective mode: persona text salience -> per-axis weights; values are
+        # the lecture's poll-based friendliness scores. objective_rel z-scores
+        # each axis so "unusually friendly on this axis" wins (more diverse).
+        similarity_01 = objective_preference_fit(
+            nodes,
+            preference_weights,
+            relative=(score_mode == "objective_rel"),
+            valence=valence,
+            ubiquity_penalty=ubiquity_penalty,
+        )
+    elif score_mode == "similarity":
+        # Preference weights are a user-specified direction, not a sample, so they
+        # are used as-is against the z-scored lecture matrix. The weight ratios
+        # between features are preserved (no per-column std rescaling, no mean sub).
+        preference_vector = build_preference_vector(preference_weights, feature_columns)
+        similarity = cosine_to_vector(x, preference_vector)
+        similarity_01 = (similarity + 1.0) / 2.0
+    else:
+        raise ValueError(
+            f"Unknown score_mode: {score_mode!r} (expected 'similarity', 'objective', or 'objective_rel')."
+        )
 
     if normalize_components:
         # Rank-normalize each component so similarity_weight / quality_weight

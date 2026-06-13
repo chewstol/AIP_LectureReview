@@ -9,6 +9,7 @@ from typing import Any
 import numpy as np
 import pandas as pd
 
+from quality_models import QUALITY_MODELS, predict_quality
 from topk_engine import (
     TARGET_COLUMN,
     build_preference_vector,
@@ -199,6 +200,21 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--quality-weight", type=float, default=0.3)
     parser.add_argument("--alpha", type=float, default=10.0)
     parser.add_argument(
+        "--score-mode",
+        choices=["similarity", "objective", "objective_rel"],
+        default="similarity",
+        help="similarity = cosine of preference vector vs z-scored lecture features (default). "
+        "objective = per-axis text-salience weights x lecture poll-based friendliness scores. "
+        "objective_rel = objective with per-axis z-scoring for more diversity.",
+    )
+    parser.add_argument(
+        "--quality-model",
+        choices=QUALITY_MODELS,
+        default=None,
+        help="Quality model driving predicted_quality. Default (unset) = inline Ridge over the "
+        "feature columns. Set to compare e.g. ridge_kobert / train_mean / knn in the Top-K.",
+    )
+    parser.add_argument(
         "--diversity",
         type=float,
         default=1.0,
@@ -232,6 +248,12 @@ def main() -> None:
 
     nodes, feature_columns = load_nodes(args.nodes)
     scenario_name, preference_weights = preference_from_args(args, feature_columns)
+
+    quality_override = None
+    if args.quality_model is not None:
+        text_columns = [column for column in feature_columns if column.startswith("text_")]
+        quality_override = predict_quality(args.quality_model, nodes, alpha=args.alpha, text_columns=text_columns)
+
     recommendations = make_recommendations(
         nodes=nodes,
         feature_columns=feature_columns,
@@ -241,6 +263,8 @@ def main() -> None:
         alpha=args.alpha,
         shrinkage_m=args.shrinkage_m,
         normalize_components=args.normalize_components,
+        score_mode=args.score_mode,
+        quality_override=quality_override,
     )
 
     keywords = load_keywords(args.keywords)
