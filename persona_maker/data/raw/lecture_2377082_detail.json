@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "논술형 2문제, 약술형 5문제가 나왓습니다. 분량은 논술형은 한 문제당 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.73,
+        "count": 48,
+        "items": [
+          {
+            "value": 5,
+            "count": 36
+          },
+          {
+            "value": 4,
+            "count": 11
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 48,
+          "items": [
+            {
+              "text": "없음",
+              "count": 13
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 48,
+          "items": [
+            {
+              "text": "없음",
+              "count": 47
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 48,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 48,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 46
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 48,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 42
+            },
+            {
+              "text": "두 번",
+              "count": 4
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "최고의 강의.\n유동학부라면 김동민 교수님 수업 한번쯤 들어보는걸 추천한다.\n논어 구절과 관련해 공자의 다양한 사상을 공부하는데, 흥미롭다. 그리고 진로 고민, 인간관계 등 다양한 고민거리에 대해서 나름의 답을 해주시",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "재밋어요…\n추천하고 싶어욥\n온라인 강의 잘 챙겨들을 수 잇으면 들으면 조아여!!",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

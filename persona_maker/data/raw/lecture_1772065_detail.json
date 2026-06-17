@@ -1,0 +1,286 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791185475219",
+        "bookTitle": "컴퓨터 시스템",
+        "bookAuthor": "Randal E Bryan, David R O'Hallaron",
+        "bookPublisher": "피어슨에듀케이션코리아",
+        "bookPrice": 39000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/319903d49aa148fa3e04a9ea3ac90b6027724fc20d7fdf2dc1f98d5510aa0e7b/1741324888483_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292101767",
+        "bookTitle": "Computer Systems",
+        "bookAuthor": "Bryant Randal E.",
+        "bookPublisher": "Pearson",
+        "bookPrice": 66000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/c33e59e52d65a16e9e25997e4423b6e574bdc75c35d2eb3bc3ef9cac79d1cddd/1747579150938_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사 없었고 기말고사 전 범위였습니다.\n매주 토론 과제 하나씩 있는데",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.7,
+        "count": 192,
+        "items": [
+          {
+            "value": 5,
+            "count": 151
+          },
+          {
+            "value": 4,
+            "count": 27
+          },
+          {
+            "value": 3,
+            "count": 13
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 192,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 172
+            },
+            {
+              "text": "많음",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 192,
+          "items": [
+            {
+              "text": "없음",
+              "count": 173
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 192,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 155
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 192,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 21
+            },
+            {
+              "text": "전자출결",
+              "count": 99
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 62
+            },
+            {
+              "text": "복합적",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 192,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 68
+            },
+            {
+              "text": "두 번",
+              "count": 124
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "중요한 과목, 스윗한 교수님. 국제어 수업 들었고 A+ 받았습니다.\n\n1. 과제: 전부 리눅스(우분투)에서 진행해야 합니다.\n\n[Small Floating Point] 중간고사 시험에서 손으로 계산하는 문제로도 나오",
+          "rate": 5,
+          "posvote": 9
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "이틀 밤새면서 과제하고있었는데 돌아온건 취소처리.. 대충대충 쉬엄쉬엄 살고싶은분들한테는 강추",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

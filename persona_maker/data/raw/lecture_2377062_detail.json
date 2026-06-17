@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 2.9,
+        "count": 10,
+        "items": [
+          {
+            "value": 5,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 10,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 10,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 10,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 10,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 0
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 10
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 10,
+          "items": [
+            {
+              "text": "없음",
+              "count": 10
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "교수님 연구주제다보니 수업에 영혼이 담겨있습니다. 영혼 없는 교수님만 뵈다가 이렇게 열정적이신 모습을 뵈니 새로웠어요.",
+          "rate": 4,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "개별로임;;;;;;;;ㅎㅎ;;;;;;;;;;;;;",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

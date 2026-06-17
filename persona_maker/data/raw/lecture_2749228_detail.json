@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "Lecture 1부터 7까지가 범위였습니다. 다만 7장은 실제로 나오진 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.8,
+        "count": 20,
+        "items": [
+          {
+            "value": 5,
+            "count": 7
+          },
+          {
+            "value": 4,
+            "count": 8
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 20,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 20,
+          "items": [
+            {
+              "text": "없음",
+              "count": 19
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 20,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 10
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 20,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 14
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 1
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 20,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 19
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "중간 기말 합치면 딱 평균이었는데 에이쁠 받은것 보니까 50프로 에이쁠 주시는것 같습니다. 강의1초도 안들어서 목소리도 모르지만 정말 감사합니다 교수님.",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "얻을 수 있는 게 없다\n대체 누가 이 교수님을 임용한건지?",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

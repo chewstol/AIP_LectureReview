@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781118165096",
+        "bookTitle": "Advanced Engineering Mathematics : Abridged International Sutdent Edition",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "Wiley",
+        "bookPrice": 45000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/1872cb226ed0bcb800990553b7804cd6b9b6be353e0250918d56779824e5c2f3/1630825601925_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "이번 학기는 소문항 a가 공식유도 b,c가 그 공식을 이용해서 푸는 문제",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.32,
+        "count": 62,
+        "items": [
+          {
+            "value": 5,
+            "count": 29
+          },
+          {
+            "value": 4,
+            "count": 26
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 62,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "많음",
+              "count": 35
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 62,
+          "items": [
+            {
+              "text": "없음",
+              "count": 56
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 62,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 41
+            },
+            {
+              "text": "깐깐함",
+              "count": 14
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 62,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 43
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 18
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 62,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 62
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "일단 무엇보다 교수님이 너무 좋으십니다. 학업적인 것 외에도 배울 점이 많으신 분이고 , 종종 좋은 얘기도 많이 해주시며 학생들을 진심으로 아끼고 생각해주시는 게 느껴져서 한 학기 내내 감사했습니다. \n과제는 매주",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "A받기 쉽지 않아요. 전체 10등안에 들면 에이제로는 줍니다.",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

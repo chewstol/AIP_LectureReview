@@ -1,0 +1,267 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "시험 구냥 피피티에 있는 것들 싹 다 외우고 약간 응용문제도 나왔었습니다",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 15,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 14
+            },
+            {
+              "text": "주관식",
+              "count": 14
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.67,
+        "count": 87,
+        "items": [
+          {
+            "value": 5,
+            "count": 67
+          },
+          {
+            "value": 4,
+            "count": 13
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 87,
+          "items": [
+            {
+              "text": "없음",
+              "count": 42
+            },
+            {
+              "text": "보통",
+              "count": 43
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 87,
+          "items": [
+            {
+              "text": "없음",
+              "count": 37
+            },
+            {
+              "text": "보통",
+              "count": 50
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 87,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 45
+            },
+            {
+              "text": "깐깐함",
+              "count": 10
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 87,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 86
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 0
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 87,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 80
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 6
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "이번 학기에 들었던 수업 중 가장 재밌게 들은 수업이었습니다.\n내용이 깊지 않고 생물학 전반에서 많이 사용되는 미생물학적인 개념 설명과 실험 기법 (ARISA, Wetern blot, NGS)의 원리를 배울 수 있습",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "교수님 착해서 2점 드립니다\n듣지마세요 학점 엄청 짜요\n배운것도 딱히...실험적인거 가르쳐주시는데 정작 미생물에\n대해서 뭘 배웠는지는 모르겠어요. 교수님 말은 또 엄청 빠르\n셔서 녹음도 필수고. 열심히 해도 어짜피",
+          "rate": 2,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

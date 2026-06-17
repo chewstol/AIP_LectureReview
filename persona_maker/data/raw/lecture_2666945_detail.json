@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "교안에 퀴즈 있는데 이거 그대로 나온 문제 많았음\n그리고 시험 직전 강의",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 13
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 7
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.39,
+        "count": 75,
+        "items": [
+          {
+            "value": 5,
+            "count": 47
+          },
+          {
+            "value": 4,
+            "count": 15
+          },
+          {
+            "value": 3,
+            "count": 10
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 46
+            },
+            {
+              "text": "많음",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 49
+            },
+            {
+              "text": "많음",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 75,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 41
+            },
+            {
+              "text": "보통",
+              "count": 29
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 75,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 67
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 1
+            },
+            {
+              "text": "복합적",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 75,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 64
+            },
+            {
+              "text": "두 번",
+              "count": 11
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "저는 철학에 대한 지식이 많이 없어서 참여는 잘 못했지만 교수님과 다른 학우분들이 하시는 토론이 정말 흥미로웠습니다. 그리고 평가는 출석, 토론, 중간고사, 기말 보고서로 하는데 꼼꼼히 챙기시고 수업에 적극적으로 참",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "너무너무 힘들었어요... 수업은 지루하고 교안은 영어라 한 번 놓치면 진도 따라가기 힘들어요 시험도 만만치 않고 이것저것 과제와 조모임도 자주 있어서 챙겨야 할 게 정말 많습니다 철학 꽤 관심 있는 편이었는데도 버겁",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

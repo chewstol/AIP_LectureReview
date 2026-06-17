@@ -1,0 +1,306 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780130578099",
+        "bookTitle": "Engineering Mechanics : Dynamics",
+        "bookAuthor": "Hibbeler Russell C",
+        "bookPublisher": "Prentice-Hall",
+        "bookPrice": 36000,
+        "price": 24000,
+        "coverImage": "https://cf-cii.everytime.kr/2e08769ff1df9a84d865d08dc14719ac7a66a45d844def3139eb536391e6ee4e/1644422005159_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292088723",
+        "bookTitle": "Engingeering Mechanics: Dynamics",
+        "bookAuthor": "Russell C. Hibbeler",
+        "bookPublisher": "Pearson Education",
+        "bookPrice": 48000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/a986b5122cfca35f2c218093d27aa73388d96701e7731df45929b8e1684011f3/1654789335007_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292089232",
+        "bookTitle": "Engingeering Mechanics: Statics",
+        "bookAuthor": "Russell C. Hibbeler",
+        "bookPublisher": "Pearson Education, Limited",
+        "bookPrice": 47000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/0757c7e588ba4aab5c3cc15b1521a6fbac1f2246706906cdefb86e4564188438/1583124300425_0.jpg"
+      },
+      {
+        "bookIsbn": "9780470237892",
+        "bookTitle": "Dynamics",
+        "bookAuthor": "Benson H Tongue",
+        "bookPublisher": "Wiley",
+        "bookPrice": 48000,
+        "price": 1000,
+        "coverImage": "https://cf-cii.everytime.kr/a9d6de8a2a821089fd339e1dcf65d1205f578ceab213cddce6c9a8b6b2db47e0/1733320387786_0.jpg"
+      },
+      {
+        "bookIsbn": "9780470553046",
+        "bookTitle": "Dynamics: Engineering Mechanics",
+        "bookAuthor": "Benson H Tongue",
+        "bookPublisher": "Wiley",
+        "bookPrice": 48000,
+        "price": 22000,
+        "coverImage": "https://cf-cii.everytime.kr/dc4a37f63915bd693e873f8503bbf0df97deb8c215ba197cb3e4cdd3d1a46673/1614048319880_0.jpg"
+      },
+      {
+        "bookIsbn": "9789810692612",
+        "bookTitle": "Mechanics for Engineers Dynamics Si Edition 13e",
+        "bookAuthor": "Russell C Hibbeler",
+        "bookPublisher": "Pearson Prentice Hall",
+        "bookPrice": 105490,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/a3323ae453ba06cdfcd123bac8e9927efad7282d33a25344c2a32b0b2b7591cf/1670910183508_0.jpg"
+      },
+      {
+        "bookIsbn": "9791195444915",
+        "bookTitle": "동역학",
+        "bookAuthor": "R. C. Hibbeler, Kai Beng Yap",
+        "bookPublisher": "프로텍미디어",
+        "bookPrice": 36000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/9a80013819dcf9a3acaf0952d232947cee7d0bba83716b5e64b440a3fbff7304/1756703982820_0.jpg"
+      },
+      {
+        "bookIsbn": "9788994464626",
+        "bookTitle": "동역학",
+        "bookAuthor": "Tongue",
+        "bookPublisher": "교보문고",
+        "bookPrice": 36000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/305dddde283fa54d0cb666af96cea0c7a50bf9444831966ea255b8a167da0685/1600251235240_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "본교재에서 3,4문제 나왔음\n족보만 믿고 시험보면 망함 하나도 안나옴(이",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.54,
+        "count": 190,
+        "items": [
+          {
+            "value": 5,
+            "count": 127
+          },
+          {
+            "value": 4,
+            "count": 45
+          },
+          {
+            "value": 3,
+            "count": 14
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 190,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 168
+            },
+            {
+              "text": "많음",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 190,
+          "items": [
+            {
+              "text": "없음",
+              "count": 154
+            },
+            {
+              "text": "보통",
+              "count": 36
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 190,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 122
+            },
+            {
+              "text": "보통",
+              "count": 60
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 190,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 9
+            },
+            {
+              "text": "전자출결",
+              "count": 20
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 157
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 190,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 188
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "2학년들 잘 들어요. 지금 2학년들 어려요. 나도 어려요. 근데  2학년들 저보다 엄청나게 어려요. \n우리 2학년들 지금 듣고있는 수업이 엄청 어려울 수 있다는거 알고, 수많은 친구들 중에도 분면히 여러가지 위험한",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "본격 자습장려하는 교수\n수업 30분만에 끝남\n혼자 공부 할 거 아니면 듣지마세요",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

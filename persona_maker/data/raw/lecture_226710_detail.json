@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781119249252",
+        "bookTitle": "Fundamentals of Materials Science and Engineering",
+        "bookAuthor": "William D. Callister, David G. Rethwisch",
+        "bookPublisher": "John Wiley & Sons Inc",
+        "bookPrice": 60000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/276c2586e3b41a1dfe64e8ead01045efa639d2463805ad86a47f6943934e5aaf/1726026661548_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964210161",
+        "bookTitle": "재료과학(THIRD EDITION)",
+        "bookAuthor": "WILLIAM D CALLISTER JR",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 35000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/817e552faf6b2e7a3cf48609beedc35120324210a300f430f866168b87d8e872/1744477941506_0.jpg"
+      },
+      {
+        "bookIsbn": "9781118322697",
+        "bookTitle": "fundamentals of materials science and engineering si version",
+        "bookAuthor": "callister/rethwisch",
+        "bookPublisher": ".",
+        "bookPrice": 47000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/ef5d2ff0e74eedc6d04a72878101e40f630a08dcec2bb66776e78e2528fd41f5/1674980069789_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "족보 문제와 굉장히 유사합니다.\n2017년 족보 문제랑 몇 개 없는 문제",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.86,
+        "count": 83,
+        "items": [
+          {
+            "value": 5,
+            "count": 74
+          },
+          {
+            "value": 4,
+            "count": 8
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 44
+            },
+            {
+              "text": "보통",
+              "count": 39
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 80
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 83,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 47
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 83,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 44
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 36
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 79
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "교수님이 일주일에 영상 한개 올려주십니다. 수업자료도 같이 주시는대, 수업자료가 공부하기가 좋고, 교수님이 수업자료 위주로 설명을 하셔서 이것만 보셔도 시험준비는 어렵지않습니다. 대신, 과제를 공식 유도와 증명을 내",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "출튀 안잡으셔서 좋아요 그냥 시험 2번으로  학점이 결정 됩니다",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

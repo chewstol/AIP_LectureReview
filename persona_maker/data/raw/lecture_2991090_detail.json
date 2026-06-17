@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "객관식 18 서술형 2\n- 요구사항 관련 내용 많았음.\n- 액터나 다이어",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 5,
+        "count": 15,
+        "items": [
+          {
+            "value": 5,
+            "count": 15
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 15,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 15,
+          "items": [
+            {
+              "text": "없음",
+              "count": 15
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 15,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 15
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 15,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 14
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 0
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 15,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 14
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "무난무난하기 편하게 듣기 좋은 수업입니다.\n막학기이신 분들 듣기 좋을 거 같네요",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "부담없이 들을 수 있는 수업인 것 같습니다 내용이 생소하지만 그래도 중간고사 어렵지 않고 과제도 라이트하고 아마 성적도 잘 주신다고 들었는데 나와봐야 그건 알 것 같네요 그래도 학기중에 고통스러운 수업은 아닙니당",
+          "rate": 5,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

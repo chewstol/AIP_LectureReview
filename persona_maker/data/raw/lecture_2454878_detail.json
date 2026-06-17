@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 4.77,
+        "count": 13,
+        "items": [
+          {
+            "value": 5,
+            "count": 11
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 13,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 13,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 13,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 13,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 1
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 12
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 13,
+          "items": [
+            {
+              "text": "없음",
+              "count": 12
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 1
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "조교님이 굉장히 친절하시고 질문도 잘 받아주십니다.\n단점은 실험이 오래걸려요\n시험은 없고 대신 발표가 있습니다.",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "생명과학에 관심이 있으신분들이 들으면 좋을 것 같아요\n다만 실험 8번에 실험이 너무 오래 걸려요 \n1학점 수업인데 예비, 결과 레포트 8번에 마지막 발표까지 한학기가 너무 힘들었네요\n생명과학에 관심 없다면 굳이 들을",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

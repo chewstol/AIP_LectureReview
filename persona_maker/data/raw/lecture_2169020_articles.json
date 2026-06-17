@@ -1,0 +1,31 @@
+{
+  "status": "success",
+  "result": {
+    "articles": [
+      {
+        "id": 4926876,
+        "year": 2022,
+        "semester": "2",
+        "text": "힉잠 채우는데 이만한 꿀강 없습니당 바쁘신 분들이나 고학번 분들 추천드려요",
+        "rate": 5,
+        "posvote": 0
+      },
+      {
+        "id": 4299903,
+        "year": 2022,
+        "semester": "1",
+        "text": "2학점 채우는데 이만한 꿀강 또 없습니다 ~~ !",
+        "rate": 5,
+        "posvote": 0
+      },
+      {
+        "id": 3931497,
+        "year": 2021,
+        "semester": "2",
+        "text": "무난히 학점 pf로 채우기 쉬워요\n하지 않았다면 추천",
+        "rate": 5,
+        "posvote": 0
+      }
+    ]
+  }
+}

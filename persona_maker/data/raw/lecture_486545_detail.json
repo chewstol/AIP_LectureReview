@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "시험 직전 수업시간(직전보강) 때 빈칸 뚫려있는 프린트지 나눠주시고 채우",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.37,
+        "count": 38,
+        "items": [
+          {
+            "value": 5,
+            "count": 21
+          },
+          {
+            "value": 4,
+            "count": 12
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 38,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "많음",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 38,
+          "items": [
+            {
+              "text": "없음",
+              "count": 29
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 38,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 38,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 11
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 26
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 38,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 7
+            },
+            {
+              "text": "두 번",
+              "count": 29
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "정말 성적은 자기 하는 만큼 나와요. 갓안드레이.. 시험 외에도 수업 때 정말 열정적으로 잘 가르쳐주시고 학생들 하나하나 신경써주시는 것 같은게 보여서 좋았음.",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "처음 러시아어를 배우는 사람으로서 진도가 너무 빨라 힘들었습니다. 또 중간고사 때도 진도를 나가지 않은 부분에서 보너스 문제로 몇 문제 출제하시는데 솔직히 외고 학생에게 유리하지 않을까라는 생각이 드네요. 지각과 결",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

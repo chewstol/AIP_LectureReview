@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155501740",
+        "bookTitle": "창의적 사고 소통의 글쓰기",
+        "bookAuthor": "김경훤, 김미란, 김성수",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/28f6c3d044998d041e445edfc001d20423e9efe20bc7c6cad9e660ad7eb897c7/1778505543192_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님께서 올려주시는 피피티를 보시고, 특히 강조하시는 부분들을 꼭 적어",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 10
+            },
+            {
+              "text": "주관식",
+              "count": 17
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 7
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.1,
+        "count": 103,
+        "items": [
+          {
+            "value": 5,
+            "count": 45
+          },
+          {
+            "value": 4,
+            "count": 34
+          },
+          {
+            "value": 3,
+            "count": 16
+          },
+          {
+            "value": 2,
+            "count": 5
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 103,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 49
+            },
+            {
+              "text": "많음",
+              "count": 52
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 103,
+          "items": [
+            {
+              "text": "없음",
+              "count": 101
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 103,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 36
+            },
+            {
+              "text": "보통",
+              "count": 59
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 103,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 5
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 95
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 103,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 90
+            },
+            {
+              "text": "두 번",
+              "count": 9
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "장지영 교수님은 신이에요...\n교수님 너무 젠틀하시고 학생들 편의 되게 많이 봐주십니다 ㅠㅅㅠ 학기 중 한 번은 사유 상관없이 결석해도 감점 안 해주시고, 마지막 과제 3일 지각제출했는데도 A+ 주셨어요... 🥹\n피",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "듣고 싶으면 듣는데 ㄹㅇ 추천안함 나 이거에 시간 투자 개많이 했는데 비쁠....ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ피해......이 교수님 진짜 아니야...",
+          "rate": 1,
+          "posvote": 8
+        }
+      ]
+    }
+  }
+}

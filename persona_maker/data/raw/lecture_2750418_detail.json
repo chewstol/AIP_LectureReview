@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155501740",
+        "bookTitle": "창의적 사고 소통의 글쓰기",
+        "bookAuthor": "김경훤, 김미란, 김성수",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/28f6c3d044998d041e445edfc001d20423e9efe20bc7c6cad9e660ad7eb897c7/1778505543192_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "언매랑 비슷합니다. 헷갈리는 용법/띄어쓰기/표현 적절히 바꾸기 이정도였는",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 7
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.53,
+        "count": 58,
+        "items": [
+          {
+            "value": 5,
+            "count": 37
+          },
+          {
+            "value": 4,
+            "count": 15
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 58,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 47
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 58,
+          "items": [
+            {
+              "text": "없음",
+              "count": 36
+            },
+            {
+              "text": "보통",
+              "count": 22
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 58,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 15
+            },
+            {
+              "text": "보통",
+              "count": 33
+            },
+            {
+              "text": "깐깐함",
+              "count": 10
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 58,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 54
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 1
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 58,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 53
+            },
+            {
+              "text": "두 번",
+              "count": 5
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "글쓰기 과제 4번 있습니다. 하나하나 할 때마다 꼼꼼히 검토하시고 숙고하시는 걸 추천드립니다.  제출한 과제 4개 중 2개가 문법오류 등 어색한 부분을 지적당했습니다. 그것 때문에 +는 못 받은 것 같네요. 그래도",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "점수가 엄청 촘촘하게 나뉘어서 학점 따기에 좋은 수업은 아닌 것 같아요",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "아래와 동일합니다. 교안 잘 읽고 이해 해놓은 상태로 응시하시면 됩니다.",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 4
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.9,
+        "count": 145,
+        "items": [
+          {
+            "value": 5,
+            "count": 45
+          },
+          {
+            "value": 4,
+            "count": 54
+          },
+          {
+            "value": 3,
+            "count": 35
+          },
+          {
+            "value": 2,
+            "count": 9
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 145,
+          "items": [
+            {
+              "text": "없음",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 114
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 145,
+          "items": [
+            {
+              "text": "없음",
+              "count": 134
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 145,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 34
+            },
+            {
+              "text": "보통",
+              "count": 95
+            },
+            {
+              "text": "깐깐함",
+              "count": 16
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 145,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 16
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 124
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 145,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 145
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "*코로나로 인하여 온라인 강의로 진행되었습니다.\n\n[과제]\n이번 학기의 경우 애덤스미스의 '도덕감정론'을 읽고 A4 3장정도의 서평을 작성하는 것이 과제였습니다.\n만약 이 강의를 수강하실 예정이라면, 해당 학기의 강",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "경제학과 학점 괴수들 많이 듣는 교양과목. 학점 발리기 딱 좋다. 내용도 재미없고 여러모로 흥미롭지 않았던 수업.",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

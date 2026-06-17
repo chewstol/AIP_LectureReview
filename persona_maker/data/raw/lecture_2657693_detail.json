@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "중간 기말 시험 둘다 없었어요. 둘다 질문에 관해 에세이를 쓰는 내용이었",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.16,
+        "count": 37,
+        "items": [
+          {
+            "value": 5,
+            "count": 19
+          },
+          {
+            "value": 4,
+            "count": 10
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 37,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 16
+            },
+            {
+              "text": "많음",
+              "count": 20
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 37,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "많음",
+              "count": 23
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 37,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 18
+            },
+            {
+              "text": "보통",
+              "count": 16
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 37,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 32
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 37,
+          "items": [
+            {
+              "text": "없음",
+              "count": 31
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 4
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "율전사람인데 고명북 가는 시간이 좋았습니다ㅎㅎ 물론 당연히 귀찮긴 했지만 그만큼 수업이 재밌었어요 교수님이 수업을 정말 열정적으로 하셨고 학생들이랑 계속 교류하려고 하시는 모습도 좋았습니다 유독 우리반이 적극적인 학",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "C2발럼 이의를 제기해도 뭔 논리인지도 모르겠는데 절대 자기 주장 안굽힘 절대적임 그냥 앞자리 앉아서 고개 끄덕이고 호응 잘해주기만 해야됨 학생들이랑 교류한답시고 하는 말들 있는데 하나도 재미없고 자기 우월한 맛에",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

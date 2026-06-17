@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "계산기 불가인데 지수, 로그 계산하라는 문제가 나옴\n나머지는 치팅시트를 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.75,
+        "count": 4,
+        "items": [
+          {
+            "value": 5,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 4,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 4,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 4,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 4,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 4
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 0
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 4,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 2
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "시스템이 잘 안잡혀 계시긴 하지만, 교수님의 강의는 생성형 ai에 대한 기반을 쌓는데 상당히 도움되었습니다",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "수업 자료나 강의력에 특장점이 있는 것도 아닌데\n중간 강평 이후로 수업에서 중간 강평 내용을 가지고 학생을 돌리는 등 학생과의 기싸움을 즐기시는 편입니다.\n\nAI 모르는 상태로 듣는다면 당연히 배우는 건 있겠지만\n마",
+          "rate": 1,
+          "posvote": 7
+        }
+      ]
+    }
+  }
+}

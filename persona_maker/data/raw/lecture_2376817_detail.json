@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781260571233",
+        "bookTitle": "ISE Strategic Management: Concepts",
+        "bookAuthor": "없음",
+        "bookPublisher": "없음",
+        "bookPrice": 141050,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/58bc4885926e4acc31dc68373a56210c04b5e53cc522871d4c9217ecdd8fd5ba/1661941035596_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "세세한 부분보단 사례에 개념을 적용시킬수있도록 준비하는게 좋은것같아요",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 7
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.45,
+        "count": 83,
+        "items": [
+          {
+            "value": 5,
+            "count": 47
+          },
+          {
+            "value": 4,
+            "count": 28
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 18
+            },
+            {
+              "text": "보통",
+              "count": 62
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 71
+            },
+            {
+              "text": "많음",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 83,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 18
+            },
+            {
+              "text": "보통",
+              "count": 56
+            },
+            {
+              "text": "깐깐함",
+              "count": 9
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 83,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 24
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 33
+            },
+            {
+              "text": "복합적",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 82
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "쁠은 근소한 차이로 못 달았는데 이만한 명강의를 하는 교수는 없을듯 함. 꼼꼼함의 극치 준형배.. 무심하고 시니컬한듯 하지만 답장은 정말 빠른 준형배.. 듣다보면 빠져든다.",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "이번학기부터는 케이스 하나를 골라서 발표 하는게 아니라 모든 케이스를 읽고 토의하는 구성으로 바뀌었는데 너무너무 스트레스 받는다..조별로 의견 발표한 개수를 카운트하시는데 영어 못하면 너무 힘듦\n시험은 문제은행이랑",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

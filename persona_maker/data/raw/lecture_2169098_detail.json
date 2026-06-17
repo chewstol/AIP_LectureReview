@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "总共6次发表\n作业发表三次（上课学的内容为基础，教授会给主题）\n정의하고 예시하",
+      "questionTypes": [
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.47,
+        "count": 15,
+        "items": [
+          {
+            "value": 5,
+            "count": 7
+          },
+          {
+            "value": 4,
+            "count": 8
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 15,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 15,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 13
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 15,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 15,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 1
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 13
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 15,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 7
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "真的很好的老师，性格很有趣，有什么都会给你解答",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "발표잘해는데 A+못받았어여…조선족학생한테 좀 깐깐한거같습니다",
+          "rate": 4,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

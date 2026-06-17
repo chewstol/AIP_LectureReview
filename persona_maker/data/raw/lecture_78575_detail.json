@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788970853024",
+        "bookTitle": "분리공정원리",
+        "bookAuthor": "Seader",
+        "bookPublisher": "교보문고",
+        "bookPrice": 32000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/4023a7a314fba03f4e9bf765629453b7ebed1791a2281719cae38944cbfda0b4/1772949134620_0.jpg"
+      },
+      {
+        "bookIsbn": "9781119702610",
+        "bookTitle": "Separation Process Principles",
+        "bookAuthor": "J. D. Seader, Ernest J. Henley, D. Keith Roper",
+        "bookPublisher": "Wiley Publishing",
+        "bookPrice": 48000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/56b232abb493c2c65bb80b817cf8ab8643097c041ac6ca2b53f2453be3a7ee62/1773202342353_0.jpg"
+      },
+      {
+        "bookIsbn": "9780470481837",
+        "bookTitle": "Separation Process Principles",
+        "bookAuthor": "Seader J D/Henley Ernest J/Roper D Keith",
+        "bookPublisher": "John Wiley & Sons Inc",
+        "bookPrice": 48000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/342816694977bde60372b3b8c255fda979d9c89f17de4feeecc13ed572329e5f/1661257852106_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "기본적으로 교수님 수업은 다듣고 어느정도 책을 봐야 한다\n책에있는 문제가",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.81,
+        "count": 81,
+        "items": [
+          {
+            "value": 5,
+            "count": 68
+          },
+          {
+            "value": 4,
+            "count": 11
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 81,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 58
+            },
+            {
+              "text": "많음",
+              "count": 19
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 81,
+          "items": [
+            {
+              "text": "없음",
+              "count": 75
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 81,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 57
+            },
+            {
+              "text": "보통",
+              "count": 24
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 81,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 41
+            },
+            {
+              "text": "전자출결",
+              "count": 27
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 12
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 81,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 9
+            },
+            {
+              "text": "두 번",
+              "count": 72
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "아래에 22년 1학기 수강자 중에서 열역학1범위가 보통 퓨개시티~~ 하면서 열물달 열역학 안 들었으면 머리속에 남는거 없다고 강평 작성하신분 3월달에 강평작성하시고 뇌피셜로 적어두시면 안되죠.... 무슨 강평을 수업",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "우선 분공은 화공의 꽃을 너머 꽃봉오리다. 그렇지만 본인이 학점이 4점대 이상이다 아니면 듣지마라. 좋은수업 중요한수업임은 분명하나 저성적도안되면 정유석화 서탈가능성이있기때문에 면접조차가기힘들수있기때문에 화공이라도",
+          "rate": 3,
+          "posvote": 7
+        }
+      ]
+    }
+  }
+}

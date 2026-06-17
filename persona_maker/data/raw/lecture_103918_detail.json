@@ -1,0 +1,347 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781260598094",
+        "bookTitle": "Principles and Applications of Electrical Engineering",
+        "bookAuthor": "Giorgio Rizzoni, James Kearns",
+        "bookPublisher": "McGraw-Hill Education",
+        "bookPrice": 49500,
+        "price": 35000,
+        "coverImage": "https://cf-cii.everytime.kr/c859c68ccd6bf1a3c5828756d32db99fdd60b8eefa6056017d61c0ae7588e281/1725863056041_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132110903",
+        "bookTitle": "전기전자공학개론",
+        "bookAuthor": "Giorgio Rizzoni, James Kearns",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 39000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/9d50046838808cbb0a9ad29cdc36154bc710a95adffe8edf606468f599e4980d/1770293049286_0.jpg"
+      },
+      {
+        "bookIsbn": "9789814577410",
+        "bookTitle": "Principles and Applications of Electrical Engineering",
+        "bookAuthor": "Rizzoni, James Kearns",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/a5259062f690f5c11a6787fa844def7216d9f32fd02deb7d886ed2aa11a0809a/1654915140394_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960550100",
+        "bookTitle": "전기전자공학개론(5판)",
+        "bookAuthor": "Rizzoni",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 36000,
+        "price": 23000,
+        "coverImage": "https://cf-cii.everytime.kr/544617f8f506097b3717a24d2b7db07108ce7eef5dfc9e5470ce64a1616bf3bf/1535285978896_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132100898",
+        "bookTitle": "전기전자공학개론",
+        "bookAuthor": "Rizzoni, James Kearns",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 39000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/70bce9837d214f4e5fff0295e89f41f45079e53835a4b90ca56e223d095e98eb/1686997786070_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "대부분의 문제가 기출에서 이미 나온 유형을 벗어나지 않음\n11~13년도 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.11,
+        "count": 188,
+        "items": [
+          {
+            "value": 5,
+            "count": 87
+          },
+          {
+            "value": 4,
+            "count": 61
+          },
+          {
+            "value": 3,
+            "count": 22
+          },
+          {
+            "value": 2,
+            "count": 9
+          },
+          {
+            "value": 1,
+            "count": 9
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 188,
+          "items": [
+            {
+              "text": "없음",
+              "count": 31
+            },
+            {
+              "text": "보통",
+              "count": 33
+            },
+            {
+              "text": "많음",
+              "count": 124
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 188,
+          "items": [
+            {
+              "text": "없음",
+              "count": 165
+            },
+            {
+              "text": "보통",
+              "count": 21
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 188,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 96
+            },
+            {
+              "text": "보통",
+              "count": 85
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 188,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 55
+            },
+            {
+              "text": "전자출결",
+              "count": 89
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 39
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 188,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 9
+            },
+            {
+              "text": "두 번",
+              "count": 144
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 35
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2014,
+          "semester": "2",
+          "text": "이과목듣고 전전 뽕맞고 복수전공 신청했다가... 아직도 졸업도 못하고 취업도 못하고 있어요.\n전전 관련과목은 이걸로 충분하니깐 복전은 신중하게...",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "1. 자꾸 가르쳐주지 않은 내용들을 과제로 낸다. 특히 매트랩과 디지털 부분. \"안 알려준걸\" \"매주\" 과제로 하란다. 구글링해도 찾기 매우 어려운 내용들을 알려주지도 않고 해야 해서 매주 속이 뒤집어질 것 같다.",
+          "rate": 1,
+          "posvote": 16
+        }
+      ]
+    }
+  }
+}

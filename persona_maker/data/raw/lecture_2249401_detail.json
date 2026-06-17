@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "발표로 진행이 됩니다 주제 선정은 교수님과 논의하면 되어요",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.33,
+        "count": 3,
+        "items": [
+          {
+            "value": 5,
+            "count": 2
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 3,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 3,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 3,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 3,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 1
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 2
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 3,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "등록 되어있는 강의평가가 없어서 작성합니다. 수업은 총 세 번의 서울 답사와 중간-기말발표를 중심으로 구성되어 있습니다. 일상에서 간과하고 지나치는 길 위의 요소들을 도시 설계가의 관점에서 새로이 보는 방법을 익힙니",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "이번 1학기에는 프로젝트를 진행합니다. \n너무 빡세요...",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

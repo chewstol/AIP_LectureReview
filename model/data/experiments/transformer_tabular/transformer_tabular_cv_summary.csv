@@ -1,0 +1,10 @@
+﻿embedding,feature_set,model,params,folds,mse_mean,mse_std,rmse_mean,rmse_std,mae_mean,mae_std
+skt/kobert-base-v1,structured10+embedding_pca32,Ridge,alpha=10.0,5,0.00693281,0.00140074,0.08283711,0.00841587,0.06098941,0.00492672
+skt/kobert-base-v1,structured10+embedding_pca16,Ridge,alpha=1.0,5,0.00697494,0.00153977,0.08301765,0.00911092,0.06128992,0.00490035
+skt/kobert-base-v1,structured10+embedding_pca64,Ridge,alpha=100.0,5,0.00700841,0.00118631,0.08341071,0.00714613,0.06132963,0.00337229
+skt/kobert-base-v1,structured10+embedding_pca16,XGBoost,colsample_bytree=0.8;learning_rate=0.05;max_depth=3;min_child_weight=8;n_estimators=200;reg_lambda=1.0;subsample=0.8,5,0.00708222,0.00182818,0.08349457,0.01052972,0.06062879,0.00585225
+skt/kobert-base-v1,structured10+embedding_pca16,LightGBM,colsample_bytree=0.8;learning_rate=0.03;max_depth=3;min_child_samples=10;n_estimators=200;num_leaves=15;reg_lambda=1.0;subsample=0.8,5,0.00726182,0.00203126,0.08442202,0.0116079,0.06194937,0.00609633
+skt/kobert-base-v1,structured10+embedding_pca64,XGBoost,colsample_bytree=0.8;learning_rate=0.03;max_depth=2;min_child_weight=8;n_estimators=500;reg_lambda=1.0;subsample=0.8,5,0.00726524,0.00175941,0.08462792,0.01016645,0.06160133,0.00548519
+skt/kobert-base-v1,structured10+embedding_pca32,XGBoost,colsample_bytree=0.8;learning_rate=0.03;max_depth=3;min_child_weight=3;n_estimators=200;reg_lambda=1.0;subsample=0.8,5,0.00732124,0.00187422,0.08488161,0.01078686,0.06224203,0.00640081
+skt/kobert-base-v1,structured10+embedding_pca64,LightGBM,colsample_bytree=0.8;learning_rate=0.03;max_depth=5;min_child_samples=10;n_estimators=500;num_leaves=7;reg_lambda=10.0;subsample=0.8,5,0.00752914,0.00176728,0.08619242,0.01000052,0.06269989,0.00559128
+skt/kobert-base-v1,structured10+embedding_pca32,LightGBM,colsample_bytree=0.8;learning_rate=0.03;max_depth=3;min_child_samples=10;n_estimators=200;num_leaves=15;reg_lambda=1.0;subsample=0.8,5,0.00752959,0.00193442,0.08608035,0.01094379,0.06297895,0.00604363

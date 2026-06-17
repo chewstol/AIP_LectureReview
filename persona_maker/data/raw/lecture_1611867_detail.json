@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "시험은 따로 없고 마지막 주행으로 결정됨 \n아무리 연습때 잘해도 마지막 ",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.79,
+        "count": 28,
+        "items": [
+          {
+            "value": 5,
+            "count": 6
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 4
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 10
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 28,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 14
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 28,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 12
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 28,
+          "items": [
+            {
+              "text": "없음",
+              "count": 23
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 1
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "아두이노만을 이용해 자율주행하던 이전학기와는 달리, ESP32보드를 이용한다.\n또한 메이키스트 사에서 주행 키트 자체를 지원해주기 때문에, 학생들이 고려해야 할 부분이 단 2가지로 줄게 되었다.\n\n1. 과제와 수업방",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "교수=헤븐 담당 교수\n조교=헤븐 출신 조교\n조교와 헤븐 학생들이  기말프로젝트 준비할때 반말하고 밥도 같이먹고 서로 도와주는거 같음\n그냥 듣지마세요",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

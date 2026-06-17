@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791190017107",
+        "bookTitle": "이산수학",
+        "bookAuthor": "Richard Johnsonbaugh",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 35000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/6de2b61820f552ec8277f25e997c74274705677e7b39f8baaea652a82438a413/1661705994264_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292233703",
+        "bookTitle": "Discrete Mathematics, Global Edition",
+        "bookAuthor": "Johnsonbaugh Richard",
+        "bookPublisher": "Pearson Education",
+        "bookPrice": 59000,
+        "price": 19000,
+        "coverImage": "https://cf-cii.everytime.kr/3c7b52aade655449e10eecbfba4fcd70c041451033a24da0e1adef81a0f34074/1660373162892_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "총 12문제가 나옵니다\n매년 같을지는 모르겠습니다만..\n1) 난이도: 쉽",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 29,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 16
+            },
+            {
+              "text": "주관식",
+              "count": 23
+            },
+            {
+              "text": "T/F형",
+              "count": 16
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 18
+            },
+            {
+              "text": "T/F형",
+              "count": 10
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.59,
+        "count": 222,
+        "items": [
+          {
+            "value": 5,
+            "count": 159
+          },
+          {
+            "value": 4,
+            "count": 43
+          },
+          {
+            "value": 3,
+            "count": 15
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 222,
+          "items": [
+            {
+              "text": "없음",
+              "count": 105
+            },
+            {
+              "text": "보통",
+              "count": 99
+            },
+            {
+              "text": "많음",
+              "count": 18
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 222,
+          "items": [
+            {
+              "text": "없음",
+              "count": 216
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 222,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 38
+            },
+            {
+              "text": "보통",
+              "count": 154
+            },
+            {
+              "text": "깐깐함",
+              "count": 30
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 222,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 24
+            },
+            {
+              "text": "전자출결",
+              "count": 167
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 23
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 222,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 218
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "이상적인 외국인 교수님이 아닐까 항상 생각되는 수업. 굉장히 수업이 깔끔하고 스무스하게 흘러가서 브슴중에서는 국제어임에도 불구하고 체감상 가장 쉽게 공부했던 것 같음. 시험은 거의 웹워크로 나가는 문제들만 여러번 복",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "시험이 너무 족보대로만 나옵니다. 수업을 안 들어도 됌....... 왜 존재하는 지 모르겠는 수업.",
+          "rate": 1,
+          "posvote": 6
+        }
+      ]
+    }
+  }
+}

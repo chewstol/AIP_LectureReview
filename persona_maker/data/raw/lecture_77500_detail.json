@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "- 온라인 (오픈북)\n- 객관식과 주관식 단답형 혼합 = 30문제\n- 오",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 7
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.27,
+        "count": 78,
+        "items": [
+          {
+            "value": 5,
+            "count": 44
+          },
+          {
+            "value": 4,
+            "count": 21
+          },
+          {
+            "value": 3,
+            "count": 8
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 5
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 78,
+          "items": [
+            {
+              "text": "없음",
+              "count": 19
+            },
+            {
+              "text": "보통",
+              "count": 58
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 78,
+          "items": [
+            {
+              "text": "없음",
+              "count": 73
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 78,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 27
+            },
+            {
+              "text": "보통",
+              "count": 42
+            },
+            {
+              "text": "깐깐함",
+              "count": 9
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 78,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 19
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 45
+            },
+            {
+              "text": "복합적",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 78,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 9
+            },
+            {
+              "text": "두 번",
+              "count": 63
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "정말 좋은 수업이었습니다. 강의 내용에서 호불호가 많이 갈립니다. 수업 전반으로 아동에 대해 많이 다루기에 저는 제 과거에 대해서 생각할 수 있었고 미래의 육아에 적용해보겠다는 생각으로 흥미롭게 들었습니다. 교수님도",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "教授虽然很慈祥（笑面虎类型...），但是上课内容真的就是照着ppt念，能学到的东西基本上没什么。考试范围也很模糊，要背的东西超级多！给分也一般，不太推荐外国人选这门课",
+          "rate": 1,
+          "posvote": 14
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+﻿feature_set,model,params,folds,mse_mean,mse_std,rmse_mean,rmse_std,mae_mean,mae_std
+structured10+kobert_pca32,Ridge,alpha=10.0,5,0.00693281,0.00140074,0.08283711,0.00841587,0.06098941,0.00492672
+structured10+kobert_pca32,XGBoost,colsample_bytree=0.8;learning_rate=0.03;max_depth=2;min_child_weight=8;n_estimators=500;reg_lambda=1.0;subsample=0.8,5,0.0073294,0.00182209,0.08496855,0.01047585,0.06230571,0.00650234
+structured10+kobert_pca32,Extra Trees,max_depth=None;max_features=1.0;min_samples_leaf=3,5,0.00745105,0.00203372,0.08556423,0.01139346,0.06232939,0.00629627
+structured10+kobert_pca32,Gradient Boosting,learning_rate=0.05;loss=squared_error;max_depth=2;n_estimators=300,5,0.007483,0.00190807,0.085815,0.01089904,0.0629668,0.00671132
+structured10+kobert_pca32,Histogram Gradient Boosting,l2_regularization=1.0;learning_rate=0.05;max_iter=100;max_leaf_nodes=7,5,0.00749764,0.00200844,0.08583875,0.01137338,0.06250441,0.00686791
+structured10+kobert_pca32,LightGBM,colsample_bytree=0.8;learning_rate=0.03;max_depth=3;min_child_samples=10;n_estimators=200;num_leaves=15;reg_lambda=1.0;subsample=0.8,5,0.00757191,0.00195203,0.08631776,0.01100693,0.06299932,0.00618355
+structured10+kobert_pca32,Kernel Ridge-RBF,alpha=0.01;gamma=0.0001,5,0.00763986,0.00143208,0.08700208,0.00839649,0.06419388,0.00545768
+structured10+kobert_pca32,Random Forest,max_depth=None;max_features=0.7;min_samples_leaf=3,5,0.00764332,0.00214001,0.08661689,0.01186754,0.06365043,0.0062749
+structured10+kobert_pca32,SVR-RBF,C=0.3;epsilon=0.05;gamma=0.001,5,0.00793221,0.00181794,0.08838719,0.01095038,0.06629982,0.00656495
+structured10+kobert_pca32,Content KNN,n_neighbors=20,5,0.01136786,0.00228949,0.10602063,0.01129104,0.08176327,0.00734098

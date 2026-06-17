@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="360" viewBox="0 0 900 360">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="450" y="32" text-anchor="middle" font-family="Arial" font-size="20">Overfitting Observation</text>
+  <rect x="55" y="70" width="230" height="190" fill="#eff6ff" stroke="#bfdbfe" rx="8"/>
+  <text x="170" y="105" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">Best Epoch</text>
+  <text x="170" y="145" text-anchor="middle" font-family="Arial" font-size="34">32</text>
+  <text x="170" y="185" text-anchor="middle" font-family="Arial" font-size="14">train loss 0.041095</text>
+  <text x="170" y="215" text-anchor="middle" font-family="Arial" font-size="14">test loss 0.053474</text>
+  <rect x="335" y="70" width="230" height="190" fill="#fff7ed" stroke="#fed7aa" rx="8"/>
+  <text x="450" y="105" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">Final Epoch</text>
+  <text x="450" y="145" text-anchor="middle" font-family="Arial" font-size="34">800</text>
+  <text x="450" y="185" text-anchor="middle" font-family="Arial" font-size="14">train loss 0.000001</text>
+  <text x="450" y="215" text-anchor="middle" font-family="Arial" font-size="14">test loss 0.062738</text>
+  <rect x="615" y="70" width="230" height="190" fill="#fef2f2" stroke="#fecaca" rx="8"/>
+  <text x="730" y="105" text-anchor="middle" font-family="Arial" font-size="15" font-weight="bold">Interpretation</text>
+  <text x="730" y="145" text-anchor="middle" font-family="Arial" font-size="14">train loss decreased</text>
+  <text x="730" y="172" text-anchor="middle" font-family="Arial" font-size="18">2.5364</text>
+  <text x="730" y="207" text-anchor="middle" font-family="Arial" font-size="14">test loss increased after best</text>
+  <text x="730" y="234" text-anchor="middle" font-family="Arial" font-size="18">0.0093</text>
+  <text x="450" y="315" text-anchor="middle" font-family="Arial" font-size="14">As epochs increase, the model memorizes train data while test performance worsens.</text>
+</svg>

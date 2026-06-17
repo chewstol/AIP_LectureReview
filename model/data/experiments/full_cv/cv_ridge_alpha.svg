@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="500" viewBox="0 0 900 500">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="450.0" y="28" text-anchor="middle" font-family="Arial" font-size="18">Ridge Regression: CV MSE by alpha</text>
+  <line x1="80" y1="430" x2="865" y2="430" stroke="#334155"/>
+  <line x1="80" y1="45" x2="80" y2="430" stroke="#334155"/>
+  <polyline points="80.00,151.66 210.83,198.64 341.67,199.14 472.50,204.25 603.33,249.20 734.17,430.00 865.00,45.00" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <circle cx="734.17" cy="430.00" r="5" fill="#dc2626"/>
+  <text x="744.17" y="420.00" font-family="Arial" font-size="12">best alpha=10.0</text>
+  <text x="80.00" y="462" text-anchor="middle" font-family="Arial" font-size="11">0.0</text>
+<text x="210.83" y="462" text-anchor="middle" font-family="Arial" font-size="11">0.001</text>
+<text x="341.67" y="462" text-anchor="middle" font-family="Arial" font-size="11">0.01</text>
+<text x="472.50" y="462" text-anchor="middle" font-family="Arial" font-size="11">0.1</text>
+<text x="603.33" y="462" text-anchor="middle" font-family="Arial" font-size="11">1.0</text>
+<text x="734.17" y="462" text-anchor="middle" font-family="Arial" font-size="11">10.0</text>
+<text x="865.00" y="462" text-anchor="middle" font-family="Arial" font-size="11">100.0</text>
+  <text x="450.0" y="482" text-anchor="middle" font-family="Arial" font-size="13">alpha</text>
+  <text x="24" y="250.0" text-anchor="middle" font-family="Arial" font-size="14" transform="rotate(-90 24 250.0)">Mean CV MSE</text>
+  <text x="70" y="49" text-anchor="end" font-family="Arial" font-size="12">0.0033</text>
+  <text x="70" y="434" text-anchor="end" font-family="Arial" font-size="12">0.0032</text>
+</svg>

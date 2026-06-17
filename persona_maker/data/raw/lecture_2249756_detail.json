@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 3.8,
+        "count": 5,
+        "items": [
+          {
+            "value": 5,
+            "count": 2
+          },
+          {
+            "value": 4,
+            "count": 2
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 5,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 5,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 5,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 5,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 0
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 2
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 5,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "3학년 오피스설계도면을 실제로 건물을 지을수 있을 정도로 발전시키는 과정의 과목임. 설계 파트 크리틱은 사실 도면을 자세히 그리기, 선두께 조절, 치수선, 글씨크기 조절 등을 요구하여 사실 별거없지만 구조 파트 크리",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "일점줄정도는 아닌데 별점너무 높아서 일점줌. 구조부분에서는 조금 힘들엇음",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

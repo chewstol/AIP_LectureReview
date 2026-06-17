@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "중간:\n자기 수업 내용 각 주차별로 정리하고(그룹디스커션이라 함) 질문들",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.85,
+        "count": 84,
+        "items": [
+          {
+            "value": 5,
+            "count": 13
+          },
+          {
+            "value": 4,
+            "count": 17
+          },
+          {
+            "value": 3,
+            "count": 22
+          },
+          {
+            "value": 2,
+            "count": 8
+          },
+          {
+            "value": 1,
+            "count": 24
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 13
+            },
+            {
+              "text": "보통",
+              "count": 45
+            },
+            {
+              "text": "많음",
+              "count": 26
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 14
+            },
+            {
+              "text": "보통",
+              "count": 40
+            },
+            {
+              "text": "많음",
+              "count": 30
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 84,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 45
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 84,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 15
+            },
+            {
+              "text": "전자출결",
+              "count": 21
+            },
+            {
+              "text": "지정좌석",
+              "count": 3
+            },
+            {
+              "text": "직접호명",
+              "count": 23
+            },
+            {
+              "text": "복합적",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 82
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "강평이너무 안좋은데 강평과는 달리 너무 꿀수업\n학점 거의다 에이쁠주시고 뿌렸다싶를정도로 학점이 감사한 수업\n시험도그렇게 어렵지도 않고 과제도 보고서쓰능게잇엇지만 적절햇고 학점때문에 미화되는느낌 \n명강의찾으시는 분들은",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "백날 강의평가해봐야 개선할 생각도 없고, 그냥 아무 생각없이 남들 다 하니까 강평할꺼면 시스템 구축하고 운영하는데 돈쓰지말고 그냥 수업 다 없애고 화장실에 비데나 설치해주세요.\n대학가봐야 배우는거 하나 없다, 확실한",
+          "rate": 1,
+          "posvote": 13
+        }
+      ]
+    }
+  }
+}

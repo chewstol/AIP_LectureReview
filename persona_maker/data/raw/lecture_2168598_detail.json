@@ -1,0 +1,218 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791195195169",
+        "bookTitle": "창의적설계입문(워크북포함)",
+        "bookAuthor": "김용세",
+        "bookPublisher": "생능출판",
+        "bookPrice": 21000,
+        "price": 5900,
+        "coverImage": "https://cf-cii.everytime.kr/a0af7a64903c58e6bc6bf5a8dbdaf58b513c25644ae29c91e1fb92c4705e0c5f/1693191094739_0.jpg"
+      },
+      {
+        "bookIsbn": "9788970506258",
+        "bookTitle": "창의적설계입문",
+        "bookAuthor": "김용세",
+        "bookPublisher": "생능",
+        "bookPrice": 18000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/d4f44d494c786063b9711bee1ae6c13e74b05a5797e797c4c9e9357220ce631d/1506093404316_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "유하게 지내기\n교수님 다른 강의평도 함 봐보세여~~~~",
+      "questionTypes": [
+        {
+          "nth": "기타",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.22,
+        "count": 144,
+        "items": [
+          {
+            "value": 5,
+            "count": 14
+          },
+          {
+            "value": 4,
+            "count": 12
+          },
+          {
+            "value": 3,
+            "count": 30
+          },
+          {
+            "value": 2,
+            "count": 24
+          },
+          {
+            "value": 1,
+            "count": 64
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 144,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 76
+            },
+            {
+              "text": "많음",
+              "count": 61
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 144,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "많음",
+              "count": 116
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 144,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 21
+            },
+            {
+              "text": "보통",
+              "count": 78
+            },
+            {
+              "text": "깐깐함",
+              "count": 45
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 144,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 51
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 58
+            },
+            {
+              "text": "복합적",
+              "count": 28
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 144,
+          "items": [
+            {
+              "text": "없음",
+              "count": 123
+            },
+            {
+              "text": "한 번",
+              "count": 9
+            },
+            {
+              "text": "두 번",
+              "count": 12
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "정말 꿀강의 었습니다 과제도 별로 없고, 팀플때만 주도적으로 참여하고 동료쳥가 점수만 잘 받으면 됩니다!",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "나는 이 수업을 들으러갈때 자전거를 손 놓고 탄다.\n수업장소에 도착하기 전에 내가 뒤졌으면 좋겠어서..",
+          "rate": 1,
+          "posvote": 5
+        }
+      ]
+    }
+  }
+}

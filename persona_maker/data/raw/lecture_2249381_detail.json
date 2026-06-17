@@ -1,0 +1,267 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "수업내용에서 나오는 예시들도 가끔 나오니깐 강의 한번씩 훑어보는걸 추천.",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 14
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 6
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 7
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.49,
+        "count": 98,
+        "items": [
+          {
+            "value": 5,
+            "count": 59
+          },
+          {
+            "value": 4,
+            "count": 30
+          },
+          {
+            "value": 3,
+            "count": 7
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 98,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 75
+            },
+            {
+              "text": "많음",
+              "count": 18
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 98,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 48
+            },
+            {
+              "text": "많음",
+              "count": 48
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 98,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 45
+            },
+            {
+              "text": "보통",
+              "count": 51
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 98,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 54
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 29
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 98,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 19
+            },
+            {
+              "text": "두 번",
+              "count": 79
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "이번에 미국서 박사 마치고 초임으로 부임하신 분인데, 개인적으로는 앞으로도 계속 글경 수업을 맡아주셨으면 하는 생각이 들정도로, 글경에서 만난 최고의 교수님 중 한분이셨습니다. 되게 학생들에게 애정이 많은게 느껴지시",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "수업 내용 자체는 괜찮지만 사소한 것 하나하나에 매우 깐깐하시고 피곤함",
+          "rate": 2,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

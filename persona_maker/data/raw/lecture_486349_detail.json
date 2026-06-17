@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "기말 유형 전부 알려주십니다. 준비해가서 쓰시면 돼요!",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.02,
+        "count": 62,
+        "items": [
+          {
+            "value": 5,
+            "count": 11
+          },
+          {
+            "value": 4,
+            "count": 16
+          },
+          {
+            "value": 3,
+            "count": 12
+          },
+          {
+            "value": 2,
+            "count": 9
+          },
+          {
+            "value": 1,
+            "count": 14
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 62,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 46
+            },
+            {
+              "text": "많음",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 62,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 40
+            },
+            {
+              "text": "많음",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 62,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 18
+            },
+            {
+              "text": "보통",
+              "count": 42
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 62,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 12
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 48
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 62,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "한 번",
+              "count": 49
+            },
+            {
+              "text": "두 번",
+              "count": 7
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "교수님 수업도 학우분들 발표도 정말 재미있었습니다. 저도 이 수업이 이번 학기 들었던 수업들 중에서 가장 재미있었고 얻어가는 게 많았어요. 인명저 들으실 분은 김영죽 교수님 추천!!",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "1. 조별발표 인원 대면으로 해도 10명 이상은 오바였는데 그걸 카톡으로도 해낸 학생들 \n2. 근데 저 조별발표를 갑.자.기 중간때는 공지 없으셨다가 기말에 비율을 상향조정하심\n3. 그리고 7월 1일까지 레포트가 무",
+          "rate": 1,
+          "posvote": 8
+        }
+      ]
+    }
+  }
+}

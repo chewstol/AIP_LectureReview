@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791159714658",
+        "bookTitle": "스튜어트 미분적분학",
+        "bookAuthor": "제임스 스튜어트",
+        "bookPublisher": "북스힐",
+        "bookPrice": 49000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/0031b6daeff66cb7ed02906513a95bfd7eb786ba2d05077e096bf136bf230a70/1736607112527_0.jpg"
+      },
+      {
+        "bookIsbn": "9791160734126",
+        "bookTitle": "핵심 미분적분학",
+        "bookAuthor": "제임스 스튜어트, Daniel K. Clegg, Saleem Watson",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 42000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/95672e8ec922591f4f4d4d429aed718d5a7de5dd6d13698ca6fd577173772378/1772792382829_0.jpg"
+      },
+      {
+        "bookIsbn": "9788961052009",
+        "bookTitle": "미적분학",
+        "bookAuthor": "강윤수",
+        "bookPublisher": "경문사",
+        "bookPrice": 30000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/401a078201b6b8a6641cbcecdee894fa5b6a74affecd3062e8033ae06ec071da/1666575614302_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "거의 대부분의 문제가 계산문제입니다! 응용이라고 해도 그건 전부 개념대로",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.88,
+        "count": 171,
+        "items": [
+          {
+            "value": 5,
+            "count": 53
+          },
+          {
+            "value": 4,
+            "count": 66
+          },
+          {
+            "value": 3,
+            "count": 37
+          },
+          {
+            "value": 2,
+            "count": 8
+          },
+          {
+            "value": 1,
+            "count": 7
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 171,
+          "items": [
+            {
+              "text": "없음",
+              "count": 95
+            },
+            {
+              "text": "보통",
+              "count": 72
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 171,
+          "items": [
+            {
+              "text": "없음",
+              "count": 161
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 171,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 86
+            },
+            {
+              "text": "깐깐함",
+              "count": 61
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 171,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 7
+            },
+            {
+              "text": "전자출결",
+              "count": 111
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 47
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 171,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 8
+            },
+            {
+              "text": "두 번",
+              "count": 128
+            },
+            {
+              "text": "세 번",
+              "count": 13
+            },
+            {
+              "text": "네 번 이상",
+              "count": 21
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "강의를 정말 열심히 진행하십니다. 질문도 다 잘 받아주시고 수업적인 면에서 정말 좋은 교수님이십니다. 그 외적으로도 정말 좋으신 교수님이시라 들으면 좋을 것 같습니다. 그러나 통계전공수업에는 괴물들이 정말 많으니까",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "너무 어려워요. 시험 범위도 너무 많고 휴강 도 많이 했다.",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

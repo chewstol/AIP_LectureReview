@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791132100737",
+        "bookTitle": "현대물리학",
+        "bookAuthor": "Beiser, Kok Wai Cheah",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 36000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/57f50cced36aa39e255302cadfc748a22b11ee420283c5df4fc24f6cca6ca5c7/1756377061571_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "내용을 이해했는지 공식 유도 문제나 현상의 특징을 물어보는 문제도 있고 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.76,
+        "count": 38,
+        "items": [
+          {
+            "value": 5,
+            "count": 31
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 38,
+          "items": [
+            {
+              "text": "없음",
+              "count": 30
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 38,
+          "items": [
+            {
+              "text": "없음",
+              "count": 38
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 38,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 27
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 38,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 3
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 29
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 38,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 37
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "학점도 꽉 채워주신다 하시고 시험도 부분점수 잘 주시기 때문에 공부 열심히 했으면 무난하게 볼 수 있습니다!강의력도 좋으시고 질문도 잘 받아주셔서 좋았습니다!",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "시험은 무난하게 잘 봤으나 강의력이 좋으신지는 모르겠음\n일단 교안이 허술해서 급하게 만든것 같다는 느낌이 항상 들었고 교수님이 이 내용을 깊이 모르시는 느낌..\n그냥 성적 받아가기엔 괜찮은 과목임\n시험 성적 문의하러",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

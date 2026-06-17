@@ -1,0 +1,304 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791158905019",
+        "bookTitle": "시민생활과 법",
+        "bookAuthor": "송덕수, 정태윤, 오종근, 서을오, 김병선, 권태상",
+        "bookPublisher": "이화여자대학교출판문화원",
+        "bookPrice": 22000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/383e18d2c43c5ac8e9f219e5bd72e357c7b61c4dbc29e735f446344e701b7b49/1756956114995_0.jpg"
+      },
+      {
+        "bookIsbn": "9791158904333",
+        "bookTitle": "시민생활과 법",
+        "bookAuthor": "송덕수, 정태윤, 오종근, 서을오, 김병선, 권태상",
+        "bookPublisher": "이화여자대학교출판문화원",
+        "bookPrice": 20000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/b9548ea5da996572523869409b5d6a94656157072f164d6139a8d8a3179d0ff9/1756726244154_0.jpg"
+      },
+      {
+        "bookIsbn": "9791158903336",
+        "bookTitle": "시민생활과 법",
+        "bookAuthor": "송덕수, 정태윤, 오종근, 서을오, 김병선, 권태상",
+        "bookPublisher": "이화여자대학교출판문화원",
+        "bookPrice": 18000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/8c7b7687d6ade3efa4df8d98f1bb49f372cba11f6c1db59422c24436e26b390f/1644928791858_0.jpg"
+      },
+      {
+        "bookIsbn": "9791158901394",
+        "bookTitle": "시민생활과 법: 민사 생활법률 강의",
+        "bookAuthor": "송덕수, 정태윤, 오종근, 서을오, 김병선, 권태상",
+        "bookPublisher": "이화여자대학교출판부",
+        "bookPrice": 18000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/6b7e846bb7e12afd5540603d155f487a2f1d0f93c528d37695220f42639581ef/1711883094855_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "개괄적인 내용 이해가 핵심적입니다. 책 여러번 읽고 강의 잘 듣고 피피티",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 18,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 18
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 9
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 10
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 7
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.62,
+        "count": 241,
+        "items": [
+          {
+            "value": 5,
+            "count": 182
+          },
+          {
+            "value": 4,
+            "count": 37
+          },
+          {
+            "value": 3,
+            "count": 16
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 5
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 241,
+          "items": [
+            {
+              "text": "없음",
+              "count": 68
+            },
+            {
+              "text": "보통",
+              "count": 173
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 241,
+          "items": [
+            {
+              "text": "없음",
+              "count": 229
+            },
+            {
+              "text": "보통",
+              "count": 12
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 241,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 155
+            },
+            {
+              "text": "보통",
+              "count": 85
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 241,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 33
+            },
+            {
+              "text": "전자출결",
+              "count": 143
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 40
+            },
+            {
+              "text": "복합적",
+              "count": 24
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 241,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 238
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "수업 전달 능력은 나쁘지도 그렇다고 좋진 않다고 생각합니다.\n하지만 졸업하기 전에 한 번은 꼭 들어야 하는 강의라고 생각돼서 5점 드립니다.\n중간고사 범위는 재미없고 괜히 들었다 생각 들지만\n기말고사 범위부터는 재미",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "도대체 이 교수님이 강의를 잘한다는 사람들은 어떤 수업을 들어온거임? 교안은 중구난방 정리도 안되어 있고 교수님 설명도 왔다갔다 정신없음. 교양 수업인데 법 용어 처음 듣는거 그냥 다  안다는 듯이 넘기는 경우 다수",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

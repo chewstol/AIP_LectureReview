@@ -1,0 +1,286 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791189198862",
+        "bookTitle": "종의 기원",
+        "bookAuthor": "찰스 다윈, 다윈포럼 기획",
+        "bookPublisher": "사이언스북스",
+        "bookPrice": 22000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/213ce53cb03339bd499045d954252ae7db025f1e3f7d88b5689efb98b67769c3/1757046295378_0.jpg"
+      },
+      {
+        "bookIsbn": "9788949707952",
+        "bookTitle": "종의 기원(양장본 HardCover)",
+        "bookAuthor": "찰스 다윈",
+        "bookPublisher": "동서문화사",
+        "bookPrice": 23000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/fbf77f8c0e32260a8337b148c23186c1afee7c52cf2ce5542655cb1c7f528dcd/1613789514279_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "피피티 제작은 미리캔버스나 망고보드 등을 활용하면 편합니다.\n\n책은 하루",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 4
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.82,
+        "count": 142,
+        "items": [
+          {
+            "value": 5,
+            "count": 127
+          },
+          {
+            "value": 4,
+            "count": 8
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 142,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 104
+            },
+            {
+              "text": "많음",
+              "count": 18
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 142,
+          "items": [
+            {
+              "text": "없음",
+              "count": 57
+            },
+            {
+              "text": "보통",
+              "count": 49
+            },
+            {
+              "text": "많음",
+              "count": 36
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 142,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 116
+            },
+            {
+              "text": "보통",
+              "count": 24
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 142,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 16
+            },
+            {
+              "text": "전자출결",
+              "count": 26
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 79
+            },
+            {
+              "text": "복합적",
+              "count": 20
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 142,
+          "items": [
+            {
+              "text": "없음",
+              "count": 125
+            },
+            {
+              "text": "한 번",
+              "count": 6
+            },
+            {
+              "text": "두 번",
+              "count": 11
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "인생 강의였다...아캠이어서 더 그런듯한데 교수님 자체가 아캠에 최적화 되어계셨다ㅋㅋㅋ 거의 예능보다 재밌었고 힐링과목이었다 이 교수님 배정받으신 분들은 그저 행운아..",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "직배인데 걍 드랍하고 싶음. 편애 너무 심함. 과제 채점기준도 자기마음대로임.",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

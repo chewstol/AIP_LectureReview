@@ -1,0 +1,2 @@
+﻿feature_set,model,params,folds,mse_mean,mse_std,rmse_mean,rmse_std,mae_mean,mae_std,epochs_mean
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.01317632,0.00277082,0.11404063,0.01307863,0.08787229,0.00954096,568.4

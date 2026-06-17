@@ -1,0 +1,304 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791156003304",
+        "bookTitle": "분자생물학 유전체 기능의 원리",
+        "bookAuthor": "Craig, Cohen-Fix, Green, Greider, Storz, Wolberger",
+        "bookPublisher": "도서출판 홍릉(홍릉과학출판사)",
+        "bookPrice": 47000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/00af5af445948ed9d8778ee6b21c2b73fa36e4ec2e5146d6af5335d94ae49a9f/1678198031549_0.jpg"
+      },
+      {
+        "bookIsbn": "9780199562060",
+        "bookTitle": "Molecular Biology: Principles of Genome Function (Paperback)",
+        "bookAuthor": "Craig Nancy",
+        "bookPublisher": "Oxford USA",
+        "bookPrice": 30000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/c2a3a539351337022e75cb70c57f6cd91c95d84f0565c719344b8e424c1c0ae3/1670518517190_0.jpg"
+      },
+      {
+        "bookIsbn": "9780199658572",
+        "bookTitle": "Molecular Biology",
+        "bookAuthor": "Craig Nancy L.",
+        "bookPublisher": "OXFORD UNIVERSITY PRESS ACADEM",
+        "bookPrice": 25000,
+        "price": 19000,
+        "coverImage": "https://cf-cii.everytime.kr/1fce9c534e8c146a7b57bb0e0b023765c0ce3899e134b6fac65b3cee28a124a8/1739245369273_0.jpg"
+      },
+      {
+        "bookIsbn": "9788958812401",
+        "bookTitle": "분자 세포 생물학",
+        "bookAuthor": "Harvey Lodish, Arnold Berk, Chris A. Kaiser, Monty Krieger, Hidde Ploegh, Angelika Amon",
+        "bookPublisher": "월드사이언스",
+        "bookPrice": 55000,
+        "price": 35000,
+        "coverImage": "https://cf-cii.everytime.kr/02bd4df026c0bfc170f0a05de9fa432eb347a559e5bcbda926e4d26b3d2b5c3f/1585620728073_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험 문제는 모두 영어로 나온다. 애초부터 번역서 말고 영어로 공부하는 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 7
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 6
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 5
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.59,
+        "count": 116,
+        "items": [
+          {
+            "value": 5,
+            "count": 79
+          },
+          {
+            "value": 4,
+            "count": 28
+          },
+          {
+            "value": 3,
+            "count": 8
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 116,
+          "items": [
+            {
+              "text": "없음",
+              "count": 73
+            },
+            {
+              "text": "보통",
+              "count": 42
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 116,
+          "items": [
+            {
+              "text": "없음",
+              "count": 109
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 116,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 46
+            },
+            {
+              "text": "보통",
+              "count": 62
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 116,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 14
+            },
+            {
+              "text": "전자출결",
+              "count": 80
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 14
+            },
+            {
+              "text": "복합적",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 116,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 11
+            },
+            {
+              "text": "두 번",
+              "count": 104
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "중간고사 치를지 말지를 학생들에게 물어보는 것에 감명 받았습니다. 덕분에 전범위로 고생하지 않을 수 있었습니다. 내용도 쉬워서 공부하기 쉽습니다.",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "진짜 전공 과목 중에 가장 F를 많이 주는 과목인 것 같습니다. 전체 수강생 중 3분의 1이 F 였습니다..\n시험 자체는 1시간 동안 64문제를 풀어야해서 생각보다 시간이 빠듯하고 개념 자체를 묻는 문제보다 확실하게",
+          "rate": 2,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

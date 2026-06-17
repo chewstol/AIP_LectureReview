@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "증명 많이 나온다고 하길래 증명 다 외우고 교안에 있는 문제들 풀었어요 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.74,
+        "count": 106,
+        "items": [
+          {
+            "value": 5,
+            "count": 87
+          },
+          {
+            "value": 4,
+            "count": 12
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 106,
+          "items": [
+            {
+              "text": "없음",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 95
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 106,
+          "items": [
+            {
+              "text": "없음",
+              "count": 103
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 106,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 75
+            },
+            {
+              "text": "보통",
+              "count": 31
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 106,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 74
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 14
+            },
+            {
+              "text": "복합적",
+              "count": 18
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 106,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 104
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "통계학과 교수계의 호날두. 그저 goat십니다.",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "교수님이 성실하시고 체계적이고 좋지만, 기말 부분 수업방식이 증명위주라 난해했네요.. 어떻게 적용해야하는지 실례는 모른채 증명 과정만 받아적고 있는 저를 발견하게 됐습니다 무엇보다 교수님이 좋은 분이시기에 수업 방식",
+          "rate": 2,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

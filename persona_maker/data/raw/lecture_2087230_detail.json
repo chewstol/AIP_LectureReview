@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788999725043",
+        "bookTitle": "인지심리학의 기초",
+        "bookAuthor": "Michael W. Eysenck, Marc Brysbaert",
+        "bookPublisher": "학지사",
+        "bookPrice": 30000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/065a1111cb1a443884e84564872df5df759d3d7440f13521ae271033a3b9294f/1742550569040_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968669729",
+        "bookTitle": "인지신경과학 입문",
+        "bookAuthor": "Jamie Ward",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 33000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/242a52079bd5178a4a635295cc220fabfb88989b3f3a04012640b54d5f0efce4/1668519225282_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962183870",
+        "bookTitle": "인지 심리학",
+        "bookAuthor": "E Bruce Goldstein",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 36000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/38320a691d67692aad8104a7ffa9e4ac66606b068ee8d68cf902299381398d03/1742550109718_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "사실 오픈북이라서 세세하게 외우실 필요 없습니다. 하지만 대략적으로 개념",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 7
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 5
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.77,
+        "count": 125,
+        "items": [
+          {
+            "value": 5,
+            "count": 104
+          },
+          {
+            "value": 4,
+            "count": 15
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 125,
+          "items": [
+            {
+              "text": "없음",
+              "count": 21
+            },
+            {
+              "text": "보통",
+              "count": 91
+            },
+            {
+              "text": "많음",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 125,
+          "items": [
+            {
+              "text": "없음",
+              "count": 109
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 125,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 83
+            },
+            {
+              "text": "보통",
+              "count": 41
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 125,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 10
+            },
+            {
+              "text": "전자출결",
+              "count": 87
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 18
+            },
+            {
+              "text": "복합적",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 125,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 117
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 6
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "전공진입 직후 들으면 굉장히 좋은 수업인 것 같습니다. 일단 한국어로 진행되고, 강의 시간도 녹강일 때 기준 짧은 편이라 부담이 적어요. 강의력도 너무 좋으셔서 정말 추천합니다. 과제는 두 개인데 논문 요약과 실험",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "作为心理学辅修专业第一学期学生，感受就是，作业多，Quiz多，讨论多，虽然是开卷考，本人也学习了，记笔记记了非常多，期中只得了19分（满分100），我都在怀疑我自己还是不是人，这个课网课，非常有意思，但是本人觉得考试难飞天，大量的统计，研究",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

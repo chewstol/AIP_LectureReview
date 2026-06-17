@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 4.53,
+        "count": 45,
+        "items": [
+          {
+            "value": 5,
+            "count": 30
+          },
+          {
+            "value": 4,
+            "count": 9
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 42
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 40
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 45,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 19
+            },
+            {
+              "text": "보통",
+              "count": 24
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 45,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 39
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 42
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 2
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "이 수업 듣는 학기는 잠죽자 마인드로 살아야 함...\n과제가 진짜 많은데 그 과제를 어떻게 해야하는지 스스로 알아내야해서 (어도비 일러스트 사용법 같은거) 정말 힘들 수 있음\n하지만 그렇기에 일러 실력은 진짜 쑥쑥",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "과제 개많은데 영상학과 수업 내에서 현대진 교수님 수업만큼 얻어가는게 많은 수업은 없을 듯. 난 현대진 교수님 수업은 힘들더라도 다 듣고 졸업하고 싶을 정도.\n그대신 과제 안내를 너무 모호하게 하심. 과제를 설명은",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

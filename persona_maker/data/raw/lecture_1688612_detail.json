@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "교수님이 올려주시는 교재 원본 볼 필요 없이 ppt만 쭉 읽으면 됩니다 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 6
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.26,
+        "count": 54,
+        "items": [
+          {
+            "value": 5,
+            "count": 13
+          },
+          {
+            "value": 4,
+            "count": 16
+          },
+          {
+            "value": 3,
+            "count": 9
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 12
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 54,
+          "items": [
+            {
+              "text": "없음",
+              "count": 17
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 54,
+          "items": [
+            {
+              "text": "없음",
+              "count": 46
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 54,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 25
+            },
+            {
+              "text": "보통",
+              "count": 18
+            },
+            {
+              "text": "깐깐함",
+              "count": 11
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 54,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 7
+            },
+            {
+              "text": "전자출결",
+              "count": 7
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 38
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 54,
+          "items": [
+            {
+              "text": "없음",
+              "count": 12
+            },
+            {
+              "text": "한 번",
+              "count": 19
+            },
+            {
+              "text": "두 번",
+              "count": 21
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "코로나 덕분에 꿀빨았습니다. ㅎㅎ\n\n일단 시험은 대신 두번 다 대체과제였구요 \n\n중간은 피피티 만들고 녹음해서 보내기랑 기말은 보고서 쓰기 였습니다\n보고서는 뉴욕타임스 태어난 년도 요약해서 보내기인데 300 페이지",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "국제어 개꿀? 응 아닙니다~\n왜 국제어가 학점 잘주는지 납득가는 기가막힌 강의력을 가지셨습니다. 그렇다고 학점 잘주냐? 그것도 아니에요~\n영어 아캠 2배속 듣는 느낌. 말만 겁내 빠르시고 수업 내용 귀에 하나도 안들",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

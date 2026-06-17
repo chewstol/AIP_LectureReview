@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791197327025",
+        "bookTitle": "세계 일류들의 마케팅 경영",
+        "bookAuthor": "김정구, 오준환, 이우헌",
+        "bookPublisher": "율곡출판사",
+        "bookPrice": 35000,
+        "price": 24000,
+        "coverImage": "https://cf-cii.everytime.kr/e1a1143746f779344435564f7c444e25f69d934aeed901a5f168b3dd8a74553d/1709883588818_0.jpg"
+      },
+      {
+        "bookIsbn": "9788991830622",
+        "bookTitle": "마케팅 관리(세계 일류들의)(양장본 HardCover)",
+        "bookAuthor": "김정구, 오준환, 이우헌",
+        "bookPublisher": "율곡출판사",
+        "bookPrice": 33000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/aff748f9fc58106a9452f95856391e23a44b1009a14a022c240a16c71c1d3dd8/1706256942651_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964542385",
+        "bookTitle": "현대마케팅론(전면개정판 8판)(양장본 HardCover)",
+        "bookAuthor": "유필화, 김용준, 한상만",
+        "bookPublisher": "박영사",
+        "bookPrice": 33000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/67d4ccba6262f357c976c48128acdc9da28aa371670ec24dc04fc287737b6b68/1568817161194_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968440410",
+        "bookTitle": "마케팅의 이해(양장본 HardCover)",
+        "bookAuthor": "이승창, 류성민, 정강옥, 조성도",
+        "bookPublisher": "한경사",
+        "bookPrice": 35000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/303174cb66f48ae3d031102fcc1374470468893459c51c95ce9982c154bf72ac/1536215120141_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "1.outline 에서 중요 개념 （전범위 ）\nMarketing phil",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 18
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.56,
+        "count": 339,
+        "items": [
+          {
+            "value": 5,
+            "count": 236
+          },
+          {
+            "value": 4,
+            "count": 73
+          },
+          {
+            "value": 3,
+            "count": 19
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 5
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 339,
+          "items": [
+            {
+              "text": "없음",
+              "count": 308
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 339,
+          "items": [
+            {
+              "text": "없음",
+              "count": 313
+            },
+            {
+              "text": "보통",
+              "count": 25
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 339,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 187
+            },
+            {
+              "text": "보통",
+              "count": 141
+            },
+            {
+              "text": "깐깐함",
+              "count": 11
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 339,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 59
+            },
+            {
+              "text": "전자출결",
+              "count": 212
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 52
+            },
+            {
+              "text": "복합적",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 339,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "한 번",
+              "count": 296
+            },
+            {
+              "text": "두 번",
+              "count": 40
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "과제없고, 중간 안보고 기말 한번인것만으로 꿀강이라 생각함",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "“소문난 꿀강은 꿀강이 아니다”의 전형인 거 같아요.\n그리고 쁠 안 채워 주십니다.",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

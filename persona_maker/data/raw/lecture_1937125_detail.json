@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781265553609",
+        "bookTitle": "Fundamentals of Corporate Finance",
+        "bookAuthor": "Stephen Ross, Randolph Westerfield, Bradford Jordan",
+        "bookPublisher": "McGraw Hill Education",
+        "bookPrice": 54000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/a08a7f346713a8200bce2fcd139ec5219e48e5632291be68f88ef7e89c202dc1/1704979161991_0.jpg"
+      },
+      {
+        "bookIsbn": "9781260091908",
+        "bookTitle": "Fundamentals of Corporate Finance",
+        "bookAuthor": "Ross",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 50000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/fb400912c8bb79e403125d17ca91328b8fceb291e3cc1da269dc49ec0b5a9d62/1630298950644_0.jpg"
+      },
+      {
+        "bookIsbn": "9789814595049",
+        "bookTitle": "Fundamentals of Corporate Finance, Aisan Global 2 Edition",
+        "bookAuthor": "스테판 A. 로스, Randolph W. Westerfield, Bradford D. Jordan, Joseph Lim, Ruth Tan",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 44000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/b09f69f9c5a6749994992ebc028644bbb39c58cc3fdaf2f2eb55adbc2bb6f06c/1641194225603_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960558281",
+        "bookTitle": "Ross의 재무관리(10판)",
+        "bookAuthor": "Stephen A Ross, Randolph W Westerfield, Bradford D Jordan",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 39000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/ef32a2dce1bd38eea281246529ecc52317528d4dcc5cd3b5d2bb2fc0254f0fd7/1645802238854_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "수업재밌습니다. 이번에들은거중 제일재밌었어요.\n교수님이 박학다식하십니다.",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.45,
+        "count": 83,
+        "items": [
+          {
+            "value": 5,
+            "count": 57
+          },
+          {
+            "value": 4,
+            "count": 11
+          },
+          {
+            "value": 3,
+            "count": 11
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 35
+            },
+            {
+              "text": "보통",
+              "count": 48
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 50
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 83,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 45
+            },
+            {
+              "text": "보통",
+              "count": 36
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 83,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 12
+            },
+            {
+              "text": "전자출결",
+              "count": 56
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 13
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 82
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "회계, 재무 이쪽은 본투비 헤이터로서 너무 좋은 강의였습니다. 수업도 잘 하시고 시험 문제도 공부 하기만 하면 풀 수 있을 정도로 내주셔서 자신감 얻고 공부했어요! 성적 산출 방식이 독특한데, 중간 기말 같은 비율로",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "좋다는 분들 진심인가요 ...? 정말 별로에요 수업\n한국어로 들었으면 나았을까 싶네요",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

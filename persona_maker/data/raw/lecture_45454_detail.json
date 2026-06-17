@@ -1,0 +1,295 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504017",
+        "bookTitle": "The Write Way",
+        "bookAuthor": "성균관대학교 학부대학",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 17000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/d109208b686704e5dd9ee34d02975e2968b55aaa5e644ca4769e53b6289db53f/1772633359504_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155502396",
+        "bookTitle": "Poised to Present",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/19c8e3bb35f1dc053733cdcb35c5dfcd4484dfd751c0d3693ad0d08293941d76/1613366636970_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979868524",
+        "bookTitle": "Poised to Present",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 13000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/33da777f59fa0dff597a98cd006cdef60dc54ada5c04f3026ba114fc81007222/1582862542935_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "Demonstration Presentation\n영상 찍기 전에 연습 필",
+      "questionTypes": [
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.51,
+        "count": 194,
+        "items": [
+          {
+            "value": 5,
+            "count": 39
+          },
+          {
+            "value": 4,
+            "count": 76
+          },
+          {
+            "value": 3,
+            "count": 40
+          },
+          {
+            "value": 2,
+            "count": 22
+          },
+          {
+            "value": 1,
+            "count": 17
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 194,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 72
+            },
+            {
+              "text": "많음",
+              "count": 119
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 194,
+          "items": [
+            {
+              "text": "없음",
+              "count": 19
+            },
+            {
+              "text": "보통",
+              "count": 107
+            },
+            {
+              "text": "많음",
+              "count": 68
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 194,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 21
+            },
+            {
+              "text": "보통",
+              "count": 110
+            },
+            {
+              "text": "깐깐함",
+              "count": 63
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 194,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 78
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 89
+            },
+            {
+              "text": "복합적",
+              "count": 26
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 194,
+          "items": [
+            {
+              "text": "없음",
+              "count": 146
+            },
+            {
+              "text": "한 번",
+              "count": 8
+            },
+            {
+              "text": "두 번",
+              "count": 14
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 26
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2016,
+          "semester": "2",
+          "text": "많은 배울 수 있는 강의였습니다. 일단 교사의 강의력이 좋고 질문을 몇개를 해든 하나하나 친절히 답변해주십니다.\n발표 한 번 하는 데 이렇게 많은 것을 신경쓰고 공들여야 한 다는 것을 배울 수 있었습니다. 워낙 악명",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "최악 도널린 졸슨이 직배라면 도망치기를 추천\nㅈㅂ 도망가 어서 도망가 도망도망도망도망도망가",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

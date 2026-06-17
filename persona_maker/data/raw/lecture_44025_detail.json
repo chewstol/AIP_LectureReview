@@ -1,0 +1,236 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788993354058",
+        "bookTitle": "박영택 창의발상론",
+        "bookAuthor": "박영택",
+        "bookPublisher": "KMAC",
+        "bookPrice": 36000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/c554f8845329bc12901eec72dce1dfae008098a2bae48eb6b7ba0acac0c2a031/1614142874472_0.jpg"
+      },
+      {
+        "bookIsbn": "9788992264976",
+        "bookTitle": "박영택 창의발상론(양장본 HardCover)",
+        "bookAuthor": "박영택",
+        "bookPublisher": "한국표준협회미디어",
+        "bookPrice": 27000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/962af4b4a2ca0e92dd68f9a109cc0e6d7a749d9ecaa83019603f23d5f48bb14c/1707760167686_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155501740",
+        "bookTitle": "창의적 사고 소통의 글쓰기",
+        "bookAuthor": "김경훤, 김미란, 김성수",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/28f6c3d044998d041e445edfc001d20423e9efe20bc7c6cad9e660ad7eb897c7/1778505543192_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979869835",
+        "bookTitle": "창의적 사고 소통의 글쓰기",
+        "bookAuthor": "김경훤, 김미란, 김성수",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/15221d853655f575e9bfe7c2000a9bcbbc58f6cdaf634eeda9f223c4e014fd551498133855278/0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "기말에 시험 대신 과제로 제출하는 방식이었습니다! 본인이 직접 문제를 만",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 7
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.54,
+        "count": 147,
+        "items": [
+          {
+            "value": 5,
+            "count": 102
+          },
+          {
+            "value": 4,
+            "count": 29
+          },
+          {
+            "value": 3,
+            "count": 12
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 147,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 99
+            },
+            {
+              "text": "많음",
+              "count": 45
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 147,
+          "items": [
+            {
+              "text": "없음",
+              "count": 64
+            },
+            {
+              "text": "보통",
+              "count": 62
+            },
+            {
+              "text": "많음",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 147,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 81
+            },
+            {
+              "text": "보통",
+              "count": 64
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 147,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 8
+            },
+            {
+              "text": "전자출결",
+              "count": 35
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 90
+            },
+            {
+              "text": "복합적",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 147,
+          "items": [
+            {
+              "text": "없음",
+              "count": 51
+            },
+            {
+              "text": "한 번",
+              "count": 78
+            },
+            {
+              "text": "두 번",
+              "count": 18
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "시험잘보고 과제 다 내면 학점은 나오는것같네요",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "이 수업은 재미있는 수업인 줄 알았는데, 매주 토론이 있어요.뿐만아니라  항상 큰 숙제가 있어서 힘들었어요.교수님이 공평하게 채점하지 않으시는 게 제멋대로인 것 같아요.",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

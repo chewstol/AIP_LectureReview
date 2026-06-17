@@ -1,0 +1,286 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788964212707",
+        "bookTitle": "마이크로전자회로",
+        "bookAuthor": "Adel S. Sedra, Kenneth C. Smith",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 43000,
+        "price": 19000,
+        "coverImage": "https://cf-cii.everytime.kr/520d8be3cb538b8963ab5fd9d463c224ceff42e25d9ea6503ff202c0c060040a/1663784448526_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964210819",
+        "bookTitle": "마이크로전자회로(6판)(CD1장포함)",
+        "bookAuthor": "Sedra, Smith",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 42000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/b931178251edc133242d42d268e4f52b54dcf182c851467f92ab004814e9abe8/1520813077395_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교안과 교수님께서 수업하시는 내용들만 봐도 문제 푸는데 어려움은 없을겁니",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.44,
+        "count": 139,
+        "items": [
+          {
+            "value": 5,
+            "count": 86
+          },
+          {
+            "value": 4,
+            "count": 36
+          },
+          {
+            "value": 3,
+            "count": 12
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 138,
+          "items": [
+            {
+              "text": "없음",
+              "count": 15
+            },
+            {
+              "text": "보통",
+              "count": 116
+            },
+            {
+              "text": "많음",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 138,
+          "items": [
+            {
+              "text": "없음",
+              "count": 120
+            },
+            {
+              "text": "보통",
+              "count": 18
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 138,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 92
+            },
+            {
+              "text": "보통",
+              "count": 45
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 138,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 23
+            },
+            {
+              "text": "전자출결",
+              "count": 74
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 40
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 138,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 137
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "우선 설명 자체는 잘 해주시는데, 온라인 녹강 때 글씨를 마우스로 쓰셔서 알아보기가 정말 힘들어요 .. ㅜㅜ 그리고 초기 코로나 때문에 아예 출석 반영안하신다고 이번학기는... 그렇게 말씀하셨고, 시험은 기출에서 좀",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "수업과 시험간에 난이도차이가 상당합니다. 시험 준비를 철저히 하세요",
+          "rate": 1,
+          "posvote": 7
+        }
+      ]
+    }
+  }
+}

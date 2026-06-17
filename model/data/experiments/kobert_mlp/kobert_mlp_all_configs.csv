@@ -1,0 +1,61 @@
+﻿feature_set,model,params,folds,mse_mean,mse_std,rmse_mean,rmse_std,mae_mean,mae_std,epochs_mean
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.01317632,0.00277082,0.11404063,0.01307863,0.08787229,0.00954096,568.4
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.01607061,0.00342452,0.12596391,0.01427234,0.09616498,0.0105339,826.4
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.01614326,0.00140782,0.12693712,0.00549769,0.09339939,0.00476242,416.4
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.01681329,0.00589153,0.12767957,0.02261008,0.09505476,0.0177906,990.4
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.01732885,0.00144467,0.13152418,0.00549933,0.09614654,0.00468997,924.0
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.0213658,0.00365171,0.1456699,0.01208627,0.10519347,0.00577258,831.6
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.02157332,0.00357777,0.14642286,0.01156139,0.11128609,0.00913126,878.6
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.02716362,0.00763226,0.16297435,0.02455568,0.11820532,0.01770085,940.6
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.02754846,0.01582423,0.15964417,0.04541146,0.12143705,0.0348198,784.6
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.03044361,0.00776131,0.17305772,0.02224045,0.12959434,0.01343244,472.2
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.03523832,0.00744318,0.18660272,0.02043874,0.13866638,0.01419715,1000.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.03634236,0.01704373,0.18555077,0.04374092,0.13702772,0.03606289,1000.0
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.03807386,0.01223144,0.19243848,0.0322691,0.14395924,0.02169226,150.6
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.0395843,0.0118564,0.19691946,0.02840815,0.14345263,0.01873645,829.4
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.03991641,0.00924489,0.19817118,0.02538885,0.14948682,0.01863318,725.4
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.0403699,0.00979366,0.1995252,0.02365561,0.14673352,0.01958674,996.6
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.04366589,0.01481599,0.20582224,0.03609844,0.15075843,0.0246632,970.2
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.04419725,0.01215136,0.2078409,0.03161348,0.15595333,0.02115847,447.2
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.04499486,0.01615027,0.2082933,0.04010936,0.15520361,0.02910699,827.2
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.04847462,0.01445416,0.21778059,0.03234548,0.16386522,0.02479178,886.6
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.04902273,0.01329548,0.21923149,0.03098837,0.16780106,0.02216749,468.4
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.05022749,0.01558378,0.22156776,0.03369296,0.16977213,0.02414594,644.4
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.05066334,0.01586353,0.22228192,0.03541302,0.16068496,0.02047152,1000.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.05509218,0.01040048,0.23378735,0.0208724,0.16892385,0.02011336,822.8
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.05586218,0.01103677,0.23532642,0.02199219,0.16933355,0.02184589,846.4
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.05839047,0.01804629,0.23869166,0.03763992,0.17878821,0.02492668,662.6
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.05965103,0.0193517,0.24107893,0.03914059,0.18358702,0.02921954,480.4
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.06052883,0.01165205,0.24499375,0.02251419,0.17838901,0.02028857,1000.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.06173052,0.01824289,0.24600668,0.03480272,0.18459657,0.02343258,724.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.06256107,0.00951182,0.24938426,0.01919799,0.18010409,0.02001802,1000.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.06746189,0.0089442,0.25915972,0.01726636,0.18664274,0.0188217,1000.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.06809923,0.00920797,0.26035664,0.01771013,0.18741392,0.01885272,1000.0
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.07115476,0.02334279,0.26321001,0.0433041,0.19920222,0.03297836,965.8
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.07297538,0.02486771,0.26621485,0.04588064,0.2012587,0.03445091,972.8
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.07658865,0.02252432,0.27334523,0.04325541,0.19505763,0.03037201,1000.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.07783116,0.01837563,0.27707909,0.03253214,0.2008505,0.02291322,1000.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.07861624,0.01744157,0.27868982,0.03079327,0.20502419,0.02194099,325.4
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.07886045,0.01899631,0.27885486,0.03317248,0.20691914,0.02690137,1000.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.08825956,0.03036548,0.29267568,0.05099513,0.21345376,0.03939638,531.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.08925703,0.02059504,0.29684816,0.03373729,0.2151618,0.02234089,713.8
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.0898091,0.02403003,0.29727444,0.03790793,0.217092,0.02751001,415.8
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.09006187,0.03425046,0.29431269,0.05866783,0.21813633,0.0424817,465.2
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.0901431,0.02003124,0.29849191,0.03233704,0.21882193,0.02543476,848.8
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.09171518,0.03001161,0.29870872,0.04988268,0.21787439,0.03754284,383.6
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.09182114,0.01844234,0.30159204,0.0293833,0.22060367,0.02196806,242.2
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.09250278,0.02211785,0.30208796,0.03529361,0.22115786,0.02712952,704.8
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.09290124,0.01077584,0.30427021,0.01791313,0.22134704,0.01277006,567.6
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.09356529,0.01907253,0.30432012,0.03089585,0.22045715,0.02119979,713.8
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.09482635,0.01610319,0.3068606,0.02574729,0.22508643,0.01806094,872.2
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.09486897,0.01959696,0.30626991,0.0326759,0.22069009,0.02554351,809.0
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.0955804,0.00978086,0.30876543,0.01563031,0.22457411,0.01047262,549.2
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.09628963,0.01906383,0.30869654,0.03156071,0.22242169,0.02530462,749.6
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.09727612,0.01513071,0.31097506,0.02388794,0.22844271,0.01676769,838.0
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.10250079,0.01845873,0.3188506,0.02889788,0.23468489,0.02279377,840.6
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.11020925,0.01624195,0.33111024,0.02398442,0.2439173,0.02074251,132.2
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.11595311,0.01516921,0.33979564,0.0221817,0.25061924,0.01835797,555.6
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.11783069,0.02280894,0.34135478,0.03616082,0.25468528,0.03121333,482.2
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.13177338,0.02199063,0.36164649,0.03138791,0.27049863,0.02688791,217.2
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.13601498,0.0294543,0.36663564,0.03991608,0.27258146,0.03422879,615.2
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.13990505,0.02659493,0.3723593,0.0354063,0.27826691,0.02936953,555.8

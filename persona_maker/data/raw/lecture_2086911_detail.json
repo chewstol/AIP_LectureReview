@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791196374846",
+        "bookTitle": "웃음",
+        "bookAuthor": "앙리 베르그송",
+        "bookPublisher": "파이돈",
+        "bookPrice": 13000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/7e7b1810df959401175d16eb4387f12a56bb987f04cdddca630388176685e7eb/1724726009692_0.jpg"
+      },
+      {
+        "bookIsbn": "9788932920542",
+        "bookTitle": "농담과 무의식의 관계",
+        "bookAuthor": "지그문트 프로이드",
+        "bookPublisher": "열린책들",
+        "bookPrice": 24000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/6e72fe6d7556ff8ca34eee69120a24bc3b69c8ea9fd648219dcc04f68f8fa424/1656393391864_0.jpg"
+      },
+      {
+        "bookIsbn": "9788949714455",
+        "bookTitle": "웃음 창조적 진화 도덕과 종교의 두 원천",
+        "bookAuthor": "베르그송",
+        "bookPublisher": "동서문화사",
+        "bookPrice": 12000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/24db80e96ca08b6b23b398975d53118fd1f015da143db777b9295307592887c4/1615027897266_0.jpg"
+      },
+      {
+        "bookIsbn": "9788932905143",
+        "bookTitle": "농담과 무의식의 관계(프로이트 전집 6)",
+        "bookAuthor": "지그문트 프로이트",
+        "bookPublisher": "열린책들",
+        "bookPrice": 18000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/89565de1168c3bde28d124c391e00be18d81317745c230e898ee448975ae291f/1629111287894_0.jpg"
+      },
+      {
+        "bookIsbn": "9788949705019",
+        "bookTitle": "웃음 창조적 진화 도덕과 종교의 두 원천(월드북 74)(양장본 HardCover)",
+        "bookAuthor": "베르그송",
+        "bookPublisher": "동서문화사",
+        "bookPrice": 20000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/86e23a17d6e004ab26ea851ea171224577460759b49ae2cb1f4cf2824f8adaef/1599452264607_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "코로나 학기였기 때문에 그런건지는 몰라도 교수님이 시험범위를 아예 찍어주",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 6
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.48,
+        "count": 131,
+        "items": [
+          {
+            "value": 5,
+            "count": 42
+          },
+          {
+            "value": 4,
+            "count": 35
+          },
+          {
+            "value": 3,
+            "count": 22
+          },
+          {
+            "value": 2,
+            "count": 8
+          },
+          {
+            "value": 1,
+            "count": 24
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 131,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "많음",
+              "count": 94
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 131,
+          "items": [
+            {
+              "text": "없음",
+              "count": 14
+            },
+            {
+              "text": "보통",
+              "count": 40
+            },
+            {
+              "text": "많음",
+              "count": 77
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 131,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 29
+            },
+            {
+              "text": "보통",
+              "count": 78
+            },
+            {
+              "text": "깐깐함",
+              "count": 24
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 131,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 8
+            },
+            {
+              "text": "전자출결",
+              "count": 8
+            },
+            {
+              "text": "지정좌석",
+              "count": 6
+            },
+            {
+              "text": "직접호명",
+              "count": 93
+            },
+            {
+              "text": "복합적",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 131,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 11
+            },
+            {
+              "text": "두 번",
+              "count": 120
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "한성일 교수님 수업은 처음엔 탈주하고 싶다가 나중엔 기다려지는 묘한 매력이 있음.. 교수님이 겉으론 좀 날카로워 보이실 수 있는데 한학기동안 뵙다 보면 좋으신 분 인 게 느껴져요 매주 과제는 조금 귀찮음",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "000학생~ 과제 제출했나요? 혹시 과제가 부담스럽나요.? 부담스럽다면 그렇다고 말해도 돼요. 물론 다음주에 안 내는 건 아닙니다 ~ ^^! 저처럼 재미있는 교수님이 또 어디 있나용",
+          "rate": 1,
+          "posvote": 17
+        }
+      ]
+    }
+  }
+}

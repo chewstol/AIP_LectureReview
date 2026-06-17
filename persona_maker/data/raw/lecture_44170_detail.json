@@ -1,0 +1,356 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791188731114",
+        "bookTitle": "일반화학",
+        "bookAuthor": "Raymond Chang",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 53000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/dd493b71d985606b6940220f5a974b2d8342643bc492f9553ea1394e85a991de/1774167290716_0.jpg"
+      },
+      {
+        "bookIsbn": "9791158082499",
+        "bookTitle": "핵심일반화학",
+        "bookAuthor": "McMurry, Fay, Robinson",
+        "bookPublisher": "자유아카데미",
+        "bookPrice": 39000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/1e357bb5fcb9010459e6fb688532a1aaad2d419634df799894c0004260aac30d/1773124151920_0.jpg"
+      },
+      {
+        "bookIsbn": "9781260085310",
+        "bookTitle": "Chemistry",
+        "bookAuthor": "Raymond Chang, 제이슨 오버비",
+        "bookPublisher": "McGraw Hill Education",
+        "bookPrice": 55000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/5e0f62aa072ef25eac834fb3f399e172d1b643412dce54e90b9524905f104bf1/1755260771650_0.jpg"
+      },
+      {
+        "bookIsbn": "9780321761583",
+        "bookTitle": "Campbell Biology: Concepts and connections",
+        "bookAuthor": "Jane B. Reece",
+        "bookPublisher": "Pearson Education Asia",
+        "bookPrice": 47000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/21947db02ed18179d20efe9b236acf68bf53e65652fe61118c9e90608477792c/1662949157381_0.jpg"
+      },
+      {
+        "bookIsbn": "9781133612056",
+        "bookTitle": "Chemistry",
+        "bookAuthor": "스티븐 S. 줌달",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 55000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/8732dc9158963b0c3a9c7134ea1ad593f4064e4ebc50010ad4296dd019811c73/1677770902058_0.jpg"
+      },
+      {
+        "bookIsbn": "9788992603737",
+        "bookTitle": "일반화학",
+        "bookAuthor": "스티븐 S. 줌달",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 53000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/5c0d8f7f4592d7d245b6a6c3c75aca031b653679a5811facdb23306663db8bf2/1545455169680_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님 수업 들을 가치 있습니다\n고등학교 내용 복습한다치고 평소 자투리시",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 12,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 8
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 4
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 6
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.41,
+        "count": 198,
+        "items": [
+          {
+            "value": 5,
+            "count": 112
+          },
+          {
+            "value": 4,
+            "count": 64
+          },
+          {
+            "value": 3,
+            "count": 18
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 198,
+          "items": [
+            {
+              "text": "없음",
+              "count": 40
+            },
+            {
+              "text": "보통",
+              "count": 143
+            },
+            {
+              "text": "많음",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 198,
+          "items": [
+            {
+              "text": "없음",
+              "count": 182
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 198,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 89
+            },
+            {
+              "text": "보통",
+              "count": 108
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 198,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 10
+            },
+            {
+              "text": "전자출결",
+              "count": 113
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 38
+            },
+            {
+              "text": "복합적",
+              "count": 36
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 198,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 5
+            },
+            {
+              "text": "두 번",
+              "count": 184
+            },
+            {
+              "text": "세 번",
+              "count": 6
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "수업도 나름 재밌고 기초 화학 베이스 있으면 무난한 과목입니다.",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "왜 자료, 강의 퀄리티가 높다는지 이해가 안 됨\n1. 콩글리쉬여서 정말 ㄹㅇ 못 알아듣겠음\n(발음만 문제이면 참겠는데, 문장 구조가 말이 안 되고 동사가 없다거나 그런 경우가 비일비재해서...)\n2. 교안에 오타,",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

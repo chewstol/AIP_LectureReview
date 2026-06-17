@@ -1,0 +1,236 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781337629157",
+        "bookTitle": "Essentials of Materials Science and Engineering",
+        "bookAuthor": "Donald R. Askeland, Wendelin J. Wright",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 70000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/ccf716fc6763df3de309df66a04fde47f9d0bd4469ef58d66e07cb7b05cea71e/1697298667280_0.jpg"
+      },
+      {
+        "bookIsbn": "9780495438502",
+        "bookTitle": "Essentials of Materials Science and Engineering",
+        "bookAuthor": "Askeland Donald R/Fulay Pradeep P/Bhattacharya",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 37000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/71db7237cc13efe6b16bd0946804bf79385c934e7255adaa207b6045eb0fdfce/1550127746493_0.jpg"
+      },
+      {
+        "bookIsbn": "9781111576868",
+        "bookTitle": "Essentials of Materials Science and Engineering, SI Edition",
+        "bookAuthor": "Donald Askeland",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 42000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/3096d4a6d958f94ceafc2c8a56be3a056d145147a4987f5ab430ee30c699aba4/1584101371859_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964211779",
+        "bookTitle": "재료공학",
+        "bookAuthor": "Donald R. Askeland, Wendelin J. Wright",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 33000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/305dddde283fa54d0cb666af96cea0c7a50bf9444831966ea255b8a167da0685/1600251363751_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "주로 ppt로 강의하시는데 진짜 책 연습문제도 연습문제지만 무조건 유인물",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 4
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.72,
+        "count": 149,
+        "items": [
+          {
+            "value": 5,
+            "count": 118
+          },
+          {
+            "value": 4,
+            "count": 24
+          },
+          {
+            "value": 3,
+            "count": 4
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 149,
+          "items": [
+            {
+              "text": "없음",
+              "count": 66
+            },
+            {
+              "text": "보통",
+              "count": 83
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 149,
+          "items": [
+            {
+              "text": "없음",
+              "count": 136
+            },
+            {
+              "text": "보통",
+              "count": 13
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 149,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 107
+            },
+            {
+              "text": "보통",
+              "count": 42
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 149,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 7
+            },
+            {
+              "text": "전자출결",
+              "count": 50
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 91
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 149,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 147
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "시험문제도 다 교안에서 나오고 내용도 고체역학이랑 비스무리해서 고체역학 듣고 하면 많이 편해요. 책은 살 필요없고 중간중간에 부연설명이 궁금한것만 원서 pdf에서 읽어보고 했는데 충분했던것 같습니다. 목소리가 좀 나",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "교안에 없는 내용 설명\n(개어려움 이해 안됨)\n왜 하는지 모르겠음\n\n(모두가 찰칵 찰칵 일단 찍어가)",
+          "rate": 1,
+          "posvote": 13
+        }
+      ]
+    }
+  }
+}

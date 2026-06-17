@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 4.67,
+        "count": 3,
+        "items": [
+          {
+            "value": 5,
+            "count": 2
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 3,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 3,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 3,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 3,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 0
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 3
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 3,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 3
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "다른 실험 수업이랑 비슷비슷합니다 물화실보단 레포트 기준이 좀 더 빡셉니다",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "레포트가 너무 많아요 ㅠㅠㅠ걍 무난한 전공실험수업 느낌입니다",
+          "rate": 4,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

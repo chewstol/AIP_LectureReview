@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "전략은 없다 그냥 교수 좋아하는 척해서 교수 눈에 들고 안 찍히는게 중요",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 1.74,
+        "count": 23,
+        "items": [
+          {
+            "value": 5,
+            "count": 2
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 15
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 23,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 23,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 23,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 13
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 23,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 12
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 5
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 23,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 20
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "학생들 모두 교수님의 강의가 지루하고 재미없다고 생각합니다\n이는 교수님의 말씀이 디자인보다는 도시의 형태와 철학에\n더 가깝기 때문입니다\n\n하지만 교수님은 디자인으로만 범벅된 건축학과에\n어떤 형태와 건축이 이 도시와",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "오로지 학생들에 의해 굴러가는 골때리는 수업. \n시험출제, 인증보고서 양식, 수업 계획 모든걸 학생들한테 다맡기고 교수본인은 암것도 안함. 조교도 뭐하는지 모르겠음\n\n무엇을 상상하던 최악이 기다리고 있음",
+          "rate": 1,
+          "posvote": 8
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "한 문제 정도를 제외하고는 전부 과제에서 나왔습니다. 한 문제도 과제와 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 12
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 6
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.22,
+        "count": 36,
+        "items": [
+          {
+            "value": 5,
+            "count": 18
+          },
+          {
+            "value": 4,
+            "count": 13
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 23
+            },
+            {
+              "text": "많음",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 33
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 36,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 36,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 29
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 36
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "시험:\n시험을 한 문제 빼고 과제에서 숫자도 안 바꾸고 출제하시기 때문에 풀이와 답을 외우는 것이 중요하다. 근데 시험을 다같이 잘 보지 않는다.\n\n강의:\n교수님 강의력은 떨어지는 것 같지는 않다. 그리고 학생들에게",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "강의력 부족… 과제 많음.. 절대 듣지 마세요 ㅠ",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

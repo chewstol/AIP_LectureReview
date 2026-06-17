@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788930089982",
+        "bookTitle": "현대 사회학 이론",
+        "bookAuthor": "조나단 터너",
+        "bookPublisher": "나남",
+        "bookPrice": 34000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/a1a85813c506217ed3333d7d4bfae712fbf76a962649dcdf71af6c896fc21919/1777214286591_0.jpg"
+      },
+      {
+        "bookIsbn": "9788946065239",
+        "bookTitle": "은유로 사회 읽기",
+        "bookAuthor": "대니얼 리그니",
+        "bookPublisher": "한울아카데미",
+        "bookPrice": 33000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/930265b01eb3123bdfe8c1625a8db0813b12d7d465312ae78182c16cdee0ea97/1639898716120_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "사회학이론 중간고사 대체과제입니다.\n\n- 국내 또는 해외 문학작품 하나를",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.73,
+        "count": 100,
+        "items": [
+          {
+            "value": 5,
+            "count": 79
+          },
+          {
+            "value": 4,
+            "count": 16
+          },
+          {
+            "value": 3,
+            "count": 4
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 100,
+          "items": [
+            {
+              "text": "없음",
+              "count": 48
+            },
+            {
+              "text": "보통",
+              "count": 52
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 100,
+          "items": [
+            {
+              "text": "없음",
+              "count": 94
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 100,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 76
+            },
+            {
+              "text": "보통",
+              "count": 24
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 100,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 8
+            },
+            {
+              "text": "전자출결",
+              "count": 71
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 18
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 100,
+          "items": [
+            {
+              "text": "없음",
+              "count": 38
+            },
+            {
+              "text": "한 번",
+              "count": 33
+            },
+            {
+              "text": "두 번",
+              "count": 29
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "갓봉석 그간 수업들보다 더 체계적이고 깊이 있는데 재미는 그대로였습니다. 중간과제는 은유로 사회읽기라는 책 요약하고 관련 텍스트 분석하는 레포트 기말과제는 논술형 문제 풀기 과제였습니다. 너무 빡세지도 않고 배워가는",
+          "rate": 5,
+          "posvote": 9
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "종강 5일남았는데 기말 대체 과제의 존재만을 몇 주 전에 언급했을 뿐 여전히 어떠한 공지도 하지 않은 교수가 있다..? 수업은 꿀잼이나 불안해서 살 수가 없음..",
+          "rate": 2,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

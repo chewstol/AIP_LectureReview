@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791197293566",
+        "bookTitle": "혼자서 익히는 통계분석",
+        "bookAuthor": "김효창, 김경숙, 김선화, 이인숙",
+        "bookPublisher": "메디컬사이언스",
+        "bookPrice": 26000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/cc3ecdf6e7a2361909e1b899b9eb1d06ee79ca4754a6f0b513d69d40458ae061/1755835415213_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "코로나 학기라서 오픈북이었지만 글쎄요... 오픈북이어도 시간 엄청모자르고",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 90,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 48
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 38
+            },
+            {
+              "text": "논술형",
+              "count": 31
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 39,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 21
+            },
+            {
+              "text": "논술형",
+              "count": 17
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.8,
+        "count": 504,
+        "items": [
+          {
+            "value": 5,
+            "count": 157
+          },
+          {
+            "value": 4,
+            "count": 174
+          },
+          {
+            "value": 3,
+            "count": 113
+          },
+          {
+            "value": 2,
+            "count": 33
+          },
+          {
+            "value": 1,
+            "count": 27
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 503,
+          "items": [
+            {
+              "text": "없음",
+              "count": 146
+            },
+            {
+              "text": "보통",
+              "count": 330
+            },
+            {
+              "text": "많음",
+              "count": 27
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 503,
+          "items": [
+            {
+              "text": "없음",
+              "count": 477
+            },
+            {
+              "text": "보통",
+              "count": 22
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 503,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 87
+            },
+            {
+              "text": "보통",
+              "count": 277
+            },
+            {
+              "text": "깐깐함",
+              "count": 139
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 503,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 51
+            },
+            {
+              "text": "전자출결",
+              "count": 324
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 84
+            },
+            {
+              "text": "복합적",
+              "count": 42
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 503,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 17
+            },
+            {
+              "text": "두 번",
+              "count": 483
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "아래 강평들 보면 알겠지만 호불호가 많이 갈리는 과목인듯 개인적으로는 공식같은 지엽적인 암기가 아니라 내용의 이해가 주된 수업이라서 괜찮았음 교수님도 영어 섞어 쓰시지만 강의력 되게 좋으시고 솔직히 아래에 자막 처리",
+          "rate": 5,
+          "posvote": 11
+        },
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "슬라이드에 English 너무 많음.\n내용이 문과생에겐 so hard.\nunderstand 못함.",
+          "rate": 1,
+          "posvote": 28
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "중간고사 초반에 반영 비율 있었는데 한 2주 전에 없다고 공지 하셨습니다",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 5,
+        "count": 3,
+        "items": [
+          {
+            "value": 5,
+            "count": 3
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 3,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 3,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 3,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 3,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 3
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 0
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 3,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 3
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "교수님의 성향상 우리가 과제를 직접 수행하면서 배우는 것을 강조하신다. 대신 학생들의 부담을 줄이기 위해 중간고사 없이 기말 퀴즈와 기말 프로젝트, 머신러닝 과제가 주어지고 캐글을 통해 Public Score와 Pr",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "과제는 간단한 코드 변경+보고서 (매우 간단하게)\n혹은 캐글 경쟁. 교수님스럽게 별로 어려운 건 없음.\n조교분들 질문 잘 받아주심.\n중간시험 없음. 대체과제\n\n수업 내용은 평범한 기계학습원론 내용\n갓메르",
+          "rate": 5,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

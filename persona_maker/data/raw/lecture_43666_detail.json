@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504628",
+        "bookTitle": "학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 김종규, 이기백, 김치헌, 김상현",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 25000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/8e515a7a7bbce838fee84334aa7a46b476fd36a15c7ee49940e75ba71e8fe3d0/1640670223069_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500606",
+        "bookTitle": "비판적 사고 학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 박상태, 한기호, 김상현, 이창후",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/90f36604407c7c52b7a6ac7a168b6aa4bf1cb7cb46773bf2c98ff44c8a570aa7/1693236428999_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "15주차 일요일까지 제출하는 최종레포트입니다.\n13~14주차동안 수업시간",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.59,
+        "count": 352,
+        "items": [
+          {
+            "value": 5,
+            "count": 95
+          },
+          {
+            "value": 4,
+            "count": 114
+          },
+          {
+            "value": 3,
+            "count": 77
+          },
+          {
+            "value": 2,
+            "count": 36
+          },
+          {
+            "value": 1,
+            "count": 30
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 352,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 135
+            },
+            {
+              "text": "많음",
+              "count": 216
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 352,
+          "items": [
+            {
+              "text": "없음",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 31
+            },
+            {
+              "text": "많음",
+              "count": 313
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 352,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 92
+            },
+            {
+              "text": "보통",
+              "count": 198
+            },
+            {
+              "text": "깐깐함",
+              "count": 62
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 352,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 10
+            },
+            {
+              "text": "전자출결",
+              "count": 56
+            },
+            {
+              "text": "지정좌석",
+              "count": 7
+            },
+            {
+              "text": "직접호명",
+              "count": 211
+            },
+            {
+              "text": "복합적",
+              "count": 68
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 352,
+          "items": [
+            {
+              "text": "없음",
+              "count": 326
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 19
+            },
+            {
+              "text": "세 번",
+              "count": 3
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "1. 코로나 학기였고, 팀플이 없었다.\n2. 나는 에이플러스를 받았다.\n3. 거의 매주 글쓰기 과제가 있었다. 분량은 에이포 용지 1쪽 정도? \n4. 과제로 내주신 책이 쉽지 않았다. 여권의 옹호, 윤리형이상학정초",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "팀플 산더미, 아캠 메세지 끝까지 안 읽음, 꼰\n도.망.쳐\n듣.지.마",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

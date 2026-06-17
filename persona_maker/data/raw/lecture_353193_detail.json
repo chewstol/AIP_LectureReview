@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "평소 수업을 열심히 듣고,\n책의 내용들이 함의하는 바에 대해 생각해놓으시",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.51,
+        "count": 35,
+        "items": [
+          {
+            "value": 5,
+            "count": 22
+          },
+          {
+            "value": 4,
+            "count": 11
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 35,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 30
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 35,
+          "items": [
+            {
+              "text": "없음",
+              "count": 34
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 35,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 35,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 16
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 7
+            },
+            {
+              "text": "복합적",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 35,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "한 번",
+              "count": 14
+            },
+            {
+              "text": "두 번",
+              "count": 1
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2017,
+          "semester": "2",
+          "text": "매주 화요일 밤만 되면 내가 이걸 왜 했지라는 후회가 밀려 올  정도로 과제가 빡세다. 대략 200페이지 분량을 줄거리만 요약하는 것인데 이게 쉽지가 않다. 덕분에 이 과제들만으로도 성적이 고르게 분포되어 시험 없이",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "\"야 너 뭐야, 니네 과 학과장이 너 그딴식으로 가르쳤어 ? 넌 f에 학사경고에 내가 줄 수 있는 모든 불이익 다 받게 할거야 앞으로 수업 그냥 들어오지마 !!\"",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791158080297",
+        "bookTitle": "확률 및 랜덤 프로세스",
+        "bookAuthor": "Alberto Leon-Garcia",
+        "bookPublisher": "자유아카데미",
+        "bookPrice": 32000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/44ccd53abc9a970b49bdaaf6156734187ee48d93c39fb5c9225bfda67c1ad52d/1607407409843_0.jpg"
+      },
+      {
+        "bookIsbn": "9780132336215",
+        "bookTitle": "Probability, Statistics and Random Processes for Electrical Engineering",
+        "bookAuthor": "Leon-Garcia",
+        "bookPublisher": "Prentice-Hall",
+        "bookPrice": 62000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/8554cfdd7cc8ef30aa215bdcd4024b9a0e0b5ceb00123a83cb737ede4b3a5e58/1671863986521_0.jpg"
+      },
+      {
+        "bookIsbn": "9788945045195",
+        "bookTitle": "확률 및 랜덤 프로세스(한글3판)(3판)",
+        "bookAuthor": "ALBERTO LEON GARCIA",
+        "bookPublisher": "자유아카데미",
+        "bookPrice": 32000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/83e45d3cdcdec0d42c9f457bcdeda2d10eb50968b07151f393b4fb3094906c1f/1582549130741_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사 기말고사 모두\n스터디 가이드에 올려주시는 딱 그 부분만\n책에 있",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.15,
+        "count": 151,
+        "items": [
+          {
+            "value": 5,
+            "count": 67
+          },
+          {
+            "value": 4,
+            "count": 50
+          },
+          {
+            "value": 3,
+            "count": 27
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 151,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 135
+            },
+            {
+              "text": "많음",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 151,
+          "items": [
+            {
+              "text": "없음",
+              "count": 130
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 151,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 82
+            },
+            {
+              "text": "보통",
+              "count": 64
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 151,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 7
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 140
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 151,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 149
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "솔직히 공부한 시간대비 시험점수 학점 가성비 갑인 것 같다",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "그냥 그래요. 혼자 필기만 죽어라 하는데 너무 빨라서 다 받아적지도 못합니다. 필기만 적다보면 수업을 못 들어서 결국 독학해야하네요.\n이번에 A컷 45퍼였습니다. 국제어인데 50퍼도 안 채워주네요.",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

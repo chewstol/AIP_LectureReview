@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791198263070",
+        "bookTitle": "객관식 회계사 상법신강",
+        "bookAuthor": "김혁붕, 정인환",
+        "bookPublisher": "여울",
+        "bookPrice": 24000,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/be47aabf25da9c460fbef30a20e73b3ebc0356dee9dd861a2a820ac62cc82da1/1741182660496_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130339900",
+        "bookTitle": "상법학쟁점",
+        "bookAuthor": "정경영",
+        "bookPublisher": "박영사",
+        "bookPrice": 47000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/93536e8339a9af6dfd0b7d64925de609dcd1fedb2207b4cc4aeb5c9fc6bbff8e/1761546943938_0.jpg"
+      },
+      {
+        "bookIsbn": "9791157501540",
+        "bookTitle": "2022 회계사 상법",
+        "bookAuthor": "오수철, 심유식",
+        "bookPublisher": "나무와사람",
+        "bookPrice": 40000,
+        "price": 1234,
+        "coverImage": "https://cf-cii.everytime.kr/cd035ac2a338c02df56264facfa0a4f05db9f76179ad3d2db6a1fb0a73b3cd6f/1649850336007_0.jpg"
+      },
+      {
+        "bookIsbn": "9791157501557",
+        "bookTitle": "2022 회계사 상법 강의노트",
+        "bookAuthor": "심유식",
+        "bookPublisher": "나무와사람",
+        "bookPrice": 17000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/98c894df0ca5cdca6091545ed7421b9a830a7156601b97063c79e8db0b0bd097/1709722062165_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130329161",
+        "bookTitle": "상법학쟁점",
+        "bookAuthor": "정경영",
+        "bookPublisher": "박영사",
+        "bookPrice": 28000,
+        "price": 11000,
+        "coverImage": "https://cf-cii.everytime.kr/2346edee4e182fe6faa7ad330353415dc28ef8b6b76ffba2a6c75b690a46055a/1715340655220_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교안에 있는 문구를 그대로 내시고, 문구나 서술어만 살짝 변형 하십니다.",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 9
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.8,
+        "count": 218,
+        "items": [
+          {
+            "value": 5,
+            "count": 189
+          },
+          {
+            "value": 4,
+            "count": 19
+          },
+          {
+            "value": 3,
+            "count": 7
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 216,
+          "items": [
+            {
+              "text": "없음",
+              "count": 179
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 216,
+          "items": [
+            {
+              "text": "없음",
+              "count": 211
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 216,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 185
+            },
+            {
+              "text": "보통",
+              "count": 31
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 216,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 20
+            },
+            {
+              "text": "전자출결",
+              "count": 152
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 29
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 216,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 143
+            },
+            {
+              "text": "두 번",
+              "count": 73
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "솔직히 인성만큼은 킹갓제너럴 교수님임... 판사하고 오셔서 그런가 진짜 갓 중립과 엄청난 품격이 느껴지신다. 이번학기 절평이라 학점 다 잘 주시려고 한듯. 시험이 예상 시간보다 일찍 종료돼서 교수님께서 뒤에 정답처리",
+          "rate": 5,
+          "posvote": 6
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "공부할 양 너무 많음... 그리고 시험이 그렇게 날로 먹을 수 있는 시험 아님 강의 듣기 전에 생각 잘 하고 신청하세요",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

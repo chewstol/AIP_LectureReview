@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "지엽적으로도 많이나와서 꼼꼼히 공부해야하고 공정방법 같은것도 알아두셔야해",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.94,
+        "count": 33,
+        "items": [
+          {
+            "value": 5,
+            "count": 31
+          },
+          {
+            "value": 4,
+            "count": 2
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 33,
+          "items": [
+            {
+              "text": "없음",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 33,
+          "items": [
+            {
+              "text": "없음",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 33,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 21
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 33,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 8
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 23
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 33,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 33
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "말이 필요 없다. 젠틀한 성격, 흠잡을 곳 없는 강의력, 인간적인 성격 삼박자를 두루 갖추셨다. 이차전지의 아이돌이라 불려도 손색이 없다. 조만간 산소재공학과 몇몇 교수님들처럼 두터운 팬덤을 가지실 것으로 예상해본다",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "저처럼 배터리 잘 모르는데 그냥 꿀강같아서 신청하는 건 레알 비추입니다 양도 엄청 많고 어려워요 교수님 인품은 좋으신데 중요한걸 다 가르쳐주려고 하시다보니 양이 너무 많아요 특히 반도체 위주로만 수업 듣던 사람이 들",
+          "rate": 4,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

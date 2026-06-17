@@ -1,0 +1,311 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788977151277",
+        "bookTitle": "청소년을 위한 서양음악사(2판)",
+        "bookAuthor": "이동활",
+        "bookPublisher": "두리미디어",
+        "bookPrice": 15000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/3fd2545e264df3f8863f833569f36ef9e621ba84a18fb719abed50b126eecb8b/1568065421293_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "년도 외우면 쉽게 풀 수 있는 문제가 출제됩니다. 물론 년도 몰라도 풀 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 36,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 32
+            },
+            {
+              "text": "주관식",
+              "count": 33
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 17
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 24,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 22
+            },
+            {
+              "text": "주관식",
+              "count": 21
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 11
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.98,
+        "count": 751,
+        "items": [
+          {
+            "value": 5,
+            "count": 307
+          },
+          {
+            "value": 4,
+            "count": 234
+          },
+          {
+            "value": 3,
+            "count": 136
+          },
+          {
+            "value": 2,
+            "count": 35
+          },
+          {
+            "value": 1,
+            "count": 39
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 751,
+          "items": [
+            {
+              "text": "없음",
+              "count": 122
+            },
+            {
+              "text": "보통",
+              "count": 608
+            },
+            {
+              "text": "많음",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 751,
+          "items": [
+            {
+              "text": "없음",
+              "count": 684
+            },
+            {
+              "text": "보통",
+              "count": 63
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 751,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 261
+            },
+            {
+              "text": "보통",
+              "count": 449
+            },
+            {
+              "text": "깐깐함",
+              "count": 41
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 751,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 48
+            },
+            {
+              "text": "전자출결",
+              "count": 361
+            },
+            {
+              "text": "지정좌석",
+              "count": 143
+            },
+            {
+              "text": "직접호명",
+              "count": 164
+            },
+            {
+              "text": "복합적",
+              "count": 35
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 751,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 323
+            },
+            {
+              "text": "두 번",
+              "count": 428
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "아래에 절대 듣지말라는 분들은\n단순히 꿀빨고 학점 잘따가는 강의만을 높게 보는 것 같습니다.\n솔직히 이 강의 이번학기만 그런건지 모르겠는데(현강)\n기말고사가 단순암기로는 제대로 풀기 어려울정도로,\n수업시간때만 말한",
+          "rate": 5,
+          "posvote": 9
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "군학점에 대한 배려가 전혀 없는 군학점 과목입니다.\n훈련으로 인해 시험에 응시하기 못하여 대체과제를 받았지만, 기말고사를 응시하지 않았다는 이유로 최하점으로 학점을 부여합니다. 갑작스럽게 생긴 훈련으로 수강신청할 때",
+          "rate": 1,
+          "posvote": 38
+        }
+      ]
+    }
+  }
+}

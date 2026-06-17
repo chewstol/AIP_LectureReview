@@ -1,0 +1,6 @@
+﻿feature_set,model,params,fold,mse,rmse,mae,epochs_run
+tfidf16_leakage_safe,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",1,0.011498708984686657,0.10723203338875309,0.07574666606951994,433
+tfidf16_leakage_safe,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",2,0.006203461381825416,0.07876205546978454,0.060547443062255624,351
+tfidf16_leakage_safe,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",3,0.008748663426258727,0.09353429010934293,0.06829616028189504,412
+tfidf16_leakage_safe,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",4,0.005990014101188428,0.07739518138223095,0.05559674728807979,368
+tfidf16_leakage_safe,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.007596488079549197,0.08715783429818112,0.06609277261390593,243

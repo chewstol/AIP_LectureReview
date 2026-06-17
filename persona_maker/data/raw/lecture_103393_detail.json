@@ -1,0 +1,313 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788964214374",
+        "bookTitle": "마이크로전자회로",
+        "bookAuthor": "Adel S. Sedra, Kenneth C. Smith, Tony Chan Carusone, Vincent Caudet",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 45000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/5756cb514a97382d2bf791a7a59ce900a6bd3441bbbd0035786662a5f60002ec/1709529604187_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132101642",
+        "bookTitle": "전자재료물성 및 소자공학",
+        "bookAuthor": "S. O. Kasap",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 39000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/ffc9145f91e025a9206ba6a7839ce553deac1950210016c130a2ee8fcf4c2cdd/1708488822754_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964212707",
+        "bookTitle": "마이크로전자회로",
+        "bookAuthor": "Adel S. Sedra, Kenneth C. Smith",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 43000,
+        "price": 19000,
+        "coverImage": "https://cf-cii.everytime.kr/520d8be3cb538b8963ab5fd9d463c224ceff42e25d9ea6503ff202c0c060040a/1663784448526_0.jpg"
+      },
+      {
+        "bookIsbn": "9780199339143",
+        "bookTitle": "Microelectronic Circuits",
+        "bookAuthor": "Sedra",
+        "bookPublisher": "Oxford University Press",
+        "bookPrice": 50000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/c66d77d6e87cbd33a0524fbd0fc923731fd282448c5b0f2594e0751298d57ff1/1768714037046_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964210819",
+        "bookTitle": "마이크로전자회로(6판)(CD1장포함)",
+        "bookAuthor": "Sedra, Smith",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 42000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/b931178251edc133242d42d268e4f52b54dcf182c851467f92ab004814e9abe8/1520813077395_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "퀴즈1 3문제가 나왔다 총점 40점\n1번 꼬리 2개 10점\n2번 꼬리 4",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 7
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.51,
+        "count": 91,
+        "items": [
+          {
+            "value": 5,
+            "count": 60
+          },
+          {
+            "value": 4,
+            "count": 21
+          },
+          {
+            "value": 3,
+            "count": 7
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 91,
+          "items": [
+            {
+              "text": "없음",
+              "count": 15
+            },
+            {
+              "text": "보통",
+              "count": 45
+            },
+            {
+              "text": "많음",
+              "count": 31
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 91,
+          "items": [
+            {
+              "text": "없음",
+              "count": 81
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 91,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 49
+            },
+            {
+              "text": "보통",
+              "count": 42
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 91,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 36
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 50
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 91,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 35
+            },
+            {
+              "text": "세 번",
+              "count": 46
+            },
+            {
+              "text": "네 번 이상",
+              "count": 10
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "교수님 영어발음이 캘리포니아 네이티브임... 한국어로 보충설명도 자세히 해주심... 과제는 따로 안주시고 풀어보면 도움되는 문제들 단원당 10개정도 올려주시는데 여기서  시험문제 꽤 나옴",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "적당히하세요 진짜 양심이있어야지 본인바쁘다고 학생을 조지는 이시대의 참교수 ^^",
+          "rate": 1,
+          "posvote": 5
+        }
+      ]
+    }
+  }
+}

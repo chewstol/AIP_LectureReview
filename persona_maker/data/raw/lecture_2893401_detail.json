@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 5,
+        "count": 5,
+        "items": [
+          {
+            "value": 5,
+            "count": 5
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 5,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 5,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 5,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 5,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 0
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 5
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 5,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 5
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "김범규 그는 신이다\n\n강의력 너무 좋고 교수님 사람 자체도 좋았음\n수업은 전자기학이라는 과목 자체보단 물리학이라는 학문 이해에 초점이 맞춰져 있어서 본 전공을 좀 더 원론적으로 이해하는데 도움이 됨\n\n개인적으로 우리",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "피피티에 틀린 부분이 많아서 헷갈릴수있으나\n직관적 설명이랑 던져주는 내용들은 정말 맛잇네요\n\n잭슨 내용 많이 포함되어잇고\n시험은 좀 틀리게 적어도 맥락만 맞으면 맞다고 해주시는듯",
+          "rate": 5,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "학기말에는 중간보다 조금 더 어려워서 수업 전체와 모든 수업 작품을 총결",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.71,
+        "count": 14,
+        "items": [
+          {
+            "value": 5,
+            "count": 10
+          },
+          {
+            "value": 4,
+            "count": 4
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 14,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 14,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 14,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 14,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 1
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 12
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 14,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 9
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "‘여성문학론‘인데 당연히 페미니즘이 있겠죠...? ㅋㅋㅋ 없을 수가 없습니다. 처음에는 여성 인권이나 여성이 쓴 소설만 다룰 것처럼 보이지만, &lt;소년이 온다>, &lt;대도시의 사랑법> 같은 소설도 다룹니다.",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "자잘자잘한 에세이나 요약 과제가 꽤 있었지만 한번쯤 들어보고 싶은 수업이엇습니다",
+          "rate": 4,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

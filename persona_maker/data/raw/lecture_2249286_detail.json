@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504017",
+        "bookTitle": "The Write Way",
+        "bookAuthor": "성균관대학교 학부대학",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 17000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/d109208b686704e5dd9ee34d02975e2968b55aaa5e644ca4769e53b6289db53f/1772633359504_0.jpg"
+      }
+    ],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 3.37,
+        "count": 49,
+        "items": [
+          {
+            "value": 5,
+            "count": 15
+          },
+          {
+            "value": 4,
+            "count": 13
+          },
+          {
+            "value": 3,
+            "count": 8
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 12
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 49,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 43
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 49,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 49,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 16
+            },
+            {
+              "text": "보통",
+              "count": 20
+            },
+            {
+              "text": "깐깐함",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 49,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 10
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 24
+            },
+            {
+              "text": "복합적",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 49,
+          "items": [
+            {
+              "text": "없음",
+              "count": 44
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 1
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "A4 double spaced로 내용만 8장이상 Essay 작성하셔야되고요, 과제 많습니다. 매주마다 과제있고 안하면 점수 깎여요. 열심히하면 얻어가는게 있을겁니다.\n그래도 교수님은 착하고 자비로우신 분이셔서 학생들",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "과제 진짜 개많음\n쓰기 실력을 늘린다기 보다는 사실 형식적인 측면을 배우는 게 강한 듯\n난 도움도 안 되고 듣기 싫어 미치겠는데 다른 사람들은 열심히 참여하는 게 신기함... 드랍할 걸",
+          "rate": 1,
+          "posvote": 6
+        }
+      ]
+    }
+  }
+}

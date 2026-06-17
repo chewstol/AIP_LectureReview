@@ -1,0 +1,313 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788971106242",
+        "bookTitle": "현대통계학",
+        "bookAuthor": "김현중, 박래수, 박정식, 윤영선",
+        "bookPublisher": "다산출판사",
+        "bookPrice": 30000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/f8a85ad890c1e957c0de948b04eb7b6c35a5f99ba3e5a9129eaf119111e31ec9/1725197718444_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955016857",
+        "bookTitle": "엑셀과 R Commander를 활용한 통계",
+        "bookAuthor": "김태웅",
+        "bookPublisher": "신영사",
+        "bookPrice": 27000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/777a86ed4f1c162e7a0734094a369b195d0d44e1c90dd4d6dc41aadbb0805f07/1709485371748_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955015638",
+        "bookTitle": "통계학개론(4판)(양장본 HardCover)",
+        "bookAuthor": "김태웅",
+        "bookPublisher": "신영사",
+        "bookPrice": 25000,
+        "price": 2000,
+        "coverImage": "https://cf-cii.everytime.kr/774f09f181e0efc9cf8729468057087593bb02920792d2515bde41b44a67bd5a/1622794456915_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130300245",
+        "bookTitle": "통계학 탐구",
+        "bookAuthor": "김성주",
+        "bookPublisher": "박영사",
+        "bookPrice": 26000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/20bc8e7b73fe6a02ad2323b556aa62cb8afd2ac7fb5d6f870129f21e46a02cf5/1631036549447_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130301686",
+        "bookTitle": "통계학원론",
+        "bookAuthor": "김동욱",
+        "bookPublisher": "박영사",
+        "bookPrice": 26000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/cb242c663fc930b37a6fce380c7653913acd52f491fb3e7f3f1945ed1df8ffce/1718435081091_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "총 10문제 나왔고, 모든문제가 연습문제와 예제에서 동일 혹은 유사하게 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 38,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 29
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 6
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 26,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 5
+            },
+            {
+              "text": "주관식",
+              "count": 16
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 10
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "3차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.54,
+        "count": 544,
+        "items": [
+          {
+            "value": 5,
+            "count": 363
+          },
+          {
+            "value": 4,
+            "count": 126
+          },
+          {
+            "value": 3,
+            "count": 47
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 544,
+          "items": [
+            {
+              "text": "없음",
+              "count": 243
+            },
+            {
+              "text": "보통",
+              "count": 278
+            },
+            {
+              "text": "많음",
+              "count": 23
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 544,
+          "items": [
+            {
+              "text": "없음",
+              "count": 509
+            },
+            {
+              "text": "보통",
+              "count": 35
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 544,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 396
+            },
+            {
+              "text": "보통",
+              "count": 146
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 544,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 51
+            },
+            {
+              "text": "전자출결",
+              "count": 335
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 119
+            },
+            {
+              "text": "복합적",
+              "count": 37
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 544,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 202
+            },
+            {
+              "text": "두 번",
+              "count": 340
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "수학과 학생인데 교수님  넘넘좋다ㅠ. 우리 배종식 쌤 명륜보내고 이준석 쌤 율전으로 데려왔으면 좋겠다ㅠ",
+          "rate": 5,
+          "posvote": 6
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "평점이 높은걸 전혀 이해할수 없는 강의\n열정? 있었으면 시험문제 수분반 금분반 같이 안냈음\n수업도 그냥 렉쳐노트 읽는 수준. 한강 듣고 수업 안듣고 교과서만 보고 에이쁠 쉽게 땀. 시험문제 연습문제랑 숫자도 안바꾸고",
+          "rate": 1,
+          "posvote": 5
+        }
+      ]
+    }
+  }
+}

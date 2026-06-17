@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781292229478",
+        "bookTitle": "Campbell Biology: Concepts & Connections, Global Edition",
+        "bookAuthor": "없음",
+        "bookPublisher": "없음",
+        "bookPrice": 164400,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/120a9180e99145b146d55bdc8881b269c40eb992a26fd6ae88c94b33853fd477/1641194738624_0.jpg"
+      },
+      {
+        "bookIsbn": "9780321526502",
+        "bookTitle": "Biology : Concepts and Connections",
+        "bookAuthor": "Jane B. Reece",
+        "bookPublisher": "Pearson Education Corporate",
+        "bookPrice": 48000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/5ad5ed8c1b21772cb8a1fe08c9f7ced2bb62c25aeb7ab408b0476e48884cf462/1536387625029_0.jpg"
+      },
+      {
+        "bookIsbn": "9780321761583",
+        "bookTitle": "Campbell Biology: Concepts and connections",
+        "bookAuthor": "Jane B. Reece",
+        "bookPublisher": "Pearson Education Asia",
+        "bookPrice": 47000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/21947db02ed18179d20efe9b236acf68bf53e65652fe61118c9e90608477792c/1662949157381_0.jpg"
+      },
+      {
+        "bookIsbn": "9788992709651",
+        "bookTitle": "생명과학(캠벨)(9판)",
+        "bookAuthor": "Jane B. Reece, Lisa A. Urry, Michael L. Cain, Steven A. Wasserman",
+        "bookPublisher": "바이오사이언스",
+        "bookPrice": 60000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/97d50d14cb95795de2176b26d1f8c5e8be6d89372ff42e414430fe55b897b662/1576335858869_0.jpg"
+      },
+      {
+        "bookIsbn": "9788945049124",
+        "bookTitle": "생명과학(7판)(개념과현상의이해)(전2권)",
+        "bookAuthor": "Reece, Taylor, Simon, Dickey",
+        "bookPublisher": "PEARSON EDUCATION KOREA",
+        "bookPrice": 35000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/d67ea56552b507d7ad2a61bd18d3dc071bfacdf5c0fd1cd3e01a32f3c0d6d131/1585326740218_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "책 한번 쯤은 읽어보고 문제은행 무조건 보기\n책 단원별 문제랑 문제은행에",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 5
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.46,
+        "count": 65,
+        "items": [
+          {
+            "value": 5,
+            "count": 39
+          },
+          {
+            "value": 4,
+            "count": 19
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 65,
+          "items": [
+            {
+              "text": "없음",
+              "count": 53
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 65,
+          "items": [
+            {
+              "text": "없음",
+              "count": 63
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 65,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 30
+            },
+            {
+              "text": "보통",
+              "count": 35
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 65,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 4
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 61
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 65,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 64
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "출튀 심한 날에 수업 끝날때 출석 다시 부르신 적 있으니까 주의",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "초반에 메일을 보냈는데 읽씹함; 교수가 기본적인 예의가 없네.. 그래서 마음에 안듦. 쪼잔해 보일지라도 나도 사람인지라 이런 감정은 어쩔 수가 없네. 1점도 아깝다.",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

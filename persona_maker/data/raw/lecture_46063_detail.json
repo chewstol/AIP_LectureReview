@@ -1,0 +1,295 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9789813135239",
+        "bookTitle": "Linear Algebra and Its Applications",
+        "bookAuthor": "David C. Lay",
+        "bookPublisher": "Pearson Education",
+        "bookPrice": 49000,
+        "price": 9900,
+        "coverImage": "https://cf-cii.everytime.kr/92d56c61d05279f42a1c91f97508bfe8d728db7ce212e9af7d3002ee3c4184be/1771138989907_0.jpg"
+      },
+      {
+        "bookIsbn": "9781428824119",
+        "bookTitle": "for Linear Algebra with Applications by Steven J. Leon, ISBN: 9780131857858",
+        "bookAuthor": "Textbook Revie Cram101 Textbook Reviews",
+        "bookPublisher": "Academic Internet Publishers",
+        "bookPrice": 40500,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/eaf549ee5135c2f017114bad6d2c27d6939633d6d400b27e0162c8dd783507b9/1520390412922_0.jpg"
+      },
+      {
+        "bookIsbn": "9780132003063",
+        "bookTitle": "Linear Algebra with Applications",
+        "bookAuthor": "Leon",
+        "bookPublisher": "Pearson Education Korea",
+        "bookPrice": 10000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/14dcc3c3625beb6befd12a92cc286c037a388b60a212cf7a9624e2f4d7109a5f/1742963710593_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "수업을 듣는다. 이게 제일 점수 잘 받는 방법이다.\n공기수와 달리 문풀보",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 7
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 5
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.72,
+        "count": 113,
+        "items": [
+          {
+            "value": 5,
+            "count": 34
+          },
+          {
+            "value": 4,
+            "count": 35
+          },
+          {
+            "value": 3,
+            "count": 31
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 9
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 113,
+          "items": [
+            {
+              "text": "없음",
+              "count": 31
+            },
+            {
+              "text": "보통",
+              "count": 74
+            },
+            {
+              "text": "많음",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 113,
+          "items": [
+            {
+              "text": "없음",
+              "count": 96
+            },
+            {
+              "text": "보통",
+              "count": 16
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 113,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 69
+            },
+            {
+              "text": "깐깐함",
+              "count": 20
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 113,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 60
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 35
+            },
+            {
+              "text": "복합적",
+              "count": 18
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 113,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 110
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "그냥 갓임 꼭 들으셈.\n와 비쁠 나올줄 알았는데 에제 나오더라 ㄹㅇ 학점느님",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "로깔람빽따?!\n수업에 대한 열의는 보이는데 열의만 보이고 강의력 최악이고 예고 없는 퀴즈에 중간고사 직후에는 한명씩 짚으면서 몇점이냐고 물어보는 꼰머력까지...",
+          "rate": 1,
+          "posvote": 7
+        }
+      ]
+    }
+  }
+}

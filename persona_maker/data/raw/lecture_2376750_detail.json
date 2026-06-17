@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "1-2문제 더 있었던 것 같은데 솔직히 시간은 넉넉히 주셨고요. 배웠던 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.43,
+        "count": 67,
+        "items": [
+          {
+            "value": 5,
+            "count": 22
+          },
+          {
+            "value": 4,
+            "count": 18
+          },
+          {
+            "value": 3,
+            "count": 8
+          },
+          {
+            "value": 2,
+            "count": 5
+          },
+          {
+            "value": 1,
+            "count": 14
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 67,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "많음",
+              "count": 39
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 67,
+          "items": [
+            {
+              "text": "없음",
+              "count": 44
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 67,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 27
+            },
+            {
+              "text": "보통",
+              "count": 31
+            },
+            {
+              "text": "깐깐함",
+              "count": 9
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 67,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 46
+            },
+            {
+              "text": "지정좌석",
+              "count": 3
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 67,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "한 번",
+              "count": 34
+            },
+            {
+              "text": "두 번",
+              "count": 11
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "강의가 상대적으로 매우 짧다고 느껴짐.\n단, 열람 기간을 일주일만 주시기 때문에 그 주에 강의를 듣지 않으면 다시는 볼 수 없음.\n즉, 벼락치기 불가능함.\n과제는 필수과제 3개와 그 외의 과제들로 구성되는데 필수과제",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "겨울",
+          "text": "레전드로 처참한 수업임ㅋㅋ \n졸필인 사람들은 제발 다른 교수님꺼 들으세요",
+          "rate": 1,
+          "posvote": 7
+        }
+      ]
+    }
+  }
+}

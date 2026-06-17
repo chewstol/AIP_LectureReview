@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788996094067",
+        "bookTitle": "윤성우의 열혈 자료구조",
+        "bookAuthor": "윤성우",
+        "bookPublisher": "오렌지미디어",
+        "bookPrice": 27000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/c66d0870adcf648f5f2a40e38a5d36e18d9ed298dc103f1847cd5854d07a04fd/1535341252972_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "50분동안 6문제 길게 서술형으로 쓰는거였고, 시간 매우 부족했음. 시간",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 23,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 11
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 14
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.97,
+        "count": 168,
+        "items": [
+          {
+            "value": 5,
+            "count": 70
+          },
+          {
+            "value": 4,
+            "count": 51
+          },
+          {
+            "value": 3,
+            "count": 27
+          },
+          {
+            "value": 2,
+            "count": 12
+          },
+          {
+            "value": 1,
+            "count": 8
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 166,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 18
+            },
+            {
+              "text": "많음",
+              "count": 146
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 166,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 64
+            },
+            {
+              "text": "많음",
+              "count": 97
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 166,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 104
+            },
+            {
+              "text": "보통",
+              "count": 58
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 166,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 67
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 80
+            },
+            {
+              "text": "복합적",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 166,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 143
+            },
+            {
+              "text": "두 번",
+              "count": 21
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "과제만 제때제때 하면 잘 따라갈 수 있는데\n한번 밀리기 시작하면 끝도 없음",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "등록금이 아까운 수업. 과제는 엄청 많고 독학으로 다 처리하셔야 합니다",
+          "rate": 1,
+          "posvote": 17
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781266152115",
+        "bookTitle": "Thermodynamics 10E",
+        "bookAuthor": "Yunus Cengel, Michael A. Boles, Mehmet Kanoglu",
+        "bookPublisher": "McGraw-Hill Education",
+        "bookPrice": 63000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/e7f09dc48262157c10c7ffdd12984103d05782dcf1884d46fb16cbeabec0f467/1773124407044_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132116080",
+        "bookTitle": "Cengel의 열역학",
+        "bookAuthor": "Yunus A. Cengel, Michael A. Boles, Mehmet Kanoglu",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 39000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/85cd311a1cd5509814efb2a4571f1b1f3a00f73c55ebfa9faa28b41304c3f115/1756003966756_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132106609",
+        "bookTitle": "열역학",
+        "bookAuthor": "Yunus A. Cengel, Michael A. Boles, Mehmet Kanoglu",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 39000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/80810a5068be488291b7a058f3e3ad8719aead0df169fa0c169474cee61abc96/1709645289580_0.jpg"
+      },
+      {
+        "bookIsbn": "9789813157873",
+        "bookTitle": "THERMODYNAMICS: AN ENGINEERING APPROACH, SI",
+        "bookAuthor": "없음",
+        "bookPublisher": "없음",
+        "bookPrice": 159270,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/e73d4fc0752f645a3e7ef66e5e5b9af698a5fc4d2dda6c77c5058a1d4441ae22/1725492735679_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "1번은 개념과 간단한 문제입니다. 개념문제는 무슨 조건일 때 어떻게 되냐",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.64,
+        "count": 56,
+        "items": [
+          {
+            "value": 5,
+            "count": 41
+          },
+          {
+            "value": 4,
+            "count": 11
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 51
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 52
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 56,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 19
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 56,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 31
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 18
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 56
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "내가 첫 열역학을 조정완 교수님 수업을 들었더라면, 두번 듣는 일은 없었을 것이다.",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "강의는 이해되게 잘 해주시는데... 시험 너무 어렵네요 ㅜ 부분점수도 없고 틀린 사람은 왜 틀렸는지 알 수 없어서 얻어가는 게 반감되는 느낌",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

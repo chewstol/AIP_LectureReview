@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9782278110834",
+        "bookTitle": "Bonjour et bienvenue A1.1 - pour coreanophones - Livre-cahier...",
+        "bookAuthor": "Didier",
+        "bookPublisher": "Didier",
+        "bookPrice": 28000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/c35d1a4f2c2c2b188f599f320243d9d45358e084d59f264981f4256232ecd3c2/1772629459334_0.jpg"
+      },
+      {
+        "bookIsbn": "9782278093137",
+        "bookTitle": "Bonjour Et Bienvenue ! Livre + CD  안녕하세요 프랑스어 입문",
+        "bookAuthor": "Xxx",
+        "bookPublisher": "Didier",
+        "bookPrice": 27000,
+        "price": 3300,
+        "coverImage": "https://cf-cii.everytime.kr/b8227f9bdb9b48ee5b3f4287cd9418afb59393de067880cd4e03af315fcb1034/1629938477931_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979869774",
+        "bookTitle": "기초 프랑스어",
+        "bookAuthor": "성균관대학교 프랑스어문학과",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/7df8cb34d1d79e5b0d0a21db2f0377c370b23263aaa1f8f732ffc3a57ffb5c25/1645437298687_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님이 발음 읽어주시면 그대로 써야하고요\n문장 해석하는 문제랑\n빈칸 채",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 19
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.36,
+        "count": 164,
+        "items": [
+          {
+            "value": 5,
+            "count": 90
+          },
+          {
+            "value": 4,
+            "count": 48
+          },
+          {
+            "value": 3,
+            "count": 21
+          },
+          {
+            "value": 2,
+            "count": 5
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 163,
+          "items": [
+            {
+              "text": "없음",
+              "count": 26
+            },
+            {
+              "text": "보통",
+              "count": 131
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 163,
+          "items": [
+            {
+              "text": "없음",
+              "count": 89
+            },
+            {
+              "text": "보통",
+              "count": 65
+            },
+            {
+              "text": "많음",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 163,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 58
+            },
+            {
+              "text": "보통",
+              "count": 97
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 163,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 17
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 135
+            },
+            {
+              "text": "복합적",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 163,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 5
+            },
+            {
+              "text": "두 번",
+              "count": 155
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "교수님이 너무 좋아요 교수님 기프2 강평 보면 기프1 듣고 좋아서 들었다는 사람들 많은데 왜 그랬다는지 알겠어요\n매주 과제가 있기는 한데 전혀 힘든 과제 아니고 그냥 교과서에서 수업한 부분 읽고 녹음하기나 교과서 문",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "수업 시간에 발음 시키시는데 은근 스트레스입니다.. 꿀과목이라고 해서 신청했는데 절대 아니에요 다시 돌아가면 안 들을 것 같습니다",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

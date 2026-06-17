@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "시험은 오픈북이었고 시험 전에 요점 정리 영상 올렸는데 그거만 계속 공부",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.7,
+        "count": 20,
+        "items": [
+          {
+            "value": 5,
+            "count": 14
+          },
+          {
+            "value": 4,
+            "count": 6
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 20,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 16
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 20,
+          "items": [
+            {
+              "text": "없음",
+              "count": 19
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 20,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 20,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 16
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 3
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 20,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 20
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "매우 짜증납니다. 막학기라서 김민우 교수님 수업을 더 못 듣고 졸업해서 짜증납니다. 사랑받는 수업이 갖추어야할 모든 것들을 다 보여주셨습니다. 낭낭한 학점, 부담없는 객관식 시험, 좁은 시험범위, 유익한 수업내용,",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "个人觉得内容有点难 给分也一般 但是平时没什么事 俩次考试 一次作业",
+          "rate": 4,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

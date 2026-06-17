@@ -1,0 +1,301 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "토론은 루브릭을 잘 따르는 것이 중요하다. 주제를 당일날 알고 본인의 포",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 8
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.71,
+        "count": 98,
+        "items": [
+          {
+            "value": 5,
+            "count": 79
+          },
+          {
+            "value": 4,
+            "count": 14
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 98,
+          "items": [
+            {
+              "text": "없음",
+              "count": 80
+            },
+            {
+              "text": "보통",
+              "count": 16
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 98,
+          "items": [
+            {
+              "text": "없음",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "많음",
+              "count": 42
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 98,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 50
+            },
+            {
+              "text": "보통",
+              "count": 47
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 98,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 87
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 5
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 98,
+          "items": [
+            {
+              "text": "없음",
+              "count": 16
+            },
+            {
+              "text": "한 번",
+              "count": 3
+            },
+            {
+              "text": "두 번",
+              "count": 76
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "교수님은 너무 좋음 유쾌하시고 재밌으신데 재외국민이랑 외국인 유학생들이랑 같이 수업 들으면 사회적으로 죽는 기분 자주 듦 스트레스를 너무 많이 받아서 학기 말 되니까 대상포진 걸렸어요 토종 한국인이라면 그냥 피하시길",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "영어토론 별로예요 \n영어에 원어민급자신있으면 하세요",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

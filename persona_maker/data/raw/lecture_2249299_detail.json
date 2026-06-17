@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791159170416",
+        "bookTitle": "Let's go japanese 세트",
+        "bookAuthor": "성균관대학교 교재편찬위원회",
+        "bookPublisher": "제이앤씨",
+        "bookPrice": 24000,
+        "price": 2000,
+        "coverImage": "https://cf-cii.everytime.kr/a693da9fa7724e1e74edb0fc07d8eab2ccb027d8ff9e873628c04f3a5cbede02/1602333870609_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간 기말 둘 다 해당입니다(비슷함)\n교수님께서 주신 프린트 자료도 꼭 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 8
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.03,
+        "count": 58,
+        "items": [
+          {
+            "value": 5,
+            "count": 24
+          },
+          {
+            "value": 4,
+            "count": 17
+          },
+          {
+            "value": 3,
+            "count": 13
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 58,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 23
+            },
+            {
+              "text": "많음",
+              "count": 34
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 58,
+          "items": [
+            {
+              "text": "없음",
+              "count": 56
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 58,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 12
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "깐깐함",
+              "count": 12
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 58,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 7
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 47
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 58,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 50
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "워크북 과제랑 프린트 과제가 있어서 과제가 짜잘짜잘하게 많아서 좀 귀찮습니다. 그리고 교수님이 과제도 0.1단위로 체점하셔서 엄청 꼼꼼하게 하셔야 됩니다. 전 꼼꼼하게 안했더니 과제에서 좀 많이 깎였는데 최종적으로",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "난 유베였어서 수업내용은 너무 지루했음 그리고 맨날 1,2분 늦게끝내주심; 과제는 매주 워크북 있고 채점도 깐깐함 아무리 유베라도 신경써서 해야함 격주로 단어시험에 중간기말 둘다 있어서 한학기 내내 외우고 시험봐야했",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

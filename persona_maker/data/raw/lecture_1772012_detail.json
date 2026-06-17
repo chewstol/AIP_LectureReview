@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "시험 안 봅니다\n캡스톤 성공여부에 따라 학점 반영",
+      "questionTypes": [
+        {
+          "nth": "기타",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.56,
+        "count": 34,
+        "items": [
+          {
+            "value": 5,
+            "count": 9
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 19
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 34,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "많음",
+              "count": 24
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 34,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 27
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 34,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 22
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 34,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 11
+            },
+            {
+              "text": "전자출결",
+              "count": 10
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 6
+            },
+            {
+              "text": "복합적",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 34,
+          "items": [
+            {
+              "text": "없음",
+              "count": 32
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 1
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "스마트팩토리학과 대학원생들이랑 같이 팀프로젝트 함\n한학기동안 수업 4번인가밖에 안함\n시험 없음\n대학원생들이 대부분 맡아서 진행하므로 부담없음\n학점 그냥 거지같이만 안하면 A+주시는듯\n학점따기 핵꿀과목\n혼자 공부좀 하",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "그냥 개쓰레기 같은 과목.\n배울게 없는 최악의 교수.\n말한마디조차 지키지못하는 교수.\n5분이면 될 쓸데없는 말을 3시간동안 할 수 있는 최고의 능력.",
+          "rate": 1,
+          "posvote": 9
+        }
+      ]
+    }
+  }
+}

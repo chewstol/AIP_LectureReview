@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "그냥 아는 거 다 쓰면 됨\n공부 많이 해온 사람들은 a3 종이 줘도 모자",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.31,
+        "count": 32,
+        "items": [
+          {
+            "value": 5,
+            "count": 15
+          },
+          {
+            "value": 4,
+            "count": 12
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 32,
+          "items": [
+            {
+              "text": "없음",
+              "count": 15
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 32,
+          "items": [
+            {
+              "text": "없음",
+              "count": 27
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 32,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 21
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 32,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 4
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 17
+            },
+            {
+              "text": "복합적",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 32,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 29
+            },
+            {
+              "text": "두 번",
+              "count": 2
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "영상학과 복전생으로서 처음 들어본 전공이었는데요,\n'혼자' 듣고자 한다고 해도 크게 힘들 건 없는 것 같습니다!\n\n조별 발표 한 번, 기말 시험 한 번이 있는데요,\n발표는 사례 분석이고 6-7명이서 함께 하는데\n저는",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "수업 내용에 약간 긴가민가싶은 사담이 섞여있어서 필기 할 때 난항을 겪었습니다… 그래도 그거 외엔 좋아요… 참 기말 한방인 거 빼고 ㅜㅠ",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

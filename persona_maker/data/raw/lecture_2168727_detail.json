@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "ppt에 있는 인공지능 기법들 중에서 교수님이 설명 자세히 하시는 것들 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.52,
+        "count": 25,
+        "items": [
+          {
+            "value": 5,
+            "count": 8
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 7
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 25,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 18
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 25,
+          "items": [
+            {
+              "text": "없음",
+              "count": 19
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 25,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 25,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 11
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 8
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 25,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 24
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "공학과 인공지능 (X) 인공지능개론 (O) 두 교수님이 중간 / 기말 나누어서 수업하셨는데 스타일이 완전 상이하시다. 앞부분은 손미애 교수님이 머신러닝 등장 전 전통적 AI에 대해 주로 방법론 및 계산 쪽으로 수업하",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "인공지능에 관심이 있고 또 열심히 공부하면 학점도 잘 챙겨 갈 수 있겠지 해서 들었는데 후회한다..절때 듣지 마라....\n1. 시험 수준\n시험문제가 쓰래기같다. 시험문제가 어렵다? 내가 공부를 완벽하데 안한거니까 인",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788988825907",
+        "bookTitle": "경제 경영수학 길잡이",
+        "bookAuthor": "알파 치앙, Kevin Wainwright",
+        "bookPublisher": "한국맥그로힐",
+        "bookPrice": 34000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/f2161aec92d3c0e10262f4fb383dd837ca00a2904aee95dc5ab58c07fd0b77d7/1613307607680_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "문제 풀이 위주로 공부해야 과제, 시험 모두 해결하실 수 있습니다. 연습",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 17,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 6
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.76,
+        "count": 271,
+        "items": [
+          {
+            "value": 5,
+            "count": 73
+          },
+          {
+            "value": 4,
+            "count": 98
+          },
+          {
+            "value": 3,
+            "count": 72
+          },
+          {
+            "value": 2,
+            "count": 18
+          },
+          {
+            "value": 1,
+            "count": 10
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 271,
+          "items": [
+            {
+              "text": "없음",
+              "count": 73
+            },
+            {
+              "text": "보통",
+              "count": 173
+            },
+            {
+              "text": "많음",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 271,
+          "items": [
+            {
+              "text": "없음",
+              "count": 236
+            },
+            {
+              "text": "보통",
+              "count": 35
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 271,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 76
+            },
+            {
+              "text": "보통",
+              "count": 179
+            },
+            {
+              "text": "깐깐함",
+              "count": 16
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 271,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 123
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 127
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 271,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 261
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 9
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "아직 중간고사 전이긴 한데 진짜 너무 좋습니다\n경제,수학바보인데 차근차근 설명해주시고\n설명도 일관성 있어서 따라가기 좋아요\n그리고 좀 귀여우심…",
+          "rate": 5,
+          "posvote": 9
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "그냥 쓰레기 중의 쓰레기 강의 차라리 이걸 듣느니 비율 채워주고 플이라도 달리는 최창옥 교수님 수업 들으세요\n책 읽어주는 세 수업의 끝\n설명할 필요없는 미적분 부분에 2주 이상 할애하고 라그랑지 20분 진도 나간 뒤",
+          "rate": 1,
+          "posvote": 7
+        }
+      ]
+    }
+  }
+}

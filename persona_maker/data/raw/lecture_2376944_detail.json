@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "기말고사 대체 필기고사가 1번 있습니다. 난이도는 정말 나이브합니다. 객",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.65,
+        "count": 48,
+        "items": [
+          {
+            "value": 5,
+            "count": 35
+          },
+          {
+            "value": 4,
+            "count": 9
+          },
+          {
+            "value": 3,
+            "count": 4
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 48,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 36
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 48,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 43
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 48,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 48,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 14
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 6
+            },
+            {
+              "text": "복합적",
+              "count": 26
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 48,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 42
+            },
+            {
+              "text": "두 번",
+              "count": 6
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "서미혜 교수님 수업은 일단 듣는 게 이득입니다.. 교수님 강의 방식이 절평+매시간 토론+팀프로젝트 1-2개+기말고사 1번인데 토론은 출석체크용이고(디폴트가 만점) 팀플도 점수 편차 크지 않아서 기말 한번으로 결정난다",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "할게 너무 많아요... 제일 많아... 교안도 넘 중구난방이고 강의도 거의  토론식, 팀도 개인이 짜오기 할 게 너무 많아요ㅠㅠㅠ",
+          "rate": 3,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

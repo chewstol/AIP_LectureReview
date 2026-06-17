@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791132101673",
+        "bookTitle": "자동제어",
+        "bookAuthor": "Farid Golnaraghi, Benjamin C. Kuo",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 40000,
+        "price": 19000,
+        "coverImage": "https://cf-cii.everytime.kr/739ab76c2c1d73e61b827c7d2e52b889e59e4b260b01a2cee520aa89091916a5/1694520517500_0.jpg"
+      },
+      {
+        "bookIsbn": "9788957613696",
+        "bookTitle": "MATLAB 입문과 활용(쉽게 배우는)(3판)",
+        "bookAuthor": "여영구",
+        "bookPublisher": "아진",
+        "bookPrice": 30000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/b947a011867d88fa691e812bf1076915487c6d709dadbac685c4ebb24f9c998f/1585073944510_0.jpg"
+      },
+      {
+        "bookIsbn": "9789813151505",
+        "bookTitle": "Automatic Control Systems",
+        "bookAuthor": "Farid Golnaraghi, Benjamin C. kuo",
+        "bookPublisher": "McGRAW HILL",
+        "bookPrice": 50000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/ad54b9c3f11d6013a0e8a211d34093960e9c4139e47b74f7c47bc26cd49ce961/1630390767507_0.jpg"
+      },
+      {
+        "bookIsbn": "9788996391913",
+        "bookTitle": "자동제어(KUO의)(9판)",
+        "bookAuthor": "FARID GOLNARAGHI, BENJAMIN C KUO",
+        "bookPublisher": "퍼스트북",
+        "bookPrice": 35000,
+        "price": 2000,
+        "coverImage": "https://cf-cii.everytime.kr/1675a27652d57deb05d8472882da3f385ae5568d84d751ba2346882ac6b75162/1663855562881_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "앞분반 뒷분반 문제가 다릅니다. 저는 뒷분반이었고 오프라인 시험이었습니다",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 25,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 17
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.71,
+        "count": 224,
+        "items": [
+          {
+            "value": 5,
+            "count": 166
+          },
+          {
+            "value": 4,
+            "count": 51
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 224,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 107
+            },
+            {
+              "text": "많음",
+              "count": 115
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 224,
+          "items": [
+            {
+              "text": "없음",
+              "count": 201
+            },
+            {
+              "text": "보통",
+              "count": 23
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 224,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 135
+            },
+            {
+              "text": "보통",
+              "count": 87
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 224,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 81
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 128
+            },
+            {
+              "text": "복합적",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 224,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 221
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "종구오빠 사랑해요........\n사람도 좋고 수업도 잘하고 학점도 잘주고 뭐야 대체 힝힝!!!!!! 근데 오빠 과제가 많아..ㅜ 힘들어쬬\n근데 다 보상해줘서 쪼아 사랑해 ❤️",
+          "rate": 5,
+          "posvote": 10
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "수업 중간에 출첵하셔서 너무 좋으셨지만.. 개념을 자세하게 가르쳐주시지는 않는 편",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

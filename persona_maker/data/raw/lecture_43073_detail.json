@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "PPT에 있는 모든 내용을 내겠다는 교수님의 의지가 느껴지는 시험입니다.",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.74,
+        "count": 35,
+        "items": [
+          {
+            "value": 5,
+            "count": 26
+          },
+          {
+            "value": 4,
+            "count": 9
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 35,
+          "items": [
+            {
+              "text": "없음",
+              "count": 35
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 35,
+          "items": [
+            {
+              "text": "없음",
+              "count": 34
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 35,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 15
+            },
+            {
+              "text": "보통",
+              "count": 20
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 35,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 27
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 4
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 35,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 35
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "화학과 최고의 강의라고 생각합니다. 교수님께서 유기,무기화학에 대한 방대한 지식을 알려주시는데 양이 많아서 벅차기도하지만 그만큼 흥미롭기도 합니다. 정말 화학과 교양같은 느낌입니다. 화학에 대한 눈을 뜨게 해주는 과",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "이 강의에서 교수님이 전달하고 싶으신 내용은 유기금속화학의 기초적인 부분 + 화학과 학생들을 위한 화학 교양 느낌이에요. 정말 다양하고 어떻게 보면 이걸 왜 알아야하지 생각도 정말 많이 드는데 시험에 다 나옵니다.",
+          "rate": 4,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "교수님께서 시험 직전 수업에서  지필 힌트 주셨습니다. 퀴즈에서 2문제나",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.45,
+        "count": 40,
+        "items": [
+          {
+            "value": 5,
+            "count": 28
+          },
+          {
+            "value": 4,
+            "count": 7
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 40,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 23
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 40,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "많음",
+              "count": 20
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 40,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 33
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 40,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 38
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 0
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 40,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 39
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "갓생사는 기분을 느끼게 해준 과목.\n내가 고3인지 대학교 새내긴지 헷갈릴 정도",
+          "rate": 5,
+          "posvote": 15
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "매주 온라인 강의를 들음.\n매주 화요일에 온라인 강의 범위 퀴즈 (성적반영).\n매주 화요일에 팀플과제 (4문제).\n매주 목요일에 돌아가며 팀플발표(1문제에 1팀).\n가끔 개인과제.\n퀴즈+팀플+개인과제 : 시험범위.",
+          "rate": 1,
+          "posvote": 5
+        }
+      ]
+    }
+  }
+}

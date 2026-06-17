@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "교수님이 두분이셔서 시험도 두번 칩니다. 국제갈등 중간은 교수님이 미리 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.74,
+        "count": 19,
+        "items": [
+          {
+            "value": 5,
+            "count": 8
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 19,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 12
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 19,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 19,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 19,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 1
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 18
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 19,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 6
+            },
+            {
+              "text": "두 번",
+              "count": 7
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "교수님이 열정적이고 학생들 의견 듣는걸 좋아하심.\n토론과 토의 비중이 많지만 \n말하기 실력이나 발표 태도로 평가받는게 아니라 마음이 편했음.\n에세이 형식으로 중간 기말 보는데 솔직히 준비만 잘 해가면 그렇게 어려운",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "성적 상관없고 영어로 국제정치, 현재 정세, 외교에 대해 토의하고싶다? 자유로운 수업 분위기가 좋다? 하는 분들만 들으세요. 정확한 일정, 루브릭 전혀 없고 너무 당황스러운 수업이었습니다……. 얻어간게 있는지도 모라",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

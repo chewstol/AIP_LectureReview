@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788992603881",
+        "bookTitle": "일반화학실험",
+        "bookAuthor": "화학교재연구회",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 20000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/c853f4494d28c1ad1f7370631ef38e6df05ba8a5d995f4e68e89bfd0f621ef23/1772427949045_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "기말고사 1번만 시험 응시합니다.\n문제 뭐가 나올지  조교님께서 알려주시",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.76,
+        "count": 17,
+        "items": [
+          {
+            "value": 5,
+            "count": 14
+          },
+          {
+            "value": 4,
+            "count": 2
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 17,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 17,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 17,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 17,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 1
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 13
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 17,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "한 번",
+              "count": 13
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "25학년 1학기 기준 조교님 친절하고 좋으셨어요\n근데 교수님은 누군지 모릅니다..한번도 못봐서..\n그냥 조교에 따라 달라지니 수강평은 크게 의미 없을 수도 있으니 참고 바랍니다!",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "조바조인거같음. 조교 한명은 걍 놀고 꼽줌. 다른 조교님은 열심히 해주심",
+          "rate": 3,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

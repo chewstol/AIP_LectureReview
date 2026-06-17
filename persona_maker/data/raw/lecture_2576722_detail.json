@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "중간고사는 배외식 교수님, 기말고사는 양시영 교수님께서 강의하셨으며 이 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.31,
+        "count": 45,
+        "items": [
+          {
+            "value": 5,
+            "count": 21
+          },
+          {
+            "value": 4,
+            "count": 19
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 45
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 45
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 45,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 17
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 45,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 18
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 11
+            },
+            {
+              "text": "복합적",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 45,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 45
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "중간 범위는 배외식 교수님이, 기말 범위는 양시영 교수님이 강의하셨습니다.\n\n양시영 교수님 강의력에 대한 얘기가 많았는데 교수님 발음이 약간 알아듣기 좀 힘들긴 하지만, 그래도 저는 큰 불만 없이 들었던 것 같습니다",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "공부량이\n너무 많습니다. 교수님께서 짚지 않은 부분에서도 출제됩니더.",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

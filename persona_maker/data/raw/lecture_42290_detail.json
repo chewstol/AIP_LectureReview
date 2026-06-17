@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788964212455",
+        "bookTitle": "회로이론",
+        "bookAuthor": "James W. Nilsson, Susan A. Riedel",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 39000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/e026ca9551b17fc1021ced4ccaa06782a33979fc7f575f59bfb0d0d796a70b1b/1600178292900_0.jpg"
+      },
+      {
+        "bookIsbn": "9781292060545",
+        "bookTitle": "Electric Circuits",
+        "bookAuthor": "James W. Nilsson, Susan Rjedel",
+        "bookPublisher": "Pearson Higher Education",
+        "bookPrice": 47000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/51338ee8807b693c6e77361546f33072d78a5068e1719ff1d130359c66def9ff/1611970721110_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "문제 유형은 나올게 보이는데, 문제를 조금 꼬아서 내십니다.  \n일단 회",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.8,
+        "count": 152,
+        "items": [
+          {
+            "value": 5,
+            "count": 127
+          },
+          {
+            "value": 4,
+            "count": 20
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 152,
+          "items": [
+            {
+              "text": "없음",
+              "count": 131
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 152,
+          "items": [
+            {
+              "text": "없음",
+              "count": 147
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 152,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 104
+            },
+            {
+              "text": "보통",
+              "count": 48
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 152,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 7
+            },
+            {
+              "text": "전자출결",
+              "count": 58
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 70
+            },
+            {
+              "text": "복합적",
+              "count": 17
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 152,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 150
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "수업만 듣는다면 A는 깔고 가는 수업 같습니다. 시험도 어렵지 않고 교안의 문제들보다 조금만 더 어렵게 나왔었습니다.",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "학점을 잘주십니다 그것말고는 장점이 없는 수업\n과제 열심히 하세요 과제만 충실히 풀어도 성적 잘나옵니다",
+          "rate": 3,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

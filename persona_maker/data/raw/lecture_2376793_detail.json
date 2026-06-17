@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "시험은 없고 과제로 대체합니다. 법 관련 주제로 4장분량 레포트 작성하시",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.3,
+        "count": 57,
+        "items": [
+          {
+            "value": 5,
+            "count": 34
+          },
+          {
+            "value": 4,
+            "count": 14
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 57,
+          "items": [
+            {
+              "text": "없음",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 25
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 57,
+          "items": [
+            {
+              "text": "없음",
+              "count": 54
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 57,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 45
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 57,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 23
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 19
+            },
+            {
+              "text": "복합적",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 57,
+          "items": [
+            {
+              "text": "없음",
+              "count": 55
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 1
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "실시간으로 들어도 되고 대면 수업으로 참여해도 괜찮았어요! 이번 학기만 그런진 모르겠지만 한 학기 내내 편하게 부담없이 들은 과목입니다",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "성격이 조금 이상하심. 교재 안들고 왔다고(난챙겨옴ㅋ) 쌍욕하면서 갑자기 담부터 교재 안들고 오면 F 준다고 협박함. 교재 떄문에 F 준다는 사람 첨 봤음. 심지어 P/F 과목임 ㅋ . 수업도 뭔 영어 원문 띄워놓고",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

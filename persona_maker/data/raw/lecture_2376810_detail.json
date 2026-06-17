@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "시험이나 과제가 곧 팀플입니다.\n좋은 조원 만나는 운빨이 필요하고, 제대",
+      "questionTypes": [
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.13,
+        "count": 32,
+        "items": [
+          {
+            "value": 5,
+            "count": 16
+          },
+          {
+            "value": 4,
+            "count": 9
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 32,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 13
+            },
+            {
+              "text": "많음",
+              "count": 14
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 32,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 27
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 32,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 32,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 27
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 32,
+          "items": [
+            {
+              "text": "없음",
+              "count": 32
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "배워가는건 정말 많지만 6학점 같았어요. 본인이 열심히 안 하면 배워가는 것도 없을 겁니다. 수업 첫시간 자기소개 때는 분명 엄청난 경력의 사람들이 많았는데 긴장할 필요는 없습니다. 팀플의 폐해인지 결과물은 다 평범",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "한 학기 내내 시험,과제 대신 팀플만 진행하지만 차라리 시험을 봤으면..제발...할 정도로 할게 많은 과목이었습니다.  \n그럼에도 들어가는 노력 대비 성적 받기가 정말 정말 정말 힘듭니다. 또 팀플 과제가 '기업 분",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

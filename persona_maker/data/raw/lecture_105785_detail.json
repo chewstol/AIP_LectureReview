@@ -1,0 +1,349 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9789815077780",
+        "bookTitle": "Essentials of Financial Management",
+        "bookAuthor": "EUGENE F. BRIGHAM, JOEL F. HOUSTON, Jun-Ming Hsu, Yoon Kee Kong, A. N. Bany-Ariffin",
+        "bookPublisher": "Cengage",
+        "bookPrice": 59000,
+        "price": 50000,
+        "coverImage": "https://cf-cii.everytime.kr/4e87def87cee415234a277e6a2bcbc8ee395a85e578b174043bba1a5076e9e3f/1750570410916_0.jpg"
+      },
+      {
+        "bookIsbn": "9791189607654",
+        "bookTitle": "Brigham의 재무관리",
+        "bookAuthor": "EUGENE F. BRIGHAM, JOEL F. HOUSTON",
+        "bookPublisher": "시대가치",
+        "bookPrice": 43000,
+        "price": 35000,
+        "coverImage": "https://cf-cii.everytime.kr/944729741457666afef4415cf0d640d474da11f4919cfb613a8ac67f33fecb10/1687948289807_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132112761",
+        "bookTitle": "Ross의 재무관리",
+        "bookAuthor": "스테판 A. 로스",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 42000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/a43b02119cb855fe49ea50d3cc3e1485d5484980ca0293ac8929cf0e15e2777e/1756789269630_0.jpg"
+      },
+      {
+        "bookIsbn": "9781119504306",
+        "bookTitle": "Financial Accounting",
+        "bookAuthor": "Paul D. Kimmel, Donald E. Kieso, Jerry J. Weygandt",
+        "bookPublisher": "Wiley",
+        "bookPrice": 45000,
+        "price": 500,
+        "coverImage": "https://cf-cii.everytime.kr/72b70238683ea2bcc707bf248c897f689a3e2d4ac975142057b7f82bdcf481de/1633415388220_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132101758",
+        "bookTitle": "재무관리",
+        "bookAuthor": "스테판 A. 로스",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 39000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/3813f5953e24ec2d5a8d893a1ae59df145c4eceb0670092f0a72b2d715fbb856/1712037134274_0.jpg"
+      },
+      {
+        "bookIsbn": "9789814792080",
+        "bookTitle": "Essentials of Financial Management",
+        "bookAuthor": "EUGENE F. BRIGHAM, JOEL F. HOUSTON, Jun-Ming Hsu, Yoon Kee Kong, A. N. Bany-Ariffin",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 57000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/775f3a5b56b3b70040d5f4a5137fd40a224ceeb742580cb954cea40b45d37fbb/1610287113462_0.jpg"
+      },
+      {
+        "bookIsbn": "9781260091908",
+        "bookTitle": "Fundamentals of Corporate Finance",
+        "bookAuthor": "Ross",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 50000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/fb400912c8bb79e403125d17ca91328b8fceb291e3cc1da269dc49ec0b5a9d62/1630298950644_0.jpg"
+      },
+      {
+        "bookIsbn": "9789814441377",
+        "bookTitle": "Essentials of Financial Management",
+        "bookAuthor": "Eugene F Brigham",
+        "bookPublisher": "Cengage Learning",
+        "bookPrice": 42000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/c08431cd9da32f072eaeb3c75a4c0500fb40edb98946b47ca85df1c6f03cc6cd/1708242179597_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955014747",
+        "bookTitle": "현대재무관리(양장본 HardCover)",
+        "bookAuthor": "장영광",
+        "bookPublisher": "신영사",
+        "bookPrice": 29000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/267acaaf0749b57b886d711ee7a3a59ff43273ea6c8d4a593d21c1306d5fdd04/1536501241654_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "족보를 매우 많이  타는 시험입니다.\n족보를 반드시 구하셔서 족보 선지를",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 7
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.95,
+        "count": 148,
+        "items": [
+          {
+            "value": 5,
+            "count": 44
+          },
+          {
+            "value": 4,
+            "count": 64
+          },
+          {
+            "value": 3,
+            "count": 33
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 147,
+          "items": [
+            {
+              "text": "없음",
+              "count": 127
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 147,
+          "items": [
+            {
+              "text": "없음",
+              "count": 144
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 147,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 39
+            },
+            {
+              "text": "보통",
+              "count": 95
+            },
+            {
+              "text": "깐깐함",
+              "count": 13
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 147,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 8
+            },
+            {
+              "text": "전자출결",
+              "count": 71
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 46
+            },
+            {
+              "text": "복합적",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 147,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 102
+            },
+            {
+              "text": "세 번",
+              "count": 4
+            },
+            {
+              "text": "네 번 이상",
+              "count": 35
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "족보를 많이 타는 시험.. 족보랑 올려주신 문제들만 풀고 가도 시험 점수 잘 나오는 것 같아요. 출석은 전자출결인데 가끔 호명 출석도 하시는 것 같아서, 출튀 조심하셔야 할 것 같아요. 강의가 여러 개인데 마감기한이",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "CPA 준비 안하시면 안듣는 걸 추천해요\n학점관리도 잘해왔고 여태 들어본 과목이 50개 이상인데\n전 최악으로 뽑고 싶을 정도였어요..\n문제풀이 강의를 아예 안 올려주시면 학생이 사비로 과외나 강의를 결제해서 들으며",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

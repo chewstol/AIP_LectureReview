@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "교안을 다 외우세요. 그럼 됩니다. \n총 약술형 20문재, 논술형 2문제",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 8
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.5,
+        "count": 56,
+        "items": [
+          {
+            "value": 5,
+            "count": 35
+          },
+          {
+            "value": 4,
+            "count": 15
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 35
+            },
+            {
+              "text": "보통",
+              "count": 21
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 55
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 56,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 17
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 56,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 2
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 16
+            },
+            {
+              "text": "복합적",
+              "count": 35
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 56,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 56
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "그동안 상상만 했던 대학 교양수업 느낌이었습니다. 알쓸신잡 느낌도 강하고, 매주 다른 주제를 배우는 것도 재미있었습니다. 1시간 이론, 1시간 다큐 보는데 다큐 시험에 별로 안나와서 그냥 머리 식히는 용으로 봐도 무",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "수업 성적 잘 주실수 알았는데 생각보다 잘 안주시능거같음 내가 공부를 안한거같긴한데 그래도 22문제중에 18문제 썼는데 비쁠받음",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

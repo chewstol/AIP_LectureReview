@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "완성형 20문제 서술형 2문제\n완성형 풀려면 교안 몇번 보면 되고\n서술형",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 12,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 10
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.61,
+        "count": 104,
+        "items": [
+          {
+            "value": 5,
+            "count": 73
+          },
+          {
+            "value": 4,
+            "count": 21
+          },
+          {
+            "value": 3,
+            "count": 10
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 104,
+          "items": [
+            {
+              "text": "없음",
+              "count": 85
+            },
+            {
+              "text": "보통",
+              "count": 18
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 104,
+          "items": [
+            {
+              "text": "없음",
+              "count": 87
+            },
+            {
+              "text": "보통",
+              "count": 15
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 104,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 68
+            },
+            {
+              "text": "보통",
+              "count": 36
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 104,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 74
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 18
+            },
+            {
+              "text": "복합적",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 104,
+          "items": [
+            {
+              "text": "없음",
+              "count": 23
+            },
+            {
+              "text": "한 번",
+              "count": 6
+            },
+            {
+              "text": "두 번",
+              "count": 74
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "부담 없는 수업입니다...!!! 듣고 학점 챙겨가세요",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "강평 좋아서 잡았는데 솔직히 왜 좋은지 모르겠음 \nPPT 교안을 2만원 넘게 주고 사야하는 이유를 모르겠고 강의력이 그닥 좋으신 것도 아님 심지어 금요일 9시 수선관 수업이라 매우매우 헬임 \n하지만 교수님이 귀여우시",
+          "rate": 3,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

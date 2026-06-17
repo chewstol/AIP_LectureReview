@@ -1,0 +1,173 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791191489439",
+        "bookTitle": "의약화학",
+        "bookAuthor": "의약화학 편집위원회",
+        "bookPublisher": "신일서적",
+        "bookPrice": 75000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/db793b80ae155683d84b19b8ff38beaffe5f5a3bbdcea19f9539305340ae3557/1709008848354_0.jpg"
+      }
+    ],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 4.5,
+        "count": 2,
+        "items": [
+          {
+            "value": 5,
+            "count": 1
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 2,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 2,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 2,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 2,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 0
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 1
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 2,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 2
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "과목 자체는 재밌었음. 그러나도 너무나도 졸려서 내 의식과 멜라토닌 간의 치열한 싸움이 이 수업의 쟁점이 되어버린다.",
+          "rate": 4,
+          "posvote": 1
+        },
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "양이 많아 힘들긴 했지만 정말 잘 가르치는 교수님이라서 배운게 많았어요. 약을 구조 중심으로 체계적으로 정리해주셔서 모든 과목의 중심이 되어 준 느낌이었어요.",
+          "rate": 5,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

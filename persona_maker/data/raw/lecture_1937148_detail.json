@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 5,
+        "count": 6,
+        "items": [
+          {
+            "value": 5,
+            "count": 6
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 6,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 6,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 2
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 6,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 6,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 0
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 6
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 6,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "교수님이 굉장히 친절하시고 각자에 대한 코멘트를 굉장히 잘 해주심 따로 일정 잡아서 설계물 다시 봐주시기도 하고 모든 학생들에게 존댓말을 써주심. 나이가 어리시진 않지만 우리와 공감대가 굉장히 많음. 푸근하셔서 착하",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "진짜 최고의 교수님. 모든 학생에게 친절하시고 하고싶은거 다 하게 해주심. 다른 교수님들은 다 교수님의 니즈에 맞춰야 하는데, 안재석 교수님은 학생이 원하는 바에서 좀 더 발전할 수 있게 조언을 해주시는편!! 엄청",
+          "rate": 5,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

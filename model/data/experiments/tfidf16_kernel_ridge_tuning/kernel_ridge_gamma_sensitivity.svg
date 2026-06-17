@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="40" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">Gamma sensitivity at alpha=1e-06</text>
+<text x="32" y="68" font-family="Arial, sans-serif" font-size="14" fill="#4b5563">5-fold validation RMSE · gamma shown on log scale</text>
+<rect x="85" y="90" width="865" height="385" fill="#f8fafc" stroke="#d1d5db"/>
+<polyline points="85.00,469.64 177.18,470.07 278.20,471.15 370.39,468.15 471.41,459.11 563.59,453.27 664.61,390.64 756.80,264.69 857.82,101.25 950.00,143.74" fill="none" stroke="#7c3aed" stroke-width="3"/>
+<circle cx="85.00" cy="469.64" r="5" fill="#7c3aed"/>
+<text x="85.00" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">1e-06</text>
+<circle cx="177.18" cy="470.07" r="5" fill="#7c3aed"/>
+<text x="177.18" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">3e-06</text>
+<circle cx="278.20" cy="471.15" r="8" fill="#059669"/>
+<text x="278.20" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">1e-05</text>
+<circle cx="370.39" cy="468.15" r="5" fill="#7c3aed"/>
+<text x="370.39" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">3e-05</text>
+<circle cx="471.41" cy="459.11" r="5" fill="#7c3aed"/>
+<text x="471.41" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">0.0001</text>
+<circle cx="563.59" cy="453.27" r="5" fill="#7c3aed"/>
+<text x="563.59" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">0.0003</text>
+<circle cx="664.61" cy="390.64" r="5" fill="#7c3aed"/>
+<text x="664.61" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">0.001</text>
+<circle cx="756.80" cy="264.69" r="5" fill="#7c3aed"/>
+<text x="756.80" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">0.003</text>
+<circle cx="857.82" cy="101.25" r="5" fill="#7c3aed"/>
+<text x="857.82" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">0.01</text>
+<circle cx="950.00" cy="143.74" r="5" fill="#7c3aed"/>
+<text x="950.00" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#374151">0.03</text>
+<text x="517.5" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#374151">RBF gamma</text>
+<text x="26" y="282.5" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#374151" transform="rotate(-90 26 282.5)">Validation RMSE</text>
+</svg>

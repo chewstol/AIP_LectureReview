@@ -1,0 +1,277 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791159050428",
+        "bookTitle": "문학미디어론(양장본 HardCover)",
+        "bookAuthor": "임형택",
+        "bookPublisher": "소명출판",
+        "bookPrice": 35000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/26fada71f265d44823f74806344544871d64500d021e46597a09f74006f187a5/1613659296764_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "평소에 듣다 안듣다,  폰 하다 안하다 하면서 날라리처럼 수강했습니다.\n",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.72,
+        "count": 83,
+        "items": [
+          {
+            "value": 5,
+            "count": 31
+          },
+          {
+            "value": 4,
+            "count": 19
+          },
+          {
+            "value": 3,
+            "count": 18
+          },
+          {
+            "value": 2,
+            "count": 9
+          },
+          {
+            "value": 1,
+            "count": 6
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 23
+            },
+            {
+              "text": "보통",
+              "count": 51
+            },
+            {
+              "text": "많음",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 43
+            },
+            {
+              "text": "보통",
+              "count": 40
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 83,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 37
+            },
+            {
+              "text": "보통",
+              "count": 44
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 83,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 21
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 57
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 83,
+          "items": [
+            {
+              "text": "없음",
+              "count": 39
+            },
+            {
+              "text": "한 번",
+              "count": 38
+            },
+            {
+              "text": "두 번",
+              "count": 6
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "강의력이 똥망이라고...? 전혀 아닌 듯\n오히려 존나 난해한데 강의력 덕분에 겨우 이해정돈 가능함\n근데 내용이 너무 난해해서 난해한거 싫어하는 사람은 사망하는 아름다운 과목\n나는 난해한거 너무 좋아해서 득을 많이 봤",
+          "rate": 5,
+          "posvote": 7
+        },
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "정말로 끔찍한 수업.  3학점짜리 과목이지만 올라오는 강의 길이는 3시간 넘어감+과제있음.  연휴주간에 5시간짜리 강의에 과제를 내주기도..ㅋㅋㅋ. 그렇다면 강의가 재미있고 유익한가? ㄴㄴ(물론 이건 개인차가 있겠지",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

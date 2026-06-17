@@ -1,0 +1,11 @@
+﻿feature,label,pearson_r,univariate_linear_r2,slope
+grading_generous_score,Grading generous,0.632198,0.399674,0.486222
+grading_strict_score,Grading strict,-0.632198,0.399674,-0.486222
+assignment_low_score,Low assignment load,0.410202,0.168266,0.209218
+assignment_high_score,High assignment load,-0.410202,0.168266,-0.209218
+teamwork_low_score,Low teamwork load,0.269994,0.072897,0.11217
+teamwork_high_score,High teamwork load,-0.269994,0.072897,-0.11217
+attendance_light_score,Light attendance,0.144902,0.020996,0.096379
+attendance_strict_score,Strict attendance,-0.124261,0.015441,-0.050896
+exam_heavy_score,Heavy exam load,-0.046511,0.002163,-0.031289
+exam_light_score,Light exam load,0.008177,6.7e-05,0.004737

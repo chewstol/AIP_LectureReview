@@ -1,0 +1,9 @@
+﻿item,value
+total_nodes,753
+sample_nodes,76
+train_nodes,60
+test_nodes,16
+sample_ratio,0.1
+epochs,800
+feature_columns,"assignment_low_score, assignment_high_score, teamwork_low_score, teamwork_high_score, grading_generous_score, grading_strict_score, attendance_light_score, attendance_strict_score, exam_light_score, exam_heavy_score, text_assignment_negative_tfidf, text_assignment_positive_tfidf, text_assignment_tfidf, text_attendance_negative_tfidf, text_attendance_positive_tfidf, text_attendance_tfidf, text_exam_negative_tfidf, text_exam_positive_tfidf, text_exam_tfidf, text_grading_negative_tfidf, text_grading_positive_tfidf, text_grading_tfidf, text_negative_ratio, text_neutral_ratio, text_positive_ratio, text_teaching_negative_tfidf, text_teaching_positive_tfidf, text_teaching_tfidf, text_teamwork_negative_tfidf, text_teamwork_positive_tfidf, text_teamwork_tfidf"
+target,rating_average_norm

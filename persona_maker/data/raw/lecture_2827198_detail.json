@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791185475547",
+        "bookTitle": "기구학",
+        "bookAuthor": "Uicker, Pennock Gordon R., Shigley Joseph E.",
+        "bookPublisher": "퍼스트북",
+        "bookPrice": 25000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/8fe4aa3640abbc67bd83ccfca54b7c8ab6dbff6f4842aa55831ade611565e2b6/1772730946514_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "문제는 예제 수준보다 조금 어려운 느낌으로 교수님이 직접 문제를 만드십니",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.8,
+        "count": 15,
+        "items": [
+          {
+            "value": 5,
+            "count": 12
+          },
+          {
+            "value": 4,
+            "count": 3
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 15,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 15,
+          "items": [
+            {
+              "text": "없음",
+              "count": 14
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 15,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 15,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 15
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 0
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 15,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 15
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "Standard한 전공수업의 정석\n기구학이 내용 자체가 쉽지는 않지만, 교수님의 강의력은 좋으시다.\n과제가 문제풀이 8개, 실습 튜토리얼 4개, 실습 개인 프로젝트 1개로 적지는 않지만 힘든만큼 얻어가는 것도 많은",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "크레오 설치 까다로움. 매트랩 호환에 버전 등  문제로 시간 엄청 잡아먹음\n한학기 내내 고통 받았음\n그럼에도 불구하고 교수님 강의력이 좋았다\n강의녹화도 다 해주시고 굉장히 명확하고 깔끔함",
+          "rate": 4,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

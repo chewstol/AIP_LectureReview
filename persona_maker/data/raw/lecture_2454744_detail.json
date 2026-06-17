@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "강의, 교수님께서 수업 시간에 알려준 내용 모두 꼭 메모하고 정리해 놓으",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.42,
+        "count": 12,
+        "items": [
+          {
+            "value": 5,
+            "count": 9
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 12,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 12,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 12,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 12,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 6
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 5
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 12,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 4
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "처음엔 읽어올 논문 양이 많아서 조금 힘들었지만, 교수님이 줄여주셔서 그 이후로는 괜찮았음. 교수님도 좋고 토론 형식의 수업도 좋아서 배우고 얻어간 것이 많았던 수업. 꼭 종교인이 아니더라도 듣는데 무리없고 배워갈",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "아직 중간고사 기간이지만 강의평가를 쓰겠습니다. 과제만 제때제때 내시면 좋은 점수 받으실 겁니다. 그런데 저는 과제나 중간고사 대체과제를 제출하고나서 별 말 없이 -1점씩 까이는게 기분이 나쁩니다. 저한테 있어서 점",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

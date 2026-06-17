@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791158082994",
+        "bookTitle": "전기화학",
+        "bookAuthor": "백운기, 여인형",
+        "bookPublisher": "자유아카데미",
+        "bookPrice": 32000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/7fbd025bf554d2193211aa7786b95a628d0c8a8b25e9f9afe79e180bca7df5e4/1644504831259_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "개념이랑 계산 둘 다 중요합니다. R(8.3145 J/K mol), F(",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.58,
+        "count": 113,
+        "items": [
+          {
+            "value": 5,
+            "count": 76
+          },
+          {
+            "value": 4,
+            "count": 27
+          },
+          {
+            "value": 3,
+            "count": 9
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 113,
+          "items": [
+            {
+              "text": "없음",
+              "count": 99
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 113,
+          "items": [
+            {
+              "text": "없음",
+              "count": 100
+            },
+            {
+              "text": "보통",
+              "count": 13
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 113,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 55
+            },
+            {
+              "text": "보통",
+              "count": 56
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 113,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 17
+            },
+            {
+              "text": "전자출결",
+              "count": 59
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 35
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 113,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 101
+            },
+            {
+              "text": "두 번",
+              "count": 11
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "포브스 선정 음극 양극 표현 제일 싫어하시는 교수님 1위",
+          "rate": 5,
+          "posvote": 10
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "강의가 교안과 필기 위주로 진행되는데, 필기가 중구난방이어서 이해하기 힘들어요",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

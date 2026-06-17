@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "금요일 6시 시험인 만큼 다른 시험이 끝나 강의 전부 들은 여유가 있어서",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 22,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 18
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.25,
+        "count": 114,
+        "items": [
+          {
+            "value": 5,
+            "count": 60
+          },
+          {
+            "value": 4,
+            "count": 34
+          },
+          {
+            "value": 3,
+            "count": 13
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 114,
+          "items": [
+            {
+              "text": "없음",
+              "count": 14
+            },
+            {
+              "text": "보통",
+              "count": 88
+            },
+            {
+              "text": "많음",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 114,
+          "items": [
+            {
+              "text": "없음",
+              "count": 112
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 114,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 76
+            },
+            {
+              "text": "보통",
+              "count": 38
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 114,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 6
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 103
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 114,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 98
+            },
+            {
+              "text": "두 번",
+              "count": 15
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "굉장히 만족스러웠던 강의였습니다.  공부를 정말 깊이있게 하신 분이라는 생각이 들었고, 그동안 제가 일본에 대해 너무 피상적으로만 알고 있었음을 깨달았습니다. 일본에 대해 관심이 없으셔도 학문적 사고를 하는 방법에",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "왜 이렇게 고평가됐지? 밸런스를 맞추기 위해 1점이다\n\n보편적인 지식보다는 교수 생각 맞추기에 가까움.\n\n안중근은 독립운동가가 아니다. 등의 일반적 인식과는 다른 개인적 생각 가지고 있음. 첨엔 뭔 친일파인 줄 알았",
+          "rate": 1,
+          "posvote": 6
+        }
+      ]
+    }
+  }
+}

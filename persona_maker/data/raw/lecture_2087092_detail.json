@@ -1,0 +1,286 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788964212851",
+        "bookTitle": "화학공정계산",
+        "bookAuthor": "Richard M. Felder, Rousseau Ronald W., Bullard Lisa G.",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 43000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/0d496f4d277f7a0f0853649153fba23abfac37fb4530ff7f2103570c076e34ce/1742795216740_0.jpg"
+      },
+      {
+        "bookIsbn": "9781118092392",
+        "bookTitle": "Elementary Principles of Chemical Processes",
+        "bookAuthor": "Richard M. Felder",
+        "bookPublisher": "Wiley",
+        "bookPrice": 57000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/c4eabf3d6fa723739bc4290b790a391b20c37914a5a568b29950b55d2672db45/1725492916174_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "전부다 계산문제. 총 여섯문제 나왔는데 중요한 4단원 문제가 두문제였고 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 15,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 12
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.25,
+        "count": 84,
+        "items": [
+          {
+            "value": 5,
+            "count": 22
+          },
+          {
+            "value": 4,
+            "count": 13
+          },
+          {
+            "value": 3,
+            "count": 28
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 15
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 18
+            },
+            {
+              "text": "보통",
+              "count": 51
+            },
+            {
+              "text": "많음",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 76
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 84,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 18
+            },
+            {
+              "text": "보통",
+              "count": 61
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 84,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 39
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 36
+            },
+            {
+              "text": "복합적",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 84,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 6
+            },
+            {
+              "text": "두 번",
+              "count": 65
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 11
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "너무너무 좋은 교수님이에요!! 꼭 들으시는 거 추천해요~ 이 강의를 들으면 좋은 점은 화학공학을 포기하고 싶다는 생각이 들어요!! 화학공학과 대학생활을 포기하고 싶으시다면 꼭 이강의를 들으세요!! 정말 좋은 강의입니",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "저혈압치료제 강의\n교수님이 이 글을 꼭 보고 수업을 개선했으면 좋겠음 제발.\n교수님이 수업에 책임감이 없으면 이렇게 되는구나 싶었음\n\n- 1시간 떠들고 수업을 안함. 수업을 안하면 일찍이라도 끝내줬음 좋겠는데 심지어",
+          "rate": 1,
+          "posvote": 8
+        }
+      ]
+    }
+  }
+}

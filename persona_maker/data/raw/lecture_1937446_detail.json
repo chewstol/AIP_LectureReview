@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788961059961",
+        "bookTitle": "미분적분학",
+        "bookAuthor": "제임스 스튜어트",
+        "bookPublisher": "경문사(박문규)",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/620d4d4b3719e6c1f96231a5c34443b175db559edac90b0abbfd053f400d55f8/1608556333193_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님께서 3년치 기출문제 올려주시는데 거기에서 대부분 다 나왔어요. 숫",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.06,
+        "count": 36,
+        "items": [
+          {
+            "value": 5,
+            "count": 16
+          },
+          {
+            "value": 4,
+            "count": 9
+          },
+          {
+            "value": 3,
+            "count": 8
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 36,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 16
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 36,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 8
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 19
+            },
+            {
+              "text": "복합적",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 36,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 36
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "시험은 교수님이 주신 자료, 그리고 교재의 연습문제만 성실히 푸신다면 누구나 다 맞을 수 있는 시험입니다\n성적도 후하게 주시는 펀이고, 강의력도 깔끔하셔서 문과 학생들도 이해하기 쉽습니다",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "좋은 수업이라고 말 못하겠음.\n\n일단 학생들이 고등과정에서 어디까지 배웠는지 모르심 (문과생 기준 안 배웠는데 배워서 아시죠~ 하면서 설명하고 지나가는 것들 많음) \n판서도 불명확하고, 발음도 다소 뭉개짐. 과제도",
+          "rate": 2,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

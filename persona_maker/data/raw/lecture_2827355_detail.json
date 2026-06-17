@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791156646617",
+        "bookTitle": "Verilog HDL 설계",
+        "bookAuthor": "신경욱",
+        "bookPublisher": "한빛아카데미",
+        "bookPrice": 36000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/d9cff077cf5a67a8fc4cb22a59226e081b1ca8e567aabb412a91906e401f5184/1772934877510_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "직접 코딩하는 문제는 전혀 없고 모두 객관식, 단답형으로 이루어져 있습니",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 15,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 15
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.56,
+        "count": 86,
+        "items": [
+          {
+            "value": 5,
+            "count": 65
+          },
+          {
+            "value": 4,
+            "count": 11
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 86,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 47
+            },
+            {
+              "text": "많음",
+              "count": 38
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 86,
+          "items": [
+            {
+              "text": "없음",
+              "count": 85
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 86,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 59
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 86,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 46
+            },
+            {
+              "text": "전자출결",
+              "count": 21
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 4
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 86,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 86
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "기존의 디시 수업 과 다르게 vhdl이 아닌 베릴로그를 배웁니다.\n학점 후하게 주시고, 시험 과제에 대한 부담도 줄여주시려고 노력합니다.\n마지막 CPU 구현 텀프가 어렵다고 하는 사람들도 있지만, 교수님께서 코드도",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "실습이 말이 안되게 어려움. wave로 외국 대학 교수님의 강의를 듣는데 취지는 좋으나 과제가 어렵고 도움 받을 수 있는 부분이 하나도 없어서 혼자서 해결해야함. 심지어 기말 시험기간에 난이도가 급상승해서 사간이 많",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

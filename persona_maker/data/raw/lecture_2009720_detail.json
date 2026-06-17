@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780929306407",
+        "bookTitle": "Fundamentals of Data Structures in C",
+        "bookAuthor": "엘리스 호로위츠",
+        "bookPublisher": "Silicon Press",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/c1d799d3cf9ae4b8980ac56508a17acb66fd05ce4ddfb54b24063338369e05f2/1765893695157_0.jpg"
+      },
+      {
+        "bookIsbn": "9788970858944",
+        "bookTitle": "C로 쓴 자료구조론",
+        "bookAuthor": "엘리스 호로위츠, SAHNI, ANDERSON-FREED",
+        "bookPublisher": "교보문고",
+        "bookPrice": 28000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/6c2945935f16820f6088ccd2e1e176573284947754d2b6988123c3d952bbedd3/1710649593265_0.jpg"
+      },
+      {
+        "bookIsbn": "9788996094067",
+        "bookTitle": "윤성우의 열혈 자료구조",
+        "bookAuthor": "윤성우",
+        "bookPublisher": "오렌지미디어",
+        "bookPrice": 27000,
+        "price": 4900,
+        "coverImage": "https://cf-cii.everytime.kr/249c134c93ee05a9f0eae8c738ba085fe819ed8d956f3401b1fa05da578d38b1/1738833396225_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교안 코드 잘보고 눈으로 봤을 때 머리로 바로바로 돌릴 수 있게끔 준비하",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 60,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 24
+            },
+            {
+              "text": "주관식",
+              "count": 35
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 6
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 22,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.33,
+        "count": 381,
+        "items": [
+          {
+            "value": 5,
+            "count": 213
+          },
+          {
+            "value": 4,
+            "count": 108
+          },
+          {
+            "value": 3,
+            "count": 40
+          },
+          {
+            "value": 2,
+            "count": 12
+          },
+          {
+            "value": 1,
+            "count": 8
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 381,
+          "items": [
+            {
+              "text": "없음",
+              "count": 25
+            },
+            {
+              "text": "보통",
+              "count": 284
+            },
+            {
+              "text": "많음",
+              "count": 72
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 381,
+          "items": [
+            {
+              "text": "없음",
+              "count": 357
+            },
+            {
+              "text": "보통",
+              "count": 20
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 381,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 203
+            },
+            {
+              "text": "보통",
+              "count": 172
+            },
+            {
+              "text": "깐깐함",
+              "count": 6
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 381,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 83
+            },
+            {
+              "text": "전자출결",
+              "count": 212
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 45
+            },
+            {
+              "text": "복합적",
+              "count": 41
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 381,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "한 번",
+              "count": 12
+            },
+            {
+              "text": "두 번",
+              "count": 358
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "1. 모두 아이캠퍼스 온라인 강의임. 월요일에 올린 영상 아무떄나 보면 됨. 내용 자체는 c 언어 기반이라 c 언어 제대로 공부할 수 있어서 좋았음. \n\n2. 강의 내용도 어렵지 않음. 설명하는 거 보고 내용 필기하",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "중간고사 이후에 교수님이 학생들한테 화가 나신 건 아닐까 싶었습니다. 매주 퀴즈 3문제씩 나오는 것도 깨작깨작 시간 잡아먹어서 짜증났는데 난이도 최상의 과제 4번과 알려주지 않은 내용을 다루는 기말고사 보고 화가 났",
+          "rate": 1,
+          "posvote": 7
+        }
+      ]
+    }
+  }
+}

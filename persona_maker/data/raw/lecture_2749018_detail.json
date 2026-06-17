@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788964212936",
+        "bookTitle": "최적설계입문",
+        "bookAuthor": "Jasbir Singh Arora",
+        "bookPublisher": "한티미디어",
+        "bookPrice": 42000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/1772a79fd2b1002a0cd7b54a1881f9867d6eaea26fc28543c442e123f32927d7/1753263226711_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사 이전에 교수님께서 내주신 과제 위주로 나옵니다. 또 수업시간에 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 6
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.81,
+        "count": 32,
+        "items": [
+          {
+            "value": 5,
+            "count": 26
+          },
+          {
+            "value": 4,
+            "count": 6
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 32,
+          "items": [
+            {
+              "text": "없음",
+              "count": 12
+            },
+            {
+              "text": "보통",
+              "count": 20
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 32,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 32,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 12
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 32,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 18
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 10
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 32,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 24
+            },
+            {
+              "text": "두 번",
+              "count": 8
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "내용이 별로여서 배운 게 없는게 아니고\n잘 못 가르치셔서 배운게 없다는게 아니라\n그냥 진짜 배운게 없음",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "중간고사가 족보 그대로 나와서 전체평균이 이번에 90점 나왔습니다 팀플로 갈린다고 보면 될 것 같아요 친구랑 들을거면 추천이고 혼자 듣는다면 비추천해요",
+          "rate": 4,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}
