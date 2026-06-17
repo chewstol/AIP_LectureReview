@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788968661112",
+        "bookTitle": "거시경제학(8판)(양장본 HardCover)",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 25000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/e0db7c5685bf7fe8f73ec7007a137f9476226c13b18c7b4c7683705a6c95641a/1548873457926_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "수업시간에 필기하시는 거 보지말고 교안을 꼼꼼하게 외우세요",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.09,
+        "count": 195,
+        "items": [
+          {
+            "value": 5,
+            "count": 85
+          },
+          {
+            "value": 4,
+            "count": 54
+          },
+          {
+            "value": 3,
+            "count": 47
+          },
+          {
+            "value": 2,
+            "count": 7
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 195,
+          "items": [
+            {
+              "text": "없음",
+              "count": 44
+            },
+            {
+              "text": "보통",
+              "count": 114
+            },
+            {
+              "text": "많음",
+              "count": 37
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 195,
+          "items": [
+            {
+              "text": "없음",
+              "count": 172
+            },
+            {
+              "text": "보통",
+              "count": 22
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 195,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 143
+            },
+            {
+              "text": "보통",
+              "count": 52
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 195,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 44
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 129
+            },
+            {
+              "text": "복합적",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 195,
+          "items": [
+            {
+              "text": "없음",
+              "count": 59
+            },
+            {
+              "text": "한 번",
+              "count": 38
+            },
+            {
+              "text": "두 번",
+              "count": 93
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "교수님은 열성적으로 설명해주십니다. 듣다보면 생각보다 흥미로운 이야기들도 해주십니다. 다만 수업의 문제라기 보다는 중간에 딴 짓하거나 출튀 혹은 대리출석 하는사람 때문에 분위기가 별로입니다. 강의평이나 선배들 후기",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "굿즈엔써비씨써 들을때마다 현타존나옴 앞자리 5명정도수업듣고 다 폰함 등록금 존나아까움",
+          "rate": 1,
+          "posvote": 5
+        }
+      ]
+    }
+  }
+}

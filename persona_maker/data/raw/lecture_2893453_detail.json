@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 4.22,
+        "count": 18,
+        "items": [
+          {
+            "value": 5,
+            "count": 7
+          },
+          {
+            "value": 4,
+            "count": 8
+          },
+          {
+            "value": 3,
+            "count": 3
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 18,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 12
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 18,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 18,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 12
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 18,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 3
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 15
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 18,
+          "items": [
+            {
+              "text": "없음",
+              "count": 15
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 2
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "걍 출석만 잘하고 레포트 제때제때 내기만 하면 에이쁠 받을 수 있음. 솔직히 실험을 다 완성하지못해도 제미나이한테 오차율 감안해서 실험 측정 표 채워달라고 하면 채워줌\n그리고 실험을 잘 따라가려고 공부 많이 하고 애",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "보고서는 좀 날먹인데 실험 자체는 힘든듯\n근데 교수님 영어 발음 알아듣기가 너무 힘들고 자꾸 늦게 오심.. 30분 늦게 오신 적도 있음\n그리고 첫주차에 그 알아듣기 힘든 영어발음으로 4시간 연속으로 무슨 이론 수업했",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

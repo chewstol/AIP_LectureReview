@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788962381382",
+        "bookTitle": "경제사: 세계화와 세계 경제의 역사",
+        "bookAuthor": "송병건",
+        "bookPublisher": "해남",
+        "bookPrice": 32000,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/52e8c13a55a2bd8f19bcf8363a1aafb2f8f7d1aea71c678c46f3689fc27ca80c/1644745885548_0.jpg"
+      },
+      {
+        "bookIsbn": "9788961962940",
+        "bookTitle": "세계화의 풍경들(비주얼 경제사 2)",
+        "bookAuthor": "송병건",
+        "bookPublisher": "아트북스",
+        "bookPrice": 18000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/03646c020b51ba1e33b094d70241b545441a805fd80a600986aabb2220f815c8/1520667364671_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962380798",
+        "bookTitle": "경제사(2판)",
+        "bookAuthor": "송병건",
+        "bookPublisher": "해남",
+        "bookPrice": 32000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/156aaba8bc02f5466861d50212231f581a852689ac3df78d9e268c75f2bfcd6f/1520298294427_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "공부할 때: 교안 여러번 넘기면서 큰 흐름 위주 공부+사이사이 디테일은 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 115,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 42
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 43
+            },
+            {
+              "text": "논술형",
+              "count": 39
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 106,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 29
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 9
+            },
+            {
+              "text": "논술형",
+              "count": 82
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.65,
+        "count": 544,
+        "items": [
+          {
+            "value": 5,
+            "count": 391
+          },
+          {
+            "value": 4,
+            "count": 116
+          },
+          {
+            "value": 3,
+            "count": 35
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 544,
+          "items": [
+            {
+              "text": "없음",
+              "count": 160
+            },
+            {
+              "text": "보통",
+              "count": 380
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 544,
+          "items": [
+            {
+              "text": "없음",
+              "count": 427
+            },
+            {
+              "text": "보통",
+              "count": 116
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 544,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 235
+            },
+            {
+              "text": "보통",
+              "count": 304
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 544,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 14
+            },
+            {
+              "text": "전자출결",
+              "count": 384
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 119
+            },
+            {
+              "text": "복합적",
+              "count": 27
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 544,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 188
+            },
+            {
+              "text": "두 번",
+              "count": 354
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "경제활동의 역사를 배우는 과목입니다. 중간고사는 르네상스까지, 기말은 산업혁명의 시작까지가 범위이고 내용 난이도는 교양 수준이었습니다. 시험문제는 키워드를 3개 주고 각각에 대해 논하는 방식인데 이슬람 녹색혁명 하나",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "재미없고 얻어 가는 게 없습니다. 수업 시간은 발표자들 발표하는 것만 들으면 되고, 10분 정도 온라인 강의 내용 보충 설명해 주십니다.",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

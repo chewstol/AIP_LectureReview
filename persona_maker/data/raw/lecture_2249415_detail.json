@@ -1,0 +1,288 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780471798668",
+        "bookTitle": "Advanced Engineering Math 9th Ed + Mathematica Computer Manual 9th Ed",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "Wiley",
+        "bookPrice": 0,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/c43902cde55b9c5cf5292b2cc4f6ef49861e1cf6adb3be55236a78e44c80c790/1697297961925_0.jpg"
+      },
+      {
+        "bookIsbn": "9791191679045",
+        "bookTitle": "Kreyszig 공업수학(상)",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 35000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/ee5d87a848772ad11058860cd0de0c7182b0cb66fa682e86563d9faf7b3577fd/1778506065662_0.jpg"
+      },
+      {
+        "bookIsbn": "9788993543872",
+        "bookTitle": "공업수학(상)(Kreyszig)",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "텍스트북스",
+        "bookPrice": 29000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/092cafcd8babef04f17dd58e79b9f432ecdf8063a0810e83df7b7492e36e257a/1702276226927_0.jpg"
+      },
+      {
+        "bookIsbn": "9780470646137",
+        "bookTitle": "Advanced Engineering Mathematics",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "Wiley",
+        "bookPrice": 59000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/19bac105bcbab482605a5f520b4dd25203d5fcb0390d1bb6071d208bced05b98/1773126870771_0.jpg"
+      },
+      {
+        "bookIsbn": "9781118165096",
+        "bookTitle": "Advanced Engineering Mathematics : Abridged International Sutdent Edition",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "Wiley",
+        "bookPrice": 45000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/1872cb226ed0bcb800990553b7804cd6b9b6be353e0250918d56779824e5c2f3/1630825601925_0.jpg"
+      },
+      {
+        "bookIsbn": "9788971292440",
+        "bookTitle": "공업수학(상): 상미분방정식 선형대수 벡터미적분(개정판 10판)",
+        "bookAuthor": "어윈 크레이스지그",
+        "bookPublisher": "범한서적",
+        "bookPrice": 26000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/fa5962485e798a8f18d89696b98c1cdd3454105532730a069310becb2618ce06/1598836850239_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "기출 족보 년도별로 다 있으면 좋아요. 몇문제는 여러년도꺼에서 짜깁기해서",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 28,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 18
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 9
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.43,
+        "count": 198,
+        "items": [
+          {
+            "value": 5,
+            "count": 122
+          },
+          {
+            "value": 4,
+            "count": 56
+          },
+          {
+            "value": 3,
+            "count": 11
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 7
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 198,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 133
+            },
+            {
+              "text": "많음",
+              "count": 62
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 198,
+          "items": [
+            {
+              "text": "없음",
+              "count": 35
+            },
+            {
+              "text": "보통",
+              "count": 81
+            },
+            {
+              "text": "많음",
+              "count": 82
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 198,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 55
+            },
+            {
+              "text": "보통",
+              "count": 123
+            },
+            {
+              "text": "깐깐함",
+              "count": 20
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 198,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 18
+            },
+            {
+              "text": "전자출결",
+              "count": 26
+            },
+            {
+              "text": "지정좌석",
+              "count": 68
+            },
+            {
+              "text": "직접호명",
+              "count": 64
+            },
+            {
+              "text": "복합적",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 198,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 162
+            },
+            {
+              "text": "두 번",
+              "count": 35
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "공지 하나에 강평 바뀌는 거 개웃기네 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "성적을 알려주지도 않고 이의신청을 단 하루 30분 동안만 받음. 사실상 안 받겠다는 의미. 시험이 끝나자마자 모든 연락 수단이 끊김. 강의도 몇년 전 강의를 재탕하는데 별점이 왜 이렇게 높은지 모르겠음",
+          "rate": 1,
+          "posvote": 5
+        }
+      ]
+    }
+  }
+}

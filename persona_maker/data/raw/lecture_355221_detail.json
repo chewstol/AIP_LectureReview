@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "중간고사는 따로 보지 않고 자신의 교직관에 대해 수기로 작성하는 과제가 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 16,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 13
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.7,
+        "count": 110,
+        "items": [
+          {
+            "value": 5,
+            "count": 86
+          },
+          {
+            "value": 4,
+            "count": 15
+          },
+          {
+            "value": 3,
+            "count": 9
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 110,
+          "items": [
+            {
+              "text": "없음",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 61
+            },
+            {
+              "text": "많음",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 110,
+          "items": [
+            {
+              "text": "없음",
+              "count": 82
+            },
+            {
+              "text": "보통",
+              "count": 23
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 110,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 76
+            },
+            {
+              "text": "보통",
+              "count": 33
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 110,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 30
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 68
+            },
+            {
+              "text": "복합적",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 110,
+          "items": [
+            {
+              "text": "없음",
+              "count": 17
+            },
+            {
+              "text": "한 번",
+              "count": 60
+            },
+            {
+              "text": "두 번",
+              "count": 33
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "코로나 때문에 온라인 강의로 수강했음. 부담 1도 없고 교장선생님 훈화 말씀 듣는 시간이었음.. 그리고 학생들을 선생님이라고 부르시는데 교직을 꿈꾸는 한 사람으로서 왠지 기분 좋았었다..ㅠㅠ 5주차 부터 학교 요청으",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "과제 매주 나오는데 거의 항상 한 장 채워내고 중간기말 레포트도 지각 없이 열심히 썼는데 B+ 떴네요.... 교직에서 처음 B+맞아보는데..이의신청 넣어야 하나..",
+          "rate": 3,
+          "posvote": 7
+        }
+      ]
+    }
+  }
+}

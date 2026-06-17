@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788981729103",
+        "bookTitle": "수학교육학 신서",
+        "bookAuthor": "강옥기, 강윤수, 고상숙, 고호경, 권나영",
+        "bookPublisher": "교우사",
+        "bookPrice": 45000,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/8b8575c518312c42ecd7d002e1644371af5fc4e06f26efa078938046c02b57c1/1586174327507_0.jpg"
+      },
+      {
+        "bookIsbn": "9788981685270",
+        "bookTitle": "수학교육학신론(2016)(개정증보판)",
+        "bookAuthor": "황혜정, 나귀수, 최승현, 박경미, 임재훈, 서동엽",
+        "bookPublisher": "문음사",
+        "bookPrice": 27000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/ebff313166adbafd99d03c512de1b545aa892f170e30944e39879525f6a174e3/1586174549062_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "전반적으로 교수님이 시험 전에 올려주신 질문지? 를 읽고 그거에 맞춰서 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.8,
+        "count": 30,
+        "items": [
+          {
+            "value": 5,
+            "count": 24
+          },
+          {
+            "value": 4,
+            "count": 6
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 30,
+          "items": [
+            {
+              "text": "없음",
+              "count": 10
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 30,
+          "items": [
+            {
+              "text": "없음",
+              "count": 6
+            },
+            {
+              "text": "보통",
+              "count": 12
+            },
+            {
+              "text": "많음",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 30,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 30,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 11
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 18
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 30,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "한 번",
+              "count": 6
+            },
+            {
+              "text": "두 번",
+              "count": 21
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2017,
+          "semester": "2",
+          "text": "교수님이 정말로 열심히 수업 준비를 하시고 연구를 하신다는 점이 와닿을 정도로 좋은 강의입니다. 개인적으로 정말 많이 생각하고, 얻어갈 수 있었던 강의였습니다. 교수님이 다음에는 없으시다는게 안타까울 뿐...",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "수업 정말좋고 교수님도  정말 좋으신데 출결빡세고 뭔가 시키시는게 많음 부담은 없다는데 그냥 할일이 더생겨서 벅찬기분..? 그외엔 무난무난",
+          "rate": 4,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

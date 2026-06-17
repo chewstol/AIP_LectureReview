@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "1.매주 쪽지시험은 ppt에서 출제됨\n2.따로 지필고사는 없음\n3.JAS",
+      "questionTypes": [
+        {
+          "nth": "기타",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.86,
+        "count": 37,
+        "items": [
+          {
+            "value": 5,
+            "count": 13
+          },
+          {
+            "value": 4,
+            "count": 12
+          },
+          {
+            "value": 3,
+            "count": 7
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 37,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 19
+            },
+            {
+              "text": "많음",
+              "count": 18
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 37,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 22
+            },
+            {
+              "text": "많음",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 37,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 22
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 37,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 25
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 12
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 37,
+          "items": [
+            {
+              "text": "없음",
+              "count": 23
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 11
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "강의계획서만 보면 어렵다고 느낄수도 있지만, 어려운 내용을 이해하기 쉽게 알려주시는 능력자 교수님,,, 강의 전달력이 좋지 않다는 평이 많은데 개인적으로는 통계 관련 지식도 많으신것 같고 영어로 설명도 잘해주십니다.",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "너무 힘들었다. 교수님의 영어실력도 좀 그렇고... 선이수과목을 들었음에도 힘들어서 울었던 과목",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

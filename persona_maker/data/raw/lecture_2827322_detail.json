@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "이번학기에 시험은 없었지만 대체과제로 자유주제 보고서작성이있었습니다. 조",
+      "questionTypes": [
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.23,
+        "count": 31,
+        "items": [
+          {
+            "value": 5,
+            "count": 17
+          },
+          {
+            "value": 4,
+            "count": 10
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 31,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 31,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 27
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 31,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 27
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 31,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 26
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 1
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 31,
+          "items": [
+            {
+              "text": "없음",
+              "count": 29
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "솔직히 꿀강 맞습니다. 과제든 수업이든 어떤 방면이로든 꿀입니다. 즉 하는게 거의 없습니다. 다만 꿀강인 것과 별개로 별로 한게 없어서 성적을 어떻게 주실지 궁금하네요.",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "뭘 하는지 모르겠어요 진짜 \"물음표\"밖에 안나오는 수업.",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

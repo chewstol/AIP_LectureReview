@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "슬라이드가 단원별로 개많은데, 다 외울 필요는 없습니다.\n단지 교수님이 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.28,
+        "count": 64,
+        "items": [
+          {
+            "value": 5,
+            "count": 39
+          },
+          {
+            "value": 4,
+            "count": 12
+          },
+          {
+            "value": 3,
+            "count": 7
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 64,
+          "items": [
+            {
+              "text": "없음",
+              "count": 23
+            },
+            {
+              "text": "보통",
+              "count": 38
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 64,
+          "items": [
+            {
+              "text": "없음",
+              "count": 60
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 64,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 37
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 64,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 11
+            },
+            {
+              "text": "전자출결",
+              "count": 37
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 16
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 64,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 36
+            },
+            {
+              "text": "두 번",
+              "count": 28
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "피피티 천오백장 이말 한마디면 모든게설명가능. 반도체교수가 되셨다가 전지교수가 되셨다가 나노교수가 되셨다가 올라운더 교수. 수업시간에 강조한것에서 시험이 다 나오긴함 피피티 한장 만드는데 10분이라 했을때 250시간",
+          "rate": 5,
+          "posvote": 7
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "앞에 단원을 배울땐 나노물질에대해 배우는데\n양 조절 못하셔서 7주동안4주차 파트 나감. 내용이 너무많아 중심내용 즉 뭘배우는지 제대로 감이 안잡혔다면\n\n뒤에 정말중요한 에너지 소재에대해 배울땐\n너무 설명이 불친절하고",
+          "rate": 1,
+          "posvote": 5
+        }
+      ]
+    }
+  }
+}

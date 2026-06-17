@@ -1,0 +1,322 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155505847",
+        "bookTitle": "성균 논어",
+        "bookAuthor": "이천승, 고재석",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/e4fd057097a16ded130bb01b1ceb5479af27e73ff1527d72cdd2d77375e2a208/1750779461069_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155504611",
+        "bookTitle": "우리들의 세상, 논어로 보다",
+        "bookAuthor": "이천승, 강보승, 고재석, 권경자, 김동민, 정병섭",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 13500,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/5a836f7760d2e64719ab420559c50e558e26a4a601bbd398e181465968a1cff8/1689838237954_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155502389",
+        "bookTitle": "우리들의 세상, 논어로 보다",
+        "bookAuthor": "고재석, 권경자, 김동민, 이천승, 정병섭",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 12000,
+        "price": 1000,
+        "coverImage": "https://cf-cii.everytime.kr/1db6d6f5023e7f95570200ac4d2ef251e0f8dbbb9b195b4da9302ecb7500b592/1725264174201_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155501740",
+        "bookTitle": "창의적 사고 소통의 글쓰기",
+        "bookAuthor": "김경훤, 김미란, 김성수",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/e2d27c670283f177ba6667c3fe7c3d76d08e92b31130a29c9f9eeac61dc61126/1738992173519_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500651",
+        "bookTitle": "리더십, 성균에 길이 있다",
+        "bookAuthor": "성균리더십출간위원회",
+        "bookPublisher": "사람의무늬",
+        "bookPrice": 12000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/8f24ce0bbbec0f2339507625c7cb9a2e3abb7de006034b4dc3829eabd6ec0f3d/1582961733467_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500408",
+        "bookTitle": "우리들의 세상 논어로 보다",
+        "bookAuthor": "인성교육교재편찬위원회",
+        "bookPublisher": "사람의무늬",
+        "bookPrice": 18000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/15d09e543cf946c666937114db37312b9ad0aab81a80ce1828e45dce6fab882a1503376328667/0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험 시간이 네시간으로 충분해서 문제 공개된후 피피티 꼼꼼하게 정독하고 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 6
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 84,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 34
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 40
+            },
+            {
+              "text": "논술형",
+              "count": 60
+            },
+            {
+              "text": "구술",
+              "count": 2
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.77,
+        "count": 823,
+        "items": [
+          {
+            "value": 5,
+            "count": 677
+          },
+          {
+            "value": 4,
+            "count": 105
+          },
+          {
+            "value": 3,
+            "count": 37
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 823,
+          "items": [
+            {
+              "text": "없음",
+              "count": 114
+            },
+            {
+              "text": "보통",
+              "count": 646
+            },
+            {
+              "text": "많음",
+              "count": 63
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 823,
+          "items": [
+            {
+              "text": "없음",
+              "count": 171
+            },
+            {
+              "text": "보통",
+              "count": 470
+            },
+            {
+              "text": "많음",
+              "count": 182
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 823,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 606
+            },
+            {
+              "text": "보통",
+              "count": 206
+            },
+            {
+              "text": "깐깐함",
+              "count": 11
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 823,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 14
+            },
+            {
+              "text": "전자출결",
+              "count": 92
+            },
+            {
+              "text": "지정좌석",
+              "count": 3
+            },
+            {
+              "text": "직접호명",
+              "count": 689
+            },
+            {
+              "text": "복합적",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 823,
+          "items": [
+            {
+              "text": "없음",
+              "count": 51
+            },
+            {
+              "text": "한 번",
+              "count": 458
+            },
+            {
+              "text": "두 번",
+              "count": 308
+            },
+            {
+              "text": "세 번",
+              "count": 6
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "공자님께 수업을 들었는데 교수명이 김종석이라고 잘못 적혀있네요",
+          "rate": 5,
+          "posvote": 20
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "평가기준 미공개. 점수 미공개\n열심히 참여했는데 B+",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

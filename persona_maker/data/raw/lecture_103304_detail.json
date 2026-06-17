@@ -1,0 +1,288 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781319243586",
+        "bookTitle": "Macroeconomics",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "Macmillan",
+        "bookPrice": 20000,
+        "price": 22000,
+        "coverImage": "https://cf-cii.everytime.kr/1c97d783a30795a04c19e99c9fecd77ae4ee0897eada353053187acf92c31a6d/1677819956580_0.jpg"
+      },
+      {
+        "bookIsbn": "9780716767114",
+        "bookTitle": "Macroeconomics 6/E",
+        "bookAuthor": "Mankiw N Gregory",
+        "bookPublisher": "Worth",
+        "bookPrice": 39000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/de3f6d2be5211b3bc12cd16463620ee1c85575e2d77519fed46258115973718a/1630845870751_0.jpg"
+      },
+      {
+        "bookIsbn": "9780230241923",
+        "bookTitle": "Intermediate Macroeconomics Abridged 7/E",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "Palgrave",
+        "bookPrice": 25000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/084cc912c0d4ffe5e8cdbf5d1f29d57def4291f1f11996523bbe98b830e839d5/1599060222382_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968667640",
+        "bookTitle": "거시경제학(9판)(양장본 HardCover)",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 39000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/2135c4c44fe8ac54a41746e52e820aca33bc5970716b8958a33a14b3457be502/1691504671768_0.jpg"
+      },
+      {
+        "bookIsbn": "9781464121678",
+        "bookTitle": "Macroeconomics 8/E (Paperback)",
+        "bookAuthor": "Mankiw N Gregory",
+        "bookPublisher": "Macmillan",
+        "bookPrice": 43000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/daeb5f1093f6a6551a58c57e22ef1159e8d3f7d4cd80ef41d1ba6eef5df6f09c/1597588280902_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968661112",
+        "bookTitle": "거시경제학(8판)(양장본 HardCover)",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 25000,
+        "price": 17000,
+        "coverImage": "https://cf-cii.everytime.kr/f232246127f45e9c59804ccee116abf2428c28a1fdcbe50e358bb54243098de8/1689837634894_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수님께서 직관을 강조하시는 만큼 이해는\n필수입니다 그러나 직관만을 강조",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 4
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.63,
+        "count": 156,
+        "items": [
+          {
+            "value": 5,
+            "count": 111
+          },
+          {
+            "value": 4,
+            "count": 34
+          },
+          {
+            "value": 3,
+            "count": 10
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 156,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 81
+            },
+            {
+              "text": "많음",
+              "count": 74
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 156,
+          "items": [
+            {
+              "text": "없음",
+              "count": 148
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 156,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 71
+            },
+            {
+              "text": "깐깐함",
+              "count": 61
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 156,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 9
+            },
+            {
+              "text": "전자출결",
+              "count": 12
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 130
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 156,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 155
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "A+ 받았습니다!\n\n1. 출결\n  일주일 중에 한 타임은 온라인 강의로 대체하고, 한 타임은 대면 수업으로 진행합니다.\n  대면 수업 때 호명을 하시기는 하는데 첫 수업 시간에 말씀해주시기를, 나중에 쁠을 달지 말지",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "출결은 성적에 안들어가는 거 같고(동점일때만 반영하는듯), 그냥 독학하는게 나을거같다는 생각이 듭니다",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

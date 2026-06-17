@@ -1,0 +1,301 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "퀴즈있는데 인터넷에 찾아도 나오고 답도 수정할 수 있어서 별 거 아님 시",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.86,
+        "count": 311,
+        "items": [
+          {
+            "value": 5,
+            "count": 282
+          },
+          {
+            "value": 4,
+            "count": 19
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 311,
+          "items": [
+            {
+              "text": "없음",
+              "count": 155
+            },
+            {
+              "text": "보통",
+              "count": 147
+            },
+            {
+              "text": "많음",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 311,
+          "items": [
+            {
+              "text": "없음",
+              "count": 288
+            },
+            {
+              "text": "보통",
+              "count": 23
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 311,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 270
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "깐깐함",
+              "count": 4
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 311,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 180
+            },
+            {
+              "text": "전자출결",
+              "count": 88
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 16
+            },
+            {
+              "text": "복합적",
+              "count": 26
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 311,
+          "items": [
+            {
+              "text": "없음",
+              "count": 139
+            },
+            {
+              "text": "한 번",
+              "count": 76
+            },
+            {
+              "text": "두 번",
+              "count": 93
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "어떤 과목을 선택하느냐에 따라 과제,시험,토론 유무가 나뉘어요! kmooc 수강기간 동안 강의 수강+과제 등등해서 패스할 점수 만들어 놓으면 됩니다 과제 같은 건 수강 기간이 지나도 채점이 안돼서 점수가 안 채워질",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "이건 뭐 아무것도 공지 안해주고 최소한의 가이드는 있어야지ㅋㅋ",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

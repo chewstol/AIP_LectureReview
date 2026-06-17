@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788931023268",
+        "bookTitle": "프로테스탄트 윤리와 자본주의 정신",
+        "bookAuthor": "막스 베버",
+        "bookPublisher": "문예출판사",
+        "bookPrice": 14000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/33d3570b486ceba6f1e7d70c18dfe24521795f79617e06a5964f5c171e862223/1740133681291_0.jpg"
+      },
+      {
+        "bookIsbn": "9788931021547",
+        "bookTitle": "프로테스탄티즘의 윤리와 자본주의 정신(완역본/리커버판)",
+        "bookAuthor": "막스 베버",
+        "bookPublisher": "문예출판사",
+        "bookPrice": 12500,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/b8bcbcc826bf016970a963d67719235d7be59573f1026b9a42ecb1fbbf4d20dc/1693201622019_0.jpg"
+      },
+      {
+        "bookIsbn": "9788931000443",
+        "bookTitle": "프로테스탄티즘의 윤리와 자본주의 정신",
+        "bookAuthor": "막스 베버",
+        "bookPublisher": "문예출판사",
+        "bookPrice": 15000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/8be91484b9d785888b0ac20402b6fe44134875a0c9b8cfce94c479c085e310f5/1613952531164_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "Ppt열심히 보고 교수님 생각에 맞게 무조건 적으세요",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 7
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 10,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.18,
+        "count": 153,
+        "items": [
+          {
+            "value": 5,
+            "count": 12
+          },
+          {
+            "value": 4,
+            "count": 16
+          },
+          {
+            "value": 3,
+            "count": 33
+          },
+          {
+            "value": 2,
+            "count": 19
+          },
+          {
+            "value": 1,
+            "count": 73
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 152,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "많음",
+              "count": 115
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 152,
+          "items": [
+            {
+              "text": "없음",
+              "count": 10
+            },
+            {
+              "text": "보통",
+              "count": 35
+            },
+            {
+              "text": "많음",
+              "count": 107
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 152,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 26
+            },
+            {
+              "text": "보통",
+              "count": 88
+            },
+            {
+              "text": "깐깐함",
+              "count": 38
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 152,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 1
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 145
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 152,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 55
+            },
+            {
+              "text": "두 번",
+              "count": 92
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "최고의 교수님!! 모두 이 수업 들으세요 진짜 고명북 중에 최고! \n학점으로 서울대 수시 최초합으로 뚫기 가능",
+          "rate": 5,
+          "posvote": 7
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "1점이 아니다. 6점을 주고 싶은 내 마음을 표현한 것이다.",
+          "rate": 1,
+          "posvote": 20
+        }
+      ]
+    }
+  }
+}

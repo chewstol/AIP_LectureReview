@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "복잡한 계산문제는 마지막 하나밖에 안나오고 나머지는 대부분 개념에 대한 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4,
+        "count": 43,
+        "items": [
+          {
+            "value": 5,
+            "count": 21
+          },
+          {
+            "value": 4,
+            "count": 7
+          },
+          {
+            "value": 3,
+            "count": 11
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 43,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 35
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 43,
+          "items": [
+            {
+              "text": "없음",
+              "count": 40
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 43,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 33
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 43,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 39
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 4
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 43,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 43
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "솔직히 이분아니면 회이2 홍병유인데 그냥 회이2 비탈리열었을때 무조건 회이2들어라.. 개꿀이다.. 과제도얼마없고 공부 ㅈㄴ안해도 시험도 앵간치 쉽게나옴 , 출튀해도 뭐라안함, 녹강도올려줌, 성적도 잘주신다니까 안잡으",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "과제 기한도 마감 한시간 전에 변경하고 시험 문제는 어렵진 않은데 대체 나에게 어떤 답을 원하는 지를 모르겠음 교안도 어디럽고 그냥 뭘 전달하고 싶은지를 전체적으로 모르겠음",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

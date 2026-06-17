@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781118935149",
+        "bookTitle": "Matrix Algebra Useful for Statistics",
+        "bookAuthor": "Shayle R. Searle, Andre I Khuri",
+        "bookPublisher": "Wiley",
+        "bookPrice": 59000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/fc41af9659519ef062f4d8efd888922c100ff14ed5b8670ebd7e45528824fa24/1570857843797_0.jpg"
+      },
+      {
+        "bookIsbn": "9780471163626",
+        "bookTitle": "Contemporary Linear Algebra",
+        "bookAuthor": "Howard Anton",
+        "bookPublisher": "Wiley",
+        "bookPrice": 60000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/0202c27a61ff65da61db646a4bb7a8eb00e1f9c49a2cfb1b58b0da1ba84529c2/1672301015231_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간퀴즈, 중간고사는 범위가 좁고 어려운 개념들을 다루지 않아서 그런지 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 2
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.54,
+        "count": 155,
+        "items": [
+          {
+            "value": 5,
+            "count": 27
+          },
+          {
+            "value": 4,
+            "count": 62
+          },
+          {
+            "value": 3,
+            "count": 42
+          },
+          {
+            "value": 2,
+            "count": 15
+          },
+          {
+            "value": 1,
+            "count": 9
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 155,
+          "items": [
+            {
+              "text": "없음",
+              "count": 98
+            },
+            {
+              "text": "보통",
+              "count": 49
+            },
+            {
+              "text": "많음",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 155,
+          "items": [
+            {
+              "text": "없음",
+              "count": 145
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 155,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 13
+            },
+            {
+              "text": "보통",
+              "count": 79
+            },
+            {
+              "text": "깐깐함",
+              "count": 63
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 155,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 101
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 36
+            },
+            {
+              "text": "복합적",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 155,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 123
+            },
+            {
+              "text": "세 번",
+              "count": 9
+            },
+            {
+              "text": "네 번 이상",
+              "count": 19
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "학점 많이 걱정했는데, 엄청 후하게 주십니다. 솔직히 평균이나 시험성적 보면 괘씸해서 성적 낮게 주셨던 게 아닐까 그런 생각을 하게 되네요. 근데 주변 친구들 다 성적 잘 받은 것 보면 너무 억까당하셨던 것 같아요.",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "수업 개못함. 교수님 본인이 계산 실수 많이 하시고 수업 중간에 얼타는 모습 많이 보였는데 왜 그렇게 성적 주는 기준은 높은 건지 모르겠음.",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

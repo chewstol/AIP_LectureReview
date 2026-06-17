@@ -1,0 +1,167 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791190017268",
+        "bookTitle": "재료과학",
+        "bookAuthor": "William D. Callister, David G. Rethwisch",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 42000,
+        "price": 21000,
+        "coverImage": "https://cf-cii.everytime.kr/790b968c1339b90e320f6c3e6a2a95244508ffdc081a9e26100c7a91ca12df1c/1756003784101_0.jpg"
+      },
+      {
+        "bookIsbn": "9791162263044",
+        "bookTitle": "재료과학과 공학",
+        "bookAuthor": "William D. Callister Jr., David G. Rethwisch",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 42000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/e0da49b8263d7d0c46239bbf31e802f31814b03f8c10a17618bac755fb380c13/1693134474257_0.jpg"
+      }
+    ],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 0,
+        "count": 0,
+        "items": [
+          {
+            "value": 5,
+            "count": 0
+          },
+          {
+            "value": 4,
+            "count": 0
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 0,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 0,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 0,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 0,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 0
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 0
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 0,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 0
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": []
+    }
+  }
+}

@@ -1,0 +1,290 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791185994710",
+        "bookTitle": "경제학원론 연습문제와 해답",
+        "bookAuthor": "이준구, 이창용",
+        "bookPublisher": "문우사",
+        "bookPrice": 13000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/53df98f4b677462c64a8104ca42aa35e3119d1af291b2907f30e2533bf6735df/1630498630127_0.jpg"
+      },
+      {
+        "bookIsbn": "9791185994703",
+        "bookTitle": "경제학원론",
+        "bookAuthor": "이준구, 이창용",
+        "bookPublisher": "문우사",
+        "bookPrice": 39000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/7bdc3617d57d8b4a3e4bbe3bf88be2fe6140dcf148f00469e12e25fe2922eb7e/1760251776564_0.jpg"
+      },
+      {
+        "bookIsbn": "9791185994611",
+        "bookTitle": "미시경제학:수학노트와 연습문제 해답",
+        "bookAuthor": "이준구",
+        "bookPublisher": "문우사",
+        "bookPrice": 12000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/bd15d31b27ca51e6857267f32f6760160a51ad07ae0256122c2b1296747d1ef0/1725197932238_0.jpg"
+      },
+      {
+        "bookIsbn": "9791185994598",
+        "bookTitle": "미시경제학",
+        "bookAuthor": "이준구",
+        "bookPublisher": "문우사",
+        "bookPrice": 37000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/59e2eb046d14736d9f49fbeee5150580a2ecb8cfef4c59429eb61b854269ab91/1706184627385_0.jpg"
+      },
+      {
+        "bookIsbn": "9788918103389",
+        "bookTitle": "경제학원론(연습문제와 해답)(4판)",
+        "bookAuthor": "이준구",
+        "bookPublisher": "법문사",
+        "bookPrice": 12000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/dea1d1e99538f7af7516c8f3c9d030224f1605a54e2b15203bb72b4f69fcebba/1522000828721_0.jpg"
+      },
+      {
+        "bookIsbn": "9791185994055",
+        "bookTitle": "경제학원론:연습문제와 해답(5판)",
+        "bookAuthor": "이준구, 이창용",
+        "bookPublisher": "문우사",
+        "bookPrice": 13000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/e1e04b4514acbe20fab68229580b554b61d7145a471eb5d07ed84ee2a78efeb6/1656517196618_0.jpg"
+      },
+      {
+        "bookIsbn": "9791195103423",
+        "bookTitle": "미시경제학",
+        "bookAuthor": "이준구",
+        "bookPublisher": "문우사",
+        "bookPrice": 35000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/43b1b6d9f5c97661486cd7796c072010c9e7b37903c0004b9a4927a6dd871073/1622717920672_0.jpg"
+      },
+      {
+        "bookIsbn": "9791195103416",
+        "bookTitle": "경제학원론",
+        "bookAuthor": "이준구, 이창용",
+        "bookPublisher": "문우사",
+        "bookPrice": 25000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/a3969e62122f4a427d480f035be7823b9d55a26576eb936438642e066f501577/1536036989009_0.jpg"
+      },
+      {
+        "bookIsbn": "9791195103430",
+        "bookTitle": "미시경제학: 수학노트와 연습문제 해답(6판)",
+        "bookAuthor": "이준구",
+        "bookPublisher": "문우사",
+        "bookPrice": 12000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/5b400cca9a75771bb4bb937d60a8efff1a0faaacc305d391f3cc190658780d6e/1605236980133_0.jpg"
+      },
+      {
+        "bookIsbn": "9791185994048",
+        "bookTitle": "경제학원론(5판)(양장본 HardCover)",
+        "bookAuthor": "이준구, 이창용",
+        "bookPublisher": "문우사",
+        "bookPrice": 35000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/0075c9947cb08711e91bcf273c80cc2399561066c78a12d81290115253c187d0/1670328115199_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "점수는 아직 모르지만 소비자, 생산자, 시장, 게임, 시장실패, 일반균형",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 8
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.93,
+        "count": 210,
+        "items": [
+          {
+            "value": 5,
+            "count": 76
+          },
+          {
+            "value": 4,
+            "count": 66
+          },
+          {
+            "value": 3,
+            "count": 48
+          },
+          {
+            "value": 2,
+            "count": 17
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 210,
+          "items": [
+            {
+              "text": "없음",
+              "count": 29
+            },
+            {
+              "text": "보통",
+              "count": 159
+            },
+            {
+              "text": "많음",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 210,
+          "items": [
+            {
+              "text": "없음",
+              "count": 192
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 210,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 111
+            },
+            {
+              "text": "보통",
+              "count": 98
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 210,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 62
+            },
+            {
+              "text": "전자출결",
+              "count": 45
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 56
+            },
+            {
+              "text": "복합적",
+              "count": 47
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 210,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 131
+            },
+            {
+              "text": "두 번",
+              "count": 79
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "이 강의가 평점이 낮은 건 온라인 수업 때 깎인 것 때문인 것 같습니다. 코로나 끝나고 오프라인으로 전환되니 흠잡을 데 없는 완벽한 강의입니다. 교수님께서는 강의력도 좋으시고 귀여우십니다. 중간고사도 안 봐서 좋고",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "시험 볼 때 이어플러그 하고 가세요...\n강의력 좋다고 해서 기대했지만 최악이었고,\n과제도 약 5개 정도 되고,\n맨날 10분 정도 늦는데 그만큼 늦게 끝내줘서 진짜 교수로서의 자질을 의심하게 되었던 수업입니다.\n학생",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

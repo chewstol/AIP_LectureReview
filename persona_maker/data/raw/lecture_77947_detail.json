@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791190017022",
+        "bookTitle": "신호와 시스템",
+        "bookAuthor": "Simon Haykin, Barry Van Veen",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 39000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/ccfee5b66798579d22329a65808e9568e4379263f748841b0d460c578348100e/1709214895017_0.jpg"
+      },
+      {
+        "bookIsbn": "9788945006769",
+        "bookTitle": "Signal Processing First",
+        "bookAuthor": "James H McClellan, Ronald WSchafer, Mark A Yoder",
+        "bookPublisher": "Pearson",
+        "bookPrice": 35000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/98c2c7c2f7942a39c66a07181d7ee8d3bb9e08236bc4383e0d8448bbfe28b1b5/1632316549813_0.jpg"
+      },
+      {
+        "bookIsbn": "9788971291658",
+        "bookTitle": "신호와 시스템",
+        "bookAuthor": "SIMON HAYKIN",
+        "bookPublisher": "범한서적",
+        "bookPrice": 30000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/7791e729c505d5d317cc66b00c75f6f9970442aebbf2a5a4231bad945e6bdcc7/1519176261309_0.jpg"
+      },
+      {
+        "bookIsbn": "9780471378518",
+        "bookTitle": "Signals and Systems",
+        "bookAuthor": "Simon Haykin, Barry Van Veen",
+        "bookPublisher": "Wiley",
+        "bookPrice": 69000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/5992712bd5efaea1d50b8c108134ee92577786c4519d4ea34410d0d88ea86604/1755389288559_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사는 과제 계산 열심히 풀어보세요. 그리고 아예 수학적으로만 기계처",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.58,
+        "count": 107,
+        "items": [
+          {
+            "value": 5,
+            "count": 70
+          },
+          {
+            "value": 4,
+            "count": 31
+          },
+          {
+            "value": 3,
+            "count": 4
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 107,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 51
+            },
+            {
+              "text": "많음",
+              "count": 55
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 107,
+          "items": [
+            {
+              "text": "없음",
+              "count": 95
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 107,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 52
+            },
+            {
+              "text": "보통",
+              "count": 54
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 107,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 9
+            },
+            {
+              "text": "전자출결",
+              "count": 51
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 32
+            },
+            {
+              "text": "복합적",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 107,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 107
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "개념 위주의 수업이고 교수님이 영어, 설명 모두 잘하셔서 이해도 쉽습니다.",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "투머치 느낌\n매트랩만 쓰는 수업. 공부 안하고 치팅페이퍼만 열심히 쓸것",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

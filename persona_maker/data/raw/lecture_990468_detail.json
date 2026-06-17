@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "이번학기는 시험 없이  레포트 2개 쓰는 거였어요 ! 전혀 어렵지 않았습",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.14,
+        "count": 94,
+        "items": [
+          {
+            "value": 5,
+            "count": 19
+          },
+          {
+            "value": 4,
+            "count": 21
+          },
+          {
+            "value": 3,
+            "count": 21
+          },
+          {
+            "value": 2,
+            "count": 20
+          },
+          {
+            "value": 1,
+            "count": 13
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 94,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 58
+            },
+            {
+              "text": "많음",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 94,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 55
+            },
+            {
+              "text": "많음",
+              "count": 19
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 94,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 64
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 94,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 39
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 48
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 94,
+          "items": [
+            {
+              "text": "없음",
+              "count": 81
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 11
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "즐거운 시간이었습니다. 매주 강의가 시작되는 순간이면, 소리를 끄고 지브리 애니메이션을 켰습니다. 그러던 어느날 과제가 있다는 걸 알게 되었습니다. 오늘이 과제 마감일이라는 교수님의 메세지를 통해서요. 그렇게 처음",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "다른 성프세에 비해 레포트 과제, 조별 발표 과제까지 있어서 꽤 빡셉니다 그리고 개인적으로 교수님이 정말.. 별로였어요 나쁜건 아니였지만 꼰대기가 다분하십니다 다른거 들으세요",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

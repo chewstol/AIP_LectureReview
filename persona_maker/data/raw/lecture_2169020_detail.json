@@ -1,0 +1,199 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "대체 과제입니다!!!!!\np/f 과목\n셤 없음",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.98,
+        "count": 43,
+        "items": [
+          {
+            "value": 5,
+            "count": 42
+          },
+          {
+            "value": 4,
+            "count": 1
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 19
+            },
+            {
+              "text": "보통",
+              "count": 21
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 41
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 42,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 36
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 42,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 23
+            },
+            {
+              "text": "전자출결",
+              "count": 13
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 0
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 22
+            },
+            {
+              "text": "한 번",
+              "count": 3
+            },
+            {
+              "text": "두 번",
+              "count": 15
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "2",
+          "text": "무난히 학점 pf로 채우기 쉬워요\n하지 않았다면 추천",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "아무런 강의도 공지도 없어서 이 과목은 뭐지..?하다가 끝났는데 이의신청란에 물어보니까 학교에서 전화옴 문자로 보냈었다고 안온간 번호를 차단하거나 한 거라는데 나는 차단한 적이 없고 차단했으면 전화도 못받았을 거임",
+          "rate": 4,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

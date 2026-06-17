@@ -1,0 +1,270 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781260091908",
+        "bookTitle": "Fundamentals of Corporate Finance",
+        "bookAuthor": "Ross",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 50000,
+        "price": 35000,
+        "coverImage": "https://cf-cii.everytime.kr/57f5407af2ca1cce4fb171745045bfc60b41bff36222a33c6bf2113d7bf40fc9/1551669616879_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955015812",
+        "bookTitle": "재무관리의 이해(양장본 HardCover)",
+        "bookAuthor": "송교직",
+        "bookPublisher": "신영사",
+        "bookPrice": 29000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/892b4346f77cda0ab042d16f87ef4d37d825f781ea4dd14b8559a3efb4e6a21b/1567844939818_0.jpg"
+      },
+      {
+        "bookIsbn": "9789814595049",
+        "bookTitle": "Fundamentals of Corporate Finance, Aisan Global 2 Edition",
+        "bookAuthor": "스테판 A. 로스, Randolph W. Westerfield, Bradford D. Jordan, Joseph Lim, Ruth Tan",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 44000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/6069b77854b4c4c7335c7316bc0329275c159713221efd473b2f7b304c4f7a9e/1533466149146_0.jpg"
+      },
+      {
+        "bookIsbn": "9788971104781",
+        "bookTitle": "현대재무관리",
+        "bookAuthor": "박정식, 박종원, 조재호",
+        "bookPublisher": "다산출판사",
+        "bookPrice": 38000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/68f5330af10e82a2fd4d2712eb668fedc6ff22603c3a5b7df9c6996a09206997/1567341016588_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험은 전부 교수님이 수업시간 및 복습시 강조한 사항이 전부 그대로 문제",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.58,
+        "count": 128,
+        "items": [
+          {
+            "value": 5,
+            "count": 88
+          },
+          {
+            "value": 4,
+            "count": 31
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 2
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 128,
+          "items": [
+            {
+              "text": "없음",
+              "count": 27
+            },
+            {
+              "text": "보통",
+              "count": 101
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 128,
+          "items": [
+            {
+              "text": "없음",
+              "count": 38
+            },
+            {
+              "text": "보통",
+              "count": 90
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 128,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 66
+            },
+            {
+              "text": "보통",
+              "count": 62
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 128,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 27
+            },
+            {
+              "text": "전자출결",
+              "count": 65
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 27
+            },
+            {
+              "text": "복합적",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 128,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 128
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "킹갓주 교수님! 수업을 학생들 눈높이에 맞춰 천천히 이해하기 쉽게 설명해주시고 매 수업 전 저번 시간에 배웠던 내용을 리뷰해주십니다. 그냥 수업 열심히 듣고 예, 복습 간단하게 해주시면 시험기간 때 큰 부담 없이 공",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2018,
+          "semester": "1",
+          "text": "국제어라 굉장히어렵습니다...\n이무리 설명을 잘해주신다 해도 재무관리 자체가 내용이 어렵고 그걸또 영어로(!) 배우므로 정말어렵습니다..\n열심히해도 한계가 느껴짐",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155502747",
+        "bookTitle": "과학기술글쓰기",
+        "bookAuthor": "노상도, 박상태, 한기호, 한영신",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 18000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/80ee99c30c1b8dba626d17c6f9686ff1640891221fbd48d991f3398525f9b03c/1725493198647_0.jpg"
+      },
+      {
+        "bookIsbn": "9788958327127",
+        "bookTitle": "과학기술 커뮤니케이션",
+        "bookAuthor": "노상도, 강무진, 권영돈, 손미애, 신동렬, 한신일",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 20000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/9dac5ced9f37aaf9f1abcd0ded4b07372e29626bb054669ebb71490b165b2922/1552397464108_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155501313",
+        "bookTitle": "과학기술 글쓰기: 이론과 실제",
+        "bookAuthor": "노상도, 박상태, 한기호, 한영신",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 18000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/f126569761084992e91fbf55c6495c8e78523e99d968d95c4eb80ff5af5e7095/1677335732372_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사때 만들었던 보고서를 토대로 PPT 만드는 것이 시험입니다. 시험",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 3
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.5,
+        "count": 139,
+        "items": [
+          {
+            "value": 5,
+            "count": 99
+          },
+          {
+            "value": 4,
+            "count": 22
+          },
+          {
+            "value": 3,
+            "count": 10
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 139,
+          "items": [
+            {
+              "text": "없음",
+              "count": 82
+            },
+            {
+              "text": "보통",
+              "count": 53
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 139,
+          "items": [
+            {
+              "text": "없음",
+              "count": 122
+            },
+            {
+              "text": "보통",
+              "count": 17
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 139,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 81
+            },
+            {
+              "text": "보통",
+              "count": 50
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 139,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 7
+            },
+            {
+              "text": "전자출결",
+              "count": 85
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 34
+            },
+            {
+              "text": "복합적",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 139,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 124
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "그저 갓상도 ,, 빛,, 이 분 왜 안들어..?? 안들으면 당신의 손해 ,, 사랑합니다 갓상도 ..!!",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "발표실습같은거를 하는데 교수님께서는 그냥 하면 다 만점준다고 하시는데 그건 거짓말이고 발표실습을 시험처럼 깐깐하게 체크합니다 본인 A받았지만 너무 억울하네요 \n여러분들은 발표실습 제대로 준비하시길",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

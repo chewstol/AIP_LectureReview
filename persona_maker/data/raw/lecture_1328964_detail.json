@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788799760206",
+        "bookTitle": "Introduction to Neuromarketing ＆ Consumer Neuroscience",
+        "bookAuthor": "Dr Thomas Zoega Ramsoy",
+        "bookPublisher": "Neurons Inc",
+        "bookPrice": 80710,
+        "price": 0,
+        "coverImage": "https://cf-cii.everytime.kr/084132d57c6813f36ec9ede319a3da72315e9dee19a8d26743ffcb7e32c60c9b/1521258180380_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "강평에서 큰것위주로 정리하라 하는데 개인적으로 강의 듣고 스스로 정리하는",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 20,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 5
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 9
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.39,
+        "count": 188,
+        "items": [
+          {
+            "value": 5,
+            "count": 53
+          },
+          {
+            "value": 4,
+            "count": 36
+          },
+          {
+            "value": 3,
+            "count": 55
+          },
+          {
+            "value": 2,
+            "count": 19
+          },
+          {
+            "value": 1,
+            "count": 25
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 187,
+          "items": [
+            {
+              "text": "없음",
+              "count": 173
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 187,
+          "items": [
+            {
+              "text": "없음",
+              "count": 174
+            },
+            {
+              "text": "보통",
+              "count": 13
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 187,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 87
+            },
+            {
+              "text": "보통",
+              "count": 95
+            },
+            {
+              "text": "깐깐함",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 187,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 25
+            },
+            {
+              "text": "전자출결",
+              "count": 122
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 34
+            },
+            {
+              "text": "복합적",
+              "count": 6
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 187,
+          "items": [
+            {
+              "text": "없음",
+              "count": 5
+            },
+            {
+              "text": "한 번",
+              "count": 140
+            },
+            {
+              "text": "두 번",
+              "count": 41
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "겨울",
+          "text": "학점 날먹가능한 개꿀강\n모두 온라인 녹강이고 성적은 기말 한번으로 결정됨\n과제없고 그냥 녹강 틀어두면 끝\n\n기말 시험 준비는 강의 볼 필요 없고 요약본 구해서 전체적으로 한번 훑는거 추천드립니다.\n\n요약본 다 읽은",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "겨울",
+          "text": "이게 무슨 수업인지 모르겠는 수업\n강의 듣기를 포기한 수업은 처음이다",
+          "rate": 1,
+          "posvote": 8
+        }
+      ]
+    }
+  }
+}

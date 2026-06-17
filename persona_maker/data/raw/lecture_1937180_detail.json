@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780929306407",
+        "bookTitle": "Fundamentals of Data Structures in C",
+        "bookAuthor": "엘리스 호로위츠",
+        "bookPublisher": "Silicon Press",
+        "bookPrice": 45000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/c1d799d3cf9ae4b8980ac56508a17acb66fd05ce4ddfb54b24063338369e05f2/1765893695157_0.jpg"
+      },
+      {
+        "bookIsbn": "9788970858944",
+        "bookTitle": "C로 쓴 자료구조론",
+        "bookAuthor": "엘리스 호로위츠, SAHNI, ANDERSON-FREED",
+        "bookPublisher": "교보문고",
+        "bookPrice": 28000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/6c2945935f16820f6088ccd2e1e176573284947754d2b6988123c3d952bbedd3/1710649593265_0.jpg"
+      },
+      {
+        "bookIsbn": "9788996094067",
+        "bookTitle": "윤성우의 열혈 자료구조",
+        "bookAuthor": "윤성우",
+        "bookPublisher": "오렌지미디어",
+        "bookPrice": 27000,
+        "price": 4900,
+        "coverImage": "https://cf-cii.everytime.kr/249c134c93ee05a9f0eae8c738ba085fe819ed8d956f3401b1fa05da578d38b1/1738833396225_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교안에있는 코드 그대로 캡쳐해서 나옴\n교수님이 설명하시는 중요한 포인트 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.22,
+        "count": 133,
+        "items": [
+          {
+            "value": 5,
+            "count": 31
+          },
+          {
+            "value": 4,
+            "count": 32
+          },
+          {
+            "value": 3,
+            "count": 33
+          },
+          {
+            "value": 2,
+            "count": 9
+          },
+          {
+            "value": 1,
+            "count": 28
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 133,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 79
+            },
+            {
+              "text": "많음",
+              "count": 54
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 133,
+          "items": [
+            {
+              "text": "없음",
+              "count": 107
+            },
+            {
+              "text": "보통",
+              "count": 26
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 133,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 53
+            },
+            {
+              "text": "보통",
+              "count": 56
+            },
+            {
+              "text": "깐깐함",
+              "count": 24
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 133,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 19
+            },
+            {
+              "text": "전자출결",
+              "count": 75
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 36
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 133,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "한 번",
+              "count": 50
+            },
+            {
+              "text": "두 번",
+              "count": 81
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "진지하게 말함. 시험 안 어려움. 시험도 머리 좀만 굴리면 풀 수있음.  심지어 자기가 머리 좋다고 생각하면 공부 안 하고 가도 잘 볼 수 있음. 하지만 기본기가 중요함.",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "이교수님은 너무 날먹느낌으로 수업하신다\n질문해도 대충 답변해주시고 조교들만 고생하는듯\n기말시험방식이 너무 얼척없이 어려웠음",
+          "rate": 1,
+          "posvote": 6
+        }
+      ]
+    }
+  }
+}

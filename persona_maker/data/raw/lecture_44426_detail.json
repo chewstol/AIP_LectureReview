@@ -1,0 +1,369 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791162263037",
+        "bookTitle": "미시경제학",
+        "bookAuthor": "오스탠 굴스비, 스티븐 레빗, 채드 사이버슨",
+        "bookPublisher": "시그마프레스",
+        "bookPrice": 42000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/ce2741220635889bda42599f559c6bfc360746c97d9aa023515cce82bab2a9d5/1725492667774_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130306513",
+        "bookTitle": "미시경제학(예제와 함께하는)",
+        "bookAuthor": "임봉욱",
+        "bookPublisher": "박영사",
+        "bookPrice": 39000,
+        "price": 29000,
+        "coverImage": "https://cf-cii.everytime.kr/dd900eba2e226619aa9abb295bae4867226045c8dbaf5c26d813ca930c1b881c/1610863443651_0.jpg"
+      },
+      {
+        "bookIsbn": "9791185994598",
+        "bookTitle": "미시경제학",
+        "bookAuthor": "이준구",
+        "bookPublisher": "문우사",
+        "bookPrice": 37000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/e73a1b7f0476bbc072a8c95c0830a5b32a88ef48b6e22fedd446f9c386858495/1608616216057_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968210716",
+        "bookTitle": "객관식 경제학(거시편)(3판)",
+        "bookAuthor": "장선구, 정영숙, 이재민",
+        "bookPublisher": "비앤엠북스",
+        "bookPrice": 35000,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/8cd78d4499c5a0206168d2de6e5d68ed041c6d342eae70d697efa77906ff092b/1613574621791_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184204",
+        "bookTitle": "맨큐의 경제학 연습문제풀이",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "센게이지러닝코리아",
+        "bookPrice": 13000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/da54f9fa7043363ae5d8171b791255215cffee1669540c1d44c2540089828ab9/1613745973106_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968210761",
+        "bookTitle": "객관식 경제학 미시편(3판)",
+        "bookAuthor": "장선구",
+        "bookPublisher": "비앤엠북스",
+        "bookPrice": 35000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/dee42d073f717d1a2e89b05f7ba017abff17a9a58df1586c9843b8f9688c97b9/1608615831690_0.jpg"
+      },
+      {
+        "bookIsbn": "9788962184181",
+        "bookTitle": "맨큐의 경제학",
+        "bookAuthor": "그레고리 맨큐",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 42000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/9e9957f2d9e11e49f500d95c6abbb2c6f92ac118c7305f2d977892733cce370a/1612005724414_0.jpg"
+      },
+      {
+        "bookIsbn": "9788968210662",
+        "bookTitle": "정석 미시경제론",
+        "bookAuthor": "박환재, 장선구, 이진형",
+        "bookPublisher": "비앤엠북스",
+        "bookPrice": 35000,
+        "price": 17000,
+        "coverImage": "https://cf-cii.everytime.kr/96b8ed40d0042c28a502baf156c462e1d4a761c53960e29c171f8e980ea78ae3/1709709521724_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130301600",
+        "bookTitle": "미시경제학(예제와 함께하는)(2판)",
+        "bookAuthor": "임봉욱",
+        "bookPublisher": "박영사",
+        "bookPrice": 36000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/c06987da1017e8bd06eb170da192fe07021bef7181baaf4b6bca053e2a78ba53/1582369906576_0.jpg"
+      },
+      {
+        "bookIsbn": "9791130300153",
+        "bookTitle": "미시경제학 연습문제 해답집",
+        "bookAuthor": "김영산, 왕규호",
+        "bookPublisher": "박영사",
+        "bookPrice": 10000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/f7f157bf1499699b071b36000df62e2151a9a2ba83389893e3059c1480db9bdf/1586083406293_0.jpg"
+      },
+      {
+        "bookIsbn": "9788997428847",
+        "bookTitle": "미시경제학연습",
+        "bookAuthor": "임봉욱",
+        "bookPublisher": "율곡출판사",
+        "bookPrice": 35000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/fa4a188fc8d44a2c13adda5cd16d2b858661d0b2718826da7d4f3e1de4f5a589/1613745724904_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964543641",
+        "bookTitle": "미시경제학(2판)(양장본 HardCover)",
+        "bookAuthor": "김영산, 왕규호",
+        "bookPublisher": "박영사",
+        "bookPrice": 35000,
+        "price": 17000,
+        "coverImage": "https://cf-cii.everytime.kr/f7f157bf1499699b071b36000df62e2151a9a2ba83389893e3059c1480db9bdf/1586083354536_0.jpg"
+      },
+      {
+        "bookIsbn": "9788997428656",
+        "bookTitle": "현대 경제학",
+        "bookAuthor": "최병권, 장선구",
+        "bookPublisher": "율곡출판사",
+        "bookPrice": 38000,
+        "price": 13000,
+        "coverImage": "https://cf-cii.everytime.kr/12dc0c06679667d8f24523f5381aaac76d7547653334a3c2e48e9106ffab66a4/1613308071015_0.jpg"
+      },
+      {
+        "bookIsbn": "9791195103423",
+        "bookTitle": "미시경제학",
+        "bookAuthor": "이준구",
+        "bookPublisher": "문우사",
+        "bookPrice": 35000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/145bc3c01f78d5d9eaf649e70d481ca469c615e1fef6ec52ea81647cde1caac4/1504496523966_0.jpg"
+      },
+      {
+        "bookIsbn": "9791195103430",
+        "bookTitle": "미시경제학: 수학노트와 연습문제 해답(6판)",
+        "bookAuthor": "이준구",
+        "bookPublisher": "문우사",
+        "bookPrice": 12000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/81170ca9ebc71d4857eee9cf60c4408b740bc06c706a4037dadc98ecb372f346/1504496707525_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "교수니께서 본인 블로그에 지금까지의 기출 문제들 올려두고, 그 블로그 공",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.53,
+        "count": 221,
+        "items": [
+          {
+            "value": 5,
+            "count": 145
+          },
+          {
+            "value": 4,
+            "count": 51
+          },
+          {
+            "value": 3,
+            "count": 23
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 221,
+          "items": [
+            {
+              "text": "없음",
+              "count": 168
+            },
+            {
+              "text": "보통",
+              "count": 52
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 221,
+          "items": [
+            {
+              "text": "없음",
+              "count": 176
+            },
+            {
+              "text": "보통",
+              "count": 45
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 221,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 186
+            },
+            {
+              "text": "보통",
+              "count": 35
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 221,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 9
+            },
+            {
+              "text": "전자출결",
+              "count": 100
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 99
+            },
+            {
+              "text": "복합적",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 221,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 3
+            },
+            {
+              "text": "두 번",
+              "count": 217
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "그냥 천사 엔젤 지져스 붓따 충무공 킹세종 테스형 등 온갖 성현의 이름을 붙혀도 모자란 '나의 아저씨' 선구형. 무조건 들으십쇼\n최상위권애들 조온나 잘하긴해도 이건 들어야함. 갓구형 강의하나듣고 경제복전 바로넣었음.",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "1을 가르치시고 10을 물어보심. 아캠인데 피드백 너무 느려서 답답",
+          "rate": 2,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,431 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504628",
+        "bookTitle": "학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 김종규, 이기백, 김치헌, 김상현",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 25000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/8e515a7a7bbce838fee84334aa7a46b476fd36a15c7ee49940e75ba71e8fe3d0/1640670223069_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979869453",
+        "bookTitle": "학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 박상태, 한기호, 김상현",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 13000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/c820f703f40ae0ea4fcd3c2a321b0692bae458946a2ca2952c5f5c7c2c18f14f/1566396590499_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500606",
+        "bookTitle": "비판적 사고 학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 박상태, 한기호, 김상현, 이창후",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/90f36604407c7c52b7a6ac7a168b6aa4bf1cb7cb46773bf2c98ff44c8a570aa7/1693236428999_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "오류 찾기 문제는 교수님이 수업하셨던 각종 오류에 대해서 숙지하고 있으면",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "3차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "4차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.15,
+        "count": 357,
+        "items": [
+          {
+            "value": 5,
+            "count": 172
+          },
+          {
+            "value": 4,
+            "count": 103
+          },
+          {
+            "value": 3,
+            "count": 58
+          },
+          {
+            "value": 2,
+            "count": 11
+          },
+          {
+            "value": 1,
+            "count": 13
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 357,
+          "items": [
+            {
+              "text": "없음",
+              "count": 178
+            },
+            {
+              "text": "보통",
+              "count": 164
+            },
+            {
+              "text": "많음",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 357,
+          "items": [
+            {
+              "text": "없음",
+              "count": 18
+            },
+            {
+              "text": "보통",
+              "count": 250
+            },
+            {
+              "text": "많음",
+              "count": 89
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 357,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 86
+            },
+            {
+              "text": "보통",
+              "count": 226
+            },
+            {
+              "text": "깐깐함",
+              "count": 45
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 357,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 31
+            },
+            {
+              "text": "전자출결",
+              "count": 13
+            },
+            {
+              "text": "지정좌석",
+              "count": 34
+            },
+            {
+              "text": "직접호명",
+              "count": 258
+            },
+            {
+              "text": "복합적",
+              "count": 21
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 357,
+          "items": [
+            {
+              "text": "없음",
+              "count": 79
+            },
+            {
+              "text": "한 번",
+              "count": 69
+            },
+            {
+              "text": "두 번",
+              "count": 131
+            },
+            {
+              "text": "세 번",
+              "count": 59
+            },
+            {
+              "text": "네 번 이상",
+              "count": 19
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "진짜 대런 호간 교수님 GOAT 그 자체\n발표도 3-4분이고 수업 열심히 듣고 루브릭만 잘 맞추면 에쁠은 그냥 받아요.. 중간기말 각각 5% 시험 있긴 한데 오픈북이어서 그것도 쉽게쉽게 합니다. 교수님도 너무 재밌으",
+          "rate": 5,
+          "posvote": 9
+        },
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "수업듣기만 편한수업\n학점은 받고도 이해가 안가는 수업\n별다른 피드백이 있는 것도 아니고 그냥 수업시간에 교수님 말만 하다가 끝나고 그마저도 교수님 사상 위주로 말함.\n그럴싸하지만 분명 반대 의견이 있을 수 도 있는",
+          "rate": 1,
+          "posvote": 9
+        }
+      ]
+    }
+  }
+}

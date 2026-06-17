@@ -1,0 +1,295 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788968175213",
+        "bookTitle": "언어 이론과 그 응용",
+        "bookAuthor": "김진우",
+        "bookPublisher": "한국문화사",
+        "bookPrice": 25000,
+        "price": 2000,
+        "coverImage": "https://cf-cii.everytime.kr/194111921ad9a39460fd5807ecaa123685ad9b4a20a1395b9c490f20ac0ec592/1725279823638_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979866865",
+        "bookTitle": "스피치와 토론(글쓰기와 커뮤니케이션 03)",
+        "bookAuthor": "이상철, 백미숙, 정현숙",
+        "bookPublisher": "성균관대학교대동문화연구원",
+        "bookPrice": 15000,
+        "price": 1000,
+        "coverImage": "https://cf-cii.everytime.kr/18b562f611a1cd4347e0baa4c3aa35394747dd75170e0bb668eca3d21976073c1489246237235/0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500590",
+        "bookTitle": "소통의 기초 스피치와 토론",
+        "bookAuthor": "스피치와 토론 교과교재 출간위원회",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/273b083ca73b6b438245587b2a69a43c3d56deb09e1674dde8540b1ac364b040/1709540091004_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "학생들과 상의 후 한 번으로 정하십니다. 요약과 족보 보면 사실 양이 그",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 8
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 3
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 46,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 32
+            },
+            {
+              "text": "주관식",
+              "count": 33
+            },
+            {
+              "text": "T/F형",
+              "count": 17
+            },
+            {
+              "text": "약술형",
+              "count": 30
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.92,
+        "count": 505,
+        "items": [
+          {
+            "value": 5,
+            "count": 190
+          },
+          {
+            "value": 4,
+            "count": 159
+          },
+          {
+            "value": 3,
+            "count": 104
+          },
+          {
+            "value": 2,
+            "count": 32
+          },
+          {
+            "value": 1,
+            "count": 20
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 505,
+          "items": [
+            {
+              "text": "없음",
+              "count": 85
+            },
+            {
+              "text": "보통",
+              "count": 369
+            },
+            {
+              "text": "많음",
+              "count": 51
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 505,
+          "items": [
+            {
+              "text": "없음",
+              "count": 46
+            },
+            {
+              "text": "보통",
+              "count": 435
+            },
+            {
+              "text": "많음",
+              "count": 24
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 505,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 164
+            },
+            {
+              "text": "보통",
+              "count": 301
+            },
+            {
+              "text": "깐깐함",
+              "count": 40
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 505,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 6
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 495
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 505,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "한 번",
+              "count": 469
+            },
+            {
+              "text": "두 번",
+              "count": 32
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "약간 동물의숲 고북촌장님? 닮음 심지어 성격도 닮은듯...\n귀여우심!! 진짜로 교수님께이무슨소린지 하겠지만.. 진짜기여우심\n호불호 갈리긴 하지만... 나름 꿀강이었다고 생각함\n학생들 생각 많이 해주시고 피드백도 친절",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2021,
+          "semester": "1",
+          "text": "진짜 개별로....교수님 너무 주관적이심. 시험 성적이나 이런것도 공개 안하시고 학점 주셔서 별로임. 그리고 너무 기분파에요. 교수님 기분 안좋은 날에 토론하는 조는 그냥 다같이 비쁠 확정이라고 봐야함. 스토 다른거",
+          "rate": 1,
+          "posvote": 9
+        }
+      ]
+    }
+  }
+}

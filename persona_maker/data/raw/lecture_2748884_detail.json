@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155505847",
+        "bookTitle": "성균 논어",
+        "bookAuthor": "이천승, 고재석",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/e4fd057097a16ded130bb01b1ceb5479af27e73ff1527d72cdd2d77375e2a208/1750779461069_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험 전주에 4문제 알려주시고 이 중에 3문제가 나옴\n쳇gpt는 좀 틀린",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 11,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.48,
+        "count": 80,
+        "items": [
+          {
+            "value": 5,
+            "count": 43
+          },
+          {
+            "value": 4,
+            "count": 32
+          },
+          {
+            "value": 3,
+            "count": 5
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 77,
+          "items": [
+            {
+              "text": "없음",
+              "count": 18
+            },
+            {
+              "text": "보통",
+              "count": 57
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 77,
+          "items": [
+            {
+              "text": "없음",
+              "count": 72
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 77,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 51
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 77,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 4
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 61
+            },
+            {
+              "text": "복합적",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 77,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 71
+            },
+            {
+              "text": "두 번",
+              "count": 5
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "어차피 들어야하는 성논인데 교수님 수업으로 들어서 너무 좋았어요! 시험문제를 시험직전에 4개정도 말해주시는데 그 중에 3개가 나옵니다. 그래서 시험공부하는데 부담이 없었어요. 쁠도 다 채워주십니다!!",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "수업 내용이 너무 어려워요.. 그래서 받아적기가 힘들어요. 가끔씩 영상 틀어주시면 한줄기 빛같음 뇌 빼고 볼 수 있어서",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791132101635",
+        "bookTitle": "국제경영",
+        "bookAuthor": "Charles W. L. Hill, Hult G. Tomas M.",
+        "bookPublisher": "맥그로힐에듀케이션코리아",
+        "bookPrice": 37000,
+        "price": 16000,
+        "coverImage": "https://cf-cii.everytime.kr/6c2514d1e8b082cbbfdfd3a07aa62c1b96006af91f96259cb5f4f4b9204533e8/1758082685192_0.jpg"
+      },
+      {
+        "bookIsbn": "9791156159919",
+        "bookTitle": "국제경영",
+        "bookAuthor": "Charles W. L. Hill",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 35000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/6bf62b4cc1aac8cbb110e455525e89a53f234e7dd175bea95ac3256316bf2c49/1568124069760_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "객관식 30개\n교수님이 일주일?전에 시험 질문 순서대로 주제를 올려주심 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 13,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 11
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.59,
+        "count": 167,
+        "items": [
+          {
+            "value": 5,
+            "count": 128
+          },
+          {
+            "value": 4,
+            "count": 18
+          },
+          {
+            "value": 3,
+            "count": 16
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 167,
+          "items": [
+            {
+              "text": "없음",
+              "count": 85
+            },
+            {
+              "text": "보통",
+              "count": 80
+            },
+            {
+              "text": "많음",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 167,
+          "items": [
+            {
+              "text": "없음",
+              "count": 127
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 167,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 116
+            },
+            {
+              "text": "보통",
+              "count": 48
+            },
+            {
+              "text": "깐깐함",
+              "count": 3
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 167,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 8
+            },
+            {
+              "text": "전자출결",
+              "count": 119
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 32
+            },
+            {
+              "text": "복합적",
+              "count": 8
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 167,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "한 번",
+              "count": 54
+            },
+            {
+              "text": "두 번",
+              "count": 110
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "2시간 50분짜리 강의를 절반도 안되는 시간에 끝내주시는 양백 교수님의 강의를 듣다보면  문득 추가 경기 없이 3경기만에 우승을 차지한 T1이 새삼 대단하게 느껴집니다. 무조건 들으세요",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "1점 준적이 없었던 것 같은데 경영과제가 매우 ㅈ같고 여기서 학점이 갈릴 것 같은데 학점미화되기전에 강평남김. 노력과 결과가 비례하지 않는 과목이라 후후",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

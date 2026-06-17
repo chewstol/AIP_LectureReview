@@ -1,0 +1,163 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "questionTypes": []
+    },
+    "review": {
+      "rate": {
+        "average": 4.79,
+        "count": 42,
+        "items": [
+          {
+            "value": 5,
+            "count": 35
+          },
+          {
+            "value": 4,
+            "count": 5
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 24
+            },
+            {
+              "text": "보통",
+              "count": 18
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 11
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 42,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 42
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 42,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 9
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 28
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 42,
+          "items": [
+            {
+              "text": "없음",
+              "count": 40
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 2
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "그냥 영화 발표 하고 꿀빠는 수업!! 근데 피자 사주신대서 기대했는데 올해는 아캠으로 진행돼서 좀 아쉬웠네요ㅠㅠ 그래도 학점 채우려면 듣는거 추천",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "굿굿 1학점채우기용으로 조아요\n피자는 못먹어서 아숩지만 ㅠ 과제 피피티하나 끝임",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

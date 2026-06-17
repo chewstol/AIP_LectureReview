@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155502396",
+        "bookTitle": "Poised to Present",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/19c8e3bb35f1dc053733cdcb35c5dfcd4484dfd751c0d3693ad0d08293941d76/1613366636970_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험문제를 전부 알려주십니다! 책, ppt 교안 안에 답이 들어있고 올해",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 35,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 26
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 7
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.41,
+        "count": 190,
+        "items": [
+          {
+            "value": 5,
+            "count": 116
+          },
+          {
+            "value": 4,
+            "count": 53
+          },
+          {
+            "value": 3,
+            "count": 11
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 7
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 190,
+          "items": [
+            {
+              "text": "없음",
+              "count": 37
+            },
+            {
+              "text": "보통",
+              "count": 116
+            },
+            {
+              "text": "많음",
+              "count": 37
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 190,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 128
+            },
+            {
+              "text": "많음",
+              "count": 55
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 190,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 106
+            },
+            {
+              "text": "보통",
+              "count": 64
+            },
+            {
+              "text": "깐깐함",
+              "count": 20
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 190,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 137
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 23
+            },
+            {
+              "text": "복합적",
+              "count": 28
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 190,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "한 번",
+              "count": 161
+            },
+            {
+              "text": "두 번",
+              "count": 17
+            },
+            {
+              "text": "세 번",
+              "count": 3
+            },
+            {
+              "text": "네 번 이상",
+              "count": 5
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "여름",
+          "text": "계절학기로 수강하였고, A+ 받았습니다.\n\n1. 교수님\n교수님은 되게 유쾌하신 분이고, 수업을 재밌게 잘 이끌어 나가십니다. 학생들과 소통도 하시려는 거 같고 융통성이 있으십니다. 다만, 가끔 학생들에게 화를 내는",
+          "rate": 5,
+          "posvote": 11
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "성적은 잘 받았지만 강평이 왜 이렇게 높은지 도저히 이해가 안 가며 추천하지 않는 강의입니다. 영어를 잘하는지 못하는지는 관심이 없으며 발표 태도에선 오로지 목소리만을 중시합니다. 조별 발표에는 내용 점수가 조원들에",
+          "rate": 1,
+          "posvote": 14
+        }
+      ]
+    }
+  }
+}

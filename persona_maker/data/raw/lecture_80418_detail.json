@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9780470905845",
+        "bookTitle": "Regression Analysis by Example",
+        "bookAuthor": "Samprit Chatterjee, Ali S Hadi",
+        "bookPublisher": "Wiley",
+        "bookPrice": 69000,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/f27044ae56bc587f4934818b9f2287a88e06a213d40158d817f59948e4ebbae5/1582689596196_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "개념에 대한 이해도 필요하지만 주어진 통계량을 통해 다른 통계량을 찾아내",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.47,
+        "count": 128,
+        "items": [
+          {
+            "value": 5,
+            "count": 79
+          },
+          {
+            "value": 4,
+            "count": 33
+          },
+          {
+            "value": 3,
+            "count": 13
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 128,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 109
+            },
+            {
+              "text": "많음",
+              "count": 17
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 128,
+          "items": [
+            {
+              "text": "없음",
+              "count": 118
+            },
+            {
+              "text": "보통",
+              "count": 10
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 128,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 37
+            },
+            {
+              "text": "보통",
+              "count": 83
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 128,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 16
+            },
+            {
+              "text": "전자출결",
+              "count": 81
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 27
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 128,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 128
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "2",
+          "text": "복전생+노베여서 걱정했는데 괜찮았습니다. 수업 열심히 들으면 따라갈수 있어서 좋았어요",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "강의 자체는 좋으나 일부 과제나 시험문제가 회귀'분석'이 아닌 회귀'퍼즐' 느낌. 고인물들이 많아서 그렇게 된 건가..",
+          "rate": 2,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

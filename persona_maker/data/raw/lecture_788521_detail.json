@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155501641",
+        "bookTitle": "글쓰기의 절차와 과정",
+        "bookAuthor": "김경훤, 오광근, 유하라, 김희경, 현원숙, 홍은실",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 2000,
+        "coverImage": "https://cf-cii.everytime.kr/da4a96568936730e1765a9226812f11cee32147f53a7f25b78de8f077429cd4d/1576566409939_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "정말 시험 어떤 문제 출제 할지 하나도 모름 그냥 책 보고 운 보면 돼",
+      "questionTypes": [
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.85,
+        "count": 13,
+        "items": [
+          {
+            "value": 5,
+            "count": 11
+          },
+          {
+            "value": 4,
+            "count": 2
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 13,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 13,
+          "items": [
+            {
+              "text": "없음",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 13,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 5
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 13,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 0
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 13
+            },
+            {
+              "text": "복합적",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 13,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "한 번",
+              "count": 3
+            },
+            {
+              "text": "두 번",
+              "count": 7
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2017,
+          "semester": "1",
+          "text": "교수님의 강의 들으면 정말 많을 것을 배울 수 있다고 생각합니다. 학생들에게 유학생활을 잘할수 있는 법을 알려주시고 수업외에도 학생들을 잘 챙겨주시는 분입니다. 과제가 많다는 평가 많이 들었지만 유학생들에게 도움이",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2016,
+          "semester": "1",
+          "text": "과제는 좀 많다고 생각할수있지만 진짜  논술력만 좀 쓰면 별거아닌과제구요 노력한학생한테는 점수를주고 노력하지않은학생은 덜주는교수님이십니다 그래도 얻어가는게 많아요",
+          "rate": 4,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

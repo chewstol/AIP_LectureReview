@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155500651",
+        "bookTitle": "리더십, 성균에 길이 있다",
+        "bookAuthor": "성균리더십출간위원회",
+        "bookPublisher": "사람의무늬",
+        "bookPrice": 12000,
+        "price": 1000,
+        "coverImage": "https://cf-cii.everytime.kr/5df68233a8f72d5df48561d44b099af15a585feea6a8a3870b84ca3564e6ce26/1707752896999_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "모든 주차 수업 내용에서 문제가 나오지만, 오픈북이여서 할 만합니다.\n자",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 2.99,
+        "count": 72,
+        "items": [
+          {
+            "value": 5,
+            "count": 19
+          },
+          {
+            "value": 4,
+            "count": 9
+          },
+          {
+            "value": 3,
+            "count": 15
+          },
+          {
+            "value": 2,
+            "count": 10
+          },
+          {
+            "value": 1,
+            "count": 19
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 72,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 42
+            },
+            {
+              "text": "많음",
+              "count": 29
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 72,
+          "items": [
+            {
+              "text": "없음",
+              "count": 25
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "많음",
+              "count": 19
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 72,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 18
+            },
+            {
+              "text": "보통",
+              "count": 42
+            },
+            {
+              "text": "깐깐함",
+              "count": 12
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 72,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 15
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 53
+            },
+            {
+              "text": "복합적",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 72,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 57
+            },
+            {
+              "text": "두 번",
+              "count": 14
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "여름",
+          "text": "자잘한 과제는 많았는데 딱히 오래걸리는 건 없었어요\n어차피 필수과목인데 이정도면 좋다고 생각합니다",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2024,
+          "semester": "여름",
+          "text": "강의의 퀄리티 하타치.\n과제 많음.\n개노답 시험.\n에기활이든 데분기든 강의를 들으면서 배운 건 있었는데, 이건 ㄹㅇ 배운게 없음. A+ 잘 먹고감.",
+          "rate": 1,
+          "posvote": 1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "객관식, 주관식, 참 거짓(하나), 짝짓기 문제 모두 포함해서 28문제였",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 20,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 20
+            },
+            {
+              "text": "주관식",
+              "count": 15
+            },
+            {
+              "text": "T/F형",
+              "count": 9
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 8
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.41,
+        "count": 99,
+        "items": [
+          {
+            "value": 5,
+            "count": 64
+          },
+          {
+            "value": 4,
+            "count": 20
+          },
+          {
+            "value": 3,
+            "count": 10
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 99,
+          "items": [
+            {
+              "text": "없음",
+              "count": 62
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 99,
+          "items": [
+            {
+              "text": "없음",
+              "count": 7
+            },
+            {
+              "text": "보통",
+              "count": 91
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 99,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 30
+            },
+            {
+              "text": "보통",
+              "count": 52
+            },
+            {
+              "text": "깐깐함",
+              "count": 17
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 99,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 5
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 93
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 99,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 98
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "강의 내용은 어렵지 않고 서술형 시험 한번 기말고사 대신 팀플 발표 했음",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "ㅇㄴ 미디어톡 과제 이딴식으로 자기혼자 할말 다하시고 뒷사란들 준비해온것도 말 못하게 하면 이 과제를 대체 왜하나요?",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

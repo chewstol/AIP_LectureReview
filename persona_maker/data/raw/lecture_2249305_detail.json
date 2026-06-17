@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788968240904",
+        "bookTitle": "생명과학",
+        "bookAuthor": "Campbell",
+        "bookPublisher": "바이오사이언스출판",
+        "bookPrice": 60000,
+        "price": 40000,
+        "coverImage": "https://cf-cii.everytime.kr/e4333678fa60f05a0b4dd217a851cd18b4adf263d0dcb571d95473dd7d5380ab/1708927127076_0.jpg"
+      },
+      {
+        "bookIsbn": "9788961542814",
+        "bookTitle": "생명과학(개념과 현상의 이해)",
+        "bookAuthor": "Taylor, simon, dicky, hogan, reexe",
+        "bookPublisher": "라이프사이언스",
+        "bookPrice": 35000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/8409b768031d951a0e382380990d815b7b0a3417118f49b0c27683e786bc25ec/1714785880292_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "이번학기부터 1학년 공통 시험으로 바뀌었던거 같음.\n객관식 약 50문제\n",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 8
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.94,
+        "count": 71,
+        "items": [
+          {
+            "value": 5,
+            "count": 67
+          },
+          {
+            "value": 4,
+            "count": 4
+          },
+          {
+            "value": 3,
+            "count": 0
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 71,
+          "items": [
+            {
+              "text": "없음",
+              "count": 47
+            },
+            {
+              "text": "보통",
+              "count": 24
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 71,
+          "items": [
+            {
+              "text": "없음",
+              "count": 71
+            },
+            {
+              "text": "보통",
+              "count": 0
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 71,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 47
+            },
+            {
+              "text": "보통",
+              "count": 23
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 71,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 6
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 63
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 71,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 70
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "“갈색 지방 아는 학생있나요?.. 제 연구주제입니다”\n“이게 좀 재밌는 내용인데.. 저만 재밌나요?” \n“별 문제될 말은 아닌데 혹시 모르니까 잠깐 끊고”",
+          "rate": 5,
+          "posvote": 17
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "공통시험으로 바뀌며 이 수업의 장점이 많이 죽었다고 생각한다.\n생명과학은 영어 싫으면 죽을맛이다 잘 생각하길\n우리 수업만 과제로 독후감 있어서 좀많이 슬펐다.\n중간 전후로 교수님이 한 번 비뀌시는데 전 교수님은 수업",
+          "rate": 4,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

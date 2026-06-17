@@ -1,0 +1,209 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788930621403",
+        "bookTitle": "책임의 원칙:기술 시대의 생태학적 윤리",
+        "bookAuthor": "H요나스",
+        "bookPublisher": "서광사",
+        "bookPrice": 18000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/750ee05b668614c716f5f857f51922f2c6a5ef59ce8ddf5192520cef5a94078f/1630229447459_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험은 보지 않고 대체 레포트 형식으로 진행됩니다. 생각보다 교수님이 요",
+      "questionTypes": [
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.9,
+        "count": 72,
+        "items": [
+          {
+            "value": 5,
+            "count": 29
+          },
+          {
+            "value": 4,
+            "count": 23
+          },
+          {
+            "value": 3,
+            "count": 11
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 7
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 72,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "보통",
+              "count": 35
+            },
+            {
+              "text": "많음",
+              "count": 34
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 72,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 34
+            },
+            {
+              "text": "많음",
+              "count": 34
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 72,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 30
+            },
+            {
+              "text": "보통",
+              "count": 33
+            },
+            {
+              "text": "깐깐함",
+              "count": 9
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 72,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 29
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 29
+            },
+            {
+              "text": "복합적",
+              "count": 13
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 72,
+          "items": [
+            {
+              "text": "없음",
+              "count": 59
+            },
+            {
+              "text": "한 번",
+              "count": 6
+            },
+            {
+              "text": "두 번",
+              "count": 7
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "교수님 엄청 친절하십니다. 사실 저는 철학을 정말 모르기도 하고 너무 너무 싫어해서 수업이 엄청 재밌진 않았어요. 하지만 설명 이해하는 데에는 전혀 문제 없었고, 교수님께 따로 질문하면 엄청 자세히 답변 잘 해주십니",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "고명북 중 가장 쓰레기같은 분반. 과제 개 많음. 이 교수님을 걸리면 그냥 닷지 ㄱㄱ",
+          "rate": 1,
+          "posvote": 3
+        }
+      ]
+    }
+  }
+}

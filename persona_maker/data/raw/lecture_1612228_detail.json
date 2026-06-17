@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791158082932",
+        "bookTitle": "Harris 분석화학",
+        "bookAuthor": "Daniel C. Harris",
+        "bookPublisher": "자유아카데미",
+        "bookPrice": 52000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/e1c8efa2495e2ae0214f6217538ba06115ba65568fcdfd14c5ddf63355633b45/1769594932989_0.jpg"
+      },
+      {
+        "bookIsbn": "9791158081232",
+        "bookTitle": "분석화학",
+        "bookAuthor": "Daniel C Harris",
+        "bookPublisher": "자유아카데미",
+        "bookPrice": 49000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/544c53fcd7921b07d4a90fc0c502bb21401cbc6e03893ac323def068afcdec3c/1677456926664_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간고사 때는 400점 만점이었는데 책에서 반 이상 출제, 나머지 반 중",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 15,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 12
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 4
+            },
+            {
+              "text": "논술형",
+              "count": 3
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.44,
+        "count": 63,
+        "items": [
+          {
+            "value": 5,
+            "count": 39
+          },
+          {
+            "value": 4,
+            "count": 16
+          },
+          {
+            "value": 3,
+            "count": 6
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 63,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 52
+            },
+            {
+              "text": "많음",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 63,
+          "items": [
+            {
+              "text": "없음",
+              "count": 61
+            },
+            {
+              "text": "보통",
+              "count": 1
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 63,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 33
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 63,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 30
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 10
+            },
+            {
+              "text": "복합적",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 63,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 0
+            },
+            {
+              "text": "두 번",
+              "count": 61
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "제 생각보다 성적이 엄청 후하십니다!\n교과서 한 두 번 정독하고 피피티보면서 교과서 뒤 문제 풀면 좋은 성적 받아갈 수 있습니다!\n특히 기말범위는 다 비슷비슷 한 내용이라 개념에 대한 정확한 이해가 중요한 것 같습니",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "수업 내용에 비해 시험 난이도가 너무 어려워요\n과제도 매 챕터마다 있습니다",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

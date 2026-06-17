@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791130333298",
+        "bookTitle": "신국제법강의: 이론과 사례(9판)(양장본 HardCover)",
+        "bookAuthor": "정인섭",
+        "bookPublisher": "박영사",
+        "bookPrice": 49000,
+        "price": 30000,
+        "coverImage": "https://cf-cii.everytime.kr/4c53251672592bc7c2b5c37508fe214e890d4987612583722c7ffbfcf157ac51/1567836047701_0.jpg"
+      },
+      {
+        "bookIsbn": "9788971896945",
+        "bookTitle": "국제법",
+        "bookAuthor": "김정균",
+        "bookPublisher": "박영사",
+        "bookPrice": 40000,
+        "price": 6000,
+        "coverImage": "https://cf-cii.everytime.kr/4dba96bacc4b840d9bdd9a97ab85ab0a9c902ac605e82553c7d13a1d2ab8090c/1550810659419_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "사례형으로 나오니 법학답안지 어떻게 쓰는지 익혀가셔야 돼요",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 15,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 5
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 11
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.26,
+        "count": 160,
+        "items": [
+          {
+            "value": 5,
+            "count": 82
+          },
+          {
+            "value": 4,
+            "count": 53
+          },
+          {
+            "value": 3,
+            "count": 16
+          },
+          {
+            "value": 2,
+            "count": 3
+          },
+          {
+            "value": 1,
+            "count": 6
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 160,
+          "items": [
+            {
+              "text": "없음",
+              "count": 54
+            },
+            {
+              "text": "보통",
+              "count": 103
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 160,
+          "items": [
+            {
+              "text": "없음",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 128
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 160,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 28
+            },
+            {
+              "text": "보통",
+              "count": 98
+            },
+            {
+              "text": "깐깐함",
+              "count": 34
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 160,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 8
+            },
+            {
+              "text": "전자출결",
+              "count": 75
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 61
+            },
+            {
+              "text": "복합적",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 160,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 114
+            },
+            {
+              "text": "두 번",
+              "count": 46
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "A+받음. 교수님이 목이 터져라 열심히 강의하신다. 여기서 쥐해야 할 점이\n1. Ppt로 수업하시는데, 그 ppt를 학생들에게 안주셔서 수업때 우리가 스스로 사진찍어놔야 함. 이 사진찍는게 진짜 중요한데 그니까 앞자",
+          "rate": 5,
+          "posvote": 6
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "이게 강의력이 좋다고 하시는 분들 잘 이해가 안감.\n본인 이미 다 아는 내용인데도, 수업 좀 하려하다 보면 자꾸 내가 최고다 다른 사람은 국제법을 잘 몰라서 잘 못 쓴 거다. 국재법은 내가 짱이다 등의 자랑? 푸념?",
+          "rate": 1,
+          "posvote": 2
+        }
+      ]
+    }
+  }
+}

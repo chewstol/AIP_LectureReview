@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781265083922",
+        "bookTitle": "Financial Accounting",
+        "bookAuthor": "Robert Libby",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 58000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/db5248f0ad997d039998d2ea5d2ade7f99dc67a547cb615d1766e66db4485753/1772374051456_0.jpg"
+      },
+      {
+        "bookIsbn": "9781119504306",
+        "bookTitle": "Financial Accounting",
+        "bookAuthor": "Paul D. Kimmel, Donald E. Kieso, Jerry J. Weygandt",
+        "bookPublisher": "Wiley",
+        "bookPrice": 45000,
+        "price": 500,
+        "coverImage": "https://cf-cii.everytime.kr/72b70238683ea2bcc707bf248c897f689a3e2d4ac975142057b7f82bdcf481de/1633415388220_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "T/F 문제 + 사지선다 + 주관식(부분점수 있음. 풀이과정 써놓는 기 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 14,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 12
+            },
+            {
+              "text": "주관식",
+              "count": 14
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 4
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 1
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.75,
+        "count": 111,
+        "items": [
+          {
+            "value": 5,
+            "count": 91
+          },
+          {
+            "value": 4,
+            "count": 14
+          },
+          {
+            "value": 3,
+            "count": 4
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 111,
+          "items": [
+            {
+              "text": "없음",
+              "count": 15
+            },
+            {
+              "text": "보통",
+              "count": 86
+            },
+            {
+              "text": "많음",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 111,
+          "items": [
+            {
+              "text": "없음",
+              "count": 108
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 111,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 61
+            },
+            {
+              "text": "보통",
+              "count": 49
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 111,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 87
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 6
+            },
+            {
+              "text": "복합적",
+              "count": 17
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 111,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 102
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "대희익\n이 세글자로 설명할 수 있음.\n퀴즈나 시험 다 평균 이하였는데.. \n중간고사 하위 20퍼라 재수강만 피하자는 마인드였고\n기말고사 평균보다 조금 낮아서 좌절했는데\nB+ 주셨습니다.. 사랑합니다 교수님ㅜ\n강의력은",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "2",
+          "text": "할거 개많음 진심\n매주 과제 퀴즈4번 시험 2번 온라인 강의까지 들어야됨 \n걍 다른거 들으삼",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,279 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788960552678",
+        "bookTitle": "화학공정계산(개정판)(양장본 HardCover)",
+        "bookAuthor": "Regina MMurphy",
+        "bookPublisher": "사이플러스",
+        "bookPrice": 35000,
+        "price": 16000,
+        "coverImage": "https://cf-cii.everytime.kr/c19246aa4b2af22152aff53ac6db383146a6e7065c32f74098e4a872bae80bae/1630233426323_0.jpg"
+      },
+      {
+        "bookIsbn": "9788964212851",
+        "bookTitle": "화학공정계산",
+        "bookAuthor": "Richard M. Felder, Rousseau Ronald W., Bullard Lisa G.",
+        "bookPublisher": "한티에듀",
+        "bookPrice": 43000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/0d496f4d277f7a0f0853649153fba23abfac37fb4530ff7f2103570c076e34ce/1742795216740_0.jpg"
+      },
+      {
+        "bookIsbn": "9781118092392",
+        "bookTitle": "Elementary Principles of Chemical Processes",
+        "bookAuthor": "Richard M. Felder",
+        "bookPublisher": "Wiley",
+        "bookPrice": 57000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/c4eabf3d6fa723739bc4290b790a391b20c37914a5a568b29950b55d2672db45/1725492916174_0.jpg"
+      },
+      {
+        "bookIsbn": "9780471375876",
+        "bookTitle": "Elementary Principles of Chemical Processes",
+        "bookAuthor": "Richard M. Felder",
+        "bookPublisher": "Wiley",
+        "bookPrice": 52000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/b7d7b8afeced8e26690c4da9317e4bfcbbf6ff4b7fbe0ef83a31e2654e2a570b/1734527929610_0.jpg"
+      },
+      {
+        "bookIsbn": "9788970882895",
+        "bookTitle": "화학공정계산 (CD-ROM 1장 포함)",
+        "bookAuthor": "RMFelder 외",
+        "bookPublisher": "교문사(청문각)",
+        "bookPrice": 35000,
+        "price": 17000,
+        "coverImage": "https://cf-cii.everytime.kr/29d2884ac22f12c59f1dc7a53a97522126faf2c0302da87e248b2145781c426e/1661102883133_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간범위는 에너지 밸런스 계산까지이고 퍼즐 푸는 느낌이 강합니다. 순서대",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 18,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 13
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 8
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 5,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.27,
+        "count": 120,
+        "items": [
+          {
+            "value": 5,
+            "count": 21
+          },
+          {
+            "value": 4,
+            "count": 30
+          },
+          {
+            "value": 3,
+            "count": 41
+          },
+          {
+            "value": 2,
+            "count": 16
+          },
+          {
+            "value": 1,
+            "count": 12
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 120,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 50
+            },
+            {
+              "text": "많음",
+              "count": 69
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 120,
+          "items": [
+            {
+              "text": "없음",
+              "count": 34
+            },
+            {
+              "text": "보통",
+              "count": 64
+            },
+            {
+              "text": "많음",
+              "count": 22
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 120,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 52
+            },
+            {
+              "text": "보통",
+              "count": 57
+            },
+            {
+              "text": "깐깐함",
+              "count": 11
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 120,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 35
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 70
+            },
+            {
+              "text": "복합적",
+              "count": 12
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 120,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 118
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2016,
+          "semester": "1",
+          "text": "이전에 소문이 너무 안좋게 난 과목이라 가장 걱정했지만 결과는 가장 좋았던 과목. 교수님이 중간 끝나고 우스갯소리로 기말 점수로 뒤집어서 5등안에만 들면 A+ 준다 그랬는데 뒤집었는지 뭔지 받긴 받았음. 텀프로젝트",
+          "rate": 5,
+          "posvote": 0
+        },
+        {
+          "year": 2026,
+          "semester": "1",
+          "text": "그의 라스트 댄스! 시험도 어려운게 아니라 쉬운데 자기 생각과 조금이라도 틀리게 쓰면 다 틀리게 함. 절대 비추이지만 이번이 마지막 ㄷ",
+          "rate": 1,
+          "posvote": 4
+        }
+      ]
+    }
+  }
+}

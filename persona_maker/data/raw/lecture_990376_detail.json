@@ -1,0 +1,233 @@
+{
+  "status": "success",
+  "result": {
+    "books": [],
+    "exam": {
+      "knowhow": "오늘 낮에 보고 왔습니다. 역시 악명높기로 유명한 오제연 교수님 시험이니",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 19,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 8
+            },
+            {
+              "text": "논술형",
+              "count": 17
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 28,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 10
+            },
+            {
+              "text": "논술형",
+              "count": 26
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.89,
+        "count": 183,
+        "items": [
+          {
+            "value": 5,
+            "count": 167
+          },
+          {
+            "value": 4,
+            "count": 13
+          },
+          {
+            "value": 3,
+            "count": 2
+          },
+          {
+            "value": 2,
+            "count": 1
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 183,
+          "items": [
+            {
+              "text": "없음",
+              "count": 34
+            },
+            {
+              "text": "보통",
+              "count": 146
+            },
+            {
+              "text": "많음",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 183,
+          "items": [
+            {
+              "text": "없음",
+              "count": 174
+            },
+            {
+              "text": "보통",
+              "count": 8
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 183,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 59
+            },
+            {
+              "text": "보통",
+              "count": 116
+            },
+            {
+              "text": "깐깐함",
+              "count": 8
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 183,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 99
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 80
+            },
+            {
+              "text": "복합적",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 183,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 62
+            },
+            {
+              "text": "두 번",
+              "count": 121
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "아직 학점이 나오지 않았지만, 학점 여부와 상관없이 강의평을 작성합니다.\n\n작성자의 경우, 오제연 교수님의 역사학입문, 2학기에 열리는 한국현대사회의정치와문화를 수강하고 마지막 수업인 한국현대사를 수강한 케이스입니다",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "글쌔요 강의 실력 은 좋지만 대부분 사학과 학생들이고 다들 열심히해서 학점 따기는 매우 힘듭니다. 역사에 관심 없으시면 굳이 피터지는 싸움을 안하샤도 될듯하네요",
+          "rate": 2,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155504628",
+        "bookTitle": "학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 김종규, 이기백, 김치헌, 김상현",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 25000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/8e515a7a7bbce838fee84334aa7a46b476fd36a15c7ee49940e75ba71e8fe3d0/1640670223069_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500606",
+        "bookTitle": "비판적 사고 학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 박상태, 한기호, 김상현, 이창후",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/90f36604407c7c52b7a6ac7a168b6aa4bf1cb7cb46773bf2c98ff44c8a570aa7/1693236428999_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "글쓰기 과제로 시험을 대체한다. 중간과제는 형식적 요약문을 작성하는 것이",
+      "questionTypes": [
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.84,
+        "count": 318,
+        "items": [
+          {
+            "value": 5,
+            "count": 96
+          },
+          {
+            "value": 4,
+            "count": 118
+          },
+          {
+            "value": 3,
+            "count": 73
+          },
+          {
+            "value": 2,
+            "count": 18
+          },
+          {
+            "value": 1,
+            "count": 13
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 318,
+          "items": [
+            {
+              "text": "없음",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 237
+            },
+            {
+              "text": "많음",
+              "count": 73
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 318,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 183
+            },
+            {
+              "text": "많음",
+              "count": 115
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 318,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 103
+            },
+            {
+              "text": "보통",
+              "count": 179
+            },
+            {
+              "text": "깐깐함",
+              "count": 36
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 318,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 3
+            },
+            {
+              "text": "전자출결",
+              "count": 24
+            },
+            {
+              "text": "지정좌석",
+              "count": 2
+            },
+            {
+              "text": "직접호명",
+              "count": 269
+            },
+            {
+              "text": "복합적",
+              "count": 20
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 318,
+          "items": [
+            {
+              "text": "없음",
+              "count": 252
+            },
+            {
+              "text": "한 번",
+              "count": 21
+            },
+            {
+              "text": "두 번",
+              "count": 41
+            },
+            {
+              "text": "세 번",
+              "count": 3
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2022,
+          "semester": "1",
+          "text": "학글 무조건 이 교수님 들으셈\n비쁠 받으면 감사하려고 했는데 에쁠 주심 그리고 친절하심 엄마같음",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2018,
+          "semester": "2",
+          "text": "유리천장을 정말 좋아하시는 교수님임 개별과제 주제로 대놓고 저런걸로 줌 그냥 거르자",
+          "rate": 1,
+          "posvote": 10
+        }
+      ]
+    }
+  }
+}

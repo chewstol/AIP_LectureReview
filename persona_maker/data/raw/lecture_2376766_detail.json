@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791159714665",
+        "bookTitle": "대학물리학",
+        "bookAuthor": "Raymond A. Serway, John W. Jewett Jr.",
+        "bookPublisher": "북스힐",
+        "bookPrice": 52000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/229b073c47bf8cdfd1b9d5abccc19c1a7c3a93cc0bc14a5d4dac041c8821f50a/1772342080802_0.jpg"
+      },
+      {
+        "bookIsbn": "9791159710575",
+        "bookTitle": "대학물리학",
+        "bookAuthor": "Raymond A. Serway, John W. Jewett Jr.",
+        "bookPublisher": "북스힐",
+        "bookPrice": 45000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/9bd245185b4940c608cae95af509f27ec65ccff792e15e99b5573e7a1e341690/1639584982321_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955268805",
+        "bookTitle": "대학물리학",
+        "bookAuthor": "Ramond A Serway",
+        "bookPublisher": "북스힐",
+        "bookPrice": 39000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/de2f4ae16634ff2eaa351ac8634816f3110de72fe2d20d84bae2c132dad9c758/1652675801373_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "시험은 총 7문제가 나오고, 1번 문제는 개념 문제가 소문제로 6개정도 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 9,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 7
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.65,
+        "count": 23,
+        "items": [
+          {
+            "value": 5,
+            "count": 16
+          },
+          {
+            "value": 4,
+            "count": 6
+          },
+          {
+            "value": 3,
+            "count": 1
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 23,
+          "items": [
+            {
+              "text": "없음",
+              "count": 4
+            },
+            {
+              "text": "보통",
+              "count": 14
+            },
+            {
+              "text": "많음",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 23,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "보통",
+              "count": 3
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 23,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 14
+            },
+            {
+              "text": "보통",
+              "count": 9
+            },
+            {
+              "text": "깐깐함",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 23,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 6
+            },
+            {
+              "text": "전자출결",
+              "count": 6
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 2
+            },
+            {
+              "text": "복합적",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 23,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 22
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "교수님이 수업에 매우 열정적이시지만, 지루한 감이 좀 있다. 그래도 질문하면 잘 답해주신다. 아캠 메세지보다는 직접 메일을 보내야 답장을 해주시며, 강의 자료도 많이 늦게 올려주셔서 강의 자료 없이 수업을 들은적이",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "노베에게 물리의 벽을 느끼게 해주는 수업. 저도 느끼고 싶지 않았습니다. 중간점수 잘 따놓으세요 기말이랑 비중 똑같은듯 ㅎㅎ.. 노베는 그냥 혼자 공부할 생각 하세요",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

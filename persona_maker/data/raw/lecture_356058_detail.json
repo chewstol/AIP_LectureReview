@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155502396",
+        "bookTitle": "Poised to Present",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/19c8e3bb35f1dc053733cdcb35c5dfcd4484dfd751c0d3693ad0d08293941d76/1613366636970_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979868524",
+        "bookTitle": "Poised to Present",
+        "bookAuthor": "성균어학원",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 13000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/33da777f59fa0dff597a98cd006cdef60dc54ada5c04f3026ba114fc81007222/1582862542935_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "처음에 못하는 모습 보여주다가 나중에 잘해도 소용 없으니까 제발 처음부터",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 1
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.19,
+        "count": 166,
+        "items": [
+          {
+            "value": 5,
+            "count": 79
+          },
+          {
+            "value": 4,
+            "count": 58
+          },
+          {
+            "value": 3,
+            "count": 14
+          },
+          {
+            "value": 2,
+            "count": 12
+          },
+          {
+            "value": 1,
+            "count": 3
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 165,
+          "items": [
+            {
+              "text": "없음",
+              "count": 12
+            },
+            {
+              "text": "보통",
+              "count": 129
+            },
+            {
+              "text": "많음",
+              "count": 24
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 165,
+          "items": [
+            {
+              "text": "없음",
+              "count": 30
+            },
+            {
+              "text": "보통",
+              "count": 119
+            },
+            {
+              "text": "많음",
+              "count": 16
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 165,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 58
+            },
+            {
+              "text": "보통",
+              "count": 100
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 165,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 14
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 104
+            },
+            {
+              "text": "복합적",
+              "count": 46
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 165,
+          "items": [
+            {
+              "text": "없음",
+              "count": 108
+            },
+            {
+              "text": "한 번",
+              "count": 24
+            },
+            {
+              "text": "두 번",
+              "count": 18
+            },
+            {
+              "text": "세 번",
+              "count": 5
+            },
+            {
+              "text": "네 번 이상",
+              "count": 10
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "교수님 성격이 너무 좋으세요. 동글동글하심! 그래서 영발 수업반 분위기도 자연스럽게 좋았어요. 발표도 교수님과 친구들을 위한 재롱잔치를 준비해 간다고 생각하시면 즐겁게 준비해 가실 수 있을 거예요.\n\n평가는 다음과",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "내향인이고 사람들앞에서는거 잘못한다면 절대하지마세요. 기준도 깐깐하고 너무 힘듭니다...",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

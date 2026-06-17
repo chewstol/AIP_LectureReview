@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9781292134772",
+        "bookTitle": "Market Leader(3rd Extra) SB(w/DVD) Intermediate",
+        "bookAuthor": "Cotten",
+        "bookPublisher": "Pearson",
+        "bookPrice": 26000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/e92376a18f0c2e8d5eb95071723909563882208ff0fe799249a28f8a47047ab7/1594558925995_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "• 우선 기말 일주일 전에 손바닥만한 종이를 나눠주시면서 오픈북 참고용 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 17,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 11
+            },
+            {
+              "text": "주관식",
+              "count": 11
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 6
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.48,
+        "count": 176,
+        "items": [
+          {
+            "value": 5,
+            "count": 40
+          },
+          {
+            "value": 4,
+            "count": 61
+          },
+          {
+            "value": 3,
+            "count": 38
+          },
+          {
+            "value": 2,
+            "count": 17
+          },
+          {
+            "value": 1,
+            "count": 20
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 176,
+          "items": [
+            {
+              "text": "없음",
+              "count": 1
+            },
+            {
+              "text": "보통",
+              "count": 49
+            },
+            {
+              "text": "많음",
+              "count": 126
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 176,
+          "items": [
+            {
+              "text": "없음",
+              "count": 22
+            },
+            {
+              "text": "보통",
+              "count": 69
+            },
+            {
+              "text": "많음",
+              "count": 85
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 176,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 32
+            },
+            {
+              "text": "보통",
+              "count": 102
+            },
+            {
+              "text": "깐깐함",
+              "count": 42
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 176,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 17
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 150
+            },
+            {
+              "text": "복합적",
+              "count": 7
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 176,
+          "items": [
+            {
+              "text": "없음",
+              "count": 20
+            },
+            {
+              "text": "한 번",
+              "count": 125
+            },
+            {
+              "text": "두 번",
+              "count": 29
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "코로나학기 수강했고 A+ 받았습니다.\n대부분의 과제가 평균 이상이었고, 마지막 인터뷰를 거의 날렸는데 평균 언저리 점수가 나왔습니다!\n강의 들으신 뒤에 시키시는대로 찬찬히 따라하시면 학점 잘 받으실 수 있을 것 같아",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2024,
+          "semester": "2",
+          "text": "마음에 들지 않는 회사에 입사하는 것을 미리 경험해보고 싶은 경우 이 과목을 선택하세요.",
+          "rate": 1,
+          "posvote": 11
+        }
+      ]
+    }
+  }
+}

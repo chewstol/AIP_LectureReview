@@ -1,0 +1,356 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791171175864",
+        "bookTitle": "행복의 기원",
+        "bookAuthor": "서은국",
+        "bookPublisher": "21세기북스",
+        "bookPrice": 22000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/f876e103d536e94f46b7e28d1512efde0603059a17492af383f33d286ca767a3/1772198705501_0.jpg"
+      },
+      {
+        "bookIsbn": "9788950995553",
+        "bookTitle": "행복의 기원",
+        "bookAuthor": "서은국",
+        "bookPublisher": "21세기북스",
+        "bookPrice": 18000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/181361a90ec67d824f81b254f56c8c8d9e7cc5813e1358b440616b8cbfa772bb/1734617459610_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155504628",
+        "bookTitle": "학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 김종규, 이기백, 김치헌, 김상현",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 25000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/8e515a7a7bbce838fee84334aa7a46b476fd36a15c7ee49940e75ba71e8fe3d0/1640670223069_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979869453",
+        "bookTitle": "학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 박상태, 한기호, 김상현",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 13000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/c820f703f40ae0ea4fcd3c2a321b0692bae458946a2ca2952c5f5c7c2c18f14f/1566396590499_0.jpg"
+      },
+      {
+        "bookIsbn": "9788937833663",
+        "bookTitle": "돈으로 살 수 없는 것들",
+        "bookAuthor": "마이클 샌델",
+        "bookPublisher": "와이즈베리",
+        "bookPrice": 18000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/7e322da00428ba78e31afcd4a11913b8ed8297bf600103ecfe09c18178c8af6b/1677460743428_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155500606",
+        "bookTitle": "비판적 사고 학술적 글쓰기",
+        "bookAuthor": "원만희, 박정하, 박상태, 한기호, 김상현, 이창후",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/90f36604407c7c52b7a6ac7a168b6aa4bf1cb7cb46773bf2c98ff44c8a570aa7/1693236428999_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "면담 때 들은 지적사항 위주로 기말 에세이 팁 남겨드립니다.\n\n1. 분량",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 4,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 4
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.85,
+        "count": 555,
+        "items": [
+          {
+            "value": 5,
+            "count": 183
+          },
+          {
+            "value": 4,
+            "count": 196
+          },
+          {
+            "value": 3,
+            "count": 117
+          },
+          {
+            "value": 2,
+            "count": 28
+          },
+          {
+            "value": 1,
+            "count": 31
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 555,
+          "items": [
+            {
+              "text": "없음",
+              "count": 9
+            },
+            {
+              "text": "보통",
+              "count": 399
+            },
+            {
+              "text": "많음",
+              "count": 147
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 555,
+          "items": [
+            {
+              "text": "없음",
+              "count": 33
+            },
+            {
+              "text": "보통",
+              "count": 489
+            },
+            {
+              "text": "많음",
+              "count": 33
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 555,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 188
+            },
+            {
+              "text": "보통",
+              "count": 298
+            },
+            {
+              "text": "깐깐함",
+              "count": 69
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 555,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 14
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 534
+            },
+            {
+              "text": "복합적",
+              "count": 5
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 555,
+          "items": [
+            {
+              "text": "없음",
+              "count": 442
+            },
+            {
+              "text": "한 번",
+              "count": 30
+            },
+            {
+              "text": "두 번",
+              "count": 67
+            },
+            {
+              "text": "세 번",
+              "count": 14
+            },
+            {
+              "text": "네 번 이상",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2023,
+          "semester": "여름",
+          "text": "진짜 소문대로 학점으로 원만하게 합의 가능한 수업입니다... 제가 학점에 조금 목숨 거는 타입이라 수강신청 전에 진짜 모든 교수님 리스트 뽑아서 비교하고 저에게 최적인 교수님 찾아서 수강신청하는 타입인데 제가 선택했",
+          "rate": 5,
+          "posvote": 5
+        },
+        {
+          "year": 2022,
+          "semester": "2",
+          "text": "꼰대 그 자체. 듣지 마라.\n1. 학과행사 참여하고 결석계 제출했더니 ‘내 수업이 젤 중요하다’ 시전. 자기 수업 중요하게 여기는 건 알겠는데 이 다음 하는 말이 가관임. 출석 인정 받으려면 총장한테 결석계 받아오라",
+          "rate": 1,
+          "posvote": 12
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788992272001",
+        "bookTitle": "러시아어 인텐시브 회화 1",
+        "bookAuthor": "Л В Миллер, Л В Политова, И Я Рыбакова",
+        "bookPublisher": "뿌쉬낀하우스",
+        "bookPrice": 20000,
+        "price": 18000,
+        "coverImage": "https://cf-cii.everytime.kr/f6fab0ba98da76b7f6ede1ddf38526ddff124de3420947255f20676898a2549e/1508411001237_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "제가 노베라 노베 기준으로 말씀 드리겠습니다 중간처럼 단어만 빡세게 외워",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 2
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 7,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 3
+            },
+            {
+              "text": "주관식",
+              "count": 4
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.44,
+        "count": 85,
+        "items": [
+          {
+            "value": 5,
+            "count": 54
+          },
+          {
+            "value": 4,
+            "count": 18
+          },
+          {
+            "value": 3,
+            "count": 10
+          },
+          {
+            "value": 2,
+            "count": 2
+          },
+          {
+            "value": 1,
+            "count": 1
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 85,
+          "items": [
+            {
+              "text": "없음",
+              "count": 74
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 85,
+          "items": [
+            {
+              "text": "없음",
+              "count": 79
+            },
+            {
+              "text": "보통",
+              "count": 6
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 85,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 56
+            },
+            {
+              "text": "보통",
+              "count": 27
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 85,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 5
+            },
+            {
+              "text": "전자출결",
+              "count": 25
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 53
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 85,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 35
+            },
+            {
+              "text": "두 번",
+              "count": 50
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "교수님 사랑합니다. 러시아어 노베였는데 비쁠 떴어요. 솔직히 초반에는 엄청 열심히 하다가 갈수록 공부 안해서 못 외운 부분들도 많았음. 물론 교수님 수업이 재미가 없거나 강의력이 별로이신 게 아니라 1교시라서 아침형",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2023,
+          "semester": "1",
+          "text": "너무 너그러운 평만 많아서 남겨봅니다\n재수강 한 사람의 입장으로서 꿀강 절대절대 아닙니다\n일단 매번 수요일 1교시 3시간 수업이었는데 진짜 힘들고\n\n성적이야 너그롭게 주시는 것 같지만 유베들이 너무 많아요\n외고 노어",
+          "rate": 1,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}

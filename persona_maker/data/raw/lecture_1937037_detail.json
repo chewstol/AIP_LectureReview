@@ -1,0 +1,252 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155502747",
+        "bookTitle": "과학기술글쓰기",
+        "bookAuthor": "노상도, 박상태, 한기호, 한영신",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 18000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/80ee99c30c1b8dba626d17c6f9686ff1640891221fbd48d991f3398525f9b03c/1725493198647_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155501313",
+        "bookTitle": "과학기술 글쓰기: 이론과 실제",
+        "bookAuthor": "노상도, 박상태, 한기호, 한영신",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 18000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/f126569761084992e91fbf55c6495c8e78523e99d968d95c4eb80ff5af5e7095/1677335732372_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "중간, 기말고사 필기 없음\n과제만 있음\n단, 출석 20이라 꽤나 중요",
+      "questionTypes": [
+        {
+          "nth": "1차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 2
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.43,
+        "count": 145,
+        "items": [
+          {
+            "value": 5,
+            "count": 96
+          },
+          {
+            "value": 4,
+            "count": 27
+          },
+          {
+            "value": 3,
+            "count": 14
+          },
+          {
+            "value": 2,
+            "count": 4
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 145,
+          "items": [
+            {
+              "text": "없음",
+              "count": 2
+            },
+            {
+              "text": "보통",
+              "count": 74
+            },
+            {
+              "text": "많음",
+              "count": 69
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 145,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "보통",
+              "count": 37
+            },
+            {
+              "text": "많음",
+              "count": 108
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 145,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 95
+            },
+            {
+              "text": "보통",
+              "count": 43
+            },
+            {
+              "text": "깐깐함",
+              "count": 7
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 145,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 32
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 104
+            },
+            {
+              "text": "복합적",
+              "count": 9
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 145,
+          "items": [
+            {
+              "text": "없음",
+              "count": 130
+            },
+            {
+              "text": "한 번",
+              "count": 4
+            },
+            {
+              "text": "두 번",
+              "count": 11
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "2",
+          "text": "진짜 과기글 1타 교수님... 그저 빛 이아름 교수님...\n우선 참교수 첫 번째 조건. 쁠 달아주십니다. 교수님이 인품도 좋으시고... 마지막 수업 때 학생들을 아끼셔서 성적 줄 수 있는 한 잘 주고 싶다고 말씀하시",
+          "rate": 5,
+          "posvote": 4
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "팀원들이 혐오스럽습니다 길가면서 마주치지 않았으면",
+          "rate": 1,
+          "posvote": 6
+        }
+      ]
+    }
+  }
+}

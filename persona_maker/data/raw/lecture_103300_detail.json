@@ -1,0 +1,288 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788970138756",
+        "bookTitle": "한국 자본주의 모델",
+        "bookAuthor": "이병천",
+        "bookPublisher": "책세상",
+        "bookPrice": 25000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/41e42ca9c923ea2631c96cfcda8e028c80280c6d5d150b9850060a19c636328c/1752997785476_0.jpg"
+      },
+      {
+        "bookIsbn": "4808950913243",
+        "bookTitle": "인간의 얼굴을 한 세계화",
+        "bookAuthor": "조지프 E 스티글리츠",
+        "bookPublisher": "21세기북스",
+        "bookPrice": 20000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/7dd7c3b0241078fb007fbca0c7ee024ec015a4046e34d7c0513eed95aa2bfdae/1552026397630_0.jpg"
+      },
+      {
+        "bookIsbn": "9788950913243",
+        "bookTitle": "인간의 얼굴을 한 세계화(양장본 HardCover)",
+        "bookAuthor": "조지프 E. 스티글리츠",
+        "bookPublisher": "21세기북스",
+        "bookPrice": 25000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/6c06c618987f90491d36160da5af44c73b0e3a9406b861e21d3be4954d4bdd68/1536501481929_0.jpg"
+      },
+      {
+        "bookIsbn": "9788936485276",
+        "bookTitle": "주식회사 한국의 구조조정 무엇이 문제인가",
+        "bookAuthor": "신장섭, 장하준",
+        "bookPublisher": "창비",
+        "bookPrice": 15000,
+        "price": 8000,
+        "coverImage": "https://cf-cii.everytime.kr/247b106f20bd67b87704bf6e42d7107cfb4d8ff78eb1122c90e1475f8b09fe8d/1536501357025_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960510029",
+        "bookTitle": "국가의 역할",
+        "bookAuthor": "장하준",
+        "bookPublisher": "부키",
+        "bookPrice": 16000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/8407048f7f8733e3dd92daeb70a195a6cdf7688266b105643e2ffcdd2ba5e301/1567645751409_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960511194",
+        "bookTitle": "그들이 말하지 않는 23가지",
+        "bookAuthor": "장하준",
+        "bookPublisher": "부키",
+        "bookPrice": 14800,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/b44fd6817d4eea28d14ad1dfee496d186c940f3e2a0fb712133b1656c158642e/1644805743832_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "그냥 수업 교안에 있는 질문들 위주로 공부하면 될듯?",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 5
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 3,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 2
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 1
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.32,
+        "count": 90,
+        "items": [
+          {
+            "value": 5,
+            "count": 20
+          },
+          {
+            "value": 4,
+            "count": 25
+          },
+          {
+            "value": 3,
+            "count": 24
+          },
+          {
+            "value": 2,
+            "count": 6
+          },
+          {
+            "value": 1,
+            "count": 15
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 91,
+          "items": [
+            {
+              "text": "없음",
+              "count": 52
+            },
+            {
+              "text": "보통",
+              "count": 28
+            },
+            {
+              "text": "많음",
+              "count": 11
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 91,
+          "items": [
+            {
+              "text": "없음",
+              "count": 79
+            },
+            {
+              "text": "보통",
+              "count": 11
+            },
+            {
+              "text": "많음",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 91,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 48
+            },
+            {
+              "text": "깐깐함",
+              "count": 35
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 91,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 16
+            },
+            {
+              "text": "전자출결",
+              "count": 39
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 33
+            },
+            {
+              "text": "복합적",
+              "count": 3
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 91,
+          "items": [
+            {
+              "text": "없음",
+              "count": 9
+            },
+            {
+              "text": "한 번",
+              "count": 1
+            },
+            {
+              "text": "두 번",
+              "count": 81
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "수업에 대한 부담없이 들을수 있어서 좋았습니다. 교수님 설명도 알차요",
+          "rate": 5,
+          "posvote": 1
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "내래 정승진 동무의 강의가 너무 좋다는 소문을 듣고 북조선에서 내려왔는데 너무 좋았소.  다시 올라가 이북의 동지들의 이념교육에 참고하여야겠소!! 이념교육 싫어하는 동무들은 날래날래 철회하라우!\n고저...시험은 두번",
+          "rate": 1,
+          "posvote": 36
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,304 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9791155501641",
+        "bookTitle": "글쓰기의 절차와 과정",
+        "bookAuthor": "김경훤, 오광근, 유하라, 김희경, 현원숙, 홍은실",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 15000,
+        "price": 2000,
+        "coverImage": "https://cf-cii.everytime.kr/da4a96568936730e1765a9226812f11cee32147f53a7f25b78de8f077429cd4d/1576566409939_0.jpg"
+      },
+      {
+        "bookIsbn": "9791155501740",
+        "bookTitle": "창의적 사고 소통의 글쓰기",
+        "bookAuthor": "김경훤, 김미란, 김성수",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 9000,
+        "coverImage": "https://cf-cii.everytime.kr/28f6c3d044998d041e445edfc001d20423e9efe20bc7c6cad9e660ad7eb897c7/1778505543192_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979869064",
+        "bookTitle": "창의적 사고 소통의 글쓰기",
+        "bookAuthor": "김경훤, 김미란, 김성수",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/5bb5ca02c4edf3951c82b914cf7a612a206a2637ae1f5c22352c785be10f4fd1/1552830122329_0.jpg"
+      },
+      {
+        "bookIsbn": "9788979869835",
+        "bookTitle": "창의적 사고 소통의 글쓰기",
+        "bookAuthor": "김경훤, 김미란, 김성수",
+        "bookPublisher": "성균관대학교출판부",
+        "bookPrice": 20000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/15221d853655f575e9bfe7c2000a9bcbbc58f6cdaf634eeda9f223c4e014fd551498133855278/0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "인용, 주석, 참고문헌, 문장부호, 추가로 나누어주신 프린트까지 범위에 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 31,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 24
+            },
+            {
+              "text": "주관식",
+              "count": 23
+            },
+            {
+              "text": "T/F형",
+              "count": 11
+            },
+            {
+              "text": "약술형",
+              "count": 5
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 1
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 2,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 1
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기타",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.16,
+        "count": 572,
+        "items": [
+          {
+            "value": 5,
+            "count": 279
+          },
+          {
+            "value": 4,
+            "count": 176
+          },
+          {
+            "value": 3,
+            "count": 68
+          },
+          {
+            "value": 2,
+            "count": 29
+          },
+          {
+            "value": 1,
+            "count": 20
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 567,
+          "items": [
+            {
+              "text": "없음",
+              "count": 8
+            },
+            {
+              "text": "보통",
+              "count": 330
+            },
+            {
+              "text": "많음",
+              "count": 229
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 567,
+          "items": [
+            {
+              "text": "없음",
+              "count": 88
+            },
+            {
+              "text": "보통",
+              "count": 275
+            },
+            {
+              "text": "많음",
+              "count": 204
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 567,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 189
+            },
+            {
+              "text": "보통",
+              "count": 317
+            },
+            {
+              "text": "깐깐함",
+              "count": 61
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 567,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 2
+            },
+            {
+              "text": "전자출결",
+              "count": 34
+            },
+            {
+              "text": "지정좌석",
+              "count": 8
+            },
+            {
+              "text": "직접호명",
+              "count": 498
+            },
+            {
+              "text": "복합적",
+              "count": 25
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 567,
+          "items": [
+            {
+              "text": "없음",
+              "count": 61
+            },
+            {
+              "text": "한 번",
+              "count": 405
+            },
+            {
+              "text": "두 번",
+              "count": 95
+            },
+            {
+              "text": "세 번",
+              "count": 5
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "2",
+          "text": "참 좋은 수업이고, 좋은 교수님이십니다. 그럼에도 편한 수업은 아니고, 분명히 스트레스를 어떤 방향으로든 받게 되는 수업입니다.\n수업시간에 서론결론 쓰는 법을 제외하고 거의 이론 수업의 대부분을 차지하는 인용 및 참",
+          "rate": 5,
+          "posvote": 7
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "지각1번 출석 빠진적 없고 과제 제때 다 제출했습니다.\n분량도 전부 다 채웠으며 최대한 첨삭 반영하려고 노력했습니다. \n근데 씨쁠 주시고 점수 공개도 안하고, 이의신청은 읽씹당했습니다.\n대체 어떤 기준으로 주신건지",
+          "rate": 1,
+          "posvote": 9
+        }
+      ]
+    }
+  }
+}

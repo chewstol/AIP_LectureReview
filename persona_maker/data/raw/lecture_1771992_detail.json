@@ -1,0 +1,403 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788955018967",
+        "bookTitle": "재무관리의 이해",
+        "bookAuthor": "송교직",
+        "bookPublisher": "신영사",
+        "bookPrice": 37000,
+        "price": 24000,
+        "coverImage": "https://cf-cii.everytime.kr/58bc8b550c809642b80532ce97dd0ac5087863ab29e4ce258e1105103d12e6df/1765855585928_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132112761",
+        "bookTitle": "Ross의 재무관리",
+        "bookAuthor": "스테판 A. 로스",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 42000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/a43b02119cb855fe49ea50d3cc3e1485d5484980ca0293ac8929cf0e15e2777e/1756789269630_0.jpg"
+      },
+      {
+        "bookIsbn": "9789813137493",
+        "bookTitle": "기본 재무관리",
+        "bookAuthor": "Jonathan Berk, Peter DeMarzo, Jarrad Harford",
+        "bookPublisher": "한빛아카데미",
+        "bookPrice": 42000,
+        "price": 21000,
+        "coverImage": "https://cf-cii.everytime.kr/5bd42332b795c9b908fd259be5d0f30976a3e88dcda1b690dfe58e103cac6a52/1718849489926_0.jpg"
+      },
+      {
+        "bookIsbn": "9781265553609",
+        "bookTitle": "Fundamentals of Corporate Finance",
+        "bookAuthor": "Stephen Ross, Randolph Westerfield, Bradford Jordan",
+        "bookPublisher": "McGraw Hill Education",
+        "bookPrice": 54000,
+        "price": 25000,
+        "coverImage": "https://cf-cii.everytime.kr/a08a7f346713a8200bce2fcd139ec5219e48e5632291be68f88ef7e89c202dc1/1704979161991_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132106647",
+        "bookTitle": "Ross의 핵심재무관리",
+        "bookAuthor": "스테판 A. 로스, Randolph W. Westerfield, Jeffrey Jaffe, Bradford D. Jordan",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 37000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/b909b1fd8510a4b34ca4192fb4ff36ab052a4efda93c4064dea9710f133c1f6e/1709289941275_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132106593",
+        "bookTitle": "Ross의 기업재무관리",
+        "bookAuthor": "스테판 A. 로스, Randolph W. Westerfield, Jeffrey Jaffe, Bradford D. Jordan",
+        "bookPublisher": "생능",
+        "bookPrice": 39000,
+        "price": 12000,
+        "coverImage": "https://cf-cii.everytime.kr/c6329c50275142635ba962fdc159590fc03f34673c3df47bb6c7a0f133f4591d/1725158113398_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132101758",
+        "bookTitle": "재무관리",
+        "bookAuthor": "스테판 A. 로스",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 39000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/3813f5953e24ec2d5a8d893a1ae59df145c4eceb0670092f0a72b2d715fbb856/1712037134274_0.jpg"
+      },
+      {
+        "bookIsbn": "9788991116818",
+        "bookTitle": "재무관리(8판)",
+        "bookAuthor": "김민환",
+        "bookPublisher": "파란",
+        "bookPrice": 48000,
+        "price": 20000,
+        "coverImage": "https://cf-cii.everytime.kr/8cec63c5b96096af8c3aaaee37246e8850e312f83e613b8abb337947bfa8ade7/1615373913282_0.jpg"
+      },
+      {
+        "bookIsbn": "9781260091908",
+        "bookTitle": "Fundamentals of Corporate Finance",
+        "bookAuthor": "Ross",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 50000,
+        "price": 7000,
+        "coverImage": "https://cf-cii.everytime.kr/fb400912c8bb79e403125d17ca91328b8fceb291e3cc1da269dc49ec0b5a9d62/1630298950644_0.jpg"
+      },
+      {
+        "bookIsbn": "9791195452606",
+        "bookTitle": "재무관리 세트",
+        "bookAuthor": "김종길",
+        "bookPublisher": "소온",
+        "bookPrice": 50000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/41d333b67a55daeb4e3e1a483e6b1834d8c05f6e1fe910d6a42bfbb1caa81bb3/1630219177718_0.jpg"
+      },
+      {
+        "bookIsbn": "9791132101031",
+        "bookTitle": "기업의 재무관리",
+        "bookAuthor": "스테판 A. 로스, Randolph W Westerfield, Jeffrey Jaffe, Bradford D. Jordan",
+        "bookPublisher": "McGraw Hill Education",
+        "bookPrice": 10000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/9af2161d9f26767ed5c0975daa4463268da847f8378bab71f34185049e5ae65d/1681219544585_0.jpg"
+      },
+      {
+        "bookIsbn": "9788955015812",
+        "bookTitle": "재무관리의 이해(양장본 HardCover)",
+        "bookAuthor": "송교직",
+        "bookPublisher": "신영사",
+        "bookPrice": 29000,
+        "price": 3000,
+        "coverImage": "https://cf-cii.everytime.kr/2784601e30082298e5fc45a6804e05ac57bc5614ad9ba809fcac1736ac2a9d75/1615024881570_0.jpg"
+      },
+      {
+        "bookIsbn": "9781259011832",
+        "bookTitle": "Corporate Finance (Asia Global Edition)",
+        "bookAuthor": "Ross, Randolph W Westerfield, Jeffrey Jaffe, Joseph Lim, Ruth Tan, Helen Wong",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 44000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/b9dcfa97d45f4c3a06e36de08bf385bc15f0c8290d8a7ae2be3d6e0164299bfc/1597389489505_0.jpg"
+      },
+      {
+        "bookIsbn": "9789814595049",
+        "bookTitle": "Fundamentals of Corporate Finance, Aisan Global 2 Edition",
+        "bookAuthor": "스테판 A. 로스, Randolph W. Westerfield, Bradford D. Jordan, Joseph Lim, Ruth Tan",
+        "bookPublisher": "McGraw-Hill",
+        "bookPrice": 44000,
+        "price": 10000,
+        "coverImage": "https://cf-cii.everytime.kr/b09f69f9c5a6749994992ebc028644bbb39c58cc3fdaf2f2eb55adbc2bb6f06c/1641194225603_0.jpg"
+      },
+      {
+        "bookIsbn": "9788960558281",
+        "bookTitle": "Ross의 재무관리(10판)",
+        "bookAuthor": "Stephen A Ross, Randolph W Westerfield, Bradford D Jordan",
+        "bookPublisher": "지필미디어",
+        "bookPrice": 39000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/ef32a2dce1bd38eea281246529ecc52317528d4dcc5cd3b5d2bb2fc0254f0fd7/1645802238854_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "4지선다 객관식 20문항으로 출제되었습니다. 수업에서 다루었던 개념에 대",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 21,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 19
+            },
+            {
+              "text": "주관식",
+              "count": 6
+            },
+            {
+              "text": "T/F형",
+              "count": 3
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 2
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 8,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 8
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "2차",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 0
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 3.98,
+        "count": 209,
+        "items": [
+          {
+            "value": 5,
+            "count": 76
+          },
+          {
+            "value": 4,
+            "count": 74
+          },
+          {
+            "value": 3,
+            "count": 42
+          },
+          {
+            "value": 2,
+            "count": 13
+          },
+          {
+            "value": 1,
+            "count": 4
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 208,
+          "items": [
+            {
+              "text": "없음",
+              "count": 107
+            },
+            {
+              "text": "보통",
+              "count": 97
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 208,
+          "items": [
+            {
+              "text": "없음",
+              "count": 90
+            },
+            {
+              "text": "보통",
+              "count": 103
+            },
+            {
+              "text": "많음",
+              "count": 15
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 208,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 116
+            },
+            {
+              "text": "보통",
+              "count": 91
+            },
+            {
+              "text": "깐깐함",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 208,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 1
+            },
+            {
+              "text": "전자출결",
+              "count": 173
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 23
+            },
+            {
+              "text": "복합적",
+              "count": 10
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 208,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 2
+            },
+            {
+              "text": "두 번",
+              "count": 204
+            },
+            {
+              "text": "세 번",
+              "count": 1
+            },
+            {
+              "text": "네 번 이상",
+              "count": 1
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "최고의 수업입니다.\n과제나 조모임 일절 없고 퀴즈도 없습니다.\n진짜 깔끔하게 출석 중간 기말으로 학점 갈립니다.\n근데 국제어 비율이기도 하고 이번학기에는 같이 듣는 학생들\n수준이 정말 낮았어서 학점 따기 쉬웠습니다.",
+          "rate": 5,
+          "posvote": 3
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "학점이 잘 나와도 미화가 안 될 정도의 강의력...😅\n산발적으로 배우다 보니까 따라가기도 힘들고. 발음도 알아듣기 힘들더라구요... 그냥 혼자 독학했습니다.. 국제어기도 하고 학점 잘 주셔서 학점 따기에는 좋으나 고",
+          "rate": 1,
+          "posvote": 5
+        }
+      ]
+    }
+  }
+}

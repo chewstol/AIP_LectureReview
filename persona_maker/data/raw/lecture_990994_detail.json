@@ -1,0 +1,243 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788937462177",
+        "bookTitle": "오이디푸스 왕",
+        "bookAuthor": "소포클레스",
+        "bookPublisher": "민음사",
+        "bookPrice": 11000,
+        "price": 4000,
+        "coverImage": "https://cf-cii.everytime.kr/e15b727e84a24bf78c6b2a5065bbac406b8d35e15b36956e09d7404828894deb/1743316759536_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "신화읽기에서의 인물 비교하라는 서술형 2문제 나오는데, 오픈북이라 각 인",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 17,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 9
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 14
+            },
+            {
+              "text": "논술형",
+              "count": 13
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 63,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 0
+            },
+            {
+              "text": "주관식",
+              "count": 19
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 12
+            },
+            {
+              "text": "논술형",
+              "count": 51
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.42,
+        "count": 688,
+        "items": [
+          {
+            "value": 5,
+            "count": 422
+          },
+          {
+            "value": 4,
+            "count": 170
+          },
+          {
+            "value": 3,
+            "count": 72
+          },
+          {
+            "value": 2,
+            "count": 8
+          },
+          {
+            "value": 1,
+            "count": 16
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 688,
+          "items": [
+            {
+              "text": "없음",
+              "count": 213
+            },
+            {
+              "text": "보통",
+              "count": 438
+            },
+            {
+              "text": "많음",
+              "count": 37
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 688,
+          "items": [
+            {
+              "text": "없음",
+              "count": 628
+            },
+            {
+              "text": "보통",
+              "count": 56
+            },
+            {
+              "text": "많음",
+              "count": 4
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 688,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 259
+            },
+            {
+              "text": "보통",
+              "count": 403
+            },
+            {
+              "text": "깐깐함",
+              "count": 26
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 688,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 105
+            },
+            {
+              "text": "전자출결",
+              "count": 453
+            },
+            {
+              "text": "지정좌석",
+              "count": 1
+            },
+            {
+              "text": "직접호명",
+              "count": 80
+            },
+            {
+              "text": "복합적",
+              "count": 49
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 688,
+          "items": [
+            {
+              "text": "없음",
+              "count": 3
+            },
+            {
+              "text": "한 번",
+              "count": 571
+            },
+            {
+              "text": "두 번",
+              "count": 112
+            },
+            {
+              "text": "세 번",
+              "count": 2
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2024,
+          "semester": "1",
+          "text": "교수님은 그리스로마신화의 13번째 신이십니다.",
+          "rate": 5,
+          "posvote": 10
+        },
+        {
+          "year": 2019,
+          "semester": "1",
+          "text": "이 과목 덕분에 제우스가 누구랑 바람폈는지 알수있었습니다!",
+          "rate": 1,
+          "posvote": 18
+        }
+      ]
+    }
+  }
+}

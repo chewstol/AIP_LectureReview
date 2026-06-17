@@ -1,0 +1,261 @@
+{
+  "status": "success",
+  "result": {
+    "books": [
+      {
+        "bookIsbn": "9788958812821",
+        "bookTitle": "핵심 생화학",
+        "bookAuthor": "David L. Nelson, Cox Michael M.",
+        "bookPublisher": "월드사이언스",
+        "bookPrice": 58000,
+        "price": 15000,
+        "coverImage": "https://cf-cii.everytime.kr/75397bb03fb30d0b5410a3fd07036cc43930fb66001374ef904c25b59042c7fc/1738665022198_0.jpg"
+      },
+      {
+        "bookIsbn": "9780470570951",
+        "bookTitle": "Biochemistry (Hardcover)",
+        "bookAuthor": "Voet Donald",
+        "bookPublisher": "Wiley",
+        "bookPrice": 65000,
+        "price": 55000,
+        "coverImage": "https://cf-cii.everytime.kr/115a04f283ea22ad6ab73f8dd44d3b781f7d051ec887dc21ec998875a458cfee/1613977531592_0.jpg"
+      },
+      {
+        "bookIsbn": "9788958811527",
+        "bookTitle": "생화학 하권",
+        "bookAuthor": "DAVID L NELSON",
+        "bookPublisher": "월드사이언스",
+        "bookPrice": 30000,
+        "price": 5000,
+        "coverImage": "https://cf-cii.everytime.kr/dabb119781f001149c5a778db729e14ba2ef3729535dced65e72ff097dc90ef4/1566750821684_0.jpg"
+      }
+    ],
+    "exam": {
+      "knowhow": "나다\n방금 시험 치고왔다\n이상호 교수님 시험이고 범위는 34567\n수업 ",
+      "questionTypes": [
+        {
+          "nth": "중간",
+          "count": 6,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 6
+            },
+            {
+              "text": "주관식",
+              "count": 3
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 2
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "nth": "기말",
+          "count": 1,
+          "items": [
+            {
+              "text": "객관식",
+              "count": 1
+            },
+            {
+              "text": "주관식",
+              "count": 1
+            },
+            {
+              "text": "T/F형",
+              "count": 0
+            },
+            {
+              "text": "약술형",
+              "count": 0
+            },
+            {
+              "text": "논술형",
+              "count": 0
+            },
+            {
+              "text": "구술",
+              "count": 0
+            },
+            {
+              "text": "기타",
+              "count": 0
+            }
+          ]
+        }
+      ]
+    },
+    "review": {
+      "rate": {
+        "average": 4.59,
+        "count": 95,
+        "items": [
+          {
+            "value": 5,
+            "count": 63
+          },
+          {
+            "value": 4,
+            "count": 25
+          },
+          {
+            "value": 3,
+            "count": 7
+          },
+          {
+            "value": 2,
+            "count": 0
+          },
+          {
+            "value": 1,
+            "count": 0
+          }
+        ]
+      },
+      "subjectiveDetails": [
+        {
+          "name": "과제",
+          "count": 95,
+          "items": [
+            {
+              "text": "없음",
+              "count": 88
+            },
+            {
+              "text": "보통",
+              "count": 7
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "조모임",
+          "count": 95,
+          "items": [
+            {
+              "text": "없음",
+              "count": 91
+            },
+            {
+              "text": "보통",
+              "count": 4
+            },
+            {
+              "text": "많음",
+              "count": 0
+            }
+          ]
+        },
+        {
+          "name": "성적",
+          "count": 95,
+          "items": [
+            {
+              "text": "너그러움",
+              "count": 40
+            },
+            {
+              "text": "보통",
+              "count": 53
+            },
+            {
+              "text": "깐깐함",
+              "count": 2
+            }
+          ]
+        }
+      ],
+      "objectiveDetails": [
+        {
+          "name": "출결",
+          "count": 95,
+          "items": [
+            {
+              "text": "반영안함",
+              "count": 0
+            },
+            {
+              "text": "전자출결",
+              "count": 35
+            },
+            {
+              "text": "지정좌석",
+              "count": 0
+            },
+            {
+              "text": "직접호명",
+              "count": 58
+            },
+            {
+              "text": "복합적",
+              "count": 2
+            }
+          ]
+        },
+        {
+          "name": "시험",
+          "count": 95,
+          "items": [
+            {
+              "text": "없음",
+              "count": 0
+            },
+            {
+              "text": "한 번",
+              "count": 6
+            },
+            {
+              "text": "두 번",
+              "count": 89
+            },
+            {
+              "text": "세 번",
+              "count": 0
+            },
+            {
+              "text": "네 번 이상",
+              "count": 0
+            }
+          ]
+        }
+      ],
+      "articles": [
+        {
+          "year": 2020,
+          "semester": "1",
+          "text": "이상호 배외식 교수님 두분 이셨다. 이상호 교수님 강의력이 좀 더 좋으신 것 같다. 근데 어찌됐건 너무 어려웠다.. 코로나학기로 학점을 잘 주셔서 다행이었다..! 기말 몰빵이라 너무 힘들었고 미리 미리 공부해야함을",
+          "rate": 5,
+          "posvote": 2
+        },
+        {
+          "year": 2025,
+          "semester": "1",
+          "text": "생과는 다 양 많다지만 양이 진짜 개 많 아요\n글 다 읽기도 힘듦",
+          "rate": 3,
+          "posvote": 0
+        }
+      ]
+    }
+  }
+}
