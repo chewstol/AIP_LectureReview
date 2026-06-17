@@ -62,6 +62,11 @@ python scripts\recommend_topk.py --preset low_workload --top-k 10
 ## 폴더 구조
 
 ```text
+README.md
+crawler_README.md
+requirements.txt
+.gitignore
+
 scripts/
   build_lecture_nodes.py
   build_text_features.py
