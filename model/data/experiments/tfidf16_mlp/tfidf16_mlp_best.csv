@@ -1,0 +1,2 @@
+﻿feature_set,model,params,folds,mse_mean,mse_std,rmse_mean,rmse_std,mae_mean,mae_std,epochs_mean
+tfidf16_leakage_safe,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.00800747,0.00201155,0.08881628,0.01091493,0.06525596,0.00686249,361.4

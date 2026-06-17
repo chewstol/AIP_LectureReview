@@ -1,0 +1,301 @@
+﻿feature_set,model,params,fold,mse,rmse,mae,epochs_run
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",1,0.0796273946762085,0.2821832643446604,0.2129366248846054,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",2,0.060271937400102615,0.24550343663603288,0.1772763729095459,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",3,0.07708024978637695,0.27763330093196126,0.20070818066596985,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",4,0.0676189437508583,0.26003642773822727,0.18782132863998413,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.05589762330055237,0.23642678211351684,0.1583271026611328,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",1,0.07774381339550018,0.2788257760600698,0.20963332056999207,640
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",2,0.05187053233385086,0.22775103146605255,0.16561679542064667,753
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",3,0.05151981860399246,0.22697977575985148,0.16909368336200714,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",4,0.050446100533008575,0.22460209378589635,0.15778997540473938,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.04773062840104103,0.21847340433343604,0.14453399181365967,839
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",1,0.09390898793935776,0.3064457340857558,0.22500954568386078,595
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",2,0.10001661628484726,0.3162540375787276,0.2336694598197937,640
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",3,0.09146120399236679,0.3024255346235942,0.2300226092338562,955
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",4,0.07735295593738556,0.2781239938181989,0.20069368183612823,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.12364085018634796,0.35162600897309626,0.2528182566165924,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",1,0.09524310380220413,0.3086148146188127,0.22613495588302612,225
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",2,0.09529612213373184,0.3087006999242662,0.22121596336364746,377
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",3,0.09204617887735367,0.30339113183702926,0.23076169192790985,447
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",4,0.08254199475049973,0.28730122650364676,0.2067786306142807,789
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.11277459561824799,0.3358192901223037,0.23797932267189026,908
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",1,0.07479900121688843,0.2734940606610835,0.20062847435474396,703
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",2,0.09908277541399002,0.31477416573472167,0.22344523668289185,292
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",3,0.13137485086917877,0.3624566882665828,0.2686536908149719,599
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",4,0.0687987357378006,0.2622951309837844,0.1896546483039856,930
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.08845851570367813,0.29741976347189525,0.22340723872184753,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",1,0.07298320531845093,0.2701540399817314,0.20160533487796783,234
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",2,0.09457925707101822,0.3075374075962438,0.21710892021656036,174
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",3,0.1254650056362152,0.3542103974140443,0.26121339201927185,274
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",4,0.07794170081615448,0.2791804090837222,0.20090176165103912,182
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.08813650906085968,0.29687793629850584,0.22218894958496094,347
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",1,0.0676591694355011,0.26011376248768747,0.1796758472919464,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",2,0.08068045228719711,0.2840430465390715,0.2142743170261383,596
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",3,0.11923591792583466,0.3453055428542013,0.25425049662590027,511
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",4,0.10640620440244675,0.32619963887540826,0.23947833478450775,839
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.1074664294719696,0.3278207276423649,0.22442947328090668,802
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",1,0.051790956407785416,0.2275762650361092,0.16531939804553986,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",2,0.06996583938598633,0.2645105657360143,0.19693993031978607,293
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",3,0.13931478559970856,0.3732489592747829,0.2792492210865021,151
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",4,0.09276272356510162,0.30456973514304014,0.22208890318870544,195
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.10474159568548203,0.32363806278848295,0.22577451169490814,279
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",1,0.09391763061285019,0.30645983523595743,0.2198447734117508,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",2,0.07578093558549881,0.27528337324564084,0.2004227489233017,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",3,0.10260738432407379,0.32032387410880536,0.2288125604391098,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",4,0.07144062221050262,0.26728378591022434,0.19744764268398285,274
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.1240798681974411,0.3522497241978212,0.25575804710388184,295
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",1,0.06992188841104507,0.2644274728749739,0.19258852303028107,609
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",2,0.056696899235248566,0.23811110691282036,0.17645640671253204,435
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",3,0.09077048301696777,0.30128140171103784,0.2306855022907257,219
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",4,0.06986137479543686,0.2643130242637257,0.19452828168869019,198
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.10583055019378662,0.3253160773675144,0.23086224496364594,166
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",1,0.07850601524114609,0.28018924897494923,0.21207693219184875,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",2,0.05969204008579254,0.24431954503435158,0.17634890973567963,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",3,0.07651320099830627,0.27661019684441546,0.20026452839374542,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",4,0.06676551699638367,0.258390241681809,0.18673987686634064,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.05583266541361809,0.23628936796567485,0.15778346359729767,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",1,0.07582570612430573,0.2753646784253669,0.20665530860424042,686
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",2,0.04917604476213455,0.22175672427715593,0.16364526748657227,639
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",3,0.05136754736304283,0.22664409845183003,0.1680310219526291,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",4,0.05008113384246826,0.22378814499983743,0.15916021168231964,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.04901048541069031,0.22138311907345218,0.1471274197101593,789
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",1,0.08813410997390747,0.29687389574347467,0.21720632910728455,766
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",2,0.09962303936481476,0.31563117616106107,0.23251837491989136,640
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",3,0.08994744718074799,0.29991239917807333,0.22738219797611237,955
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",4,0.0739029049873352,0.2718508874131832,0.1967155784368515,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.12252426147460938,0.3500346575335211,0.2516096532344818,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",1,0.09526114910840988,0.30864404920297733,0.22622334957122803,225
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",2,0.09420325607061386,0.30692548944428494,0.2206282913684845,377
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",3,0.0913785770535469,0.30228889667592307,0.2288035750389099,447
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",4,0.07496859133243561,0.27380392862856373,0.19726386666297913,789
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.1086946353316307,0.32968869457661226,0.23381611704826355,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",1,0.07304660975933075,0.27027136318768724,0.1970045417547226,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",2,0.09833012521266937,0.313576346704705,0.22250348329544067,305
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",3,0.12516367435455322,0.3537847853632957,0.26470765471458435,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",4,0.07077883183956146,0.26604291353005716,0.19366523623466492,939
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.08339627832174301,0.2887841379330641,0.21622873842716217,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",1,0.07155168056488037,0.26749145886341935,0.1984422206878662,362
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",2,0.09400942176580429,0.30660955915594723,0.21711908280849457,174
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",3,0.13484416902065277,0.3672113410839224,0.2694082260131836,674
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",4,0.07056096196174622,0.2656331341563891,0.1921343058347702,255
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.07807929068803787,0.2794267179208851,0.20835615694522858,614
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",1,0.06550867110490799,0.25594661768600885,0.1776942014694214,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",2,0.07923848927021027,0.28149332011649986,0.2124020904302597,655
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",3,0.11915615946054459,0.3451900338372251,0.2541438639163971,511
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",4,0.10302107781171799,0.32096896705400974,0.23538902401924133,879
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.10742047429084778,0.3277506282081665,0.2238212525844574,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",1,0.04775415360927582,0.21852723768280194,0.15827307105064392,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",2,0.07020441442728043,0.26496115644992274,0.1961023509502411,309
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",3,0.13940425217151642,0.3733687884270944,0.2793228030204773,151
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",4,0.0923905149102211,0.30395808084375897,0.22195559740066528,195
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.09154446423053741,0.3025631574242598,0.2116149663925171,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",1,0.08663021773099899,0.29433011692825284,0.2113230675458908,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",2,0.0668114423751831,0.25847909465792995,0.19205881655216217,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",3,0.09741262346506119,0.31210995412684484,0.22045008838176727,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",4,0.07125348597764969,0.26693348605532746,0.1969653069972992,274
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.12417739629745483,0.35238813302586514,0.2550117075443268,295
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",1,0.042595282196998596,0.20638624517394225,0.15745142102241516,979
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",2,0.0596587136387825,0.24425133293143458,0.1802181750535965,470
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",3,0.059444528073072433,0.24381248547412915,0.18878239393234253,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",4,0.05097838491201401,0.22578393413175793,0.16999705135822296,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.09597567468881607,0.30979941040747005,0.22653381526470184,171
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",1,0.07302344590425491,0.27022850683126476,0.20716552436351776,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",2,0.05252403765916824,0.2291812332176617,0.16399437189102173,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",3,0.07234086841344833,0.2689625780911693,0.19425709545612335,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",4,0.06433066725730896,0.2536349093821845,0.18330498039722443,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.050586339086294174,0.2249140704497924,0.15179845690727234,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",1,0.05751964822411537,0.23983254204572693,0.17807133495807648,983
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",2,0.029204685240983963,0.17089378350596596,0.12463875114917755,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",3,0.03585786372423172,0.1893617271896085,0.1464737355709076,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",4,0.04406988248229027,0.20992827937724415,0.15651680529117584,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.03519739583134651,0.18760969013179066,0.127966970205307,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",1,0.07454730570316315,0.2730335248704143,0.19551463425159454,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",2,0.0812920406460762,0.28511759090956873,0.21116302907466888,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",3,0.07096803188323975,0.2663982580334184,0.19956189393997192,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",4,0.05292440950870514,0.23005305802945794,0.163780078291893,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.10942403227090836,0.33079303540266436,0.2342328429222107,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",1,0.0549183189868927,0.23434657878213777,0.16666319966316223,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",2,0.04269954189658165,0.20663867473583364,0.1499253809452057,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",3,0.05036157742142677,0.22441385300695404,0.16295437514781952,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",4,0.02849634736776352,0.16880861165166758,0.13083140552043915,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.07684089243412018,0.27720189832344255,0.19305042922496796,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",1,0.05468392372131348,0.23384594014289295,0.16988377273082733,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",2,0.05992254614830017,0.24479082120925238,0.1734188348054886,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",3,0.08305273950099945,0.28818872202256535,0.21828943490982056,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",4,0.05051407963037491,0.22475337512565838,0.16202184557914734,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.054470837116241455,0.23338988220623758,0.16833114624023438,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",1,0.026643557474017143,0.1632285436865046,0.12434036284685135,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",2,0.06147179380059242,0.2479350596438358,0.17855332791805267,423
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",3,0.034836526960134506,0.18664545791455656,0.14135020971298218,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",4,0.033950041979551315,0.18425537164368183,0.1311662495136261,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.04101955518126488,0.20253284963497867,0.1418529897928238,724
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",1,0.04066680744290352,0.20166012854033272,0.14252278208732605,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",2,0.06103916093707085,0.24706104698448692,0.18220554292201996,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",3,0.1011912077665329,0.3181056550370221,0.2300598919391632,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",4,0.08564639836549759,0.29265405919873655,0.2107173651456833,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.09439965337514877,0.30724526583032774,0.20978255569934845,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",1,0.017641965299844742,0.13282306012076647,0.09702249616384506,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",2,0.02157777175307274,0.14689374306985556,0.11008529365062714,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",3,0.06589169800281525,0.25669378255582126,0.20149260759353638,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",4,0.03690087050199509,0.19209599293581084,0.13530735671520233,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.039699483662843704,0.19924729273654812,0.14123082160949707,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",1,0.04395125061273575,0.2096455356375035,0.14731833338737488,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",2,0.02193279378116131,0.14809724434020138,0.110731340944767,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",3,0.06823601573705673,0.2612202437351606,0.1873907893896103,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",4,0.03922434523701668,0.19805137019727148,0.148604616522789,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.04498504474759102,0.2120967815587757,0.15974706411361694,851
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",1,0.016200613230466843,0.12728162958756792,0.0957128182053566,952
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",2,0.009651388972997665,0.09824148295398266,0.07100480794906616,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",3,0.02624715492129326,0.16200973711877092,0.12303050607442856,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",4,0.01995278336107731,0.14125432156602258,0.10302311927080154,1000
+structured10+kobert_pca32,MLP,"activation=relu;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.012014497071504593,0.10961066130402003,0.08250255882740021,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",1,0.05639561265707016,0.23747760453792302,0.1836765557527542,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",2,0.061834726482629776,0.24866589328379912,0.18557895720005035,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",3,0.09521947801113129,0.3085765350948307,0.23190812766551971,864
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",4,0.10875304043292999,0.3297772588171143,0.24966344237327576,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.042674046009778976,0.20657697357106133,0.15546642243862152,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",1,0.039100728929042816,0.19773904250057148,0.15476031601428986,781
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",2,0.052747394889593124,0.2296680101572553,0.16974210739135742,419
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",3,0.07589390873908997,0.27548849111912094,0.20826157927513123,278
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",4,0.0884491503238678,0.2974040186747109,0.2277669757604599,550
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.042063985019922256,0.2050950633728717,0.1574041247367859,374
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",1,0.10370712727308273,0.3220359099123617,0.23316940665245056,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",2,0.1417899876832962,0.3765501131101891,0.29044848680496216,380
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",3,0.14818939566612244,0.3849537578282909,0.28899621963500977,247
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",4,0.12279269844293594,0.35041789115702404,0.25961607694625854,723
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.18304605782032013,0.42783882224538733,0.3191043734550476,429
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",1,0.0935615748167038,0.3058783660488329,0.22440019249916077,349
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",2,0.1444767862558365,0.380101021119171,0.29764869809150696,119
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",3,0.1352117508649826,0.3677115049396505,0.2745508849620819,128
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",4,0.1263606995344162,0.3554725017978412,0.26026564836502075,143
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.15925610065460205,0.3990690424658396,0.2956277132034302,347
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",1,0.1247677356004715,0.35322476640302486,0.26204171776771545,203
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",2,0.13921162486076355,0.3731107407469846,0.2757330536842346,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",3,0.10244669765233994,0.3200729567650787,0.23590123653411865,263
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",4,0.11607938259840012,0.3407042450548571,0.25502774119377136,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.09726009517908096,0.31186550815869485,0.22439244389533997,312
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",1,0.11335226148366928,0.33667827593070104,0.24653883278369904,100
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",2,0.1387300044298172,0.3724647693806989,0.278322696685791,105
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",3,0.09800796210765839,0.3130622336016569,0.22973047196865082,121
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",4,0.1093500629067421,0.330681210392641,0.24828572571277618,168
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.09160593897104263,0.3026647303057339,0.21670874953269958,167
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",1,0.022356288507580757,0.14952019431361357,0.11652743071317673,320
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",2,0.040432386100292206,0.20107805971883708,0.1550559550523758,310
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",3,0.05447756499052048,0.23340429514154293,0.17907437682151794,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",4,0.055320918560028076,0.23520399350357143,0.16512781381607056,393
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.04839910939335823,0.2199979758846845,0.16398106515407562,213
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",1,0.02004295587539673,0.14157314673128069,0.10938480496406555,143
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",2,0.03145444020628929,0.17735399687148098,0.14035622775554657,116
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",3,0.05633002892136574,0.23733948032589466,0.17762625217437744,176
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",4,0.044833216816186905,0.21173855769837222,0.146829754114151,168
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.03770867735147476,0.1941872224207215,0.14559917151927948,150
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",1,0.04582694172859192,0.21407228155133004,0.16054818034172058,136
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",2,0.03399379178881645,0.18437405400114315,0.1443650722503662,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",3,0.05820911005139351,0.2412656420864635,0.17916157841682434,177
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",4,0.06733005493879318,0.2594803555932379,0.19440236687660217,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.08659247308969498,0.2942659903721376,0.21546386182308197,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",1,0.035348862409591675,0.1880129314956598,0.14523665606975555,109
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",2,0.0312386192381382,0.17674450270981046,0.13843971490859985,153
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",3,0.058451615273952484,0.24176768864749584,0.1816713958978653,80
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",4,0.0550847128033638,0.23470132680358627,0.1776294708251953,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.001;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.06498982757329941,0.25493102512895405,0.19602806866168976,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",1,0.05482657253742218,0.23415074746287312,0.18078842759132385,979
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",2,0.05990765243768692,0.24476039801750388,0.18300209939479828,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",3,0.09145981818437576,0.30242324345918875,0.2279418259859085,850
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",4,0.10555185377597809,0.3248874478584516,0.2468223124742508,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.04402788728475571,0.2098282328114015,0.1574564129114151,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",1,0.03167470172047615,0.17797387932074793,0.13953320682048798,762
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",2,0.05224673077464104,0.22857543782007952,0.16815656423568726,407
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",3,0.048394184559583664,0.21998678269292377,0.17171531915664673,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",4,0.07803825289011002,0.2793532761399265,0.21253974735736847,729
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.04078356549143791,0.20194941319904328,0.1569157987833023,324
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",1,0.09663770347833633,0.31086605391765815,0.22439636290073395,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",2,0.1399073600769043,0.3740419228868661,0.28787869215011597,380
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",3,0.1470937728881836,0.38352806010536383,0.2883615493774414,267
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",4,0.1139289066195488,0.33753356369337373,0.2430112659931183,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.18250717222690582,0.427208581640053,0.3192594349384308,429
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",1,0.07269086688756943,0.2696124383027783,0.1949450969696045,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",2,0.12937384843826294,0.35968576346341946,0.2835380733013153,140
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",3,0.13482072949409485,0.3671794241159148,0.274310439825058,128
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",4,0.12474848330020905,0.3531975131568865,0.2570437490940094,143
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.12751953303813934,0.35709877210393676,0.2635890245437622,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",1,0.12420722842216492,0.35243045898753544,0.2614109516143799,203
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",2,0.12343953549861908,0.35133962984357325,0.2575777471065521,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",3,0.08909519761800766,0.2984881867310793,0.2196829617023468,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",4,0.09754633903503418,0.3123240929467885,0.23373469710350037,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.07821566611528397,0.2796706386363859,0.2010180950164795,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",1,0.11279544234275818,0.3358503272929151,0.24577364325523376,100
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",2,0.13785649836063385,0.3712903154684133,0.27659884095191956,105
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",3,0.09706932306289673,0.311559501641174,0.22868500649929047,121
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",4,0.05345451459288597,0.23120232393487306,0.17529162764549255,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.04913358762860298,0.22166097452777514,0.1643325537443161,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",1,0.022236187011003494,0.14911803046916725,0.11311834305524826,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",2,0.03909837827086449,0.19773309857194998,0.1525917649269104,350
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",3,0.04616779834032059,0.21486693170499874,0.16420941054821014,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",4,0.04597628116607666,0.21442080394886281,0.15601575374603271,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.04610341414809227,0.21471705602511476,0.1614988148212433,277
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",1,0.01936696283519268,0.1391652357278666,0.10561186075210571,666
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",2,0.03096746653318405,0.1759757555266749,0.1392640322446823,116
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",3,0.0273643396794796,0.16542170256492827,0.12664438784122467,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",4,0.04341694712638855,0.20836733699500157,0.14438147842884064,168
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.03110235184431076,0.1763585888022207,0.13206996023654938,411
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",1,0.045213643461465836,0.21263500055603696,0.15946176648139954,136
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",2,0.020069334656000137,0.14166627917750976,0.10594027489423752,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",3,0.037939995527267456,0.1947819178652563,0.14499172568321228,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",4,0.052855197340250015,0.22990258228269211,0.1738029420375824,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.06889612227678299,0.26248070838974624,0.19182133674621582,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",1,0.01692916452884674,0.1301121229126892,0.10010968893766403,915
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",2,0.010675866156816483,0.10332408314045899,0.07475420832633972,919
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",3,0.05649583041667938,0.23768851553383766,0.17880579829216003,89
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",4,0.024030711501836777,0.15501842310459998,0.12042714655399323,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.01;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.029610732570290565,0.17207769341286094,0.13308840990066528,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",1,0.029429763555526733,0.17155105232998932,0.12494280189275742,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",2,0.04853442683815956,0.22030530369956952,0.16336791217327118,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",3,0.041397809982299805,0.20346451774768937,0.1596430540084839,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",4,0.07359297573566437,0.27128025312518483,0.20283004641532898,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.001",5,0.04941811040043831,0.22230184524748847,0.1685422956943512,433
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",1,0.019245080649852753,0.13872664001500487,0.10704763233661652,823
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",2,0.019904209300875664,0.14108227847917562,0.10397286713123322,966
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",3,0.020534783601760864,0.1432996287565354,0.11448945850133896,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",4,0.02867584303021431,0.1693394314098589,0.12771469354629517,883
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(16,);learning_rate_init=0.003",5,0.019506679847836494,0.13966631608171132,0.10320581495761871,721
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",1,0.06130848824977875,0.24760550932840478,0.17889265716075897,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",2,0.07022473961114883,0.2649995086998254,0.19973653554916382,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",3,0.09367003291845322,0.30605560429185613,0.22532057762145996,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",4,0.06069997325539589,0.24637364561859268,0.1814003884792328,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.001",5,0.10839899629354477,0.329240028388932,0.2492455542087555,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",1,0.030784878879785538,0.17545620216961708,0.13051453232765198,795
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",2,0.01488739624619484,0.12201391824785744,0.08677614480257034,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",3,0.035804592072963715,0.18922101382500758,0.12743647396564484,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",4,0.02203390747308731,0.14843822780229934,0.11104225367307663,908
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32,);learning_rate_init=0.003",5,0.03230733424425125,0.17974241081128084,0.13525721430778503,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",1,0.03747020661830902,0.19357222584428022,0.14134597778320312,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",2,0.043563034385442734,0.20871759481520175,0.15939658880233765,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",3,0.0417027585208416,0.20421253272226364,0.14465852081775665,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",4,0.02956289052963257,0.17193862431005014,0.1311323493719101,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.001",5,0.023892689496278763,0.15457260267032694,0.11679845303297043,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",1,0.021502694115042686,0.1466379695544189,0.1056308001279831,759
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",2,0.02808746136724949,0.1675931423634317,0.11585188657045364,766
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",3,0.021043552085757256,0.14506395860363544,0.10402446985244751,978
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",4,0.018027007579803467,0.13426469223069581,0.10127497464418411,885
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64,);learning_rate_init=0.003",5,0.018168270587921143,0.13478972730857922,0.09918521344661713,770
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",1,0.015258530154824257,0.1235254231112942,0.09068762511014938,626
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",2,0.01656213589012623,0.1286939621354717,0.09753329306840897,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",3,0.01908862218260765,0.13816157998013648,0.10184165835380554,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",4,0.018838103860616684,0.13725197215565496,0.10005229711532593,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.001",5,0.016896864399313927,0.12998793943791065,0.09061780571937561,994
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",1,0.01503482274711132,0.12261656799597402,0.09056936204433441,262
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",2,0.014404285699129105,0.12001785575125522,0.08967836946249008,377
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",3,0.018480869010090828,0.1359443599789665,0.10155334323644638,515
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",4,0.01622101292014122,0.1273617404095171,0.09604586660861969,424
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.016575299203395844,0.12874509390029526,0.08915001153945923,504
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",1,0.01754666119813919,0.13246381089995557,0.10030481219291687,568
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",2,0.010117453522980213,0.10058555325184731,0.07749870419502258,673
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",3,0.01451377384364605,0.12047312498497767,0.09241819381713867,891
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",4,0.01952924020588398,0.13974705795072745,0.10733309388160706,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.001",5,0.01864589750766754,0.13654998171976276,0.10327007621526718,1000
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",1,0.014417039230465889,0.12007097580375488,0.0900854766368866,404
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",2,0.007880750112235546,0.08877358904671787,0.06994142383337021,403
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",3,0.0144560681656003,0.12023339039385149,0.09313414245843887,438
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",4,0.015851592645049095,0.12590310816278166,0.0979161337018013,728
+structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.013276128098368645,0.11522208164396547,0.08828428387641907,869

@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="690" viewBox="0 0 1040 690">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="42" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">Structured feature correlation with average rating</text>
+<text x="32" y="72" font-family="Arial, sans-serif" font-size="15" fill="#4b5563">Pearson correlation, 753 lectures</text>
+<line x1="605.0" y1="87" x2="605.0" y2="635" stroke="#9ca3af" stroke-width="1"/>
+<text x="260" y="667" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">-1.0</text>
+<text x="605.0" y="667" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">0</text>
+<text x="950" y="667" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#4b5563">+1.0</text>
+<text x="245" y="125" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Grading generous</text>
+<rect x="605.00" y="105" width="218.11" height="27" rx="3" fill="#2563eb"/>
+<text x="831.11" y="124" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">+0.632</text>
+<text x="245" y="175" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Grading strict</text>
+<rect x="386.89" y="155" width="218.11" height="27" rx="3" fill="#dc2626"/>
+<text x="378.89" y="174" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">-0.632</text>
+<text x="245" y="225" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Low assignment load</text>
+<rect x="605.00" y="205" width="141.52" height="27" rx="3" fill="#2563eb"/>
+<text x="754.52" y="224" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">+0.410</text>
+<text x="245" y="275" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">High assignment load</text>
+<rect x="463.48" y="255" width="141.52" height="27" rx="3" fill="#dc2626"/>
+<text x="455.48" y="274" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">-0.410</text>
+<text x="245" y="325" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Low teamwork load</text>
+<rect x="605.00" y="305" width="93.15" height="27" rx="3" fill="#2563eb"/>
+<text x="706.15" y="324" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">+0.270</text>
+<text x="245" y="375" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">High teamwork load</text>
+<rect x="511.85" y="355" width="93.15" height="27" rx="3" fill="#dc2626"/>
+<text x="503.85" y="374" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">-0.270</text>
+<text x="245" y="425" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Light attendance</text>
+<rect x="605.00" y="405" width="49.99" height="27" rx="3" fill="#2563eb"/>
+<text x="662.99" y="424" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">+0.145</text>
+<text x="245" y="475" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Strict attendance</text>
+<rect x="562.13" y="455" width="42.87" height="27" rx="3" fill="#dc2626"/>
+<text x="554.13" y="474" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">-0.124</text>
+<text x="245" y="525" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Heavy exam load</text>
+<rect x="588.95" y="505" width="16.05" height="27" rx="3" fill="#dc2626"/>
+<text x="580.95" y="524" text-anchor="end" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">-0.047</text>
+<text x="245" y="575" text-anchor="end" font-family="Arial, sans-serif" font-size="15" fill="#111827">Light exam load</text>
+<rect x="605.00" y="555" width="2.82" height="27" rx="3" fill="#2563eb"/>
+<text x="615.82" y="574" text-anchor="start" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">+0.008</text>
+</svg>

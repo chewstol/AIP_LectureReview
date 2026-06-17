@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+  <rect width="100%" height="100%" fill="white"/>
+  <text x="450.0" y="28" text-anchor="middle" font-family="Arial" font-size="18">Ridge Diagnostics: Regularization Strength</text>
+  <line x1="80" y1="445" x2="865" y2="445" stroke="#334155"/>
+  <line x1="80" y1="45" x2="80" y2="445" stroke="#334155"/>
+  <polyline points="80.00,62.70 237.00,62.70 394.00,62.70 551.00,62.66 708.00,61.04 865.00,45.00" fill="none" stroke="#2563eb" stroke-width="2"/>
+  <polyline points="80.00,109.93 237.00,109.93 394.00,109.95 551.00,110.03 708.00,108.99 865.00,108.09" fill="none" stroke="#dc2626" stroke-width="2"/>
+  <circle cx="551.00" cy="110.03" r="5" fill="#dc2626"/>
+  <text x="561.00" y="100.03" font-family="Arial" font-size="12">best test alpha=1.0</text>
+  <text x="450.0" y="496" text-anchor="middle" font-family="Arial" font-size="14">alpha (log scale)</text>
+  <text x="24" y="260.0" text-anchor="middle" font-family="Arial" font-size="14" transform="rotate(-90 24 260.0)">MSE</text>
+  <rect x="690" y="55" width="170" height="58" fill="white" stroke="#e5e7eb"/>
+  <line x1="705" y1="78" x2="745" y2="78" stroke="#2563eb" stroke-width="3"/>
+  <text x="755" y="83" font-family="Arial" font-size="13">train MSE</text>
+  <line x1="705" y1="101" x2="745" y2="101" stroke="#dc2626" stroke-width="3"/>
+  <text x="755" y="106" font-family="Arial" font-size="13">test MSE</text>
+  <text x="70" y="49" text-anchor="end" font-family="Arial" font-size="12">0.0031</text>
+  <text x="70" y="449" text-anchor="end" font-family="Arial" font-size="12">0</text>
+</svg>

@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <title>Small Portion Experiment Dashboard</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 32px; color: #111827; }
+    h1 { margin-bottom: 8px; }
+    .grid { display: grid; grid-template-columns: 1fr; gap: 28px; max-width: 980px; }
+    img { width: 100%; border: 1px solid #e5e7eb; }
+    table { border-collapse: collapse; width: 100%; }
+    th, td { border: 1px solid #e5e7eb; padding: 8px 10px; text-align: left; }
+    th { background: #f8fafc; }
+  </style>
+</head>
+<body>
+  <h1>10% 데이터 기반 실험 과정 시각화</h1>
+  <p>W&B를 직접 사용하지 않고도 발표에 넣을 수 있도록 같은 내용을 로컬 그래프로 정리한 대시보드입니다.</p>
+  <div class="grid">
+    <section>
+      <h2>Epoch별 Train/Test Loss</h2>
+      <img src="loss_curve.svg" alt="loss curve">
+    </section>
+    <section>
+      <h2>Overfitting 관측 요약</h2>
+      <img src="overfitting_summary.svg" alt="overfitting summary">
+    </section>
+    <section>
+      <h2>Baseline 비교</h2>
+      <img src="metrics_bar.svg" alt="metrics bar">
+    </section>
+    <section>
+      <h2>성능 표</h2>
+      <table>
+        <thead><tr><th>Model</th><th>Test MSE</th><th>Test RMSE</th><th>Test MAE</th></tr></thead>
+        <tbody><tr><td>Baseline: train mean rating</td><td>0.01229654</td><td>0.11088977</td><td>0.09182209</td></tr>
+<tr><td>Baseline: ridge regression</td><td>0.00263253</td><td>0.0513082</td><td>0.03944364</td></tr>
+<tr><td>Baseline: content KNN</td><td>0.00357093</td><td>0.05975729</td><td>0.04606185</td></tr>
+<tr><td>Proposed: graph-augmented MLP best epoch</td><td>0.02099083</td><td>0.14488211</td><td>0.10858397</td></tr>
+<tr><td>Proposed: graph-augmented MLP final epoch</td><td>0.02099083</td><td>0.14488211</td><td>0.10858397</td></tr></tbody>
+      </table>
+    </section>
+  </div>
+</body>
+</html>

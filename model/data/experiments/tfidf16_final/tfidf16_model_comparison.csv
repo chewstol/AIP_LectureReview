@@ -1,0 +1,8 @@
+﻿rank,feature_set,model,params,folds,mse_mean,mse_std,rmse_mean,rmse_std,mae_mean,mae_std,epochs_mean
+1,leakage_safe,Kernel Ridge-RBF,kernelridge__alpha=0.01;kernelridge__gamma=0.001,5,0.00722578,0.00190496,0.08430563,0.01087851,0.06168934,0.00561432,
+2,leakage_safe,Ridge,ridge__alpha=10.0,5,0.00729152,0.00184298,0.0847415,0.01050705,0.06221016,0.00557498,
+3,leakage_safe,Random Forest,max_depth=6;min_samples_leaf=3,5,0.00766603,0.00226455,0.08667138,0.0124137,0.06357092,0.00691999,
+4,leakage_safe,Gradient Boosting,learning_rate=0.05;loss=huber;max_depth=2;n_estimators=100,5,0.00781928,0.00242434,0.08739896,0.01344266,0.06275275,0.00771101,
+5,leakage_safe,Content KNN,k=20,5,0.00785616,0.0022091,0.08776978,0.012354,0.0646344,0.00667833,
+6,tfidf16_leakage_safe,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(32, 16);learning_rate_init=0.003",5,0.00800747,0.00201155,0.08881628,0.01091493,0.06525596,0.00686249,361.4
+7,leakage_safe,SVR-RBF,svr__C=0.3;svr__epsilon=0.05;svr__gamma=scale,5,0.0082445,0.00213094,0.0900538,0.01161095,0.0665613,0.00627715,

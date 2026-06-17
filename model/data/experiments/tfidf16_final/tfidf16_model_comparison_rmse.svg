@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="550" viewBox="0 0 1080 550">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="40" font-family="Arial, sans-serif" font-size="25" font-weight="700" fill="#111827">TF-IDF feature model comparison</text>
+<text x="32" y="69" font-family="Arial, sans-serif" font-size="15" fill="#4b5563">Structured 10 + category TF-IDF 6 · 5-fold CV · lower RMSE is better</text>
+<text x="271" y="120" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#111827">Kernel Ridge-RBF</text>
+<rect x="285" y="100" width="685" height="29" rx="4" fill="#eef2f7"/>
+<rect x="285" y="100" width="593.77" height="29" rx="4" fill="#059669"/>
+<text x="888.77" y="120" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08431</text>
+<text x="271" y="177" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#111827">Ridge</text>
+<rect x="285" y="157" width="685" height="29" rx="4" fill="#eef2f7"/>
+<rect x="285" y="157" width="596.84" height="29" rx="4" fill="#2563eb"/>
+<text x="891.84" y="177" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08474</text>
+<text x="271" y="234" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#111827">Random Forest</text>
+<rect x="285" y="214" width="685" height="29" rx="4" fill="#eef2f7"/>
+<rect x="285" y="214" width="610.44" height="29" rx="4" fill="#ea580c"/>
+<text x="905.44" y="234" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08667</text>
+<text x="271" y="291" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#111827">Gradient Boosting</text>
+<rect x="285" y="271" width="685" height="29" rx="4" fill="#eef2f7"/>
+<rect x="285" y="271" width="615.56" height="29" rx="4" fill="#16a34a"/>
+<text x="910.56" y="291" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08740</text>
+<text x="271" y="348" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#111827">Content KNN</text>
+<rect x="285" y="328" width="685" height="29" rx="4" fill="#eef2f7"/>
+<rect x="285" y="328" width="618.17" height="29" rx="4" fill="#64748b"/>
+<text x="913.17" y="348" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08777</text>
+<text x="271" y="405" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#111827">MLP</text>
+<rect x="285" y="385" width="685" height="29" rx="4" fill="#eef2f7"/>
+<rect x="285" y="385" width="625.54" height="29" rx="4" fill="#db2777"/>
+<text x="920.54" y="405" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.08882</text>
+<text x="271" y="462" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#111827">SVR-RBF</text>
+<rect x="285" y="442" width="685" height="29" rx="4" fill="#eef2f7"/>
+<rect x="285" y="442" width="634.26" height="29" rx="4" fill="#7c3aed"/>
+<text x="929.26" y="462" font-family="Arial, sans-serif" font-size="14" font-weight="700" fill="#111827">0.09005</text>
+</svg>

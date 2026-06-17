@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="330" viewBox="0 0 980 330">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="32" y="42" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#111827">KoBERT feature ablation</text>
+<text x="32" y="69" font-family="Arial, sans-serif" font-size="14" fill="#4b5563">Ridge regression, 5-fold cross-validation, lower RMSE is better</text>
+<text x="306" y="127" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#111827">Structured 10 + KoBERT PCA32</text>
+<rect x="320" y="105" width="520" height="32" rx="4" fill="#eef2f7"/>
+<rect x="320" y="105" width="354.52" height="32" rx="4" fill="#059669"/>
+<text x="684.52" y="127" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">0.08284</text>
+<text x="306" y="193" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#111827">Structured 10</text>
+<rect x="320" y="171" width="520" height="32" rx="4" fill="#eef2f7"/>
+<rect x="320" y="171" width="365.08" height="32" rx="4" fill="#2563eb"/>
+<text x="695.08" y="193" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">0.08530</text>
+<text x="306" y="259" text-anchor="end" font-family="Arial, sans-serif" font-size="16" fill="#111827">KoBERT PCA32</text>
+<rect x="320" y="237" width="520" height="32" rx="4" fill="#eef2f7"/>
+<rect x="320" y="237" width="464.29" height="32" rx="4" fill="#7c3aed"/>
+<text x="794.29" y="259" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#111827">0.10849</text>
+</svg>

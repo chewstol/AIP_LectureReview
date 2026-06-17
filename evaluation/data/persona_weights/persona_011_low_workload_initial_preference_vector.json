@@ -1,0 +1,18 @@
+{
+  "assignment_low_score": 0.9521010290139955,
+  "assignment_high_score": 0.04789897098600451,
+  "teamwork_low_score": 0.822304110214548,
+  "teamwork_high_score": 0.17769588978545195,
+  "grading_generous_score": 0.6706038818906598,
+  "grading_strict_score": 0.3293961181093402,
+  "attendance_light_score": 0.8175636599332107,
+  "attendance_strict_score": 0.18243634006678927,
+  "exam_light_score": 0.8486655194646688,
+  "exam_heavy_score": 0.15133448053533127,
+  "text_assignment_tfidf": 0.28694125154728545,
+  "text_teamwork_tfidf": 0.14085183988470729,
+  "text_grading_tfidf": 0.24323836015788297,
+  "text_attendance_tfidf": 0.14773719052316922,
+  "text_exam_tfidf": 0.1791571693582509,
+  "text_teaching_tfidf": 0.33433804459199423
+}

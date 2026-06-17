@@ -1,0 +1,7 @@
+﻿rank,feature_set,model,params,folds,mse_mean,mse_std,rmse_mean,rmse_std,mae_mean,mae_std,epochs_mean
+1,structured10+kobert_pca32,Ridge,alpha=10.0,5,0.00693281,0.00140074,0.08283711,0.00841587,0.06098941,0.00492672,
+2,structured10+kobert_pca32,Gradient Boosting,learning_rate=0.05;loss=squared_error;max_depth=2;n_estimators=300,5,0.007483,0.00190807,0.085815,0.01089904,0.0629668,0.00671132,
+3,structured10+kobert_pca32,Random Forest,max_depth=None;max_features=0.7;min_samples_leaf=3,5,0.00764332,0.00214001,0.08661689,0.01186754,0.06365043,0.0062749,
+4,structured10+kobert_pca32,SVR-RBF,C=0.3;epsilon=0.05;gamma=0.001,5,0.00793221,0.00181794,0.08838719,0.01095038,0.06629982,0.00656495,
+5,structured10+kobert_pca32,Content KNN,n_neighbors=20,5,0.01136786,0.00228949,0.10602063,0.01129104,0.08176327,0.00734098,
+6,structured10+kobert_pca32,MLP,"activation=tanh;alpha=0.1;hidden_layer_sizes=(64, 32);learning_rate_init=0.003",5,0.01317632,0.00277082,0.11404063,0.01307863,0.08787229,0.00954096,568.4

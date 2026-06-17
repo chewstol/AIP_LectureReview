@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# IDE and OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Raw or potentially sensitive review data
+data/raw_import/
+data/normalized/
+data/windows_readable/
+Lecture_Review_Crawler/data/
+
+# Presentation inspection artifacts
+data/ppt_review/
+
+# Temporary experiment runs
+data/experiments/tmp_*/
+data/experiments/small_portion_structured_only/
+
+# Large duplicated sharing artifacts
+share/
+
+# Generated full rankings contain review excerpts
+data/recommendations/*_all.csv
+data/recommendations/*_10.csv
+
+# Local crawler checkout
+Lecture_Review_Crawler/
