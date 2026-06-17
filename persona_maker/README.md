@@ -1,15 +1,13 @@
-# PersonaMaker
+# Persona Maker
 
-## 프로젝트 목표
+`persona_maker/`는 강의평가 feature와 리뷰 텍스트를 이용해 추천 실험에 사용할 페르소나 데이터를 생성하는 코드와 산출물을 담고 있습니다.
 
-PersonaMaker는 비슷한 성향을 가진 강의평가를 묶어서 페르소나를 생성하는 코드 작성을 목표로 합니다.
-
-입력 벡터와 기존 강의평가 데이터의 유사도를 계산하고, 가장 유사한 강의평가들을 기반으로 대표적인 성향 또는 페르소나를 도출하는 데 활용할 수 있습니다.
+생성된 페르소나는 `model/`의 추천 엔진 또는 `evaluation/`의 평가 스크립트에서 사용할 수 있는 선호 벡터와 선택 리뷰 목록을 포함합니다.
 
 ## 파일 구조
 
 ```text
-PersonaMaker/
+persona_maker/
 ├── README.md
 ├── src/
 │   ├── generate_review_mention_vectors.py
@@ -27,188 +25,111 @@ PersonaMaker/
 │   │   ├── review_calibrated_vectors.json
 │   │   └── review_calibrated_vectors.csv
 │   └── raw/
-│       └── 원본 강의평가 JSON 파일들
+│       ├── lecture_{lecture_id}_articles.json
+│       └── lecture_{lecture_id}_detail.json
 └── outputs/
     ├── generated_personas.json
     └── generated_personas_simple.json
 ```
 
-- `src/`: 데이터 변환과 페르소나 생성을 수행하는 Python 실행 코드
-- `data/csv/`: 정리된 입력 CSV 파일
-- `data/raw/`: 원본 JSON 데이터
-- `data/processed/`: 리뷰 mention vector, 2차 보정 벡터 등 중간 산출물
-- `outputs/`: 최종 페르소나 JSON 산출물
+## 생성 흐름
+
+1. `generate_review_mention_vectors.py`
+   - 강의평가 텍스트에서 과제, 팀플, 학점, 출석, 시험, 강의력 관련 언급 여부를 추출합니다.
+   - 결과는 `data/processed/review_mention_vectors.json`에 저장됩니다.
+
+2. `generate_review_calibrated_vectors.py`
+   - 리뷰의 mention vector와 강의 feature를 결합합니다.
+   - 리뷰에서 언급된 항목에 대해서만 강의 feature 값을 남기고, 나머지는 0으로 보정합니다.
+   - 결과는 `data/processed/review_calibrated_vectors.json`과 `.csv`로 저장됩니다.
+
+3. `generate_personas_from_reviews.py`
+   - preset 기반 초기 선호 벡터를 만들고, 해당 벡터와 가까운 리뷰를 샘플링해 페르소나를 생성합니다.
+   - 결과는 `outputs/generated_personas.json`에 저장됩니다.
 
 ## 실행 방법
 
-프로젝트 루트에서 다음 순서로 실행합니다.
+`persona_maker/` 폴더에서 실행합니다.
 
-```bash
-python src/generate_review_mention_vectors.py
-python src/generate_review_calibrated_vectors.py
-python src/generate_personas_from_reviews.py
+```powershell
+python src\generate_review_mention_vectors.py
+python src\generate_review_calibrated_vectors.py
+python src\generate_personas_from_reviews.py
 ```
 
 간소화된 페르소나 파일만 생성하려면 다음 옵션을 사용합니다.
 
-```bash
-python src/generate_personas_from_reviews.py --simple
+```powershell
+python src\generate_personas_from_reviews.py --simple
 ```
 
-각 스크립트는 파일 위치가 정리된 뒤에도 동작하도록 프로젝트 루트 기준 경로를 자동으로 계산합니다.
+각 스크립트는 파일 위치를 `persona_maker/` 기준으로 계산하므로, 저장소 루트에서 실행하는 것보다 `persona_maker/` 안에서 실행하는 편이 가장 명확합니다.
 
-## Input
+## 사용 feature
 
-- `n`개 Feature에 대한 정규화되지 않은 벡터
-- 각 Feature는 강의평가의 성향, 특징, 평가 요소 등을 수치로 표현한 값입니다.
-- 입력 벡터는 정규화되지 않은 상태로 들어오므로, 필요한 경우 코드 내부에서 정규화 또는 스케일링 과정을 수행할 수 있습니다.
-- CSV 파일에 포함된 Feature 중 아래에 명시된 Feature만 사용합니다.
+페르소나 벡터는 16개 feature를 사용합니다.
 
-### 사용할 Feature
+구조화 feature 10개:
 
-#### 정형 Feature 10개
+- `assignment_low_score`, `assignment_high_score`
+- `teamwork_low_score`, `teamwork_high_score`
+- `grading_generous_score`, `grading_strict_score`
+- `attendance_light_score`, `attendance_strict_score`
+- `exam_light_score`, `exam_heavy_score`
 
-| Feature | 설명 |
-| --- | --- |
-| `assignment_low_score` | 과제 부담이 낮은 정도 |
-| `assignment_high_score` | 과제 부담이 높은 정도 |
-| `teamwork_low_score` | 팀플이 적은 정도 |
-| `teamwork_high_score` | 팀플이 많은 정도 |
-| `grading_generous_score` | 학점을 후하게 주는 정도 |
-| `grading_strict_score` | 학점이 엄격한 정도 |
-| `attendance_light_score` | 출석 부담이 낮은 정도 |
-| `attendance_strict_score` | 출석이 엄격한 정도 |
-| `exam_light_score` | 시험 부담이 낮은 정도 |
-| `exam_heavy_score` | 시험 부담이 높은 정도 |
+텍스트 feature 6개:
 
-#### 텍스트 Feature 6개
+- `text_assignment_tfidf`
+- `text_teamwork_tfidf`
+- `text_grading_tfidf`
+- `text_attendance_tfidf`
+- `text_exam_tfidf`
+- `text_teaching_tfidf`
 
-| Feature | 설명 |
-| --- | --- |
-| `text_assignment_tfidf` | 과제 관련 표현의 TF-IDF |
-| `text_teamwork_tfidf` | 팀플 관련 표현의 TF-IDF |
-| `text_grading_tfidf` | 학점 관련 표현의 TF-IDF |
-| `text_attendance_tfidf` | 출석 관련 표현의 TF-IDF |
-| `text_exam_tfidf` | 시험 관련 표현의 TF-IDF |
-| `text_teaching_tfidf` | 강의력·설명 관련 표현의 TF-IDF |
+## Preset
 
-텍스트 Feature는 강의평가 원문에서 특정 주제와 관련된 표현이 얼마나 중요하게 나타나는지를 수치화한 값입니다. 각 값은 TF-IDF 기반으로 계산되며, 특정 강의평가에서 해당 주제의 단어 또는 표현이 자주 등장하면서도 전체 강의평가에서는 상대적으로 구분력 있게 사용될수록 높은 값을 가질 수 있습니다.
+현재 페르소나는 다음 preset을 기반으로 생성됩니다.
 
-- `text_assignment_tfidf`: 과제, 레포트, 제출, 숙제 등 과제 부담과 관련된 표현의 중요도
-- `text_teamwork_tfidf`: 팀플, 조별과제, 발표 조, 협업 등 팀워크 관련 표현의 중요도
-- `text_grading_tfidf`: 학점, 점수, 성적, 커브, 후함, 엄격함 등 평가 방식과 관련된 표현의 중요도
-- `text_attendance_tfidf`: 출석, 결석, 지각, 출결 확인 등 출석 관리와 관련된 표현의 중요도
-- `text_exam_tfidf`: 시험, 중간고사, 기말고사, 퀴즈, 족보 등 시험 부담과 관련된 표현의 중요도
-- `text_teaching_tfidf`: 설명, 강의력, 전달력, 이해, 교수 방식 등 수업 진행과 관련된 표현의 중요도
+- `low_workload`: 과제, 팀플, 출석, 시험 부담이 낮은 강의를 선호합니다.
+- `learning_quality`: 강의 설명과 학습 품질이 높은 강의를 선호합니다.
+- `grade_focused`: 학점 부담이 낮거나 관대한 평가를 선호합니다.
+- `balanced`: 특정 요소에 크게 치우치지 않은 균형형 선호입니다.
 
-## Output
+각 preset에는 작은 noise가 더해져 여러 개의 페르소나가 생성됩니다.
 
-- 강의평가 목록 중에서 입력 벡터와 가장 유사한 `top-k`개의 강의평가를 담은 JSON file
-- 출력 JSON file은 유사도 기준으로 선택된 강의평가 목록을 포함합니다.
-- 각 결과 항목에는 구현 방식에 따라 강의평가 정보, 유사도 점수, 관련 메타데이터 등을 포함할 수 있습니다.
+## 산출물
 
 ### `outputs/generated_personas.json`
 
-`generated_personas.json`은 preset 기반 랜덤 선호도 벡터와, 해당 선호도 벡터에 가까운 강의평가 리뷰들을 묶은 전체 페르소나 데이터입니다. 유사도, mention vector, calibrated vector까지 포함하므로 페르소나 생성 과정을 분석하거나 디버깅할 때 사용할 수 있습니다.
+전체 페르소나 정보입니다. 초기 선호 벡터, 선택된 리뷰, 리뷰별 유사도, mention vector, calibrated vector, 집계된 리뷰 벡터를 포함합니다.
 
-주요 구조는 다음과 같습니다.
+주요 필드:
 
-```json
-[
-  {
-    "persona_id": 1,
-    "preset_name": "low_workload",
-    "initial_preference_vector": {
-      "assignment_low_score": 0.88,
-      "assignment_high_score": 0.12,
-      "text_teaching_tfidf": 0.3
-    },
-    "top_k": 30,
-    "sample_n": 10,
-    "selected_reviews": [
-      {
-        "lecture_id": 103298,
-        "article_id": 2131858,
-        "text": "강의평가 원문",
-        "rate": 3.0,
-        "similarity": 0.8231,
-        "mention_vector": {
-          "assignment": 1,
-          "teamwork": 0,
-          "grading": 0,
-          "attendance": 0,
-          "exam": 1,
-          "teaching": 1
-        },
-        "calibrated_vector": {
-          "assignment_low_score": 0.93,
-          "assignment_high_score": 0.07,
-          "text_teaching_tfidf": 0.12
-        }
-      }
-    ],
-    "aggregated_review_vector": {
-      "assignment_low_score": 0.71,
-      "assignment_high_score": 0.12,
-      "text_teaching_tfidf": 0.08
-    }
-  }
-]
-```
-
-- `persona_id`: 생성된 페르소나의 고유 번호
-- `preset_name`: 페르소나 생성에 사용된 preset 이름
-- `initial_preference_vector`: preset에 랜덤 노이즈를 더해 생성한 초기 선호도 벡터
-- `top_k`: 초기 선호도 벡터와 가장 가까운 후보 리뷰 수
-- `sample_n`: `top_k` 후보 중 최종 선택한 리뷰 수
-- `selected_reviews`: 페르소나를 구성하는 강의평가 리뷰 목록
-- `similarity`: 초기 선호도 벡터와 해당 리뷰의 `calibrated_vector` 사이의 cosine similarity
-- `mention_vector`: 리뷰 텍스트에서 각 요소가 언급되었는지 나타내는 0 또는 1 벡터
-- `calibrated_vector`: 리뷰에서 언급된 요소에 대해서만 강의 feature 값을 남긴 2차 벡터
-- `aggregated_review_vector`: 선택된 리뷰들의 `calibrated_vector`를 feature별 평균낸 벡터
+- `persona_id`: 페르소나 고유 번호입니다.
+- `preset_name`: 페르소나 생성에 사용된 preset 이름입니다.
+- `initial_preference_vector`: preset과 noise로 만든 초기 선호 벡터입니다.
+- `selected_reviews`: 페르소나를 구성하는 선택 리뷰 목록입니다.
+- `similarity`: 초기 선호 벡터와 해당 리뷰 vector 사이의 cosine similarity입니다.
+- `mention_vector`: 리뷰 텍스트에서 각 항목이 언급되었는지 나타내는 0/1 벡터입니다.
+- `calibrated_vector`: 언급된 항목에 대해서만 강의 feature 값을 남긴 리뷰 단위 벡터입니다.
+- `aggregated_review_vector`: 선택 리뷰들의 calibrated vector를 평균낸 벡터입니다.
 
 ### `outputs/generated_personas_simple.json`
 
-`generated_personas_simple.json`은 페르소나 활용에 필요한 최소 정보만 남긴 축약 버전입니다. `generate_personas_from_reviews.py` 실행 시 `--simple` 옵션을 사용하면 생성됩니다.
+페르소나 사용에 필요한 최소 정보만 담은 축약 파일입니다. `--simple` 옵션으로 생성합니다.
 
-포함되는 정보는 다음 네 가지입니다.
+포함 필드:
 
 - `persona_id`
 - `preset_name`
 - `initial_preference_vector`
-- `selected_reviews`의 `text`
+- `selected_reviews[].text`
 
-주요 구조는 다음과 같습니다.
+## 다른 폴더와의 관계
 
-```json
-[
-  {
-    "persona_id": 1,
-    "preset_name": "low_workload",
-    "initial_preference_vector": {
-      "assignment_low_score": 0.88,
-      "assignment_high_score": 0.12,
-      "text_teaching_tfidf": 0.3
-    },
-    "selected_reviews": [
-      {
-        "text": "강의평가 원문"
-      }
-    ]
-  }
-]
-```
+- `model/`: 생성된 페르소나 선호 벡터를 추천 입력으로 사용할 수 있습니다.
+- `evaluation/`: `generated_personas.json`을 입력으로 받아 페르소나의 추천 적합성과 예측 오차를 평가합니다.
 
-이 파일은 유사도 점수나 중간 벡터 정보 없이, 생성된 페르소나의 선호도와 실제 강의평가 텍스트만 활용하고 싶을 때 사용합니다.
+## 주의사항
 
-## 코드 작성 규칙
-
-Python 파일에서 함수를 정의할 때는 함수 정의 한 줄 위에 함수의 역할을 설명하는 짧은 한글 주석을 작성합니다.
-
-예시:
-
-```python
-# 입력 벡터와 강의평가 벡터 간 유사도를 계산한다.
-def calculate_similarity(input_vector, review_vector):
-    pass
-```
+이 폴더의 페르소나는 실제 학생 로그에서 직접 학습된 사용자가 아니라, 강의평가 리뷰와 preset 선호를 조합해 만든 실험용 페르소나입니다. 따라서 최종 개인화 추천 성능을 주장할 때는 `evaluation/` 결과와 실제 사용자 검증 한계를 함께 설명해야 합니다.

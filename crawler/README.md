@@ -1,136 +1,91 @@
-# AIP Lecture Recommendation Experiment Share
+# Lecture Review Data Pipeline
 
-조원 검토용 공유 패키지입니다. 코드, 정규화 데이터, 모델 입력 데이터, 실험 결과, Top-K 추천 결과를 포함합니다.
+`crawler/`는 강의평가 데이터를 수집하고, 모델 실험에 사용할 수 있는 정규화 CSV와 기본 feature 데이터를 만드는 파이프라인을 담고 있습니다.
 
-## 먼저 볼 파일
+이 폴더의 핵심 역할은 원본 API 응답을 그대로 분석 코드에 넣는 것이 아니라, 이후 `model/`, `persona_maker/`, `evaluation/`에서 재사용할 수 있는 구조화된 데이터로 바꾸는 것입니다.
 
-1. `data/experiments/full_cv/cv_presentation_summary.md`
-   - 06/08 발표 요구사항 기준 요약
-   - 전체 데이터 cross-validation, 하이퍼파라미터 탐색, 성능 비교, qualitative analysis 정리
-
-2. `data/experiments/full_cv/cv_summary.csv`
-   - 5-fold cross-validation 결과 요약
-   - 모델별 MSE, RMSE, MAE 평균 및 표준편차
-
-3. `data/recommendations/README.md`
-   - 사용자 선호 벡터 기반 Top-K 추천 방식 설명
-   - 선호 시나리오별 추천 결과 파일 위치
-
-4. `data/recommendations/topk_*_10.csv`
-   - 선호 시나리오별 Top-10 추천 결과
-   - 현재 데이터에는 과목명/교수명 metadata가 없어 `lecture_id` 중심으로 표시됨
-
-5. `data/experiments/full_cv/*.svg`
-   - 발표용 그래프
-
-## 주요 결과
-
-전체 데이터 기준:
-
-- 강의 노드: 753개
-- Feature: 31개
-- Target: `rating_average_norm`
-- Cross-validation: 5-fold
-
-Best model:
+## 파일 구조
 
 ```text
-Ridge Regression alpha=10
-CV MSE  0.00319527
-CV RMSE 0.05641645
-CV MAE  0.04178956
+crawler/
+├── README.md
+├── crawler_README.md
+├── requirements.txt
+├── .gitignore
+├── crawler_src/
+│   ├── api_client.py
+│   ├── collect.py
+│   └── config.py
+├── scripts/
+│   ├── normalize_raw.py
+│   ├── build_lecture_nodes.py
+│   ├── build_text_features.py
+│   ├── run_small_portion_experiment.py
+│   ├── run_full_cv_experiment.py
+│   ├── recommend_topk.py
+│   └── make_cv_visuals.py
+└── data/
+    ├── normalized/
+    ├── model/
+    ├── experiments/
+    └── recommendations/
 ```
 
-## Top-K 추천 구조
+## 주요 구성
 
-추천 점수:
+- `crawler_src/`: 강의 상세 정보와 강의평가 글 목록을 API로 수집하는 코드입니다.
+- `scripts/normalize_raw.py`: 원본 JSON을 CSV 형태로 정규화합니다.
+- `scripts/build_lecture_nodes.py`: 강의 단위 node/feature 데이터를 만듭니다.
+- `scripts/build_text_features.py`: 강의평가 텍스트 기반 feature를 생성합니다.
+- `scripts/recommend_topk.py`: feature vector 기반 Top-K 추천을 실행합니다.
+- `data/normalized/`: 정규화된 강의, 강의평가, 시험, 교재 CSV입니다.
+- `data/model/`: 모델 입력으로 쓰는 강의 feature CSV입니다.
+- `data/experiments/`: 기본 실험 결과와 시각화 파일입니다.
+- `data/recommendations/`: 추천 결과 CSV와 설명 파일입니다.
 
-```text
-recommendation_score = 0.7 * preference_similarity + 0.3 * predicted_quality
-```
+API 수집 방식 자체에 대한 자세한 설명은 `crawler_README.md`를 참고합니다.
 
-- `preference_similarity`: 사용자 선호 벡터와 강의 벡터의 cosine similarity
-- `predicted_quality`: Ridge regression이 예측한 강의 품질 점수
-- `rating_average`: 실제 평균 별점이며 결과 해석용으로 함께 출력
+## 실행 방법
 
-실행 예시:
+`crawler/` 폴더에서 실행합니다.
 
 ```powershell
-python scripts\recommend_topk.py --preset low_workload --top-k 10
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements.txt
 ```
 
-## 폴더 구조
-
-```text
-README.md
-crawler_README.md
-requirements.txt
-.gitignore
-
-scripts/
-  build_lecture_nodes.py
-  build_text_features.py
-  run_small_portion_experiment.py
-  run_full_cv_experiment.py
-  recommend_topk.py
-  make_cv_visuals.py
-
-crawler_src/
-  api_client.py
-  collect.py
-  config.py
-
-data/
-  normalized/
-    lecture_articles.csv
-    lecture_details.csv
-    exam_question_types.csv
-    books.csv
-
-  model/
-    lecture_nodes.csv
-    lecture_nodes_with_text.csv
-    lecture_text_features.csv
-    lecture_top_keywords.csv
-
-  experiments/
-    small_portion/
-    full_data/
-    full_cv/
-
-  recommendations/
-    topk_low_workload_10.csv
-    topk_learning_quality_10.csv
-    topk_exam_light_10.csv
-    topk_no_team_project_10.csv
-    topk_challenging_but_good_10.csv
-```
-
-## 재현 방법
-
-Python 실행 파일은 각자 환경에 맞게 `python`으로 바꾸면 됩니다.
+원본 JSON을 정규화하고 feature를 만드는 기본 흐름은 다음과 같습니다.
 
 ```powershell
+python scripts\normalize_raw.py
 python scripts\build_lecture_nodes.py
 python scripts\build_text_features.py
+```
+
+기본 모델 실험과 추천 결과를 다시 만들려면 다음 명령을 실행합니다.
+
+```powershell
 python scripts\run_full_cv_experiment.py
 python scripts\make_cv_visuals.py
 python scripts\recommend_topk.py --preset low_workload --top-k 10
 ```
 
-## 포함하지 않은 것
+## 산출물
 
-원본 raw JSON 전체는 공유 패키지에 포함하지 않았습니다.
+- `data/normalized/lecture_articles.csv`: 강의평가 글 단위 정규화 데이터입니다.
+- `data/normalized/lecture_details.csv`: 강의 상세 정보 정규화 데이터입니다.
+- `data/model/lecture_nodes.csv`: 강의 단위 기본 feature 데이터입니다.
+- `data/model/lecture_nodes_with_text.csv`: 텍스트 feature가 결합된 모델 입력 데이터입니다.
+- `data/experiments/full_cv/`: cross-validation 결과와 발표용 그래프입니다.
+- `data/recommendations/`: 선호 preset별 추천 결과입니다.
 
-이유:
+## 포함하지 않는 것
 
-- raw 데이터 용량이 크고 민감할 수 있음
-- 실험 검토에는 정규화된 CSV와 모델 입력 데이터만으로 충분함
-- 필요하면 원본 raw는 별도 공유 필요
+원본 raw JSON 전체는 공개/공유용 산출물에 포함하지 않는 것을 전제로 합니다. 원본 데이터는 용량이 크고, 서비스 약관 및 민감 정보 이슈가 있을 수 있으므로 필요한 경우 별도 경로로 관리합니다.
 
-## 현재 한계
+## 주의사항
 
-- 과목명/교수명 metadata가 없음
-- 학생별 수강/평가 이력 데이터가 없음
-- 현재 검증 target은 개인화 추천 정확도가 아니라 평균 평점 예측
-- 실제 개인화 추천 검증에는 Hit@K, NDCG@K 같은 ranking metric과 학생 이력 데이터가 필요함
+API 수집에는 인증 쿠키가 필요할 수 있습니다. 쿠키나 토큰을 코드에 직접 저장하지 말고 환경 변수로 전달해야 합니다.
+
+현재 데이터에는 과목명, 교수명, 학생별 수강 이력 같은 metadata가 제한적입니다. 따라서 이 폴더의 산출물은 모델 학습과 실험 재현을 위한 입력 데이터로 보는 것이 적절합니다.
