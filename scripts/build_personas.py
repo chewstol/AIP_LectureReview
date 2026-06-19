@@ -8,14 +8,19 @@ workload axes + 6 category TF-IDF columns) and is then handed to the Top-K
 engine as a preference vector to produce lecture recommendations.
 
 Pipeline (per persona):
-  1. Randomly sample ``--sample-size`` posts from ``about-class/*.json``.
+  1. Randomly sample ``--sample-size`` posts (each = a forum post + its
+     comments) from ``about-class/*.json``.
   2. Ask Ollama to discover the single dominant theme among the sample and
      return the indices of ``--select-min``..``--select-max`` posts that match
      it (option: dominant-theme auto-discovery).
-  3. Text 6 features  -> computed for real with build_text_features' TF-IDF,
-     normalized onto the lecture corpus scale (so they are comparable to
-     lecture nodes).
-  4. Structured 10 features -> estimated by Ollama from the selected posts.
+  3. Build a *tendency seed* from the selected posts+comments: the 6 category
+     TF-IDF features (normalized onto the lecture corpus scale) and, in
+     ``--seed-mode preference``, the 10 structured axes derived from that
+     salience + valence.
+  4. Retrieve the lectures most similar to the seed (cosine over the z-scored
+     lecture matrix) and AVERAGE the 16-dim vectors of a random 10-20 of them.
+     This aggregate is taken as one student's persona vector, so the persona
+     lives on the manifold of real, already-analyzed lectures.
   5. Write ``persona_{i}.json`` (a recommend_topk --weights-file) + a meta
      file, and optionally run Top-K for that persona.
 
@@ -31,6 +36,7 @@ import urllib.request
 from pathlib import Path
 from typing import Any
 
+import numpy as np
 import pandas as pd
 
 from build_text_features import (
@@ -41,7 +47,14 @@ from build_text_features import (
     tokenize,
 )
 from recommend_topk import load_keywords, load_review_examples
-from topk_engine import TARGET_COLUMN, make_recommendations, select_topk
+from topk_engine import (
+    TARGET_COLUMN,
+    build_preference_vector,
+    cosine_to_vector,
+    make_recommendations,
+    select_topk,
+    standardize,
+)
 
 
 # The reduced 16-feature schema the persona is described in. Every one of these
@@ -113,10 +126,45 @@ def load_about_class(about_dir: Path) -> list[dict[str, Any]]:
             {
                 "id": str(article.get("id", path.stem)),
                 "snippet": snippet,
+                "comments": comments,
                 "full_text": full_text,
                 "comment_count": len(comments),
                 "categories": post_categories(full_text),
                 "positive": is_seeker_post(full_text),
+            }
+        )
+    return posts
+
+
+def load_reviews(articles_path: Path, min_length: int = 10) -> list[dict[str, Any]]:
+    """Read lecture reviews (data/normalized/lecture_articles.csv) into the SAME
+    post-record schema as load_about_class, so personas can be built from the
+    lecture-review corpus instead of the about-class forum.
+
+    Each review row is one document: it has no comments, so ``snippet`` ==
+    ``full_text`` == the review text. ``positive`` (seeker bias) uses the review's
+    star rating (rate >= 4) when available, falling back to the praise lexicon.
+    This makes the persona's TF-IDF features come from exactly the same text the
+    lecture nodes were built from — handy for explaining 'why TF-IDF'."""
+    posts: list[dict[str, Any]] = []
+    for row in read_csv(articles_path):
+        text = str(row.get("text", "") or "").strip()
+        if len(text) < min_length:
+            continue
+        try:
+            rate = float(row.get("rate", "") or "nan")
+        except (TypeError, ValueError):
+            rate = float("nan")
+        positive = (rate >= 4.0) if rate == rate else is_seeker_post(text)  # rate==rate: not NaN
+        posts.append(
+            {
+                "id": str(row.get("article_id") or row.get("lecture_id") or len(posts)),
+                "snippet": text,
+                "comments": [],
+                "full_text": text,
+                "comment_count": 0,
+                "categories": post_categories(text),
+                "positive": positive,
             }
         )
     return posts
@@ -205,9 +253,14 @@ def persona_text_features(
 # --------------------------------------------------------------------------- #
 # Ollama
 # --------------------------------------------------------------------------- #
-def ollama_json(host: str, model: str, prompt: str, num_predict: int) -> dict[str, Any]:
+def ollama_json(host: str, model: str, prompt: str, num_predict: int, num_ctx: int = 12288) -> dict[str, Any]:
     """Call Ollama /api/generate with think disabled + JSON format and parse
-    the response body as a JSON object."""
+    the response body as a JSON object.
+
+    num_ctx must hold the WHOLE prompt + the generated answer. The theme-selection
+    catalog (100 posts) is ~7-8k tokens, which overflows the model's small default
+    context and leaves ~0 room for output (done_reason='length', 1 token) — so we
+    raise the window explicitly rather than relying on the server default."""
     payload = json.dumps(
         {
             "model": model,
@@ -215,7 +268,7 @@ def ollama_json(host: str, model: str, prompt: str, num_predict: int) -> dict[st
             "stream": False,
             "format": "json",
             "think": False,
-            "options": {"temperature": 0.2, "num_predict": num_predict},
+            "options": {"temperature": 0.2, "num_predict": num_predict, "num_ctx": num_ctx},
         }
     ).encode("utf-8")
     request = urllib.request.Request(
@@ -291,78 +344,42 @@ def select_theme_posts(
     return theme, indices
 
 
-# The teamwork axis is NOT estimated by the model: in this complaint-driven
-# community positive teamwork reviews are ~0, so a bipolar low/high estimate
-# mis-reads "mentions teamwork (aversion)" as "wants teamwork". It is instead
-# derived deterministically as a unipolar aversion intensity (see
-# teamwork_aversion_features). Everything else stays an Ollama-estimated pair.
-OLLAMA_ESTIMATED_PAIRS = [pair for pair in STRUCTURED_PAIRS if pair[0] != "teamwork_low_score"]
+# All structured workload axes are derived deterministically from the persona's
+# OWN text salience + its valence — they are NOT guessed by the LLM. A persona is
+# synthesized from forum text and has no poll data, so the only trustworthy
+# signal is how much it talks about each axis (text_{axis}_tfidf). The LLM-scored
+# variant was discarded: its values feed straight into the recommender (cosine of
+# the full 16-dim persona vector in 'similarity' mode), so an arbitrary model
+# guess would directly skew rankings. This unipolar, valence-driven derivation
+# generalizes the old teamwork-aversion rule to every axis.
+def structured_from_salience(
+    text_features: dict[str, float], valence: str
+) -> tuple[dict[str, float], float]:
+    """Fill the 10 structured features from per-axis text salience.
 
-
-def estimate_structured(
-    host: str,
-    model: str,
-    theme: str,
-    selected_posts: list[dict[str, str]],
-) -> dict[str, float]:
-    """Ask the model to score the structured workload axes (0-1) for the kind
-    of class this persona's posts describe. Teamwork is excluded — it is derived
-    separately as a unipolar aversion score."""
-    excerpts = "\n".join(
-        f"- {post['full_text'].replace(chr(10), ' ')[:200]}" for post in selected_posts[:20]
-    )
-    prompt = (
-        f"한 학생이 선호하는 강의 유형을 나타내는 글 묶음입니다. 지배적 테마: {theme}\n\n"
-        f"{excerpts}\n\n"
-        "이 학생이 선호하는 강의의 속성을 각 축마다 0.0~1.0으로 추정하세요. "
-        "각 쌍(low/high 등)은 상보적이며 합이 대략 1.0이 되도록 하세요. "
-        "글에서 단서가 없는 축은 0.5 근처로 두세요.\n"
-        "다음 키를 모두 포함한 JSON으로만 답하세요:\n"
-        '{"assignment_low_score":0.0,"assignment_high_score":0.0,'
-        '"grading_generous_score":0.0,"grading_strict_score":0.0,'
-        '"attendance_light_score":0.0,"attendance_strict_score":0.0,'
-        '"exam_light_score":0.0,"exam_heavy_score":0.0}'
-    )
-    result = ollama_json(host, model, prompt, num_predict=400)
-
-    features: dict[str, float] = {}
-    for low, high in OLLAMA_ESTIMATED_PAIRS:
-        low_value = _clamp01(result.get(low))
-        high_value = _clamp01(result.get(high))
-        if low_value is None and high_value is None:
-            low_value = high_value = 0.5
-        elif low_value is None:
-            low_value = round(1.0 - high_value, 6)
-        elif high_value is None:
-            high_value = round(1.0 - low_value, 6)
-        features[low] = low_value
-        features[high] = high_value
-    return features
-
-
-def teamwork_aversion_features(text_features: dict[str, float]) -> tuple[dict[str, float], float]:
-    """Derive the teamwork axis as a unipolar aversion intensity instead of a
-    bipolar low/high estimate.
-
-    Rationale: positive teamwork reviews are ~0 in this corpus, so the *salience*
-    of teamwork talk (text_teamwork_tfidf) already encodes aversion. We express
-    that salience relative to the persona's other topics, so a persona that is
-    *about* teamwork reads as strongly teamwork-averse. Aversion then drives
-    teamwork_low_score (prefer low-teamwork classes); the positive pole
-    (teamwork_high_score) is left at 0 — we never infer "wants teamwork" from
-    absence of evidence (positive-unlabeled principle)."""
-    teamwork_salience = float(text_features.get("text_teamwork_tfidf", 0.0))
+    For each complementary pair we scale the axis's salience relative to the
+    persona's strongest topic (peak) to get an intensity in [0, 1], then place it
+    on the pole the persona's valence implies:
+      avoid -> friendly pole (low / light / generous) — the easy class it seeks
+      seek  -> burden  pole (high / heavy / strict)   — the substantial class it wants
+    The opposite pole stays 0 (positive-unlabeled: never assert a preference we
+    have no evidence for). Returns the features plus the teamwork intensity, kept
+    in the meta as a sanity readout."""
     peak = max((float(value) for value in text_features.values()), default=0.0)
-    aversion = round(teamwork_salience / peak, 6) if peak > 0.0 else 0.0
-    return {"teamwork_low_score": aversion, "teamwork_high_score": 0.0}, aversion
-
-
-def _clamp01(value: Any) -> float | None:
-    try:
-        number = float(value)
-    except (TypeError, ValueError):
-        return None
-    return round(min(max(number, 0.0), 1.0), 6)
+    features: dict[str, float] = {}
+    for friendly_pole, burden_pole in STRUCTURED_PAIRS:
+        axis = friendly_pole.split("_")[0]
+        salience = float(text_features.get(f"text_{axis}_tfidf", 0.0))
+        intensity = round(salience / peak, 6) if peak > 0.0 else 0.0
+        if valence == "seek":
+            features[friendly_pole] = 0.0
+            features[burden_pole] = intensity
+        else:
+            features[friendly_pole] = intensity
+            features[burden_pole] = 0.0
+    teamwork_salience = float(text_features.get("text_teamwork_tfidf", 0.0))
+    teamwork_intensity = round(teamwork_salience / peak, 6) if peak > 0.0 else 0.0
+    return features, teamwork_intensity
 
 
 # --------------------------------------------------------------------------- #
@@ -481,11 +498,51 @@ def category_biased_sample(
     return chosen
 
 
+def aggregate_similar_lectures(
+    nodes: pd.DataFrame,
+    seed_weights: dict[str, float],
+    sim_columns: list[str],
+    n_aggregate: int,
+    rng: random.Random,
+) -> tuple[dict[str, float], list[str], list[float]]:
+    """Find the lectures most similar to the tendency seed and mean-pool their
+    16-dim vectors into one persona vector.
+
+    Similarity is cosine over the z-scored lecture matrix (the same
+    standardization the recommender uses), restricted to ``sim_columns`` — all
+    16 features in 'preference' seed mode, the 6 text features in 'text' mode.
+    The top ``n_aggregate`` lectures' PERSONA_FEATURE_COLUMNS values are
+    averaged, so the persona sits at the centroid of real, already-analyzed
+    lectures and is treated as one student's preference vector."""
+    x, _, _ = standardize(nodes[sim_columns].to_numpy(dtype=float))
+    try:
+        seed_vector = build_preference_vector(seed_weights, sim_columns)
+        similarities = cosine_to_vector(x, seed_vector)
+        order = np.argsort(-similarities)
+    except ValueError:
+        # Empty seed (no text signal at all): fall back to a random subset so a
+        # persona is still produced.
+        similarities = np.zeros(len(nodes), dtype=float)
+        order = np.array(rng.sample(range(len(nodes)), len(nodes)))
+
+    n_aggregate = max(1, min(n_aggregate, len(nodes)))
+    top_index = order[:n_aggregate]
+    chosen = nodes.iloc[top_index]
+
+    weights = {
+        column: round(float(chosen[column].mean()), 6) for column in PERSONA_FEATURE_COLUMNS
+    }
+    aggregated_ids = [str(value) for value in chosen["lecture_id"].tolist()]
+    aggregated_sims = [round(float(similarities[i]), 6) for i in top_index]
+    return weights, aggregated_ids, aggregated_sims
+
+
 def build_one_persona(
     name: str,
     posts: list[dict[str, Any]],
     idf: dict[str, float],
     category_max: dict[str, float],
+    nodes: pd.DataFrame,
     target_category: str | None,
     valence: str,
     rng: random.Random,
@@ -506,26 +563,51 @@ def build_one_persona(
     indices = indices[: args.select_max]
     selected_posts = [sample[i] for i in indices]
 
+    # 1) Tendency seed from the selected posts + comments.
     text_features = persona_text_features(selected_posts, idf, category_max)
-    structured_features = estimate_structured(args.host, args.model, theme, selected_posts)
-    teamwork_features, teamwork_aversion = teamwork_aversion_features(text_features)
-    structured_features.update(teamwork_features)
+    structured_features, teamwork_aversion = structured_from_salience(text_features, valence)
+    seed = {**structured_features, **text_features}
+    if args.seed_mode == "text":
+        # Only the 6 topic-salience features steer the lecture search.
+        sim_columns = TEXT_FEATURES
+        seed_weights = {column: seed[column] for column in TEXT_FEATURES}
+    else:
+        # Full 16-dim preference (salience + valence-placed structured poles).
+        sim_columns = PERSONA_FEATURE_COLUMNS
+        seed_weights = {column: seed[column] for column in PERSONA_FEATURE_COLUMNS}
 
-    # Re-order weights to the canonical 16-feature layout so the json stays
-    # readable regardless of how the pieces were assembled.
-    merged = {**structured_features, **text_features}
-    weights = {column: merged[column] for column in PERSONA_FEATURE_COLUMNS}
+    # 2) Retrieve the lectures most similar to the seed and average a random
+    # 10-20 of them: the persona is the centroid of real analyzed lectures.
+    n_aggregate = rng.randint(args.agg_min, args.agg_max)
+    weights, aggregated_ids, aggregated_sims = aggregate_similar_lectures(
+        nodes, seed_weights, sim_columns, n_aggregate, rng
+    )
+
     meta = {
         "persona": name,
         "theme": theme,
+        "source": args.source,
         "target_category": target_category,
         "valence": valence,
         "model": args.model,
+        "seed_mode": args.seed_mode,
         "sample_size": sample_size,
         "selected_count": len(selected_posts),
         "teamwork_aversion": teamwork_aversion,
+        "n_aggregated_lectures": n_aggregate,
+        "aggregated_lecture_ids": aggregated_ids,
+        "aggregated_similarities": aggregated_sims,
+        "seed_weights": {
+            column: round(float(seed.get(column, 0.0)), 6) for column in PERSONA_FEATURE_COLUMNS
+        },
         "selected_post_ids": [post["id"] for post in selected_posts],
-        "selected_snippets": [post["snippet"][:120] for post in selected_posts],
+        "selected_snippets": [
+            {
+                "post": post["snippet"][:120],
+                "comments": [comment[:120] for comment in post["comments"]],
+            }
+            for post in selected_posts
+        ],
         "weights": weights,
     }
     return weights, meta
@@ -535,15 +617,20 @@ def main() -> None:
     args = parse_args()
     rng = random.Random(args.seed)
 
-    posts = load_about_class(args.about_dir)
+    if args.source == "reviews":
+        posts = load_reviews(args.articles)
+    else:
+        posts = load_about_class(args.about_dir)
     if len(posts) < args.select_min:
-        raise ValueError(f"Not enough usable about-class posts: {len(posts)}")
-    print(f"[info] loaded {len(posts)} about-class posts")
+        raise ValueError(f"Not enough usable posts from source '{args.source}': {len(posts)}")
+    print(f"[info] loaded {len(posts)} posts (source: {args.source})")
 
     print("[info] building lecture-corpus TF-IDF scale ...")
     idf, category_max = build_lecture_text_scale(args.articles)
 
-    nodes = load_nodes_16(args.nodes) if args.run_topk else None
+    # Lecture nodes are always needed now: the persona vector is the centroid of
+    # the lectures most similar to its tendency seed (not only for Top-K).
+    nodes = load_nodes_16(args.nodes)
 
     args.out_dir.mkdir(parents=True, exist_ok=True)
     index_rows = []
@@ -562,7 +649,7 @@ def main() -> None:
             valence = args.valence
         focus = f" [focus: {target_category or '-'} / {valence}]"
         print(f"\n[{number}/{args.count}] {name}{focus}: discovering theme via {args.model} ...")
-        weights, meta = build_one_persona(name, posts, idf, category_max, target_category, valence, rng, args)
+        weights, meta = build_one_persona(name, posts, idf, category_max, nodes, target_category, valence, rng, args)
         print(f"    theme: {meta['theme']}")
         print(f"    selected {meta['selected_count']} posts")
 
@@ -580,7 +667,7 @@ def main() -> None:
             "selected_count": meta["selected_count"],
         }
 
-        if args.run_topk and nodes is not None:
+        if args.run_topk:
             recommendations = make_recommendations(
                 nodes=nodes,
                 feature_columns=PERSONA_FEATURE_COLUMNS,
@@ -627,6 +714,14 @@ def resolve_target_categories(args: argparse.Namespace) -> list[str]:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Build persona test vectors from about-class and (optionally) run Top-K.")
     parser.add_argument("--count", type=int, default=1, help="Number of personas to generate.")
+    parser.add_argument(
+        "--source",
+        choices=["about-class", "reviews"],
+        default="about-class",
+        help="Where persona posts come from. about-class (default) = forum posts in --about-dir. "
+        "reviews = lecture reviews in --articles (lecture_articles.csv), the SAME text the lecture "
+        "TF-IDF features were built from.",
+    )
     parser.add_argument("--about-dir", type=Path, default=Path("about-class"))
     parser.add_argument("--articles", type=Path, default=Path("data/normalized/lecture_articles.csv"))
     parser.add_argument("--nodes", type=Path, default=Path("data/model/lecture_nodes_with_text.csv"))
@@ -643,6 +738,27 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument("--sample-size", type=int, default=100, help="Posts randomly sampled per persona.")
     parser.add_argument("--select-min", type=int, default=10)
     parser.add_argument("--select-max", type=int, default=20)
+    parser.add_argument(
+        "--seed-mode",
+        choices=["preference", "text"],
+        default="preference",
+        help="What the persona's tendency seed is, used to retrieve similar lectures. "
+        "preference (default) = full 16-dim vector (posts/comments TF-IDF text-6 + "
+        "valence-placed structured-10). text = the 6 topic-salience features only.",
+    )
+    parser.add_argument(
+        "--agg-min",
+        type=int,
+        default=10,
+        help="Min number of similar lectures averaged into the persona vector.",
+    )
+    parser.add_argument(
+        "--agg-max",
+        type=int,
+        default=20,
+        help="Max number of similar lectures averaged into the persona vector "
+        "(the actual count is drawn uniformly from [agg-min, agg-max] per persona).",
+    )
     parser.add_argument("--seed", type=int, default=None)
     parser.add_argument(
         "--axis",
@@ -660,11 +776,12 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--score-mode",
         choices=["similarity", "objective", "objective_rel"],
-        default="objective",
-        help="objective (default) = persona text salience weights x lecture poll-based "
-        "friendliness scores; structured persona estimates unused, values come only from "
-        "objective lecture data. objective_rel = z-scores each axis. similarity = cosine of "
-        "full 16-dim persona vs lecture (topic-match; can invert workload preference).",
+        default="similarity",
+        help="similarity (default) = cosine of the FULL 16-dim persona vector vs the "
+        "z-scored lecture matrix; the deterministically-derived structured features are "
+        "actually used, so the persona's workload preference drives the ranking. "
+        "objective = per-axis text-salience weights x lecture poll-based friendliness "
+        "(structured features unused). objective_rel = objective with per-axis z-scoring.",
     )
     parser.add_argument(
         "--valence",
